@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name=”robots” content="index, follow">
+    {{ with .Site.Params.additionalmetatags -}}{{ safeHTML . }}{{- end }}
+    <title>{{ .Site.Title }}</title>
+    <style>
+
+        html {
+            min-height: 100%;
+            background-image: url({{ "images/background.jpg" | relURL }});
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-attachment: fixed;
+        }
+
+        html, body {
+          font: 16px/1.6 'Georgia';
+        }        
+      
+        img {
+            width: 100%;
+            height: auto; 
+            border: 0; 
+            -ms-interpolation-mode: bicubic
+        }
+          
+        main {
+            position: fixed;
+            bottom: 20%;
+            left: 10%;
+            width: 60%
+        }
+
+        /* go bigger on mobile */
+        @media only screen and (max-width: 800px) {    
+            main {
+                left: 5%;
+                width: 80%;
+            } 
+        }
+
+    </style>
+  </head>
+  
+  <body>
+
+    <main>
+        <a href="{{ relref . "/family-of-edward-hallock-mills" }}">
+        <img src="{{ "images/logo.svg" | relURL }}">
+        </a>
+    </main>
+
+    {{ partial "analytics" . }}
+
+  </body>
+</html>

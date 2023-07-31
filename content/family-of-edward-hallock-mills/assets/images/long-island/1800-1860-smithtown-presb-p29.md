@@ -1,0 +1,5 @@
+---
+citation: "Sessional Records of Smithtown L. Island, 1809 to 1850, No 11, U.S., Presbyterian Church Records, 1701-1970, Philadelphia PA, p29, ancestry.com."
+---
+
+

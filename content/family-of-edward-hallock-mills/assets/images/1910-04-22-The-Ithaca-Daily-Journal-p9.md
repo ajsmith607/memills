@@ -1,0 +1,24 @@
+---
+# citation: "22 Apr 1910, Ithaca Daily Journal (Ithaca NY), p9, nyhistoricnewspapers.org."
+pubdate:  "1910-04-22"
+author: 
+title: 
+voltitle:  "Ithaca Daily Journal"
+publocation:  "Ithaca NY"
+pages:  "9"
+source:  "nyhistoricnewspapers.org"
+---
+
+SPRING GOODS
+
+WHITE WAISTINGS, GINGHAMS
+
+and PRINTS.
+
+CURTAINS—Scrim and Lace.
+
+M. E. Mills
+
+BROOKTON, N.Y. 
+
+

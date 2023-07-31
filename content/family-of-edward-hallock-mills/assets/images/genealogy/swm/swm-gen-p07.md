@@ -1,0 +1,8 @@
+---
+citation: "Mills Genealogy. Prepared by Samuel Wickham Mills. Minisink Valley Historical Society, Port Jervis NY, p7. Used with permission."
+---
+7
+
+He was one of the leading persons in the erection of the Presbyterian Church at Scotchtown. Besides contributing liberally in money for this purpose he kept his team there continually during the time of its erection. He had twelve children, six sons and six daughters. Seven of these were probably born in New Windsor. Jacob Jr. was born in Walkill in 1791, the year in which the stone house was erected. All of these but one, Catherine, were married and had families of their own. All but one, Wm. Wickham lived and died in Orange County. This one married at Mills's Pond L.I. where he subsequently lived and died. The grand children of Jacob Mills numbered 97 being evenly divided as to sex, 48 males and 49 females. The males have nearly all been farmers and the females have uniformly married farmers. Of these 97, one has been a physician one a lawyer and one a clergyman. They have had but little aspiration for office or political distinction. Except a Town office like that of Road-Master, but one among them all has held anything higher, having served one term as Sheriff of Orange County. 
+
+In addition to the Mills's who settled in New England and on Long Island, referred to in this sketch, there were emigrants by this name (three it has been said) who in the early history of the country settled in Virginia and their descendants are to be found in other Southern States. Roger Q. Mills, the present U.S. Senator from Texas (1894) says that his great grandfather, Charles Mills, lived in Hanover County Virginia. He says that he has met a number of persons by this name from the

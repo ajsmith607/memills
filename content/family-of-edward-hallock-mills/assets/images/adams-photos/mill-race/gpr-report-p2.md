@@ -1,0 +1,9 @@
+---
+citation: "29 Jun 2023, Ground Penetrating Radar Systems Report for 475 Brooktondale Road, p2."
+---
+FINDINGS 
+
+The subsurface conditions at the time of the scanning allowed for maximum GPR depth penetration of 2-3 ft in most areas. GPR imagery was very poor on the asphalt. The following pages will provide further explanation of the findings. The equipment and methods used did not detect reactions from potential barn foundations, but did detect reactions of the suspected creek bed. The following pages will provide further explanation of the findings. 
+
+Page 2 of 9
+
