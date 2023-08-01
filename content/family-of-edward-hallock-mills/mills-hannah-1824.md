@@ -87,7 +87,7 @@ Hannah's visit with Reverend Bogardus is her last meaningful trip outside the ho
 {{% fig "1914-05-22-ithaca-journal" "500" /%}}
 </div>
 
-A few months later, Hannah became ill and the first mentions of [Ellen Gould]({{% ref "gould-ellen" %}}) as Hannah's caretaker appear. It seems quite probable that this is an accounting of the circumstances of Ellen coming to live in the Mills' home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. Ellen was presumably already well known to the Mills as she was also a member of the W.C.T.U.
+A few months later, Hannah became ill and the first mentions of [Ellen Gould]({{% relref "gould-ellen" %}}) as Hannah's caretaker appear. It seems quite probable that this is an accounting of the circumstances of Ellen coming to live in the Mills' home, to care for Emily's elderly step-mother which Emily herself, as a business owner, would not have had adequate time to do. Ellen was presumably already well known to the Mills as she was also a member of the W.C.T.U.
 
 <div class="cols">
   {{% fig "1914-10-26-ithaca-journal" "350" /%}}

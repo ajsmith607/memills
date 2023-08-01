@@ -160,7 +160,7 @@ It appears [George H. Richardson](https://www.findagrave.com/memorial/189275611/
 {{% fig "george-richardson/1905-04-26-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "350" /%}}
 </div>
 
-A section of this site is devoted to [George Richardson]({{% ref "richardson-george" %}}). [Edward's page]({{% relref "mills-edward-hallock-1819" %}}) has more information on his time as postmaster, including examples of his postmark on envelopes from the time.  
+A section of this site is devoted to [George Richardson]({{% relref "richardson-george" %}}). [Edward's page]({{% relref "mills-edward-hallock-1819" %}}) has more information on his time as postmaster, including examples of his postmark on envelopes from the time.  
 
 The following are some of the earliest references to Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
 
@@ -411,7 +411,7 @@ Mills' store is easily visible from most windows in most rooms of Mills' Home.
 
 ## The Brewer Barn
 
-The Mills' home is the only real estate that I can find official documentation for the Mills' owning in Tompkins County. Yet in the sales journals of [E. H. Mills]({{% ref "me-mills" %}}) general store in Brookton, the inside front cover of volume 41 indicates the purchase of a barn on 23 Sep 1907 that was rented to John Roe for $0.50 a month starting in 1908:
+The Mills' home is the only real estate that I can find official documentation for the Mills' owning in Tompkins County. Yet in the sales journals of [E. H. Mills]({{% relref "me-mills" %}}) general store in Brookton, the inside front cover of volume 41 indicates the purchase of a barn on 23 Sep 1907 that was rented to John Roe for $0.50 a month starting in 1908:
 
 {{% fig "me-mills/1907-09-23-barn-rent" "800" /%}}
 

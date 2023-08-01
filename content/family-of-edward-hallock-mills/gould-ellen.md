@@ -180,7 +180,7 @@ The sandwiches are named for past employees who worked in the store after it bec
 
 {{% fig "ellen-gould/2007-11-20-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
 
-In 2011, during a time that Carol was still co-manager, Brookton's Market created and published a [calendar]({{% ref "2011-calendar-brooktons-market" %}}) with significant historical details as well as current photographs. Carol Bone has since moved out of the area, although I still occasionally see her in the Market on her return visits to Brooktondale. 
+In 2011, during a time that Carol was still co-manager, Brookton's Market created and published a [calendar]({{% relref "2011-calendar-brooktons-market" %}}) with significant historical details as well as current photographs. Carol Bone has since moved out of the area, although I still occasionally see her in the Market on her return visits to Brooktondale. 
 ## Notes for Future Researchers
 
 In Gertrude Conant's recollections, she notes that Ellen Gould "looked a great deal like Miss Mills," so when looking for photos of either woman, one must be cautious not to mis-identify one for the other. And so, I have also been trying to find confirmed photos of Ellen, but after the usual inquiries and reaching out to her descendants, it seems that as with Emily, there are currently no known photos of Ellen.

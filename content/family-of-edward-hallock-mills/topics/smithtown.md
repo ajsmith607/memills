@@ -126,9 +126,9 @@ Edward married (2) **Hannah (Thatcher) Eastman Mills** (born Hawkhurst, Kent, En
   - No children.
 
 Notes:
-  - According to [WikiTree](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas, but gives his birth year as 1775. Read more about Thomas Hallock's identity in the [Hallock section]({{% ref "hallock" %}}) of this research.
+  - According to [WikiTree](https://www.wikitree.com/wiki/Hallock-2194) Mary (Hallock) Mills was born in Mills Pond and "is interred at the Old Cemetery, Smithtown, Suffolk, NY." This source also confirms that her father is Thomas, but gives his birth year as 1775. Read more about Thomas Hallock's identity in the [Hallock section]({{% relref "hallock" %}}) of this research.
   - That there are conflicting accounts for the month of Jonas and Mary Hallock's marriage is suggestive, as December would mean that Edward was conceived before his parents were married, February would not.
-  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". For more information on the various spellings of Hallock see [this section]({{% ref "hallock#alternate-spellings-of-hallock" %}}).
+  - Edward's middle name Hallock was his Mother's maiden name. Although most typically spelled "Hallock" there are occasionally alternate spellings of this name in the Mills and Hallock genealogies, such as "Halliock" and "Hallioch". For more information on the various spellings of Hallock see [this section]({{% relref "hallock#alternate-spellings-of-hallock" %}}).
   - Mary Platt's parents were also members of Smithtown Presbyterian Church. 
   - Emily's and Hannah's birth dates was well as the birth places for Hannah, Emily, Jonas and Horace are based on census entries.
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over a decade before Emily was born. 
@@ -196,7 +196,7 @@ There is also a census entry for a daughter Cora M. born Jan 1871. This is Cora 
 
 {{% fig "long-island/1908-10-20-Times-Union-Brooklyn-NY-p9" "500" /%}}
 
-The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "other-past-owners" %}}) from the time of Emily's death are the children of J. Thomas Mills:
+The first three names of possible heirs listed in the [Mills' home deeds]({{% relref "other-past-owners" %}}) from the time of Emily's death are the children of J. Thomas Mills:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to 10 Apr 1944). 
   - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds, and elsewhere has been spelled "Edsall".)
@@ -232,7 +232,7 @@ The last name listed as a possible heir in the Mills' home deeds, Mary Huntting 
   - their child [Mary Halliock (Huntting) Smith](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) (17 Jul 1845 to 1938), married [Henry Chatfield Smith](https://www.findagrave.com/memorial/24792299/henry-chatfield-smith) (1843 to 1896),
   - their child [Mary Emily Huntting (Smith) Cross](https://www.findagrave.com/memorial/24392636/mary-emily_huntting-cross) (1875 to 1924), married James M. Cross.
 
-Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932), and her birth is presumably related to Emily T. Huntting's death nine days later. It appears to be Emily Mills Huntting who is referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
+Several documents pertaining to Emily Tabitha (Mills) Huntting's marriage were included above. Emily T. and John Huntting had another daughter, [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932), and her birth is presumably related to Emily T. Huntting's death nine days later. It appears to be Emily Mills Huntting who is referenced in the sales records of the [Mills' store]({{% relref "me-mills" %}}) as "Emily Huntting".  
 
 {{% fig "genealogy/1849-04-18-The-Corrector-Sag-Harbor-NY-p3" "500" /%}}
 
@@ -281,9 +281,9 @@ According to Alfred Frankenstein's index of Mount's works, Mount painted the fol
 
 {{% fig "portraits/william-wickham-mills-orig" "500" /%}}
 
-(William Wickham Mills' son [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880) died in [the Seawanhaka disaster]({{% ref "mills-samuel-wickham#the-seawanhaka-disaster" %}}).)
+(William Wickham Mills' son [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880) died in [the Seawanhaka disaster]({{% relref "mills-samuel-wickham#the-seawanhaka-disaster" %}}).)
 
-William Mount's [Wikipedia entry](https://en.wikipedia.org/wiki/William_Sidney_Mount) shows a photograph of the artist taken by Mathew Brady, one of the earliest photographers in American history, famous for his photographs of the Civil War and prominent public figures. Mount also produced several self portraits in the collection of the Long Island Museum. The Metropolitan Museum of Art also houses many of Mount's paintings and sketches, and his works can be found in many other museum collections. More information on William Mount can be found [here]({{% ref "mount-william-sidney" %}}).
+William Mount's [Wikipedia entry](https://en.wikipedia.org/wiki/William_Sidney_Mount) shows a photograph of the artist taken by Mathew Brady, one of the earliest photographers in American history, famous for his photographs of the Civil War and prominent public figures. Mount also produced several self portraits in the collection of the Long Island Museum. The Metropolitan Museum of Art also houses many of Mount's paintings and sketches, and his works can be found in many other museum collections. More information on William Mount can be found [here]({{% relref "mount-william-sidney" %}}).
 
 The Archives at Queens Library contains two boxes of materials of the "Mills Family of Jamaica and Mills Pond" that includes a reference to Jonas Mills in the scope notes, and talks of correspondence among the descendants of Timothy Mills in the 1870's (when Edward's family was in Corfu).
 
@@ -305,7 +305,7 @@ The Archives at Queens Library contains two boxes of materials of the "Mills Fam
 
 Of course, there are several Jonas Mills in the genealogy, but the dates given suggests this could be a reference to Edward's father. But even if this is a different branch of the Mills family, the genealogical records, etc., may provide important data on the family members investigated here.
 
-The collection contains [nine portraits of family members]({{% ref "buffalo-mills" %}}), only two of which are explicitly identified, and all of which seem to be taken in photography studios in Buffalo. Queens Public Library obtained the portraits from the Buffalo History Museum. The Queens collection also contains a photocopy of a photo of the Mills home in Buffalo, and the original is presently still owned by the Buffalo History Museum:
+The collection contains [nine portraits of family members]({{% relref "buffalo-mills" %}}), only two of which are explicitly identified, and all of which seem to be taken in photography studios in Buffalo. Queens Public Library obtained the portraits from the Buffalo History Museum. The Queens collection also contains a photocopy of a photo of the Mills home in Buffalo, and the original is presently still owned by the Buffalo History Museum:
 
 <figure>
 <blockquote>
@@ -327,9 +327,9 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
 </figcaption>
 </figure>
 
-After further investigation, to see if the 1880 Robert Mills could possibly be Edward H. Mills' half brother Robert Sydney Mills, I confirmed the photo is of [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (unknown to 11 Dec 1890), an "Ex-Police Commissioner" and also "one of the most prominent builders and operators in lake vessels at this port", including one shipped named "Robert Mills" (11 Dec 1890, The Buffalo Commercial, Buffalo NY, p8). [More information on this Robert Mills here.]({{% ref "mills-robert" %}})
+After further investigation, to see if the 1880 Robert Mills could possibly be Edward H. Mills' half brother Robert Sydney Mills, I confirmed the photo is of [Robert Mills](https://www.findagrave.com/memorial/77507182/robert-mills) (unknown to 11 Dec 1890), an "Ex-Police Commissioner" and also "one of the most prominent builders and operators in lake vessels at this port", including one shipped named "Robert Mills" (11 Dec 1890, The Buffalo Commercial, Buffalo NY, p8). [More information on this Robert Mills here.]({{% relref "mills-robert" %}})
 
-A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor. (A copy of his will can be found in the volume *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* by Lewis D. Cook.) And in addition to materials related to Buffalo,the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% ref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
+A document worth highlighting in the Queens collection is the will of Timothy Mills, the common ancestor. (A copy of his will can be found in the volume *A Documentary history of the family of Mills : descended from George Mills of Hempstead and Jamaica* by Lewis D. Cook.) And in addition to materials related to Buffalo,the inventory of the collection indicates there are Mills living in New Jersey, Ohio and Michigan, and intriguingly, Naples NY, possibly confirming a relation to the [Horace Mills]({{% relref "mills-horace-f-1854" %}}) of that region. The references to Buffalo and Naples may also provide context for the Mills' move to Corfu. 
 
 The collection also contains genealogies and other information on the following surnames that can be found, often multiple times, throughout the Mills genealogy: 
   
@@ -342,7 +342,7 @@ The collection also contains genealogies and other information on the following 
   - Rudyard
   - Smith
 
-Of particular interest is Hawkins: Hawkins is the maiden name of Bartlett Brown's mother, although I have not explored the genealogy well enough to make a definitive connection. (Bartlett Brown is described in [The Mills Family in Staten Island]({{% ref "staten-island" %}}).) William Mount's grandparents are [Jonas Hawkins](https://www.findagrave.com/memorial/68728823/jonas-hawkins) (28 Aug 1752 to 24 Apr 1817) and [Ruth (Mills) Hawkins](https://www.findagrave.com/memorial/8844210/ruth-hawkins) (1748 to 22 Jan 1840), daughter of Jonathon Mills (28 Oct 1710 to 28 Oct 1798). During his childhood, William Mount lived for a time with his uncle Micah Hawkins (01 Jan 1777 to 29 Jul 1825), widely credited as "the author and composer of the first original American Opera", and who at one time "kept a grocery store in Catharine St. New York."
+Of particular interest is Hawkins: Hawkins is the maiden name of Bartlett Brown's mother, although I have not explored the genealogy well enough to make a definitive connection. (Bartlett Brown is described in [The Mills Family in Staten Island]({{% relref "staten-island" %}}).) William Mount's grandparents are [Jonas Hawkins](https://www.findagrave.com/memorial/68728823/jonas-hawkins) (28 Aug 1752 to 24 Apr 1817) and [Ruth (Mills) Hawkins](https://www.findagrave.com/memorial/8844210/ruth-hawkins) (1748 to 22 Jan 1840), daughter of Jonathon Mills (28 Oct 1710 to 28 Oct 1798). During his childhood, William Mount lived for a time with his uncle Micah Hawkins (01 Jan 1777 to 29 Jul 1825), widely credited as "the author and composer of the first original American Opera", and who at one time "kept a grocery store in Catharine St. New York."
 
 <figure class="quote-only">
 <blockquote>
@@ -385,7 +385,7 @@ The author, a prominent resident of Port Jervis in Orange County NY:
 
 {{% fig "portraits/swmillsportrait" "500" /%}}
 
-More information about Reverend Mills as well as his genealogical research on file at Minisink Valley Historical Society can be found [here]({{% ref "mills-samuel-wickham" %}}).
+More information about Reverend Mills as well as his genealogical research on file at Minisink Valley Historical Society can be found [here]({{% relref "mills-samuel-wickham" %}}).
 
 Also note that James Harrison Mills of Buffalo was also researching the Mills family genealogy at approximately the same time:
 
@@ -406,7 +406,7 @@ This James Harrison Mills, a real estate and loan broker of 446 Main St., Buffal
 </aside>
 </figure>
 
-For more information on James Harrison Mills, see [the Mills of Buffalo]({{% ref "buffalo-mills" %}}).
+For more information on James Harrison Mills, see [the Mills of Buffalo]({{% relref "buffalo-mills" %}}).
 
 Although I am still working my way through the Mills genealogy, it appears unlikely there are living descendants of Edward's parents, however, I am finding living descendants of Jonas and second wife Mary Platt Mills, in particular, there are descendants of Edward's half-brother Robert Sydney Mills who for a few generations have lived in Salt Lake City Utah and are members of the Church of Jesus Christ of Latter-day Saints.   
 

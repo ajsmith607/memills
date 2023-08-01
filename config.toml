@@ -11,7 +11,7 @@ paginate = "50"
   _merge = "deep"
   analyticsid = "G-8FWTQLRQHV"
   additionalmetatags = "<meta name=\"msvalidate.01\" content=\"39A8A303812800B8DB236F6C8F9C78CB\" />" 
-  FullSizeLinks = false 
+  FullSizeLinks = true 
 
 # theming and reusable code
 [module]

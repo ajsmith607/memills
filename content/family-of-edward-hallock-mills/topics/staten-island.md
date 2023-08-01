@@ -151,7 +151,7 @@ Bartlett honored his former employer and friend by naming his son after him:
 
 {{% fig "staten-island/RDC/rdc-scan_083" "800" /%}}
 
-Edward and Bartlett appeared to work together at Charles Pine's store, and perhaps Edward worked for Bartlett as Bartlett was first starting his own store. Whatever role, if any, Edward had in Bartlett's new store, it seems reasonable to assume that seeing his co-worker take this risk, and perhaps seeing the process first-hand, must have only encouraged Edward to take an even bigger risk of his own just a few years later when he also started his own store in [Corfu NY]({{% ref "corfu" %}}). 
+Edward and Bartlett appeared to work together at Charles Pine's store, and perhaps Edward worked for Bartlett as Bartlett was first starting his own store. Whatever role, if any, Edward had in Bartlett's new store, it seems reasonable to assume that seeing his co-worker take this risk, and perhaps seeing the process first-hand, must have only encouraged Edward to take an even bigger risk of his own just a few years later when he also started his own store in [Corfu NY]({{% relref "corfu" %}}). 
 
 As already mentioned, Charles M. Pine and James A. Hillyer (1831/2 to 20 Mar 1925) were listed as co-owners of E. H. Mills & Co. in Corfu:
 

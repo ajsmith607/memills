@@ -63,7 +63,7 @@ But until I can positively identify the name Elihu Personeus, which would presum
 
 {{% fig "mills-home/jessie-brewer-portrait" "500" /%}}
 
-Jessie Brewer joined the church rolls when she and Emily Mills were [baptized]({{% ref "baptism" \%}}) by Reverend Annis Ford Eastman 07 Apr 1907. Jessie was active for many years in the Women's Christian Temperance Union and the Congregational Ladies' Aid Society. 
+Jessie Brewer joined the church rolls when she and Emily Mills were [baptized]({{% relref "baptism" \%}}) by Reverend Annis Ford Eastman 07 Apr 1907. Jessie was active for many years in the Women's Christian Temperance Union and the Congregational Ladies' Aid Society. 
 
 
 ### 4: Laura Baker	

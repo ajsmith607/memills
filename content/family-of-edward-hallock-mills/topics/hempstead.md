@@ -78,7 +78,7 @@ Jonas' obituary noted that he lived in Hempstead "with the exception of a few ye
 
 {{% fig "hempstead/nygb-v54-p36" "500" /%}}
 
-In 1850, Edward was living in Factoryville (West New Brighton) [Staten Island]({{% ref "staten-island" %}}), and he married his first wife [Mary Ann (Pine) Mills]({{% ref "mills-mary-ann-1819" %}}) (08 Feb 1819 to 28 Dec 1895) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
+In 1850, Edward was living in Factoryville (West New Brighton) [Staten Island]({{% relref "staten-island" %}}), and he married his first wife [Mary Ann (Pine) Mills]({{% relref "mills-mary-ann-1819" %}}) (08 Feb 1819 to 28 Dec 1895) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 {{% fig "hempstead/NY-gbr-p256" "500" /%}}

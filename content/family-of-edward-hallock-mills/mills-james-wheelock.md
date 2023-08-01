@@ -11,7 +11,7 @@ James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun
 
 {{% fig "staten-island/rdc/rdc-scan_073" "800" /%}}
 
-Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name as it is originally recorded, which I had initially speculated could be a mis-transcription of "Hallock". This possibility is explored [further below]({{% ref "#exploring-wheelock" %}}). 
+Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name as it is originally recorded, which I had initially speculated could be a mis-transcription of "Hallock". This possibility is explored [further below]({{% relref "#exploring-wheelock" %}}). 
 
 {{% fig "staten-island/RDC/rdcpr-cover" "500" /%}}
 
@@ -166,7 +166,7 @@ Similarly, many variations of the family name "Hallock" are known and were even 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p13" "800" /%}}
 
-For a fuller treatment of these Hallock spelling variations, read [this section]({{% ref "hallock#alternate-spellings-of-hallock" %}}) and consider the possibility that Wheelock is a perhaps previously unknown "diatonic" of Hallock.
+For a fuller treatment of these Hallock spelling variations, read [this section]({{% relref "hallock#alternate-spellings-of-hallock" %}}) and consider the possibility that Wheelock is a perhaps previously unknown "diatonic" of Hallock.
 
 Assuming the name "Wheelock" is correct as written, as the evidence indicates, why was Wheelock chosen? My initial expectation was that the distinctiveness of the Wheelock name would make it easier to find the answer. Presumably he is named for someone, a tradition that was followed to an extreme by the Mills, who tended to re-use a small pool of names repeatedly, and usually the names of those very close to them, yet I cannot find the name in the available genealogical data for the Mills, Pine, Hallock and Seaman families. The inverse is also true: a search of *The Wheelock family in America, 1637-1969* compiled by Walter T. Wheelock (familysearch.org), reveals one reference to an unrelated Mills family in Hartford CT, and no references whatsoever to the names Pine, Hallock or Seaman. 
 

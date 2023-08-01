@@ -3,7 +3,7 @@ title: "Edward Hallock Mills"
 weight: 10
 ---
 
-Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% ref "corfu" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% ref "me-mills" %}}) in Motts Corners/Brookton NY.
+Edward Hallock Mills, born 25 Mar 1819, Smithtown NY, died 01 Jan 1908 Brookton, NY. Patriarch of the Mills family. Co-owner of [E. H. Mills & Co.]({{% relref "corfu" %}}) general store in Corfu NY and owner of [E. H. Mills]({{% relref "me-mills" %}}) in Motts Corners/Brookton NY.
 
 <!--more-->
 
@@ -32,7 +32,7 @@ Mr. [James Thomas] Mills was not born in Suffolk County, but he was only two wee
 
 The Mills' return to Smithtown, "two weeks and two days" after James' birth on 13 Feb 1827, was 01 Mar, the day before James' and Edward's mother Mary (Hallock) purportedly died (according to only one source, now defunct, MillsAncestry.org), and just a few weeks before Edward's eighth birthday. 
 
-(The precise day of Mary (Hallock) Mills' death is given in only one of [the three known Mills genealogies]({{% ref "smithtown" %}}), and although it can also be found in a number of user created family trees on Ancestry.com, I have not found one that cites a source for it. I have not yet found documentation independently corroborating this day in my own research.)
+(The precise day of Mary (Hallock) Mills' death is given in only one of [the three known Mills genealogies]({{% relref "smithtown" %}}), and although it can also be found in a number of user created family trees on Ancestry.com, I have not found one that cites a source for it. I have not yet found documentation independently corroborating this day in my own research.)
 
 25 Apr 1831, Jonas married Mary Platt (Mills) Mills, whose parents were also members of Smithtown Presbyterian. 
 
@@ -110,7 +110,7 @@ A few years prior to the Mills' move to Hempstead, Charles M. Pine was already l
 
 {{% fig "staten-island/1835-02-21-charles-pine" "700" /%}}
 
-On 14 Dec 1843, Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (19 Jun 1821 to 11 Apr 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (12 Dec 1817 to 21 Nov 1893) in Smithtown. They were members of Smithtown Presbyterian where their three children were baptized. Emily died nine days after giving birth to [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932). I believe it is Emily Mills Huntting who appears to be referenced in the sales records of the [Mills' store]({{% ref "me-mills" %}}) as "Emily Huntting".  
+On 14 Dec 1843, Edward's sister [Emily Tabitha (Mills) Huntting](https://www.findagrave.com/memorial/23991494/emily-tabitha-huntting) (19 Jun 1821 to 11 Apr 1849) married [John Smith Huntting](https://www.findagrave.com/memorial/23991462/john-smith-huntting) (12 Dec 1817 to 21 Nov 1893) in Smithtown. They were members of Smithtown Presbyterian where their three children were baptized. Emily died nine days after giving birth to [Emily Mills Huntting](https://www.findagrave.com/memorial/23991552/emily-mills-huntting) (02 Apr 1849 to 1932). I believe it is Emily Mills Huntting who appears to be referenced in the sales records of the [Mills' store]({{% relref "me-mills" %}}) as "Emily Huntting".  
 
 Jonas' obituary, shown further below, noted that he lived in Hempstead "with the exception of a few years", which included 1850, where he is recorded in the United States Federal Census in Islip NY, at age 55, a "farmer". The family appears to return to Smithtown by 1851, when Mary Platt is readmitted to Smithtown Presbyterian on 03 Jan 1851 and then returns to Hempstead as evidenced by her removal from the church, "by certificate to Hempstead" 05 Jun 1858. 
 
@@ -118,25 +118,25 @@ Jonas' obituary, shown further below, noted that he lived in Hempstead "with the
 
 {{% fig "genealogy/smithtown-presbyterian/158" "800" /%}}
 
-In 1850, Edward was living in [Factoryville (West New Brighton) Staten Island]({{% ref "staten-island" %}}), and he married his first wife [Mary Ann Pine (1819-1895)]({{% ref "mills-mary-ann-1819" %}}) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
+In 1850, Edward was living in [Factoryville (West New Brighton) Staten Island]({{% relref "staten-island" %}}), and he married his first wife [Mary Ann Pine (1819-1895)]({{% relref "mills-mary-ann-1819" %}}) in Hempstead. Charles Pine's grocery store in Staten Island was established in 1848, likely narrowing the timeframe for when Edward moved to Factoryville.
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 {{% fig "hempstead/NY-gbr-p256" "500" /%}}
 
 All of the Mills children were born in Staten Island, and by 1860, the family was living with another of Charles Pine's proteges Barlett Brown in a home adjoining a general store Bartlett had recently purchased. 
 
-The family arrived in [Corfu NY]({{% ref "corfu" %}}) sometime between 01 Sept 1862 and 01 May 1863. Partnering with Charles Pine, Edward co-owned [E. H. Mills & Co.]({{% ref "corfu" %}}) "cash store" in Corfu, "Dealers in General Merchandise, Groceries and Provisions, Yankee Notions and General Variety Store." Of Edward’s children, there is only evidence that Horace clerked at his father’s store.
+The family arrived in [Corfu NY]({{% relref "corfu" %}}) sometime between 01 Sept 1862 and 01 May 1863. Partnering with Charles Pine, Edward co-owned [E. H. Mills & Co.]({{% relref "corfu" %}}) "cash store" in Corfu, "Dealers in General Merchandise, Groceries and Provisions, Yankee Notions and General Variety Store." Of Edward’s children, there is only evidence that Horace clerked at his father’s store.
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
-[Horace]({{% ref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 1876. 
+[Horace]({{% relref "mills-horace-f-1854" %}}) committed suicide in Corfu in Oct 1876. 
 
 <div class="cols">
 {{% fig "corfu/1876-10-17-The-Buffalo-Commercial-Buffalo-NY-p3" "350" /%}}
 {{% fig "corfu/1876-10-27-The-Progressive-Batavian-Batavia-NY-1" "350" /%}}
 </div>
 
-In Mar 1879, Edward, then 60, moved his family again, this time to Motts Corners, an earlier name for Brooktondale. At Motts Corners, Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% ref "me-mills" %}}). Both [Jonas]({{% ref "mills-jonas-e-1852" %}}) and [Emily]({{% ref "mills-mary-emily-1858" %}}) clerked for their father. 
+In Mar 1879, Edward, then 60, moved his family again, this time to Motts Corners, an earlier name for Brooktondale. At Motts Corners, Edward restarted his grocery and dry goods business on his own as [E. H. Mills]({{% relref "me-mills" %}}). Both [Jonas]({{% relref "mills-jonas-e-1852" %}}) and [Emily]({{% relref "mills-mary-emily-1858" %}}) clerked for their father. 
 
 Edward's father Jonas died in 1882. 
 
@@ -203,7 +203,7 @@ The following are examples of Edward's postmark during his time as postmaster:
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}
 </div>
 
-Mary Ann died on the eve of their 45th wedding anniversary. A year and two days later, Edward married [Hannah (Thatcher) Eastman (1824-1917)]({{% ref "mills-hannah-1824" %}}). Edward and Hannah joined Brookton Congregational Church on just the third to last Sunday before their marriage ceremony, which took place "at the bride's residence in Brookton".
+Mary Ann died on the eve of their 45th wedding anniversary. A year and two days later, Edward married [Hannah (Thatcher) Eastman (1824-1917)]({{% relref "mills-hannah-1824" %}}). Edward and Hannah joined Brookton Congregational Church on just the third to last Sunday before their marriage ceremony, which took place "at the bride's residence in Brookton".
 
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 

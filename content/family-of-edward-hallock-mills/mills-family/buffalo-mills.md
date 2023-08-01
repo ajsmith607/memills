@@ -520,7 +520,7 @@ This James Harrison Mills, a real estate and loan broker of 446 Main St., Buffal
 </aside>
 </figure>
 
-Note that there is overlap of 2-3 years when [Edward's family lived in Corfu NY]({{% ref "corfu" %}}) (likely beginning sometime in the Fall of 1862 to the Spring of 1863) and William's family lived in Clarence (leaving for Buffalo in 1865). The distance between Corfu and Clarence is approximately 10 miles , and the distance between Corfu and Buffalo is approximately 30 miles. Yet the above mentioned genealogy that was a "review and amplification" of James' research only has [a partial listing]({{% ref "smithtown" %}}) for Edward, not even noting his first marriage. This initially suggested to me that Edward's and William's branches of the Mills family may not have been aware of each other, but this has since been tempered with the realization that in the same volume that that purportedly includes James' research, his own immediate family is underrepresented:  
+Note that there is overlap of 2-3 years when [Edward's family lived in Corfu NY]({{% relref "corfu" %}}) (likely beginning sometime in the Fall of 1862 to the Spring of 1863) and William's family lived in Clarence (leaving for Buffalo in 1865). The distance between Corfu and Clarence is approximately 10 miles , and the distance between Corfu and Buffalo is approximately 30 miles. Yet the above mentioned genealogy that was a "review and amplification" of James' research only has [a partial listing]({{% relref "smithtown" %}}) for Edward, not even noting his first marriage. This initially suggested to me that Edward's and William's branches of the Mills family may not have been aware of each other, but this has since been tempered with the realization that in the same volume that that purportedly includes James' research, his own immediate family is underrepresented:  
 
 {{% fig "mills-family/buffalo/mills-history-p57" "800" /%}}
 
@@ -830,7 +830,7 @@ These three references to his recent movements hint at the things he was, the th
 </figcaption>
 </figure>
 
-The preceding quotes can be found among a larger sampling of newspaper accounts in [a separate section below]({{< ref "buffalo-mills#more-on-orsamus-george-warren" >}}).
+The preceding quotes can be found among a larger sampling of newspaper accounts in [a separate section below]({{< relref "buffalo-mills#more-on-orsamus-george-warren" >}}).
  
 <figure>
 <blockquote>

@@ -566,7 +566,7 @@ I have not yet found obituaries for Reverend Horace or Eunice Humiston.
 
 From Molly Adams in *The Towns of Tompkins County*, p56: "The present store [known as Brookton's Market in 2022], on the site of a plastermill, seems to have started about 1890, under Frank Vorhis." According to the Brookton's Market 2011 Calendar, Frank owned the general store at that location until its sale to the Mulks brothers in 1902, when it became known as Frank F. Mulks. 
 
-Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% ref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. 
+Frank Vorhis is the father of [Charlotte Esther (Vorhis) Pancoe](https://www.findagrave.com/memorial/162242537/charlotte-esther-pancoe) (02 Aug 1893 to 19 May 1964) who was [baptized]({{% relref "baptism" %}}) with Emily and Jessie Brewer and is often referred to as "Miss Esther Vorhis" during that time. 
 
 {{% fig "mills-home/1917-01-20-The-Ithaca-Journal-Ithaca-NY-p7" "500" /%}}
 <div class="cols">
@@ -667,12 +667,12 @@ Emily Mills died 03 Nov 1937, like her father, without a will.
 {{% fig "mills-home/1941-11-15-The-Ithaca-Journal-Ithaca-NY-p2" "800x500" "" "top" /%}}
 {{% fig "mills-home/1941-11-18-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
  
-The first three names of possible heirs listed in the [Mills' home deeds]({{% ref "other-past-owners" %}}) from the time of Emily's death are the children of J. Thomas Mills, Edward H. Mills' younger brother:
+The first three names of possible heirs listed in the [Mills' home deeds]({{% relref "other-past-owners" %}}) from the time of Emily's death are the children of J. Thomas Mills, Edward H. Mills' younger brother:
   - Alonzo W. Mills (Jul 1858 to 09 May 1942) Sometimes spelled as Alonso.
   - George E. Mills (Feb 1856 to 10 Apr 1944). 
   - [Clarissa H. (Mills) Etsell](https://www.findagrave.com/memorial/74907705/clarissa-h.-etsell) (Jun 1852 to Jan 1946). (Her name is misspelled as "Etsall" on the deeds, and elsewhere has been spelled "Edsall".)
 
-[Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) is another cousin of Emily's, the daughter of Edward's sister, Emily Tabitha (Mills) Huntting. For more information on these branches of the Mills family, see the accompanying account of the Mills' [Long Island origins]({{% ref "smithtown" %}}). 
+[Mary Halliock (Huntting) Smith (1845–1938)](https://www.findagrave.com/memorial/24792330/mary-halliock-smith) is another cousin of Emily's, the daughter of Edward's sister, Emily Tabitha (Mills) Huntting. For more information on these branches of the Mills family, see the accompanying account of the Mills' [Long Island origins]({{% relref "smithtown" %}}). 
 
 {{% fig "1937-11-26-ithaca-journal" "500" /%}}
 
@@ -693,7 +693,7 @@ There are many variations of the published legal notices over many months, a few
 {{% fig "mills-home/475-deed-pg-5" "800" /%}}
 {{% fig "mills-home/475-deed-pg-6" "800" /%}}
 
-[Jessie M. (Shurter) Brewer](https://www.findagrave.com/memorial/99536961/jessie-m-brewer) (27 Jun 1881 to 16 Sep 1974) was baptized with Emily in 1907 and married [Lewis William Brewer](https://www.findagrave.com/memorial/99536898/lewis-william-brewer) (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. Jessie purchased the Mills' store real estate a few years before Emily's death, and when Emily died, Jessie took over [M. E. Mills]({{% ref "me-mills" %}}), renaming it after herself and selling dry goods and notions, but no longer selling groceries as Emily had. It appears Jessie and Lewis Brewer never occupied Mills' home, and instead rented it until it was purchased by [the Jones family]({{% relref "jones-lattin-talmadge" %}}).
+[Jessie M. (Shurter) Brewer](https://www.findagrave.com/memorial/99536961/jessie-m-brewer) (27 Jun 1881 to 16 Sep 1974) was baptized with Emily in 1907 and married [Lewis William Brewer](https://www.findagrave.com/memorial/99536898/lewis-william-brewer) (24 Jun 1882 to 10 Sep 1963) in Danby, 27 Jun 1923. Jessie purchased the Mills' store real estate a few years before Emily's death, and when Emily died, Jessie took over [M. E. Mills]({{% relref "me-mills" %}}), renaming it after herself and selling dry goods and notions, but no longer selling groceries as Emily had. It appears Jessie and Lewis Brewer never occupied Mills' home, and instead rented it until it was purchased by [the Jones family]({{% relref "jones-lattin-talmadge" %}}).
 
 <div class="cols">
 {{% fig "mills-home/1963-09-10-The-Ithaca-Journal-Ithaca-NY-p2" "350" /%}}
