@@ -3,6 +3,72 @@ title: "TEST PAGE"
 draft: true
 ---
 
+
+
+<figure>
+
+> The US Oval is the most common Civil War belt buckle on the market, and indeed was the most common buckle on the battlefield during the Civil War. In the North, the Union had the industrial resources and was able to die-stamp as many as a million of these buckles. Consequently, the US Oval is not terribly valuable...
+
+<figcaption>
+<cite>
+
+— [Fascinating Fasteners: Civil War Belt Buckles](https://www.pbs.org/wgbh/roadshow/stories/articles/2008/4/28/fascinating-fasteners-civil-war-belt-buckles), pbs.org. 
+
+</cite>
+</figcaption>
+</figure>
+
+
+
+
+
+
+
+(Authentication as a civil war era belt buckle)
+
+Ira Middaugh lived in Caroline, Danby and Ithaca, but was born in Tioga County. In Candor NY on 27 Aug 1862, at 18 years old, Ira enlisted as a private in Company H of the 137th Infantry Regiment. He mustered in one week later, 27 Aug 1862. He mustered out on 09 Jun 1865 in Bladensburg, MA, the same date and location as William Wolcott. 
+
+(ira middaugh in descriptive book)
+
+company size:
+
+
+<figure>
+
+> On the Union side units comprised of “regular” soldiers—those established in the armed forces before the Civil War and which bore a “U.S.” designation—or “volunteer” soldiers—those which consisted of men serving in state-based units that were typically created specifically for the Civil War. ...
+>
+> The majority of servicemen during the Civil War joined the infantry. Infantrymen were foot soldiers who wielded muskets and whose officers carried swords and pistols. Upon enlistment, infantrymen typically joined companies, usually comprised of men from the same town or county or part of a state. On paper, companies were supposed to contain 100 men. In practice, due primarily to enlistment issues, illness, casualties, and desertion, they often consisted of closer to 30-50 men. Within each company, the soldiers were further divided into platoons and squads. Each company was usually under the command of a captain, who was assisted by a first lieutenant and a second lieutenant.[2] At first, companies had text-based names like the Columbus Rifles or the Mifflin Guards, for example, but after they were further organized they would be assigned a company alphabetic letter, such as “Company G.”
+>
+> Companies were grouped together to form regiments—the fighting unit with which soldiers most identified. The regiment was the basic maneuver unit of the Civil War. Regiments could consist of just a few companies or as many as fourteen, but ten was the official number—ten companies of 100 men meant that regiments, on paper, were composed of 1,000 officers and men. Yet because of undersized companies, especially as the war progressed the average Civil War regiment at mid-war consisted of 300-500 soldiers. Volunteer regiments were denoted by numbers followed by the state they represented, for example, the 99th Pennsylvania or the 7th South Carolina. Regiments were ideally commanded by colonels (the “commanding officer”) who oversaw two field officers—the lieutenant colonel and the major—and 30 “line” officers: ten captains and twenty lieutenants, who were in charge of the companies. A few more officers might work on the colonel’s staff as adjutants and aides. Noncommissioned officers—sergeant majors, sergeants and corporals—were also responsible for company-level duties.
+
+<figcaption>
+<cite>
+
+— [Civil War Military Organization](https://www.essentialcivilwarcurriculum.com/civil-war-military-organization.html) by Garry E. Adelman, EssentialCivilWarCurriculum.com.
+
+</cite>
+</figcaption>
+</figure>
+
+
+
+father also in same co, reg, died same day as Ezra Cornell.
+
+
+https://www.findagrave.com/memorial/98295946/abram-middaugh
+
+New York, U.S., Civil War Muster Roll Abstracts, 1861-1900
+DetailRelatedSource
+Source Citation
+New York State Archives; Albany, New York; Civil War Muster Roll Abstracts of New York State Volunteers, United States Sharpshooters, and United States Colored Troops [ca. 1861-1900]; Box #: 203
+
+Description
+Box Number: 203
+
+Source Information
+Ancestry.com. New York, U.S., Civil War Muster Roll Abstracts, 1861-1900 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2011.
+Original data:Civil War Muster Roll Abstracts of New York State Volunteers, United States Sharpshooters, and United States Colored Troops [ca. 1861-1900]. Microfilm, 1185 rolls. New York State Archives, Albany, New York.
+
 page of tests
 
 <!--more-->
