@@ -1,6 +1,7 @@
 ---
 title: "The Mill Race Bridge and The Barn"
 weight: 200 
+draft: true
 ---
 
 In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Road was called Creek Road, the grist mill that was known for a time as Personius Flouring Mills sat where Dalebrook Apartments sit presently, almost directly across the street from Mills' Store, a building better known to many today as "The Old Post Office". What would later become known as “The Mills' Place” was sub-divided from the grist mill property, and it was originally referred to as "The Wolcott Lot" for William Benton Wolcott, the first owner of record. The Mill Race Bridge is one of the primary landmarks used to establish the Place of Beginning for the Mills' Home parcel from the time of its original sub-division from the grist mill to the end of Emily Mills' life. 

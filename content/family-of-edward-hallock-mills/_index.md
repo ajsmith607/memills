@@ -58,7 +58,7 @@ Historians and archivists: Barbara Kone, Caroline Town Historian. Diane Moore, F
 
 Churches and cemeteries: Elaine Sapp, Mike Scaglione, Pastor Kayti Dean, and the council of Caroline Valley Community Church. Emily Adams and Bill Besemer of Brookton (formerly Quick) Cemetery. Kathleen Langdon, Reformed Dutch Church at Port Richmond. Friends of Abandoned Cemeteries of Staten Island. Rob Bernhardt, Pleasant Grove Cemetery, Cayuga Heights. Margaret Wegener, Calvary Presbyterian Church, West New Brighton. Ken Rumble, Corfu United Presbyterian Church.   
 
-Caroline community members and collectors: Lois Lounsbery, Bea Raponi, Ted Sobel, Ralph Conant, Debra Rogers, Edward Dibble, Ruth Ellis, Annie Doubleday.
+Caroline community members and collectors: Frank Proto, Lois Lounsbery, Bea Raponi, Ted Sobel, Ralph Conant, Debra Rogers, Edward Dibble, Ruth Ellis, Annie Doubleday.
 
 Those throughout the years who specifically preserved precious memories of Emily: Gertrude Conant, E. D. Shurter, Jessie Brewer, and Molly Adams.
 
