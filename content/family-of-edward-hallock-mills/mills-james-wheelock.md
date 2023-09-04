@@ -100,7 +100,7 @@ The Beers map of Staten Island show that the two most likely burial places for J
 
 {{% fig "staten-island/1874-beers-map-cropped-churches" "800" /%}}
 
-Finally, Samuel J. Wood Library at Weill Cornell Medicine has records starting from 1854 from the Nursery and Child’s Hospital, and I contacted them about a search for James. This was a unlikelihood anyway, and became moot as even to search for him, they required the very information I was looking for: exact date of death, death certificate, etc., and even then, I would have to sign and agreement to de-identify the information, defeating the purpose.
+Finally, Samuel J. Wood Library at Weill Cornell Medicine has records starting from 1854 from the Nursery and Child’s Hospital, and I contacted them about a search for James. This was a unlikelihood anyway, and became moot as even to search for him, they required the very information I was looking for: exact date of death, death certificate, etc., and even then, I would have to sign an agreement to de-identify the information, defeating the purpose.
 
 (The Staten Island “country branch” of the hospital didn’t open until 1869.)
 

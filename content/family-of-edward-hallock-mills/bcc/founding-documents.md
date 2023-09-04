@@ -688,7 +688,7 @@ The 50th Engineer Regiment of New York, which also included Walker's brother Cha
 
 #### Charles Personius
 
-[Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924) was the owner of Personius Flouring Mills in Brookton, on the present site of Dalebrook. Charles sold a portion of the mill property to to William Wolcott, what would become known as “the Wolcott lot” and later, “the Mills place”. 
+[Charles W. Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924) was the owner of Personius Flouring Mills in Brookton, on the present site of Dalebrook. Charles sold a portion of the mill property to to William Wolcott, what would become known as “the Wolcott lot” and later, “The Mills Place”. 
 
 Charles Personius was a Civil War veteran, having enlisted and mustered in 25 Aug 1862 at Middletown NY to Company G of the 50th Engineers Regiment with the rank of Private. He mustered out 13 Jun 1865, Fort Barry VA, under Colonel Pettes, with the rank of Sergeant, having been promoted twice. (New York: Report of the Adjutant-General 1893-1906, ancestry.com)
 

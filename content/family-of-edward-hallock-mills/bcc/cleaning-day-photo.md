@@ -121,6 +121,7 @@ In the records of the Congregational Church, Alonzo is often noted regularly att
 ### 18:	NO ID	Blind Man No ID	? boy	
 
 ### 19:	CONFLICT	Sarah Wall	(missing from photo)	
+ (See 1920 census, housekeeper for Lockwoods?)
 
 ### 20:	VERIFIED	Mr. Robinson, Preacher	?	Reverend Edward Weeks Robinson (1883-1957)
 
