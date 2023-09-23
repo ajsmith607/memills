@@ -17,7 +17,7 @@ paginate = "50"
 [module]
   _merge = "deep"
   [[module.imports]]
-    path = "github.com/ajs17/hugo-min-components"
+    path = "github.com/ajsmith607/undergo"
  
 [markup]
   _merge = "deep"

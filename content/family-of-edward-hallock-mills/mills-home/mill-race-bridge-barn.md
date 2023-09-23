@@ -348,7 +348,7 @@ The 1869 Mills' home deed description, adjusted for 6° Magnetic declination:
 | 5 | | thence easterly along said center of road four chains and sixty-three links to the place of beginning. | | S 64.5° E |
 
 <figcaption>
-<cite>— 23 Oct 1883, William B. Wolcott to Horace N Humiston Senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
+<cite>— 23 Oct 1883, William B. Wolcott to Horace N. Humiston Senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
 <figcaption>
 
 </figure>
@@ -428,7 +428,7 @@ Clearly **the only way to reconcile 1869 and 1883 is to interpret them Magnetica
 | 5 | | thence easterly along said center of road four chains and sixty-three links to the place of beginning. | | S 64.5° E |
 
 <figcaption>
-<cite>— 23 Oct 1883, William B. Wolcott to Horace N Humiston Senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
+<cite>— 23 Oct 1883, William B. Wolcott to Horace N. Humiston Senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
 <figcaption>
 
 </figure>
@@ -1132,7 +1132,7 @@ Now 1883, likewise adjusted for Magnetic 6° declination:
 | 5 | | thence easterly along said center of road four chains and sixty-three links to the place of beginning. | | S 64° 30' E |
 
 <figcaption>
-<cite>— 23 Oct 1883, William B. Wolcott to Horace N Humiston Senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
+<cite>— 23 Oct 1883, William B. Wolcott to Horace N. Humiston Senior, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite> 
 <figcaption>
 
 </figure>

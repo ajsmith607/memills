@@ -336,6 +336,7 @@ It appears that by 1878, James Hillyer had left Pine's store and started a new s
 
 <figure>
 <blockquote>
+
 John Hillyer, sometimes written Hilliard, lived on Staten Island in 1693, and married Elizabeth Dey in 1714.
 
 Their children were John, (supervisor in 1767) Elizabeth, Mary, James, William, Nathaniel, Simon and Lawrence.
@@ -435,7 +436,7 @@ James A. Hillyer's business partner is his brother-in-law [Barnett Egbert Jr.](h
 {{% fig "staten-island/benjamin-children" "350" /%}}
 </div>
 
-James Hillyer appears to be connected with William Snedeker, who married Charles' and Mary Ann's sister Lois Almy (Pine) Snedeker (1805? to 07 Nov 1890). William and Lois moved to Staten Island in the 1850's, and William was also in the dry goods business. William Snedeker and James A. Hillyer were also leaders withing the congregation of the Trinity Methodist Episcopal Church, near James' home.
+James Hillyer appears to also be connected with William Snedeker, who married Charles' and Mary Ann's sister Lois Almy (Pine) Snedeker (1805? to 07 Nov 1890). William and Lois moved to Staten Island in the 1850's, and William was also in the dry goods business. William Snedeker and James A. Hillyer were also leaders within the congregation of the Trinity Methodist Episcopal Church, near James' home.
 
 The 1870 US Census and the 1875 NY Census show William Snedeker's family living near James Hillyer's family, and near both the Methodist Church and C. M. Pine & Co.
 
@@ -600,7 +601,7 @@ The families of Edward Mills, Charles Pine (including his siblings and their des
 The Crocheron family have been prominent in the county ; Henry was Member of Congress 1815—'17. Jacob was Member of Congress 1829—'31 ; Presidential elector in 1836; Sheriff 1802, 1811 and 1821. Nicholas was Member of Assembly, 1854. Richard was County Treasurer, and Surrogate, 1836, and for several years thereafter. The family is of French descent.
 </blockquote>
 <figcaption>
-<cite>— *Annals of Staten Island*, p365-366.
+<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p365-366.
 </cite>
 </figcaption>
 </figure>

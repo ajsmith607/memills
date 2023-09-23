@@ -449,6 +449,6 @@ The home, very close to how it appeared when I first moved into it.
 
 {{% fig "talmadge/475brooktondaleroad18" "800" "img,link" /%}}
 
-
+/
 
 
