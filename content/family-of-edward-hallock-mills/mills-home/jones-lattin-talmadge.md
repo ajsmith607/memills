@@ -171,6 +171,11 @@ I'm fairly certain that Larry Lattin rewired the entire house - but I could be w
 </figcaption>
 </figure>
 
+The "post tear-down" that Andrea referenced above:
+
+{{% fig "talmadge/renovations-bdale" "800" "img,link" /%}}
+
+
 ## Andrea Talmadge
 
 Andrea Talmadge purchased the home from the Lattins on 27 Aug 1992. This day was also the first day of instruction of the Fall semester at Cornell University, where Adam Smith was starting his junior year. (Cornell University Courses of Study Vol. 83 1991/92, ecommons.cornell.edu.) 
@@ -281,7 +286,6 @@ If it's still there, my ex-husband installed the cast iron stove in the back roo
 </figcaption>
 </figure>
 
-<!--
 
 <figure>
 <blockquote>
@@ -293,7 +297,6 @@ Regarding the photo of the stove you sent my mother Clara, there was a wall sepa
 </cite>
 </figcaption>
 </figure>
---> 
 
 When I arrived the stove was no longer there, and the chimney had been closed. An unpatched hole in the back wall where the stove pipe entered the chimney was still there, covered by a plastic sheet and a large, heavy mirror. The mirror is still there covering the hole , and I have an electric “fireplace” on the wall below it. In 2021, when the roofing was replaced, the chimney was torn down to the roof line and capped.
 
@@ -339,7 +342,7 @@ The large front bedroom was for the first decade I owned it, my home office, whe
 {{% fig "talmadge/475brooktondaleroad46" "350" "img,link" /%}}
 </div>
 
-In the middle bedroom, the carpet, closet doors and overhead light all remained when I arrived. Initially, this ceiling was also painted blue with white clouds and more glow-in-the-dark stars. I eventually repainted this room also. After my last cat died, I ripped up the shag carpet, which along with the underlayment was very tattered and worn, and had clearly been there for a very long time. The carpet covered a heat vent that is apparently disconnected from the rest of the ductwork, and the hardwood floor beneath needed some work to fully restore, as several patches had been made with 2x4 unstained pine lumber, and wall paint had dripped onto the floorboards in the past. Instead of trying to restore the original hardwood floor, I left it in place, and I personally installed new hardwood bamboo flooring on top of it. 
+In the middle bedroom, the carpet, closet doors and overhead light all remained when I arrived. Initially, this ceiling was also painted blue with white clouds and more glow-in-the-dark stars. I eventually repainted this room also. After my last cat died, I ripped up the shag carpet, which along with the underlayment was very tattered and worn, and had clearly been there for a very long time. The carpet covered a heat vent that is apparently disconnected from the rest of the ductwork, and the hardwood floor beneath needed some work to fully restore, as several patches had been made with 2x4 unstained pine lumber, and wall paint used in the past had dripped onto and smeared the floorboards. Instead of trying to restore the original hardwood floor, I left it in place, and I personally installed new hardwood bamboo flooring over top of it. 
 
 <div class="cols">
 {{% fig "talmadge/475brooktondaleroad43" "350" "img,link" /%}}
@@ -383,9 +386,7 @@ The pine tree partially shown on the left edge of the photograph was still there
 
 {{% fig "adams-photos/2013-03-28_11.11.19" "500" "img,link" /%}}
 
-And now the first of the remaining images which I believe to all be from the Talmadge years, beginning with a photo of the lean-to removed in preparation for the three-room addition, as described by Andrea above.
- 
-{{% fig "talmadge/renovations-bdale" "500" "img,link" /%}}
+And now the first of the remaining images which I believe to all be from the Talmadge years.
 
 {{% fig "talmadge/475brooktondaleroad17" "500" "img,link" /%}}
 
@@ -449,6 +450,5 @@ The home, very close to how it appeared when I first moved into it.
 
 {{% fig "talmadge/475brooktondaleroad18" "800" "img,link" /%}}
 
-/
 
 

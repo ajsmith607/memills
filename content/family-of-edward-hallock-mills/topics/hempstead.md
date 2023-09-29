@@ -101,7 +101,7 @@ Interestingly, Reverend Locke is buried in Batavia NY, exactly 13 miles (accordi
 
 Both the Mills and Pines attended Christ's First Presbyterian Church in Hempstead. Many other family names can be found in the Church's records that are either relatives of Mills and Pines or otherwise connected with them, including Seaman, Gildersleeve, Higbie, Weekes (also Weeks), Hawkins, Bedell and Mersereau. It is perhaps relevant that the surname "Watts" is also present and may provide context for understanding Edward's nephew's middle name (which he commonly went by).
 
-{{% fig "hempstead/christs-first-presbyterian" "500" /%}}
+{{% fig "hempstead/christs-first-presbyterian" "800" /%}}
 
 <figure>
 <blockquote>
@@ -278,7 +278,7 @@ When Edward married Hannah, an announcement in the Hempstead Sentinel states tha
 
 {{% fig "1897-01-14-The-Sentinel-Hempstead-NY-p2" "500" /%}}
 
-A portrait of Samuel Mills Pine survives and currently in the family collection of Jacqueline Igliozzi, great-great-great grandaughter of Samuel.
+A portrait of Samuel Mills Pine survives in the family collection of Jacqueline Igliozzi, great-great-great grandaughter of Samuel.
 
 {{% fig "pine/samuel-mills-pine-1" "800" /%}}
 
