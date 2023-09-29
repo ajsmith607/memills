@@ -119,7 +119,21 @@ Woodhull was captured near Jamaica by a detachment of Fraser's Highlanders led b
 
 The killing of General Woodhull was yet another act of British cruelty that further galvanized the Patriots in the cause of independence.
 
-The Woodhull name was widespread on Long Island and can be found in a number of other family genealogies, including the descendants of Timothy Mills. General Nathaniel Woodhull's name has since been adopted by a number of schools, and upon its official formation 18 Feb 1828, the author's hometown of Woodhull NY was officially formed by an act of legislature and named to honor the General's heroism. 
+The Woodhull name was widespread on Long Island and can be found in a number of other family genealogies, including the descendants of Timothy Mills. General Nathaniel Woodhull's name has since been adopted by a number of schools, as well as Adam Smith's hometown:
+
+
+<figure>
+
+> Official formation of Woodhull, named after General Nathanial Woodhull was done by an act of Legislature on February 18, 1828. Formerly part of Middletown it took lands from Rathbone, Troupsburge and Addison. Woodhull now includes the hamlets of Hedgesville and Borden. 
+
+<figcaption>
+<cite>
+
+— Leslie Smith, *Woodhull – A Brief History*, p1.
+
+</cite>
+</figcaption>
+</figure>
 
 
 

@@ -173,7 +173,7 @@ I'm fairly certain that Larry Lattin rewired the entire house - but I could be w
 
 The "post tear-down" that Andrea referenced above:
 
-{{% fig "talmadge/renovations-bdale" "800" "img,link" /%}}
+{{% fig "talmadge/renovations-bdale" "500" "img,link" /%}}
 
 
 ## Andrea Talmadge
