@@ -96,7 +96,7 @@ Trinity Methodist Church Cemetery - is now part of St. Johns Lutheran church in 
 
 FACSI also notes a number of burials identified simply as being on "Van Street". No Mills are listed there, and the dates of the burials at that location were decades after the Mills left Staten Island.  
 
-The Beers map of Staten Island show that the two most likely burial places for James (assuming that the Reformed Dutch Church burial ground is ruled out), Staten Island Cemetery and Trinity Chapel/Church of the Ascension, are clustered together, along with Fountain Cemetery, near Pine, Hillyer & Co. general store, where Edward was presumably employed. 
+The Beers map of Staten Island shows that the two most likely burial places for James (assuming that the Reformed Dutch Church burial ground is ruled out), Staten Island Cemetery and Trinity Chapel/Church of the Ascension, are clustered together, along with Fountain Cemetery, near Pine, Hillyer & Co. general store, where Edward was presumably employed. 
 
 {{% fig "staten-island/1874-beers-map-cropped-churches" "800" /%}}
 

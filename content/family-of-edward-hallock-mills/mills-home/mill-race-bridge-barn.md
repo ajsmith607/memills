@@ -242,7 +242,7 @@ I based the orientation of my maps on the course of Brooktondale Road, which is 
 
 On 06 Mar 2023, at my request and witnessed by me, a new survey of Mills' Home was created that presumably provides the most accurate measurements to date, as it was the first to use laser measurement instead of tape. This survey shows the straight portion of Brooktondale Road in front of Mills' Home bearing **N 53° 14' 53" W Magnetic**.
 
-For more direct comparison, I will convert all bearings from Magnetic to True north (hereafter simply "True"). To determine Magnetic declination–the difference between Magnetic north and True north based on geographic position and time–I will use geographic coordinates derived from the physical address 475 Brooktondale Road, Brooktondale NY 14817: **42° 22' 55" N, 76° 23' 52" W**.
+For more direct comparison, I will convert all bearings from Magnetic to True north (hereafter simply "True"). To determine Magnetic declination–the difference between Magnetic north and True north based on geographic position and time–I will use geographic coordinates derived from the physical address 475 Brooktondale Road, Brooktondale NY 14817: **42° 22' 56" N, 76° 23' 53" W** (42.38215534534776, -76.39793472910708).
 
 Then, using the document dates for the relevant deeds and survey maps that will be considered, I obtained the following Magnetic declination values from the National Centers for Environmental Information Geomagnetic Calculator at ngdc.noaa.gov, using the IGRF2020 model. 
 
@@ -298,7 +298,7 @@ Using the bearings given for Brooktondale/Creek Road in the sources above and ad
 
   - The 1972 and 2023 measurements are explicitly labelled Magnetic on their surveys. 
 
-  - North in the 1969 and 1980 measurements are inferred to be True, as that reconciles all recorded bearings, and this is confirmed in the overlaid surveys below. This also explains why the 1969 and 1980 values (recorded by two different surveyors, Gordon Rice and Howard Schlieder respectively) are only different by one second despite differences in Magnetic declination between those years.
+  - I do not see an explicit notation for the 1969 and 1980 measurements, but Schlieder's recorded bearings for Brooktondale Road and the eastern boundary line with Dalebrook at those times clearly shows he corrected for magnetic declination. This is further confirmed in the overlaid surveys below. 
  
 </figcaption>
 </figure>
