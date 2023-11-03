@@ -3,7 +3,7 @@ title: Hallocks in Caroline and the Hallock Genealogy
 weight: 550
 ---
 
-Edward H. Mills (25 Mar 1819 to 01 Jan 1908) was distantly related to [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901), a prominent farmer in Caroline, and later Danby, who is closely associated with Thomas H. Howell, of Howell Brothers general store, also in Danby. Eventually, Hallock and Howell partnered on a dry goods store in Willseyville. Edward and William share the ancestor William Hallock (1610? to 1684), who was the only son of Peter Hallock, “the original” Hallock in America.
+Edward Hallock Mills (25 Mar 1819 to 01 Jan 1908) was distantly related to [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901), a prominent farmer in Caroline, and later Danby, who is closely associated with Thomas H. Howell, of Howell Brothers general store, also in Danby. Eventually, Hallock and Howell partnered on a dry goods store in Willseyville. Edward and William share the ancestor William Hallock (1610? to 1684), who was the only son of Peter Hallock, “the original” Hallock in America.
 
 <!--more-->
 
@@ -125,7 +125,7 @@ Edward H. Mills and William B. Hallock are both in the eighth generation of the 
 
 </figure>
 
-William B. was under the "John Branch" of the Hallock tree which was said to be the most prolific of the Four Sons of William, and as Lucius Hallock noted "the ten daughters of the first John have been most difficult to place". John converted to Quakerism, to the great dismay of his father.
+William B. was under the "John Branch" of the Hallock tree, said to be the most prolific of the Four Sons of William, and as Lucius Hallock noted "the ten daughters of the first John have been most difficult to place". John converted to Quakerism, to the great dismay of his father.
 
 {{% fig "hallock/hallock-genealogy-tabulation-p410" "800" /%}}
 

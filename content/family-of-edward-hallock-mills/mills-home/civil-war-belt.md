@@ -3,7 +3,7 @@ title: The Civil War Belt
 weight: 600
 ---
 
-The Lattins share photographs of the "Civil War Belt", found in the walls of Mills' Home, in a space directly above the front door, as Larry was installing a new door. I explore possible owners of the belt, in particular, Ira Middaugh.
+The Lattins share photographs of the "Civil War Belt", found in the walls of Mills' Home, in a space directly above the front door frame, as Larry was installing a new door. I explore possible owners of the belt, in particular, Ira Middaugh.
 
 <!--more-->
 

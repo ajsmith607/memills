@@ -3,7 +3,7 @@ title: "Hempstead NY and Pine, Seaman Genealogies"
 weight: 450
 ---
 
-Edward presumably moved to Hempstead with his family in 1837. There, he met his first wife, Mary Ann Pine, and her brother and Edward's mentor in business, Charles Mills Pine. The Mills and the Pines attended Christ's First Presbyterian Church. This section also introduces Captain John Seaman.
+Edward presumably moved to Hempstead with his family in 1837. There, he met his first wife, Mary Ann Pine, as well as her brother, Charles Mills Pine, who became Edward's mentor in business. The Mills and the Pines attended Christ's First Presbyterian Church. This section also introduces Captain John Seaman.
 
 <!--more-->
 

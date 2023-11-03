@@ -108,7 +108,7 @@ For now, little James is lost, but at least he is no longer forgotten.
 
 ## Exploring "Wheelock"
 
-Initially, I explored the theory that "Wheelock" could be a mis-transcription of the much less surprising "Hallock", given how similar the two names might look written in script, however Kathleen Langdon's photographs of the originally written entry prove that wrong. However, I am still intrigued by the similarity of the two names, and they are even more similar phonetically, leading me to wonder if the church secretary misheard "Hallock" as "Wheelock". Obviously this theory is purely speculation without evidence and can't be proved or disproved, but I present the following for consideration.
+Initially, I explored the theory that "Wheelock" could be a mis-transcription of the much less surprising "Hallock", given how similar the two names might look written in script, however Kathleen Langdon's photographs of the originally written entry prove that wrong. However, I am still intrigued by the similarity of the two names, especially phonetically, leading me to wonder if the church secretary misheard "Hallock" as "Wheelock". Obviously this theory is purely speculation without evidence and can't be proved or disproved, but I present the following for consideration.
 
 
 <figure>

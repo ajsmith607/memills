@@ -3,7 +3,7 @@ title: "Founding the Congregational Church"
 weight: 100
 ---
 
-The process of the founding of the Congregational Church is recorded in the volume *Congregational Church 1868-1933 Minutes of Meetings and Membership*. Images and transcriptions published with permission from Caroline Valley Community Church. Also, initial identification and exploration of the founders themselves.
+The founding of the Congregational Church of Mott's Corners is recorded in the volume *Congregational Church 1868-1933 Minutes of Meetings and Membership*. Images and transcriptions published with permission from Caroline Valley Community Church. Also, initial identification and exploration of the founders themselves.
 
 <!--more-->
 

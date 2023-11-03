@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center."
+citation: "Notebooks of George E. Jansen, Tompkins County History Center, Ithaca NY."
 notes: >-  
 
     - S Roe is local farmer [Simon P. Roe](https://www.findagrave.com/memorial/51354561/simon-p-roe) (Mar 1852 to 01 Oct 1923), who George often references. Simon died eight months later.

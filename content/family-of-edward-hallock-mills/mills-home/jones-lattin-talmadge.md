@@ -1,6 +1,6 @@
 ---
 title: "The Jones, Lattin, and Talmadge Years"
-weight: 300
+weight: 200
 ---
 
 A compilation of information and photographs from the late 1960's to the mid 2000's, during the years the home was owned by C. Dalton and Clara B. Jones, then Larry and Janet Lattin, and then by Andrea Talmadge. Each set of owners did much to improve the home and property that is still evident presently. 

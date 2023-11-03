@@ -4,7 +4,7 @@ weight: 600
 ---
  
 
-Emily, Hannah and Ellen were each known to be active in temperance, primarily in the Women's Christian Temperance Union (W.C.T.U.), although Emily was also a member of the Independent Order of Good Templars. The temperance movement was a significant cultural phenomenon of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. 
+Emily, Hannah, and Ellen were each known to be active in temperance, primarily in the Women's Christian Temperance Union (W.C.T.U.), although Emily and her brother Jonas, were also members of the High Bridge Lodge #296 of the Independent Order of Good Templars, in Brookton. The temperance movement was a significant cultural phenomenon of the mid 1800's to the early 1900's, and was particularly strong among the religious communities of upstate NY. There was significant overlap between members of the temperance movement and those supporting suffrage, and before that, abolition. 
 
 <!--more-->
 

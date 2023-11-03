@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center."
+citation: "Notebooks of George E. Jansen, Tompkins County History Center, Ithaca NY."
 notes: >-
 
     - Libbie Peck was the wife of [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916).

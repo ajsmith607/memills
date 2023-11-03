@@ -26,7 +26,6 @@ Mary Ann Pine was born and raised in [Hempstead]({{% relref "hempstead" %}}) Lon
 
 Mary Ann is descended from Captain John Seaman, the American progenitor of the Long Island Seaman families and one of the original settlers of Hempstead. The Seaman family history is summarized in 1928, [The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island](https://archive.org/details/seamanfamilyinam00seam/page/n15/mode/2up) by Mary Thomas Seaman, archive.org. Read more about Captain John Seaman in the [Hempstead]({{% relref "hempstead#the-legacy-of-captain-john-seaman" %}}) section.
 
-Selections from this work will be cited as "Seaman" below. 
 Mary Ann married Edward Hallock Mills, then of Castleton Staten Island, on 29 Dec 1850:
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}

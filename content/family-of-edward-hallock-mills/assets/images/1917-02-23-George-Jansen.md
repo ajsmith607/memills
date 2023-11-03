@@ -1,5 +1,5 @@
 ---
-citation: "Notebooks of George E. Jansen, Tompkins County History Center."
+citation: "Notebooks of George E. Jansen, Tompkins County History Center, Ithaca NY."
 notes: >-
 
   - Burns is likely a reference to Thomas Burns. See 28 Jan 1936, The Ithaca Journal, Ithaca NY, p9.

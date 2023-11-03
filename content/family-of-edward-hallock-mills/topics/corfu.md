@@ -77,8 +77,8 @@ There are records of a number of "lodges" of the Independent Order of Good Templ
 Mary Ann was known to be a member of the Presbyterian Church of Corfu, as were the MacGregors, the Mills' neighbors and friends: 
 
 <div class="cols">
-{{% fig "corfu/1871-08-24-The-Brockport-Republic-Brockport-NY-p3" "400" /%}}
-{{% fig "corfu/1874-12-03-The-Brockport-Republic-Brockport-NY-p3" "400" /%}}
+{{% fig "corfu/1871-08-24-The-Brockport-Republic-Brockport-NY-p3" "350" /%}}
+{{% fig "corfu/1874-12-03-The-Brockport-Republic-Brockport-NY-p3" "350" /%}}
 </div>
 
 {{% fig "corfu/Town-of-Pembroke-Bicentennial-History-1776-1976" "800" /%}}
@@ -121,8 +121,11 @@ The Mills' home in Corfu sold later that year.
 
 Emily returned to Corfu several times throughout her life.
 
-{{% fig "1882-07-21-batavia-daily-news" "500" /%}}
-{{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}}
+<div class="cols">
+{{% fig "1882-07-21-batavia-daily-news" "350" /%}}
+{{% fig "1885-10-16-batavia-daily-news-p1" "350" /%}}
+</div>
+
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 
 <div class="cols">

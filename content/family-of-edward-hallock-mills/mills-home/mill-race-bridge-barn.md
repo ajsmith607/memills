@@ -1,10 +1,9 @@
 ---
 title: "The Mill Race Bridge and The Barn"
-weight: 200 
-draft: true
+weight: 300 
 ---
 
-In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Road was called Creek Road, the grist mill that was known for a time as Personius Flouring Mills sat where Dalebrook Apartments sit presently, almost directly across the street from Mills' Store, a building better known to many today as "The Old Post Office". What would later become known as “The Mills' Place” was sub-divided from the grist mill property, and it was originally referred to as "The Wolcott Lot" for William Benton Wolcott, the first owner of record. The Mill Race Bridge is one of the primary landmarks used to establish the Place of Beginning for the Mills' Home parcel from the time of its original sub-division from the grist mill to the end of Emily Mills' life. 
+In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Road was called Creek Road, the lower grist mill that was known for a time as Personius Flouring Mills sat where Dalebrook Apartments sit presently, almost directly across the street from Mills' Store, a building better known to many today as "The Old Post Office". What would later become known as “The Mills' Place” was sub-divided from the grist mill property, and it was originally referred to as "The Wolcott Lot" for William Benton Wolcott, the first owner of record. The Mill Race Bridge is one of the primary landmarks used to establish the Place of Beginning for the Mills' Home parcel from the time of its original sub-division from the grist mill to the end of Emily Mills' life. 
 
 <!--more-->
 
@@ -61,15 +60,17 @@ When I initially envisioned the mill race crossing Brooktondale Road, I assumed 
 
 And a more substantial bridge makes sense from other data points, such as its choice as a landmark defining the Place of Beginning in the deed descriptions of 1869 and 1883, and Andrea Talmage's recollections of her conversation with Carl English, referenced in full further below, in which he told her that the mill race bridge gave Mills' Home "the nickname ‘bridge’s house’ or something like that".   
 
-I believe the southwest course of the raceway under the road can be explained by a few factors. First, understand that Dalebrook has a basement that is at ground level, but the mill infrastructure itself is in a *sub-basement* of the building, and so, it is from the sub-basement that the raceway emerges, and in the middle of the western side of the Dalebrook foundation, a grill recessed in the ground still exists as I write this as evidence of this past configuration.
+I believe the angled, southwest course of the raceway under the road can be explained by a few factors. First, understand that Dalebrook has a basement that is at ground level, but Frank Proto has told me that the mill infrastructure itself is in a *sub-basement* of the building, and so, it is from the sub-basement that the raceway emerges, and in the middle of the western side of the Dalebrook foundation, a grill recessed in the ground still exists as I write this as evidence of this past configuration.
 
-Then, consulting a *current* topographical map shows what is evident to my naked eye, that the slope of the ground over this portion of the raceway is very gradual. Note that a topographical line falls across the approximate area of the mill pond edge that is closest to the grist mill, but otherwise, this topographical map indicates the land from the western side of Brookton's Market to past the point of Todi's fence, completely encompassing the mill tailrace in the area being considered and for a large area around it, descends less than ten feet:
+(It should be noted however, that as I recall Frank explaining to me, the functional areas of the former mill are currently inaccessible behind a concrete wall, and he has never seen that area himself.)
+
+Consulting a *current* topographical map shows what is evident to my naked eye, that the slope of the ground over this portion of the raceway is very gradual. Note that a topographical line falls across the approximate area of the mill pond edge that is closest to the grist mill, but otherwise, this topographical map indicates the land from the western side of Brookton's Market to past the point of Todi's fence, completely encompassing the mill tailrace in the area being considered and for a large area around it, descends less than ten feet:
 
 {{% fig "brookton/maps/topographical-map" "800" /%}}
 
 The topography suggests a reason for why the raceway was built to follow a gradual southwest diagonal course under the road: over a shallow grade, a straighter course offers less resistance to the flow of water. And in fact, this is how Six Mile Creek itself crosses Brooktondale Road presently as multiple maps, including the topographical map, as well as photographs, including two presented further below, all attest. It wasn’t always this way, and I will explain that further on. 
 
-Although I was initially tempted to believe that the 1912 highway survey shows the eastern property boundary of Mills' Home aligning with the end of the Mill Race Bridge, which could help derive an estimate for the span of the bridge, it appears that this line, labelled "R818", is not intended to represent the property boundary, at least, not directly. Note that this line is solid like other measurement lines on the map, and it is not dashed like the other property lines shown. Also, there is a line to the east of Mulk's store with the same label, which seems to indicate a relationship between the two lines that I admittedly don't understand currently, but which could perhaps be reasonably accurately measured today to provide further inside into Mill Race Bridge’s position. Regardless, it seems that **the eastern boundary line is not represented on this map**.
+Although I was initially tempted to believe that the 1912 highway survey shows the eastern property boundary of Mills' Home aligning with the end of the Mill Race Bridge, which could help derive an estimate for the span of the bridge, it appears that this line, labelled "R818", is not intended to represent the property boundary, at least, not directly. Note that this line is solid like other measurement lines on the map, and it is not dashed like the other property lines shown. Also, there is a line to the east of Mulk's store with the same label, which seems to indicate a relationship between the two lines that I admittedly don't understand currently, but which could perhaps be reasonably accurately measured today to provide further inside into Mill Race Bridge’s position. Regardless, it seems that **the shared boundary line designating the eastern edge of Mills' Home and the western edge  of Dalebrook is not represented on the 1912 highway survey**.
 
 The next logical question in my mind was about the bridge design: would it have been built at a diagonal, simply following the course of the raceway channel and having offset guard rails, as depicted with the solid, horizontal green lines below, or would it be squared up, so that the abutments on each side fell on lines perpendicular to the road, as depicted with the vertical dashed green lines below. The depiction of the diagonal orientation is based on the assumption that the upper guard rail (or some part of the bridge structure) is represented on the map, that I then replicated at the correct angle on the southern edge of the road along with a portion of the bridge over the cement walk that also must have existed. The dashed vertical red line estimates the center of the Mill Race Bridge at the center of Creek Road
 
@@ -83,12 +84,13 @@ For now, I will point out that we don’t have to look far for an example of eac
 
 This photo was likely taken in the window of time between the first two Mills' Home deeds that first describe the Mill Race Bridge, based on the purported presence of William Gale's tin shop, as explained in the section exploring [the stone foundation of Mills' Home]({{% relref "property-features/#the-stone-foundation" %}})
 
-But as I will explore further below, along with photograph showing it, the configuration of the lower bridge changed in the 1960's, as what are presently named Brooktondale Road and Valley Road, and which had been two visually distinct roads joined at the lower bridge, were joined in such a way as to straighten the course of the roads at the bridge, with the bridge oriented diagonally over the creek and guard rails on each side offset from the bridge center. 
+But as I will explore further below, along with photograph showing it, the configuration of the lower bridge changed in the 1960's, as what are presently named Brooktondale Road and Valley Road, and which had been two visually distinct roads connected by the lower bridge, were joined in such a way as to straighten the course of the roads at the bridge, with the bridge oriented diagonally over the creek and guard rails on each side offset from the bridge center. 
 
 But ultimately, because these 1912 maps are highway surveys and not property surveys, and because it is clear that the represented property boundaries and structures were not measured for the purposes of these surveys, I conclude that all property boundaries on the 1912 highway surveys should be interpreted as approximations, as should the placement of physical structures such as dwellings, and the Mill Race Bridge, and even landmarks such as the mill raceway itself. If it is not measured, I assume it is merely illustrative. 
 
 So, where exactly was the bridge relative to Mills' Home? What follows are my best attempts to estimate the location of the mill race bridge based on references to it in historical deeds and associated property survey maps of Mills' Home and Dalebrook. Essentially, to understand the location of the Mill Race Bridge, one must understand the history of the boundary line shared by Mills' Home and Dalebrook, which is not straightforward.  
 
+<!--
 ## The Original Surveys
 
 The goal of this section is to correctly interpret the two Mills' Home deed descriptions from the 1800's. These descriptions described the property for more than two decades after Emily died.  
@@ -450,6 +452,10 @@ Magnetic 1869 and 1883 on Miller shows the center of the Mill Race Bridge inters
 
 1883 also suggests that at that time, the road apparently does not yet begin to curve toward Dalebrook (the grist mill) until some point after the 1883 Place of Beginning. 
 
+-->
+
+<!--
+ 
 ## The Modern Surveys
 
 The 1869 pseudo-survey in which the steps and points described above are indicated: 
@@ -800,6 +806,9 @@ The documentary evidence suggests that I may be the first person to know the cor
 
 It is interesting to me that the area on the eastern side of Mills' Home that is encompassed by the Magnetic interpretation is the same approximate area area that I already maintained since moving in. When I purchased Mills' Home, Frank Proto offered to extend an agreement he had with Andrea Talmadge, that I could plant what I wanted in that area and maintain it as if it were part of my property, and so I have kept it mowed and tidy from the beginning of my tenure.
 
+-->
+
+<!--
 
 ## Independently Measuring Point D
 
@@ -868,6 +877,9 @@ But even more frustratingly, when this "about 110 feet" description was written,
 
 Therefore, I have to conclude that this measurement is inaccurate and unfortunately, it only further obscures the location of Point D.
 
+-->
+
+
 ## Echoes of the Tailrace
 
 <a href="gpr-report.pdf"></a>
@@ -882,13 +894,40 @@ The following survey from 1951 depicts the final feet of the "former mill tailra
 
 {{% fig "brookton/maps/BF000660-001" "800" /%}}
 
+<figure>
+<blockquote>
+<p>
+I really don't know anything about the building of 475, unfortunately.
+</p>
+<p>
+Early on after moving there, I did have the unique and wonderful opportunity to meet an elderly man - Carl English who stopped by to chat while I was gardening.
+</p>
+<p>
+I don't remember all of the info he shared....his family owned a dairy farm operation which included land that went from their home (large brick house at the corner of Quarry and Snyder Hill Rds) all the way down into Brooktondale.
+</p>
+<p>
+As a young boy, he and his brother had been part of a work crew hired to fill in the creek / stream that ran from the mill pond (between you and the Dalebrook)...across B'dale Rd...through what's now an empty field between the Andersson's and the Todi's property....into Six Mile Creek.  There was a bridge near 475 giving it the nickname "bridge's house" or something like that.  This fill-in, while successful, resulted in fairly unstable land.
+<p>
+</blockquote>
+<figcaption>
+<cite>
+— 05 Feb 2021, Andrea Talmadge, via personal correspondence.
+</cite>
+</figcaption>
+<aside>
+
+  - [Carl L. English](https://www.findagrave.com/memorial/99491454/carl-l-english) (30 Dec 1909 to 30 Aug 1996) was a long-time member of the Congregational Church. 
+
+</aside>
+</figure>
+
 As I write this, based on Andrea Talmadge's recollections of her conversation with Carl English, the mill raceway still exists, hidden underground, filled with stone instead of water. The remaining physical evidence, which would include soil disturbances from the creation of the channel and placement of bridge infrastructure, such as abutments, suggested to me the possibility that the location of the mill race bridge, and indeed, the entire length of the mill raceway could potentially be re-charted if this evidence could be uncovered.
 
 Obviously, the methods used must be non-invasive and non-destructive. I was vaguely aware of ground penetrating radar (GPR) and found a local company willing to try to locate the raceway based on my descriptions.
 
 <figure>
 
-> Ground-penetrating radar (GPR) is a geophysical method that uses radar pulses to image the subsurface. It is a non-intrusive method of surveying the sub-surface to investigate underground utilities such as concrete, asphalt, metals, pipes, cables or masonry.[1] This nondestructive method uses electromagnetic radiation in the microwave band (UHF/VHF frequencies) of the radio spectrum, and detects the reflected signals from subsurface structures. GPR can have applications in a variety of media, including rock, soil, ice, fresh water, pavements and structures. In the right conditions, practitioners can use GPR to detect subsurface objects, changes in material properties, and voids and cracks. 
+> Ground-penetrating radar (GPR) is a geophysical method that uses radar pulses to image the subsurface. It is a non-intrusive method of surveying the sub-surface to investigate underground utilities such as concrete, asphalt, metals, pipes, cables or masonry. This nondestructive method uses electromagnetic radiation in the microwave band (UHF/VHF frequencies) of the radio spectrum, and detects the reflected signals from subsurface structures. GPR can have applications in a variety of media, including rock, soil, ice, fresh water, pavements and structures. In the right conditions, practitioners can use GPR to detect subsurface objects, changes in material properties, and voids and cracks. 
 >
 > GPR uses high-frequency (usually polarized) radio waves, usually in the range 10 MHz to 2.6 GHz. A GPR transmitter and antenna emits electromagnetic energy into the ground. When the energy encounters a buried object or a boundary between materials having different permittivities, it may be reflected or refracted or scattered back to the surface. A receiving antenna can then record the variations in the return signal. The principles involved are similar to seismology, except GPR methods implement electromagnetic energy rather than acoustic energy, and energy may be reflected at boundaries where subsurface electrical properties change rather than subsurface mechanical properties as is the case with seismic energy.
 
@@ -935,7 +974,7 @@ I want to briefly note that an isolated marking was also made that falls approxi
 
 (Note that the spray paint appears darker red on the grass, and pink on the asphalt road.)
 
-After crossing the Mandeville Line, the raceway turns toward the road close to the small magnolia tree:
+After crossing the shared boundary line, the raceway turns toward the road close to the small magnolia tree:
 
 {{% fig "adams-photos/mill-race/2023-06-30_07.23.46-mod" "800" /%}}
 {{% fig "adams-photos/mill-race/2023-06-29_09.22.59-mod" "800" /%}}
@@ -961,7 +1000,7 @@ In the weeks leading up to this scan, the shed was re-sided. The door was not ye
 {{% fig "adams-photos/mill-race/2023-07-01_07.41.18-mod" "800" /%}}
 {{% fig "adams-photos/mill-race/2023-07-01_07.43.25-mod" "800" /%}}
 
-These photos show that the center of the raceway on the southern side of Brooktondale Road is on a line perpendicular to the road that approximately aligns with the southwest corner of the original foundation of Mills’ Home, the Place of Beginning of 1869 interpreted as True north.
+These photos show that the center of the raceway on the southern side of Brooktondale Road is on a line perpendicular to the road that approximately aligns with the southwest corner of the original foundation of Mills’ Home.
 
 {{% fig "adams-photos/mill-race/2023-07-01_11.49.52-mod" "800" /%}}
 
@@ -979,6 +1018,8 @@ And to get a better sense of how Emily would have experiences the Mill Race Brid
 
 {{% fig "adams-photos/mill-race/2023-07-06_16.01.14" "800" /%}}
 {{% fig "adams-photos/mill-race/2023-07-06_16.01.14-lines" "800" /%}}
+
+<!--
 
 I took my own measurements based on landmarks that are depicted on Dresser's 2023 survey completed a few months prior. Measurements of the utility pole and Point B were taken perpendicular to the road at the road edge.
 
@@ -1053,10 +1094,12 @@ One final point to consider is the potential impact the Mill Race Bridge had on 
 
 This may provide more context for understanding the change in Place of Beginning in 1883. Aside from being simpler and more direct, the 1883 placement very effectively eliminates the possibility of the Mill Race Bridge obstructing the line. This might support the idea that the Mill Race Bridge changed in the intervening time and either was obstructing the line of 1869 Step 2 in 1883, or perhaps the 1883 surveyor considered the possibility of such an obstruction in the future, and he moved the Place of Beginning accordingly.
 
+-->
+
 
 ## Dowsing
 
-The technician suggested walking with a "divining rod" to further corroborate the results of the ground penetrating radar, and of course, I was curious. While he admitted that it was a questionable practice, he claimed that it actually is widely used in oil drilling and other domains. It had been raining in the days prior, and he reasoned that the compacted earth of the raceway, filled with rocks, would be a likely channel for water still. 
+The ground penetrating radar technician suggested walking with a "divining rod" to further corroborate the results of the ground penetrating radar, and of course, I was curious. While he admitted that it was a questionable practice, he claimed that it is actually used widely in oil drilling and other domains. It had been raining in the days prior, and he reasoned that the compacted earth of the raceway, filled with rocks, would be a likely channel for water still. 
 
 As I write this, dowsing/divining has long been considered a pseudo-science. It is my understanding that it has not been replicated in controlled scientific tests.
 
@@ -1072,9 +1115,9 @@ As I write this, dowsing/divining has long been considered a pseudo-science. It 
 </cite>
 </figcaption>
 
-The rod he used was from a "pin flag" identical to the ones used to mark where he had painted the edges of the raceway, as seen in the photographs of the event. The flag had been removed and the rod bent at a ninety degree angle, one side significantly shorter than the other. He walked along the northern edge of Brooktondale Road, from west to east going in the direction of Mills' Store, holding the shorter side of the bent rod in his closed right hand in front of him, the rod pointed east parallel to the road. As he crossed the detected western edge, the rod began to turn, and by the time he reached the mid point between the two detected edges, the rod had turned fully toward the south and then the southwest, the detected course of the raceway, seemingly verifying what the GPR had detected. 
+The rod he used was from a "pin flag" identical to the ones used to mark where he had painted the edges of the raceway, as seen in the photographs of the event. The flag had been removed and the rod bent at a ninety degree angle, one side significantly shorter than the other. He walked along the northern edge of Brooktondale Road, from west to east going in the direction of Mills' Store, holding the shorter side of the bent rod in his closed right hand in front of him, the rod pointed east parallel to the road. As he crossed the *previously detected* western edge, the rod began to turn, and by the time he reached the mid point between the two detected edges, the rod had turned fully toward the south and then the southwest, the detected course of the raceway, seemingly verifying what the GPR had detected. 
 
-I asked if I could try, and after brief instruction, I replicated his process described above, and with similar results. I must admit that I only walked from a point several feet west of the western edge detected to a point several feet east of the eastern point detected, so I didn’t really have even that as a control to compare against, but as I crossed the western edge, the rod began to waver, and as I approached the center of the supposed raceway, it swung very definitively to the south and then the southwest as I continued. It certainly seemed to me as though the rod had moved on its own without my influence. If nothing else, it was very amusing to me. 
+I asked if I could try, and after brief instruction, I replicated his process described above, and with similar results. I must admit that I only walked from a point several feet west of the western edge detected to a point several feet east of the eastern point detected, but as I crossed the western edge, the rod began to waver, and as I approached the center of the supposed raceway, it swung very definitively to the south and then the southwest as I continued. It certainly seemed to me as though the rod had moved on its own without my influence. If nothing else, it was quite amusing to me. 
 
 ## The Barn
 
@@ -1108,14 +1151,16 @@ I also had the indicated area scanned by ground penetrating radar on 29 Jun 2023
 </figcaption>
 </figure>
 
-Perhaps a future owner of Mills’ Home will try again to locate these structures using better non-invasive technology, more sensitive and more accurate, and perhaps that person will approach the endeavor with a better understanding of what they are looking for and where than I have been able to acquire myself.  
+Perhaps a future owner of Mills’ Home will try again to locate these structures using better non-invasive technology, more sensitive and more accurate, and perhaps that person will approach the endeavor with a better understanding of what they are looking for, and where, than I have been able to acquire myself.  
+
+
+<!--.
 
 
 ## Scratch
 
 
 
-<!--.
 Because the 1869 and 1883 descriptions use matching bearings for the eastern boundary line, I will initially reconcile the two descriptions by using a Magnetic declination of **6°** for both, based on the table of Magnetic declinations already given, which should be adequate for this purpose. (There are 60 seconds in a minute and 60 minutes in a degree, so the difference in declination between the two dates is 1° 8', making the midpoint between the two measurements 6° 18' and I further rounded this down to 6° to match the precision of the original measurements, which do not specify minutes or seconds. )  
 -->
 <!--
@@ -1143,7 +1188,6 @@ Now 1883, likewise adjusted for Magnetic 6° declination:
 And now overlaying Magnetic 1869 and Magnetic 1883 so that Points B and C line up, results in a nearly perfect match, much closer to reconciling than any attempt thus far, and tantalizingly close to closing The Mandeville Triangle:
 
 {{% fig "brookton/maps/475-brookton/475-magnetic/mag-1869-1883-bc" "800" /%}}
--->
 
 
 

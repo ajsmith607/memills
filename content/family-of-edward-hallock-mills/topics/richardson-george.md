@@ -7,7 +7,7 @@ weight: 900
  
 <!--more-->
 
-George Richardson's father Jerome worked on the railroad alongside Jerome Miller's father John, and Alfred Gould, who was Ellen Gould's second husband. 
+George Richardson's father Jerome worked on the railroad alongside Jerome Miller's father John, as well as Alfred Gould, Ellen Gould's second husband. 
 
 George married [Emma Allen Richardson](https://www.findagrave.com/memorial/189275685/emma-richardson) (1868 to 18 May 1918) in 1886, and had the following children born in Brookton:
 
@@ -38,17 +38,17 @@ George, along with Emily Mills and others in the hamlet, was a member of the “
 {{% fig "temperance/1880-02-11-Ithaca-Daily-Journal-Ithaca-NY-p4b" "350" /%}}
 {{% fig "temperance/1880-02-18-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
-The 1900 census shows that he owned his family home in Caroline free of a mortgage, and the same was true of his house on Third Street in Ithaca.
 
 {{% fig "1885-08-13-Ithaca-Daily-Journal-p3" "500" /%}}
-{{% fig "george-richardson/1897-05-01-The-Ithaca-Daily-Journal-Ithaca-NY-p8" "500" /%}}
-
-It is interesting to note that apparently George continued working in the postoffice of E. H. Mills even after he began his own grocery business at Personius Hall.
 
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "500" /%}}
 {{% fig "george-richardson/1887-06-01-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
 
 {{% fig "mills-home/1887-12-29-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+{{% fig "george-richardson/1897-05-01-The-Ithaca-Daily-Journal-Ithaca-NY-p8" "500" /%}}
+
+The 1900 census shows that he owned his family home in Caroline free of a mortgage, and the same was true of his house on Third Street in Ithaca.
 
 <div class="cols">
 {{% fig "george-richardson/1903-07-06-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "350" /%}}
@@ -104,6 +104,6 @@ I have not yet been able to positively identify and contact living descendants o
 
 ## Notes for Future Researchers
 
-There are multiple George Richardsons in Tompkins County during George H. Richardson's life, including at least two others in Ithaca during the time he lived there.
+There appears to be at least one other George Richardson living in Ithaca during the time this subject lived there.
 
 

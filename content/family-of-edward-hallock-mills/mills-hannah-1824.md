@@ -259,6 +259,24 @@ Hannah (Thatcher) Mills:
 {{% fig "thatcher/grave-photos/hannah-zoomed-grayscale" "350" /%}}
 </div>
 
+<figure class="quote-only">
+
+> "Hannah Thatcher Mills" is buried in Pleasant Grove Cemetery with her parents, Thomas and Elizabeth (Crosby)Thatcher.   Her stone identifies her as the daughter of Thomas and Elizabeth Thatcher.   Their names are on the same marker and it is in the front of the cemetery in what I identified as section one and her marker is the fourth one in from the north and in the third row in from the east.  The dates on Hannah's marker for her are 1825 - 1917.   Thomas Thatcher's dates are July 3, 1785 - June 17, 1863 and his wife, Elizabeth Crosby Thatcher are Feb. 12, 1790 - Mar. 29, 1873.  The names and dates for William P. and Elizabeth Vanderveere are also on the same Thatcher marker.  Their dates are William P. Vanderveere, Sept. 4, 1831 - May 27, 1882 and his wife Elizabeth Vanderveere, 1829 - 1888.   The marker states that she is William P.'s wife.    
+>
+>I have made a spreadsheet containing all of the names that I have found in over 100 local cemeteries and I have only found the names for 5 other Mills and they are in the Curtis Cemetery in Danby and the Ithaca City Cemetery.  
+
+<figcaption>
+— <cite>22 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
+</figcaption>
+<aside>
+
+  - A copy of the spreadsheet mentioned above is on file with the Tompkins County Clerk's Office in Ithaca NY.
+
+</aside>
+</figure>
+
+
+
 ## The Thatchers
 
 Hannah's parents:
@@ -289,7 +307,7 @@ Hannah's siblings:
 
 Currently unknown:
 
-  - [Myron N. Tompkins](https://www.findagrave.com/memorial/188088574/myron-n-tompkins) (1859 to 21 Mar 1911) former Dean of the Tompkins county bar. I do not currently know the relationship between Myron and the other Tompkins', if any, but he is the person Hannah named as her executor.
+  - [Myron N. Tompkins](https://www.findagrave.com/memorial/188088574/myron-n-tompkins) (1859 to 21 Mar 1911) former Dean of the Tompkins county bar. I do not currently know the relationship between Myron and the other Tompkins', assuming there is one, but he also lived in Newfield and was the person Hannah named as her executor. Interestingly, Myron was a contemporary of fellow lawyer, Horace N. Humiston Jr., the son of Reverend Horace N. Humiston, who [briefly owned Mills' Home]({{% relref "other-past-owners.md#reverend-horace-n-humiston-sr" %}}).
 
   - Edgar Thatcher. I initially thought this was a mistaken reference to Edward Thatcher, and that is still a possibility, but I have seen this name referenced in a few places, so perhaps not. I have been unable to identify this person.
 

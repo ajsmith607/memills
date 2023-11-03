@@ -67,7 +67,7 @@ His obiturary, which republishes significant portions of his Mills genealogical 
 
 ## Mills Genealogy  
 
-Prepared by Samuel Wickham Mills, and scans provided courtesy of Nancy Conod, Executive Director of Minisink Valley Historical Society, Port Jervis NY, from their collections, used with permission. The originals were typewritten with the author's handwritten corrections.
+Prepared by Reverend Samuel Wickham Mills, and scans provided courtesy of Nancy Conod, Executive Director of Minisink Valley Historical Society, Port Jervis NY, from their collections, used with permission. The originals were typewritten with the author's handwritten corrections.
  
 {{% fig "genealogy/swm/swm-gen-p01" "800" "img,blockquote,link"/%}}
 {{% fig "genealogy/swm/swm-gen-p02" "800" "img,blockquote,link" /%}}

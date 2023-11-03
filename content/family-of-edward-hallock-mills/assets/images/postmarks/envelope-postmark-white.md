@@ -1,5 +1,5 @@
 ---
-citation: "Tompkins County History Center."
+citation: "Tompkins County History Center, Ithaca NY."
 ---
 BROOKTON, TOMPKINS CO. NEW YORK
 
