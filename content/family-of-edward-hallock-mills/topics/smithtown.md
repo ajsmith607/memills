@@ -274,7 +274,7 @@ According to Alfred Frankenstein's index of Mount's works, Mount painted the fol
 
 </blockquote>
 <figcaption>
-<cite>— 27 Sep 2022, Andrea Squeri, Collections Manager at The Long Island Museum via personal correspondence. 
+<cite>— 27 Sep 2022, Andrea Squeri, The Long Island Museum, personal correspondence. 
 </cite>
 </figcaption>
 </figure>
@@ -322,7 +322,7 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
   </ul>
 </blockquote>
 <figcaption>
-<cite>— 28 Jun 2022, person correspondence with Cynthia Van Ness, Director of Library & Archives at The Buffalo History Museum, Buffalo NY.  
+<cite>— 28 Jun 2022, Cynthia Van Ness, The Buffalo History Museum, personal correspondence.  
 </cite>
 </figcaption>
 </figure>

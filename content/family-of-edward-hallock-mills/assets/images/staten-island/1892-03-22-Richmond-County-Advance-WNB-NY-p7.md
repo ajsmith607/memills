@@ -11,7 +11,7 @@ media:  ""
 quaddress:  ""
 notes: >-
 
-  - Newspapers.com indicates the corresponding page image for this item is from 1890, however, an examination of the original will provide many items proving the correct date is in March 1892.
+  - Nyshistoricnewspapers.org indicates the corresponding page image for this item is from 1890, however, an examination of the original will provide many items proving the correct date is in March 1892.
 
 ---
 OBITUARY.

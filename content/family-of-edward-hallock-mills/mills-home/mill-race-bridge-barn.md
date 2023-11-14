@@ -550,7 +550,7 @@ As a young boy, he and his brother had been part of a work crew hired to fill in
 </blockquote>
 <figcaption>
 <cite>
-— 05 Feb 2021, Andrea Talmadge, via personal correspondence.
+— 05 Feb 2021, Andrea Talmadge, personal correspondence.
 </cite>
 </figcaption>
 <aside>
@@ -574,7 +574,7 @@ Gracie Van Demark (yes, as in Van Demark Rd) told me that B'dale Rd and Valley R
 </blockquote>
 <figcaption>
 <cite>
-— 05 Feb 2021, Andrea Talmadge, via personal correspondence.
+— 05 Feb 2021, Andrea Talmadge, personal correspondence.
 </cite>
 </figcaption>
 <aside>
@@ -646,7 +646,7 @@ When Howard Schlieder surveyed Mills' Home in 1980, he apparently detected Rice'
 
 (To be very clear, "1970" is not a year, but references a physical volume.)
 
-Notice that the eastern boundary in the Rice survey intersects the large oak tree on the hill, whereas Miller, Schlieder, and Dresser all show the center of the crown of the same tree approximately 5 feet west of the boundary line, well within the Mills' Home lot.
+Notice that the eastern boundary in the Rice survey intersects the large oak tree on the hill, whereas Miller, Schlieder, and Dresser all show the center of the same tree approximately 5 feet west of the boundary line, well within the Mills' Home lot.
 
 <div class="cols">
 {{% fig "brookton/maps/475-brookton/oak-miller" "200" /%}}
@@ -911,7 +911,7 @@ As a young boy, he and his brother had been part of a work crew hired to fill in
 </blockquote>
 <figcaption>
 <cite>
-— 05 Feb 2021, Andrea Talmadge, via personal correspondence.
+— 05 Feb 2021, Andrea Talmadge, personal correspondence.
 </cite>
 </figcaption>
 <aside>
@@ -1011,7 +1011,7 @@ Recall that Todi's fence noticeably dips where it crosses the former raceway.
 {{% fig "adams-photos/mill-race/2023-06-29_08.58.53-mod" "800" /%}}
 {{% fig "adams-photos/mill-race/2023-07-01_09.23.29-mod" "800" /%}}
 
-And to get a better sense of how Emily would have experiences the Mill Race Bridge, I offer the following photographs viewing it from the windows of her home. (The photographs show reflections on the windows and the window screens are also apparent.)
+And to get a better sense of how Emily would have experienced the Mill Race Bridge, I offer the following photographs viewing it from the windows of her home. (The photographs show reflections on the windows and the window screens are also apparent.)
 
 {{% fig "adams-photos/mill-race/2023-07-06_19.18.49" "800" /%}}
 {{% fig "adams-photos/mill-race/2023-07-06_19.18.49-lines" "800" /%}}
@@ -1099,7 +1099,7 @@ This may provide more context for understanding the change in Place of Beginning
 
 ## Dowsing
 
-The ground penetrating radar technician suggested walking with a "divining rod" to further corroborate the results of the ground penetrating radar, and of course, I was curious. While he admitted that it was a questionable practice, he claimed that it is actually used widely in oil drilling and other domains. It had been raining in the days prior, and he reasoned that the compacted earth of the raceway, filled with rocks, would be a likely channel for water still. 
+Mike Bishop, the ground penetrating radar technician suggested walking with a "divining rod" to further corroborate the results of the ground penetrating radar, and of course, I was curious. While he admitted that it was a questionable practice, he claimed that it is actually used widely in oil drilling and other domains. It had been raining in the days prior, and he reasoned that the compacted earth of the raceway, filled with rocks, would be a likely channel for water still. 
 
 As I write this, dowsing/divining has long been considered a pseudo-science. It is my understanding that it has not been replicated in controlled scientific tests.
 
@@ -1115,7 +1115,7 @@ As I write this, dowsing/divining has long been considered a pseudo-science. It 
 </cite>
 </figcaption>
 
-The rod he used was from a "pin flag" identical to the ones used to mark where he had painted the edges of the raceway, as seen in the photographs of the event. The flag had been removed and the rod bent at a ninety degree angle, one side significantly shorter than the other. He walked along the northern edge of Brooktondale Road, from west to east going in the direction of Mills' Store, holding the shorter side of the bent rod in his closed right hand in front of him, the rod pointed east parallel to the road. As he crossed the *previously detected* western edge, the rod began to turn, and by the time he reached the mid point between the two detected edges, the rod had turned fully toward the south and then the southwest, the detected course of the raceway, seemingly verifying what the GPR had detected. 
+The rod he used was from a "pin flag" identical to the ones used to mark where he had painted the edges of the raceway, as seen in the photographs of the event. The flag had been removed and the rod bent at a ninety degree angle, one side significantly shorter than the other. He walked along the northern edge of Brooktondale Road, from west to east going in the direction of Mills' Store, holding the shorter side of the bent rod in his closed right hand in front of him, the rod pointed east parallel to the road. As he crossed the *previously detected and marked* western edge, the rod began to turn, and by the time he reached the mid point between the two detected edges, the rod had turned fully toward the south and then the southwest, the detected course of the raceway, seemingly verifying what the GPR had detected. 
 
 I asked if I could try, and after brief instruction, I replicated his process described above, and with similar results. I must admit that I only walked from a point several feet west of the western edge detected to a point several feet east of the eastern point detected, but as I crossed the western edge, the rod began to waver, and as I approached the center of the supposed raceway, it swung very definitively to the south and then the southwest as I continued. It certainly seemed to me as though the rod had moved on its own without my influence. If nothing else, it was quite amusing to me. 
 
@@ -1479,3 +1479,6 @@ John Mandeville along with William B. Wolcott and Charles Personius were photogr
 -----
 
 Creek road is the one place where the bearings of 1869 and 1883 *should* match, as Creek Road is referenced by each as a landmark with no specific bearing given. For this scenario, I will adjust the angle of Creek Road from 64° 30' True, used thus far, to 66° True. This bearing more closely matches the angles of Mandeville's Triangle, which are 90, 24 and 66 when rounded to whole degrees. (90 + 24 + 66 = 180)  It should be kept in mind, however, that 66° True north is a bit outside of the expected range as indicated by the historical readings for Creek Road already summarized above, which are all under 65°, and it most closely matches Dresser's 2023 reading of 64° 57' True (adjusted for Magnetic declination), slightly more than a degree difference. Finally, only Point C will be relied upon to align the pseudo-surveys.
+
+
+--> 

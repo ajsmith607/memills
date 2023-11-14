@@ -120,7 +120,7 @@ I was born in 1967, my folks had moved in earlier that year (or was it actually 
 </blockquote>
 <figcaption>
 <cite>—
-25 Dec 2021, Luke Jones via personal correspondence.
+25 Dec 2022, Luke Jones, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -166,7 +166,7 @@ I'm fairly certain that Larry Lattin rewired the entire house - but I could be w
 </blockquote>
 <figcaption>
 <cite>
-— 07 Jan 2020, Andrea Talmadge, via personal correspondence.
+— 07 Jan 2020, Andrea Talmadge, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -214,7 +214,7 @@ At any rate, the back wall of the original house was demolished by the Lattins (
 </blockquote>
 <figcaption>
 <cite>
-— 07 Jan 2020, Andrea Talmadge, via personal correspondence.
+— 07 Jan 2020, Andrea Talmadge, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -227,7 +227,7 @@ There was a functioning drain in the floor - it went under the road...through th
 </blockquote>
 <figcaption>
 <cite>
-— 07 Jan 2020, Andrea Talmadge, via personal correspondence.
+— 07 Jan 2020, Andrea Talmadge, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -281,7 +281,7 @@ If it's still there, my ex-husband installed the cast iron stove in the back roo
 </blockquote>
 <figcaption>
 <cite>—
-24 Dec 2021, Clara B. Jones via personal correspondence.
+24 Dec 2022, Clara B. Jones, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -293,7 +293,7 @@ Regarding the photo of the stove you sent my mother Clara, there was a wall sepa
 </blockquote>
 <figcaption>
 <cite>—
-25 Dec 2021, Luke Jones via personal correspondence.
+25 Dec 2022, Luke Jones via personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -362,7 +362,7 @@ I did a bit of renovating in the 2 small bedrooms upstairs.
 </blockquote>
 <figcaption>
 <cite>—
-24 Dec 2021, Clara B. Jones via personal correspondence.
+24 Dec 2022, Clara B. Jones, personal correspondence.
 </cite>
 </figcaption>
 </figure>

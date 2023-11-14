@@ -72,7 +72,7 @@ The history and genealogy of the Hallock family in America has been painstakingl
 
 {{% fig "hallock/hallock-genealogy-tabulation-p15b" "800" /%}}
 
-The Hallock name was brought to America by Peter Hallock "the original", who was a pilgrim fleeing persecution. The Hallock name began branching in the third generation, with the four sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
+The Hallock name was brought to America by Peter Hallock "the original", who was a pilgrim fleeing religious persecution. The Hallock name began branching in the third generation, with the four sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p9" "800" /%}}
 
@@ -142,7 +142,9 @@ What follows is a sampling of some of the more interesting news items related to
 {{% fig "hallock/1877-06-07-The-Ithaca-Journal-p4" "500" /%}}
 {{% fig "hallock/1901-04-04-The-Ithaca-Daily-Journal-p5" "500" /%}}
 
-So, while there is a good probability that the two men were at least aware of each other, living in nearby communities and in the same line of work, I also suspect that because the Hallock family relationship was so distant, it may have been unknown to them, and is unlikely to be a factor in the Mills' decision to move to Mott's Corners. 
+So, while there is a good probability that the William Hallock and Edward Mills were at least aware of each other, living in nearby communities and in the same general line of work, I also suspect that because the Hallock family relationship was so distant, it may have been unknown to them, and therefore would seem to be an unlikely to be a factor in the Mills' decision to move to Mott's Corners. 
+
+(But the question remains, why did Edward choose to move to Mott's Corners? How did he become aware of the opportunity to take over George Sander's store?)
 
 [William B. Hallock](https://www.findagrave.com/memorial/66471939/william-b-hallock) (07 Jul 1822 to 29 Mar 1901) married [Sarah (Fleming) Hallock](https://www.findagrave.com/memorial/66472059/sarah-hallock) (08 Dec 1829 to 19 Oct 1910). 
 
@@ -190,7 +192,7 @@ Records of the Mattituck Presbyterian Church, which Edward's grandfather Thomas 
 Spelling was flexible back in the day. There were lots of variants on the Hallock name, and sometimes different descendants used different spellings.
 </blockquote>
 <figcaption>
-<cite>— 21 Jul 2021, personal correspondence with Richard Wines, Hallockville Farm Museum board member. 
+<cite>— 21 Jul 2021, Richard Wines, Hallockville Farm Museum, personal correspondence. 
 </cite>
 </figcaption>
 </figure>

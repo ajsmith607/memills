@@ -316,7 +316,7 @@ My knowledge of the Mills family history has always been a bit sketchy, and as f
 </blockquote>
 <figcaption>
 <cite>
-— 24 Oct 2022, Charles D. Warren, via personal correspondence.
+— 24 Oct 2022, Charles D. Warren, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -399,7 +399,7 @@ However, we do have other loose photos of individuals in A-Z order by surname. I
   </ul>
 </blockquote>
 <figcaption>
-<cite>— 28 Jun 2022, person correspondence with Cynthia Van Ness, Director of Library & Archives at The Buffalo History Museum, Buffalo NY.  
+<cite>— 28 Jun 2022, Cynthia Van Ness, The Buffalo History Museum, personal correspondence.  
 </cite>
 </figcaption>
 </figure>
@@ -411,7 +411,7 @@ The photograph of a Mills home in Buffalo still in the possession of The Buffalo
 The house at 111 Park Street turns out to have been the home of William & Deborah Mills. She lived in it as a widow until 1882, when the family sold it after her death.
 </blockquote>
 <figcaption>
-<cite>—14 Jul 2022, person correspondence with Cynthia Van Ness, Director of Library & Archives at The Buffalo History Museum, Buffalo NY.  
+<cite>—14 Jul 2022, Cynthia Van Ness, The Buffalo History Museum, personal correspondence.  
 </cite>
 </figcaption>
 </figure>
@@ -696,7 +696,7 @@ I think the disputes between Warren and Matthews that appear in print are pretty
 </blockquote>
 <figcaption>
 <cite>
-— 28 Oct 2022, Charles D. Warren, via personal correspondence.
+— 28 Oct 2022, Charles D. Warren, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -838,7 +838,7 @@ The Warren and Mills family stayed close together. Both James D. Warren and his 
 </blockquote>
 <figcaption>
 <cite>
-— 28 Oct 2022, Charles D. Warren, via personal correspondence.
+— 28 Oct 2022, Charles D. Warren, personal correspondence.
 </cite>
 </figcaption>
 </figure>
@@ -940,7 +940,7 @@ I have quite a lot of information about James D. Warren, his antecedents, and hi
 </blockquote>
 <figcaption>
 <cite>
-— 24 Oct 2022, Charles D. Warren, via personal correspondence.
+— 24 Oct 2022, Charles D. Warren, personal correspondence.
 </cite>
 </figcaption>
 </figure>

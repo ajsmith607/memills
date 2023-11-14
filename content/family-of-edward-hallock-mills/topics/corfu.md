@@ -32,17 +32,15 @@ As can be seen in the 1863 tax assessment documents, the Mills' store is entered
 
 {{% fig "corfu/location-timelines-3" /%}}
 
-Most of what I've learned about the Mills' time in Corfu is the result of prior research over a period of many years by Alan Starkweather, Corfu Village Historian, which he has generously shared and allowed me to republish here.
+Most of what I've learned about the Mills' time in Corfu is the result of prior research over a period of many years by Alan Starkweather, Corfu Village Historian, which he has generously shared and allowed me to republish here. Alan painstakingly documented Corfu over many years including research specifically on the Mills family.
 
 There is also a June 1863 Civil War Draft Registration record in Genesee County for Edward where his occupation was listed as "merchant":
 
 {{% fig "1863-edward-civil-war-draft" "800" /%}}
 
-
 In Mar 1864, the Mills purchased their home in Corfu at what is presently 31 West Main Street:
 
 {{% fig "corfu/1864-03-09-pembroke-deeds-book-124-page-415" "800" /%}}
-
 
 {{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
 
@@ -55,7 +53,7 @@ It would appear that "James M. Hillyer" is an error as the James Hillyer that is
 
 From the documents available to me, that include city directories and census data, I see no evidence that James Hillyer or Charles Pine ever lived in Corfu, and instead multiple sources in the 1860's and 1870's tie them only to Castleton, and I get the sense that they were probably more in the role of investors and possibly advisers and likely not involved in the day-to-day operations of the store.  For more information on Charles Pine and James Hillyer, see [The Mills Family in Staten Island]({{% relref "staten-island" %}}).
 
-The following map images and associated business directories show both the E. H. Mills & Co. general store as well as the Mills' home in Corfu in the same locations in 1866 and 1876. E. H. Mills & Co. was also referred to, on these maps and directories at least, as "Mills Cash Store" or just simply "Cash Store." 
+The following map images and associated business directories, many provided by Alan Starkweather, show both the E. H. Mills & Co. general store as well as the Mills' home in Corfu in the same locations in 1866 and 1876. E. H. Mills & Co. was also referred to, on these maps and directories at least, as "Mills Cash Store" or just simply "Cash Store." 
 
 {{% fig "corfu/1866-darien-center" "800" /%}}
 {{% fig "corfu/1866-corfu-po-map" "800" /%}}
@@ -133,7 +131,7 @@ Emily returned to Corfu several times throughout her life.
   {{% fig "1908-01-06-batavia-daily-news-p4" "350" /%}}
 </div>  
 
-Every member of Edward's family, except for Emily, is buried in Corfu.
+Every member of Edward's family, except for Emily and James, is buried in Corfu.
 
 {{% fig "evergreen-hill-cemetery-51" "800" /%}}
 
@@ -169,7 +167,7 @@ Although Mary Ann was a member of the Presbyterian Church in Corfu, the intercon
 The Congregationalist Church was active in Corfu from 1810-1830s. It never had its own building. It spent a few years as part of the Presbyterian Church,  then ceased to exist.
 </blockquote>
 <figcaption>
-— <cite>May 20, 2021, personal correspondence with Allan Starkweather, Corfu Village Historian.</cite>
+— <cite>May 20, 2021, Allan Starkweather, personal correspondence.</cite>
 </figcaption>
 </figure>
 
@@ -191,7 +189,7 @@ The Congregationalist Church was active in Corfu from 1810-1830s. It never had i
   <p>There was a lot of dissention in the church by 1831. Two factions of Presbyterians and the Congregationalists were doing a lot of bickering. The Genesee Presbytery recommended that the church be dissolved. Later in 1831, the church was disbanded and the "Presbyterian Church of N. Pembroke" was formed. Most of the records of the first church were destroyed. In 1834, it was renamed the "Corfu United Presbyterian Church." The Congregationalist's never did reform.
   </p>
   </blockquote>
-  <figcaption> — <cite>May 20, 2021, personal correspondence with Allan Starkweather, Corfu Village Historian.</cite></figcaption>
+  <figcaption> — <cite>20 May 2021, Allan Starkweather, personal correspondence.</cite></figcaption>
 </figure>
 
 <figure class="quote-only">
@@ -216,7 +214,7 @@ The Congregationalist Church was active in Corfu from 1810-1830s. It never had i
 <p>I did send out a message to see if there are still any records from the start of the church, but truth be told, back then, record keeping wasn't exactly a big thing. and if anything was still available, it would have been transferred over, and over again. 
 </p>
 </blockquote>
-<figcaption><cite>— May 21, 2020, personal correspondence with Ken Rumble, Church Office Secretary for Corfu United Presbyterian Church.</cite>
+<figcaption><cite>— 21 May 2020, Ken Rumble, Corfu United Presbyterian Church, personal correspondence.</cite>
 </figcaption>
 </figure>
 

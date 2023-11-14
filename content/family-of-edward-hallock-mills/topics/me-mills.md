@@ -2,7 +2,7 @@
 title: "Mills' Store in Brookton NY"
 weight: 100
 ---
-
+ 
 After moving to Mott's Corners in Mar 1879, Edward restarted his general store on his own, now simply called E. H. Mills, where his surviving children Jonas and Emily clerked. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jessie Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "The Old Post Office".
 
 <!--more-->
@@ -195,7 +195,9 @@ The store was open on New Year's eve and New Year's day 1908, the day Edward die
 {{% fig "me-mills/1908-01-01-sales-journal" "350" /%}}
 </div>
 
-As you can see, these books contain many easily recognizable names of former Brookton residents, along with a glimpse into their regular purchases. It is interesting to note the store was closed on Sundays, but open on Christmas day, if a bit slow:
+As you look at these sale entries, understand that you are seeing Emily continue a practice that she learned from her father, just as her brothers had learned from him in [Corfu]({{% relref "corfu" %}}), and [George Richardson]({{% relref "richardson-george" %}}) had also learned from him in Brookton. Edward in turn had learned this practice from his older brother-in-law Charles M. Pine in [Staten Island]({{% relref "staten-island" %}}), where Charles also taught this practice to James Hillyer, Bartlett Brown, and Charles' son Theodore, among others. 
+
+As you can see, these books contain many easily recognizable names of former Brookton residents, along with their regular purchases. It is interesting to note the store was closed on Sundays, but open on Christmas day, if a bit slow:
 
 {{% fig "me-mills/1908-12-25-sales-journal-p466" "800" /%}}
 
@@ -224,6 +226,7 @@ In the 1920's, more sophisticated business records emerge, both new types of rec
 
 As Molly Adams wrote in her "Note", Emily began aggressively advertising the newly branded store in 1909. She advertised perhaps dozens of times in the Ithaca Daily Journal alongside the Vorhis Mill and the meat market that is attributed at one time to Clarence Wheeler, someone mentioned many times in the journals of George Jansen. The first such advertisement I could find was in the 29 Mar 1909 edition (exactly 30 years after the Mills moved to Motts Corners), and the last was on 30 Jun 1910. What follows are a sample of some of them, many of which were repeated for weeks at a time, and they provide a good sense of the diverse products offered in the small country store:
 
+
 {{% fig "1909-03-29-The-Ithaca-Daily-Journal-p9" "500" /%}}
 <div class="cols">
 {{% fig "1909-06-02-The-Ithaca-Daily-Journal-p9" "350" /%}}
@@ -237,7 +240,10 @@ As Molly Adams wrote in her "Note", Emily began aggressively advertising the new
 {{% fig "1909-10-13-The-Ithaca-Daily-Journal-p9" "350" /%}}
 {{% fig "1909-11-04-The-Ithaca-Daily-Journal-p9" "350" /%}}
 </div>
-{{% fig "1910-06-30-The-Ithaca-Daily-Journal-p9" "500" /%}}
+<div class="cols">
+{{% fig "1910-02-19-Ithaca-Daily-Journal-Ithaca-NY-p9" "350" /%}}
+{{% fig "1910-06-30-The-Ithaca-Daily-Journal-p9" "350" /%}}
+</div>
 
 In the Ithaca Daily Journal, 26 Aug 1909, pg 5, in an article "Early History of Brookton Village" M. E. Mills is listed as a "present merchant".
 

@@ -31,7 +31,7 @@ The following historical research comes from a direct descendent of Ellen Gould:
 
 </blockquote>
 <figcaption>
-— <cite>07 May 2022, personal correspondence with Carol Coggshall, great great granddaughter of Ellen Gould.</cite>
+— <cite>07 May 2022, Carol Coggshall, personal correspondence.</cite>
 </figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ Like Hannah and Emily, Ellen was active in the Women's Christian Temperance Unio
 My mother was born in 1916 and had only two memories of Ellen. That she was very proper and spoke with an English accent.
 </blockquote>
 <figcaption>
-— <cite>18 May 2021, personal correspondence with Carol Coggshall, great great granddaughter of Ellen Gould.</cite>
+— <cite>18 May 2021, Carol Coggshall, personal correspondence.</cite>
 {{% fig "1909-03-12-The-Ithaca-Daily-Journal-Ithaca-NY-p2" "500" /%}}
 </figcaption>
 </figure>

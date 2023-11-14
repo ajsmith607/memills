@@ -3,6 +3,37 @@ title: "TEST PAGE"
 draft: true
 ---
 
+others living in the pine residence
+
+
+1870
+Sidney Brown, clerk in store
+Henry Williams, clerk in store
+Catherine Duffy, domestic servant
+
+1875 
+Robert Miller, 19, boarder, clerk
+Henry Woodhull, 19, boarder, clerk
+Eugene Cook, 16, boarder, clerk, from Maine
+
+1880
+Sidney Brown, cousin, clerk grocery
+Carl Tooker, boarder, clerk grocery
+Thomas W. Brown, boader, clerk grocery
+Amy Barry, 17, servant
+
+
+
+
+
+
+{{% fig "temperance/1914-08-26-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "temperance/1984-10-01-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "temperance/graham-overacker-postcard-back" "500" /%}}
+{{% fig "temperance/graham-overacker-postcard-front" "500" /%}}
+{{% fig "temperance/trestle-ruth-maggie-back" "500" /%}}
+{{% fig "temperance/trestle-ruth-maggie-front" "500" /%}}
+
 Charles T. Pine's photo:
 
 http://catalog.nysmm.org/Presto/content/Detail.aspx?ctID=ZDhjMmE5MjktYTE3Yi00M2Y0LWJmYjYtZDIxZWRlNmIxN2Vi&rID=MTA1NjU=&qrs=RmFsc2U=&q=KFBob3RvZ3JhcGhzLkFsbFRleHQ6KENoYXJsZXMgVCBQaW5lKSk=&ph=VHJ1ZQ==&bckToL=VHJ1ZQ==&rrtc=VHJ1ZQ==

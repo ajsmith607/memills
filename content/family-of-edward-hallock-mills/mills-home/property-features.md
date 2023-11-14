@@ -67,7 +67,7 @@ Therefore, in the absence of specific evidence to the mason’s identity, it see
 
 With the notable exceptions of Alonzo's obituary and death notices (I have not found the same for Clarissa) and Clarissa's grave stone, the family name appears to be most commonly written as Northr**o**p with a "o" and not Northr**u**p with a "u".
 
-Clarissa's grave is marked with a stone that is broken as I write this, and which shows clear evidence of past repair attempts. I did not find a marker for Alonzo, and consulting with cemetery caretakers could not verify his exact burial location. 
+Clarissa's grave in Brookton Cemetery is marked with a stone that is broken as I write this, and which shows clear evidence of past repair attempts. I did not find a marker for Alonzo, and consulting with cemetery caretakers could not verify his exact burial location. 
 
 <div class="cols">
 {{% fig "adams-photos/brookton-cemetery/2023-05-24_13.47.41-imp" "350" "img,cite,link" /%}}
@@ -141,7 +141,7 @@ In 1881, [Calvin Holmes Quick](https://www.findagrave.com/memorial/89338732/calv
 {{% fig "mills-home/1887-12-29-Ithaca-Daily-Journal-Ithaca-NY-p3" "800x300" "" "top" /%}}
 {{% fig "mills-home/masons/1900-06-14-US-Census-Perry-Iowa-p12" "800" /%}}
 
-William Gale's burial site is unknown, but Harriet and daughter Minnie are buried in Brookton Cemetery:
+William Gale's burial site is presently unknown to me, but Harriet and daughter Minnie are buried in Brookton Cemetery:
 
 {{% fig "adams-photos/brookton-cemetery/2023-06-11_18.59.30-imp" "500" /%}}
 {{% fig "adams-photos/brookton-cemetery/2023-06-11_18.59.37-gray" "800" /%}}
@@ -174,10 +174,156 @@ One final, potential point of interest. On the exterior face of the foundation, 
 {{% fig "adams-photos/foundation/2023-05-09_12.39.22-gray-con" "800" /%}}
 {{% fig "adams-photos/foundation/2023-06-11_19.21.34-imp-gray-inv" "800" "img,cite,link" /%}}
 
-## The Large Oak Tree
+## The Old Oak 
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-11-26_09.18.47" "350" /%}}
+{{% fig "adams-photos/oak-tree/2023-03-21_15.52.40" "350" /%}}
+</div>
+
+A large white oak tree stands on the hill above Mills’ Home in Brooktondale. Although mostly hidden from view in the Summer months, it can be easily distinguished when the trees are bare. And yet, the massive trunk of the tree can only truly be appreciated when you are near it on the hill. Its incredible size led me to wonder if it could be old enough to date back to Emily’s lifetime, and perhaps even Edward’s. 
+
+The following describes the character of the oak well:
+
+<figure>
+
+> The stately, mature white oak displays a wide-spreading growth habit, with heavy, horizontal limbs. The hefty white oak – a member of the beech family – can have a trunk diameter of up to 6 feet. The tree's name comes from its light-colored, beige wood that is almost white when freshly cut and from its light gray bark.
+>
+> Leaves of the white oak are 4 to 9 inches long with between five and nine lobes, or finger-like parts. The leaves are bright green on top and light-green-almost-white underneath. White oak leaves turn red-brown to red-purple in the fall and will often remain on the branches of younger trees in the winter.
+>
+> White oak trees can live a long time. As a matter of fact, the white oak life span is 300 years on average. But, if given the right conditions, they can exceed this life span, living to 600 years or more. This makes white oak trees one of the longest living oak species in the United States.
+>
+> The attractive, towering white oak (Quercus alba) is so beloved in the eastern United States, in U.S. Department of Agriculture plant hardiness zones 3 through 9. The tree is so important to the United States, that three states have named the sturdy tree as their official tree: Maryland, Illinois and Connecticut. While these large, long-lived trees can reach heights of 150 feet, they take a good portion of their centuries-long lifespan to reach that stature.
+>
+> White oaks are considered slow growers, climbing only 12 to 14 inches per year, compared to other trees such as Monterrey oak (Quercus polymorpha), which can grow 48 inches in one year.
+
+<figcaption>
+<cite>
+
+— 22 Nov 2019, How Fast Deos a White Oak Tree Grow?, [Weekand.com](https://www.weekand.com/home-garden/article/fast-white-oak-tree-grow-18037980.php).
+
+</cite>
+<figcaption>
+</figure>
+
+{{% fig "adams-photos/oak-tree/2022-11-15_15.31.40" "800" /%}}
+
+The oak is noted on survey maps for the property going back to 1972, when it was already estimated to be 4 feet in diameter.
 
 <div class="cols">
 {{% fig "brookton/maps/475-brookton/oak-miller" "200" /%}}
 {{% fig "brookton/maps/475-brookton/oak-schlieder" "200" /%}}
 {{% fig "brookton/maps/475-brookton/oak-dresser" "200" /%}}
 </div>
+
+<figure>
+
+> The 48" oak would be an approximate diameter by eyeballing the tree and most likely an Oak tree. I have seen maps mistake types of trees (oak & maple, spruce & pine). On the map it shows 5'+/-, I would say that the map is showing a large, deciduous tree about 5' from the line.
+
+<figcaption>
+<cite>
+
+— 17 Feb 2023, Ian Sheive, personal correspondence. Ian is commenting on the Rice and Schlieder surveys of Mills' Home and Miller's survey of Dalebrook, all of which show the tree.
+
+</cite>
+</figcaption>
+</figure>
+
+In November 2022, I attempted to measure the oak tree, to verify the estimated diameter indicated on the surveys, and to have some basis for estimating its age. I used a polyester rope which resists stretching, and wrapped it around the tree to measure its circumference. Although I have seen recommendations to measure the trunk approximately 4.5 feet above the ground, this was challenging for two reasons: the severe slope of the hill on which it is growing, and the fact that it splits partway up. So, I chose a spot just under where the split expands the trunk, and later measured my marked rope to be 178 inches, which, when divided by pi (3.14), results in 56.69 inches in diameter, or **4.72 feet in diameter**, an unsurprising approximation given the estimates on past surveys. 
+
+{{% fig "adams-photos/oak-tree/2023-05-15_10.24.53" "500" /%}}
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-05-01_15.18.38" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-10-31_14.03.53" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-05-01_15.18.46" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-05-01_15.18.37" "350" /%}}
+</div>
+
+From my research, it seems that even the most accurate method of determining a tree's age–counting growth rings–is difficult to do accurately, and of course, accessing growth rings cannot be done non-destructively. Instead, I applied Mitchell's Rule, named for botanist Alan F. Mitchell, with a growth rate of 5, a figure corroborated by multiple sources. Multiplying the diameter in inches that was derived above by the growth rate yields an approximate age of 283.45 years. This is the approximate average age of white oaks according to the source quoted above. 
+
+If this estimate truly approximates the oak's age, then it obviously predates the Mills family's arrival in Mott's Corners, and was already a substantial tree by that time.
+
+{{% fig "adams-photos/oak-tree/2022-11-26_09.08.08" "500" /%}}
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2023-05-15_10.23.10" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-11-26_09.08.33" "350" /%}}
+</div>
+
+Obviously, there are many variables affecting the growth of the oak over time, and both my approach to measuring the tree and the application of Mitchell's Rule are not precise either. I will point out however, that the hill slope that the tree stands on is southern facing, and anyone familiar with the home and land around it will know that the tree had ample access to water. In the Spring, a shallow stream on the surface of the ground would form to the east of the oak. In other words, it seems that the growing conditions are favorable in this area. 
+
+Even if we assume that the diameter of the tree is closer to 4 feet, mitigating the measurement complications I mentioned, and use a much more conservative growth factor, say 3, this puts the approximate age at 144 years, which from the year I write this, 2023, would put the tree's germination at 1879, the very year the Mills moved to Mott's Corners.
+
+{{% fig "adams-photos/oak-tree/2023-03-21_15.52.32" "500" /%}}
+
+I occasionally find acorns in the yard, presumably carried down by squirrels or other animals. The oak is on a part of the hill that is actually angled more toward Mills' Store than the home.  
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-11-26_09.03.29" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-11-26_09.06.48" "350" /%}}
+</div>
+
+Looking down on Mills' Store and Mills' Home from just beneath the oak: 
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-05-01_15.17.15" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-05-01_15.16.06" "350" /%}}
+</div>
+
+As the photos indicate, another tree has fallen and presently still rests across the oak, and one of the oak's main limbs (as well as a smaller one above it to the east) has also broken off and still lies on the slope below. I didn't witness either event, nor did I hear them, but one day in the early 2010's, Debbie Todi stopped by one day to tell me she had heard a very loud commotion on the hill that compelled her to come outside to see what had happened. I don't recall which of the two events she was referring to.   
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2023-03-21_15.36.27" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-11-26_09.18.52" "350" /%}}
+</div>
+
+It makes sense that this would be the first of the main branches to break. The hill is southern facing, and as the photographs will show, the branches are all reaching out over the slope for more light. The broken branch is the southern-most branch coming off the main trunk and the severity of its curve further testifies to the pressure it endured.
+
+{{% fig "adams-photos/oak-tree/2022-10-31_14.03.44" "500" /%}}
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-11-15_15.27.21" "350" /%}}
+{{% fig "adams-photos/oak-tree/2023-05-15_10.25.15" "350" /%}}
+</div>
+
+The broken branch rests on the ground beneath the oak. Although it has come to rest some distance down the slope away from where it initially broke, the perspective of the following two photos may give the impression it is farther away from the tree than it seems to be when you are actually looking at it.
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2023-03-21_15.54.18" "350" /%}}
+{{% fig "adams-photos/oak-tree/2023-03-21_15.54.02" "350" /%}}
+</div>
+
+More photos of the oak in various seasons.
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-10-28_13.01.16" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-11-26_09.23.39" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2022-10-31_14.02.36" "350" /%}}
+{{% fig "adams-photos/oak-tree/2022-10-31_14.02.28" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2023-05-06_15.08.58" "350" /%}}
+{{% fig "adams-photos/oak-tree/2023-05-06_15.09.24" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2023-05-06_15.12.11" "350" /%}}
+{{% fig "adams-photos/oak-tree/2023-05-06_15.12.36" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "adams-photos/oak-tree/2023-05-15_10.18.13" "350" /%}}
+{{% fig "adams-photos/oak-tree/2023-05-15_10.16.58" "350" /%}}
+</div>
+
+{{% fig "adams-photos/oak-tree/2023-05-15_10.21.09" "500" /%}}
+
+

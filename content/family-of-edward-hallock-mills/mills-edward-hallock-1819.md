@@ -34,7 +34,9 @@ The Mills' return to Smithtown, "two weeks and two days" after James' birth on 1
 
 (The precise day of Mary (Hallock) Mills' death is given in only one of [the three known Mills genealogies]({{% relref "smithtown" %}}), and although it can also be found in a number of user created family trees on Ancestry.com, I have not found one that cites a source for it. I have not yet found documentation independently corroborating this day in my own research.)
 
-25 Apr 1831, Jonas married Mary Platt (Mills) Mills, whose parents were also members of Smithtown Presbyterian. 
+For an exploration of Edward's Mills ancestry, see the [Mills Pond section]({{% relref "smithtown" %}}), and for an exploration of his Hallock ancestry, see the [Hallock section]({{% relref "hallock" %}}). 
+
+25 Apr 1831, Edward's father Jonas married Mary Platt (Mills) Mills, whose parents were also members of Smithtown Presbyterian. 
 
 {{% fig "genealogy/smithtown-presbyterian/46" "800" /%}}
 
@@ -203,7 +205,7 @@ The following are examples of Edward's postmark during his time as postmaster:
 {{% fig "1887-05-27-The-Ithaca-Daily-Journal-p3" "350" /%}}
 </div>
 
-Mary Ann died on the eve of their 45th wedding anniversary. A year and two days later, Edward married [Hannah (Thatcher) Eastman (1824-1917)]({{% relref "mills-hannah-1824" %}}). Edward and Hannah joined Brookton Congregational Church on just the third to last Sunday before their marriage ceremony, which took place "at the bride's residence in Brookton".
+Mary Ann died on the eve of their 45th wedding anniversary. One year and two days later, Edward married [Hannah (Thatcher) Eastman (1824-1917)]({{% relref "mills-hannah-1824" %}}). Edward and Hannah joined Brookton Congregational Church on just the third to last Sunday before their marriage ceremony, which took place "at the bride's residence in Brookton".
 
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 

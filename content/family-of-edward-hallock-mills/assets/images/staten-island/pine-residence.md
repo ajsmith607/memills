@@ -11,6 +11,8 @@ notes: >-
   - "Print size": 6x7.875
 
   - Note that the "brick building...partially visible at far left" is Charles Pine's grocery store, known at different times as Pine Hillyer & Co. and C. M. Pine & Son, where both Edward Mills and Bartlett Brown worked in the 1850's.
+
+  - There is a utility pole in front of the home. The Staten Island Historical Society says the photograph is "ca. 1895", roughly coinciding with the death of Theodore. But also note that elsewhere it is recorded that in 1897 the "N.Y. & S.I. Electric Co. was incorporated." (1950, *Staten Island 1524-1898* by Henry G. Steinmeyer, familysearch.org.) That was the year Charles M. Pine died.
 ---
 
 

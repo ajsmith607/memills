@@ -41,7 +41,7 @@ Prior to the Mills moving to Mott's Corners, it is unclear if Emily Mills or any
 Temperance groups don't appear to be very strong here. The only mention I found was the "Royal Templars of Temperance" who began meeting in 1878. They didn't seem to be very powerful. No date was given as to when they ceased to exist.
 </blockquote>
 <figcaption>
-— <cite>Personal correspondence with Allan Starkweather, Corfu Village Historian</cite>
+— <cite>28 May 2021, Allan Starkweather, personal correspondence.</cite>
 </figcaption>
 </figure>
 

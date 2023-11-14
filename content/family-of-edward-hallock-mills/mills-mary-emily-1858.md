@@ -20,7 +20,7 @@ Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale 
 
 Emily's middle name may be in honor of Edward's sister who died over a decade before Emily was born. Presumably she went by Emily in casual circumstances to distinguish her from her mother, and in more formal contexts, she typically used "M. Emily Mills", particularly in later years.
 
-Emily was baptized in the Reformed Dutch Church of Port Richmond. Other than this even, I do not have direct evidence of Emily attending church prior to her Brookton baptism. 
+Emily was baptized in the Reformed Dutch Church of Port Richmond on 30 Nov 1859, the last recorded baptism in the church that year. The timing of the baptism may be a clue to narrow her exact birthdate; perhaps this was the Sunday immediately prior to her first birthday. Otherwise, I do not have direct evidence of Emily attending church prior to her Brookton baptism. 
   
 {{% fig "staten-island/rdc/rdc-scan_077" "800" /%}}
 
@@ -40,7 +40,7 @@ The family moved to Motts Corners in Mar 1879, which must have filled Emily with
 
 This was also a few months after Emily's 20th birthday, and the move must have been an exciting one. Very soon after her arrival in Mott's Corners, Emily was actively involved in several community social groups, providing clues to her personality as a young woman. Emily was energetic, outgoing and appeared to make friends easily, and it seems she was welcomed warmly by her new neighbors.
 
-Emily joined the existing “High Bridge Lodge No. 296” of the [Independent Order of Good Templars]({{% relref "temperance" %}}) shortly after arriving in Mott’s Corners, as she "furnished entertainment for the good of the order" in August 1879. (20 Aug 1879, Ithaca Daily Journal, Ithaca NY, p4.) The Good Templars often met above Edward Mills' store, "E. H. Mills", in a space for public events and private meetings called Lounsbery Hall, named for the owner of the building, Edward Lounsbery. Emily was a member until at least August 1886, as attested by the meeting minutes of the Good Templars at that time. She often contributed to the “Good of the Order” portions of meetings in which members volunteered in advance to contribute something of educational and/or entertainment value, such as reading a poem or essay. At different times, she held offices in the lodge, such as secretary, as indicated below, showing one of many examples of her distinctive handwriting.   
+Emily joined the existing “High Bridge Lodge No. 296” of the [Independent Order of Good Templars]({{% relref "temperance" %}}) shortly after arriving in Mott’s Corners, as she "furnished entertainment for the good of the order" in August 1879. (20 Aug 1879, Ithaca Daily Journal, Ithaca NY, p4.) The Good Templars often met above Edward Mills' store, "E. H. Mills", in a space for public events and private meetings called Lounsbery Hall, named for the owner of the building, Edward Lounsbery. Emily was a member until at least August 1886, as attested by the [meeting minutes of the Good Templars at that time]({{% relref "good-templars-meetings" %}}). She often contributed to the “Good of the Order” portions of meetings in which members volunteered in advance to contribute something of educational and/or entertainment value, such as reading a poem or essay. At different times, she held offices in the lodge, such as secretary, as indicated below, showing one of many examples of her distinctive handwriting.   
 
 {{% fig "temperance/1886-04-23" "800" /%}}
 

@@ -266,7 +266,7 @@ Hannah (Thatcher) Mills:
 >I have made a spreadsheet containing all of the names that I have found in over 100 local cemeteries and I have only found the names for 5 other Mills and they are in the Curtis Cemetery in Danby and the Ithaca City Cemetery.  
 
 <figcaption>
-— <cite>22 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
+— <cite>22 Apr 2022, Alan Chaffee, personal correspondence.</cite>
 </figcaption>
 <aside>
 
@@ -293,7 +293,7 @@ Hannah's siblings:
 
     - [Sarah (Thatcher) Moot](https://www.findagrave.com/memorial/50409396/sarah-moot) (1855 to 10 Jul 1942).
     
-    - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935). Married [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919). Their children:
+    - [Nellie G. (Thatcher) Tompkins](https://www.findagrave.com/memorial/67026254/nellie-g-tompkins) (1859 to 30 May 1935). Married [Monroe J. Tompkins](https://www.findagrave.com/memorial/67026252/monroe-j-tompkins) (1856 to 1919). Monroe was a lawyer in Ithaca at the same time as Horace Humiston Jr., the son of Reverend Horace Humiston Sr., [a former owner of Mills' Home]({{% relref "mills-home/other-past-owners/#reverend-horace-n-humiston-sr" %}}). Their children:
 
       - [Olin M. Tompkins Sr.](https://www.findagrave.com/memorial/67026256/olin-m-tompkins) (1888 to 1972).
 
@@ -350,7 +350,7 @@ And the 1860 federal census shows William Vanderveere working as a farm laborer 
 Dr. W. A. Smith's full name was Dr. William Addison Smith and he lived up South St., now called Shaffer Rd. on the right I think a short distance behind the Tioga State Bank.  I know his full name as I remember the old folks calling him William Addison Smith.  He and his wife, Minnie A. are buried over in the Laurel Hill Cemetery east of Odessa in the Town of Catharine.  His stone reads William A. Smith, M. D., blank - 1934.  His wife Minnie A. reads, blank - 1936 and Anna E. Smith 1877 - 1960. Anna's grave marker is right next to the grave marker for Dr. Smith and his wife Minnie.  ...Dr. William Addison Smith's father was George Addison Smith, 1835 - 1911 who is also buried in Laurel Hill Cemetery over in the Town of Catharine
 </blockquote>
 <figcaption>
-— <cite>22 Apr 2022, personal correspondence with Alan Chaffee, Historian, Newfield NY.</cite>
+— <cite>22 Apr 2022, Alan Chaffee, personal correspondence.</cite>
 </figcaption>
 </figure>
 

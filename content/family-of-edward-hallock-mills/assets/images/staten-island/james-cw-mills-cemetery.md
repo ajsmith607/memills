@@ -1,5 +1,5 @@
 ---
-citation: "Fountain Cemetery grave transcriptions provided by Kathleen Langdon via personal correspondence, 28 Mar 2023."
+citation: "Fountain Cemetery grave transcriptions provided by Kathleen Langdon, personal correspondence, 28 Mar 2023."
 ---
 ... Lot 172, east of the east end of South Ave. 
 

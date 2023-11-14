@@ -7,7 +7,7 @@ notes: >-
 
   - "Description": Trade card. Tinted lithograph on paper. Illustration of 3 boys dressed in military uniforms; printed in blue, black, and gold.
 
-  - "Ownership and History": This is a "stock card" (a generic trade card to which the advertiser added his specific information). Charles M. Pine (born ca. 1812) established his grocery store in 1848. A census listing indicates he had retired by 1870, when he was 58 years old. His son Charles Theodore Pine followed him into the business, which was located on Richmond Terrace in West New Brighton, Staten Island.
+  - "Ownership and History": This is a "stock card" (a generic trade card to which the advertiser added his specific information). Charles M. Pine (born ca. 1812) established his grocery store in 1848. His son Charles Theodore Pine followed him into the business, which was located on Richmond Terrace in West New Brighton, Staten Island.
 
 ---
 

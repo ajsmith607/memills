@@ -2,12 +2,14 @@
 title: "The Mills Family in Staten Island NY"
 weight: 400
 ---
- 
-Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who subsequently co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles M. Pine was a longtime member of the church consistory.
+  
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who subsequently co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles M. Pine was a longtime member of the church consistory. This section also explores related Pine family members in Staten Island as well as associates in the Loper, Hillyer, Brown, Egbert and Mersereau families. Finally, the Civil War service of Charles' son Theodore, and Theodore's cousins are also explored through surviving letters between his cousins Milton Loper and Juliett (Loper) Shepard. 
 
 <!--more-->
 
-It appears that Edward Mills first met Mary Ann and Charles Pine when he moved with his family to [Hempstead]({{% relref "hempstead" %}}) in the mid-late 1830's and Edward's move to Staten Island may have coincided with the establishment of Charles Pine's grocery business, incorporated there in 1848. When Edward and Mary Ann married in 1850, Edward is said to be "of Factoryville", the Staten Island neighborhood where Charles Pine's store is located. 
+{{% toc "Jump To:" %}}
+
+It appears that Edward Mills first met Mary Ann and Charles M. Pine when he moved with his family to [Hempstead]({{% relref "hempstead" %}}) in the mid-late 1830's and Edward's move to Staten Island may have coincided with the establishment of Charles' grocery business, incorporated there in 1848. When Edward and Mary Ann married in 1850, Edward is said to be "of Factoryville", the Staten Island neighborhood where Charles M. Pine's store was located. 
 
 {{% fig "1851-01-03-Brooklyn-Daily-Eagle" "500" /%}}
 
@@ -23,6 +25,44 @@ Multiple census records confirm that all the Mills' children were born in Staten
 {{% fig "staten-island/rdc/rdc-scan_077" "350" /%}}
 </div>
 
+Every child's baptism was performed on a Friday except for Emily's. This may be a subtle clue to narrow Emily's exact birthdate to early in December, possibly as early as the first, the following day. 
+
+| Child Baptized | Date Recorded | Day of Week |
+| --- | --- | ---|
+| Jonas  | 30 Jul 1852 | Friday |
+| Horace | 04 May 1855 | Friday |
+| James  | 31 Jul 1857 | Friday |
+| Emily  | 30 Nov 1859 | **Wednesday** | 
+
+
+<div class="cols">
+
+<figure style="max-width:350px">
+<pre>
+   December 1858      
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 25  
+26 27 28 29 30 31     
+</pre>
+</figure>
+
+<figure style="max-width:350px">
+<pre>
+   December 1859      
+Su Mo Tu We Th Fr Sa  
+             1  2  3  
+ 4  5  6  7  8  9 10  
+11 12 13 14 15 16 17  
+18 19 20 21 22 23 24  
+25 26 27 28 29 30 31  
+</pre>
+</figure>
+
+</div>
+                      
 I continue to search for the birth dates for James and Emily, but these may be lost forever.
 
 <figure>
@@ -35,7 +75,7 @@ I have researched the records available here for the three births and unfortunat
 </p>
 </blockquote>
 <figcaption>
-<cite>— 17 Jan 2023, personal correspondence, Marcia Kirk, NYC Department of Records and Information Services. 
+<cite>— 17 Jan 2023, Marcia Kirk, NYC Department of Records and Information Services, personal correspondence. 
 </cite>
 </figcaption>
 </figure>
@@ -51,7 +91,7 @@ The 1860 census indicates the town is Castleton. Castleton is the name of one of
 FACTORYVILLE. West New Brighton. Map of the Village of Factoryville, owned and laid out by N. Barrett. Town of Castleton, S. I. Filed Aug. 20th, 1836. Factoryville or Castleton is given by Dripps, 1850. The steamboat landing at Factoryville was called Castleton Landing. Walling, 1859. Higginson, 1860. Bayles, p. 264.
 </blockquote>
 <figcaption>
-<cite>— William T. Davis, <a href="https://sites.google.com/a/nypl.org/staten-island-papers/old-place-names">Staten Island’s Old Place Names</a>.</cite>
+<cite>— <a href="https://sites.google.com/a/nypl.org/staten-island-papers/old-place-names">Staten Island’s Old Place Names</a> by William T. Davis.</cite>
 </figcaption>
 </figure>
 
@@ -59,9 +99,7 @@ FACTORYVILLE. West New Brighton. Map of the Village of Factoryville, owned and l
 
 {{% fig "staten-island/1862-1863-irs-tax-assessment" /%}}
 
-Bartlett Brown's parents are [Abram Brown](https://www.findagrave.com/memorial/20577929/a-brow) (10 May 1802 to 10 Feb 1874) and [Hannah Hawkins](https://www.findagrave.com/memorial/122608336/hannah-brown) (04 Feb 1804 to 14 Aug 1879). It is interesting to note that there are items Hawkins items in the <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">The Mills Family of Jamaica and Mills Pond, Long Island</a>, Archives at Queens Library, Queens Borough Public Library, Jamaica NY: a "Hawkins family" folder and a folder containing Hawkins genealogical data. I have yet to personally examine these.
-
-Bartlett Brown was born in Oak Farm on Long Island NY and according to the 1850 census, when Bartlett was 17 years old and still in school, he and his family were living in Huntington on Long Island NY. He then moved, first to Brooklyn, then onto Castleton in Staten Island NY by 1857 to work at Pine's general store.
+Bartlett Brown was born in Oak Farm on Long Island NY and according to the 1850 census, when Bartlett was 17 years old and still in school, he and his family were living in Huntington on Long Island NY. He then moved, first to Brooklyn, then onto Castleton in Staten Island NY by 1857 to work at Pine's general store. It seems likely that Bartlett made considerable money in business in Brooklyn, and his time in Pine's store would seem to be a sort of apprenticeship, as after only a few years, he moved on to purchase prime Staten Island real estate and begin his own store, which he successfully ran for several decades.
 
 {{% fig "long-island/1850-United-States-Federal-Census-Huntington-NY" "800" /%}}
 
@@ -69,7 +107,7 @@ Bartlett Brown was born in Oak Farm on Long Island NY and according to the 1850 
 
 {{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" /%}}
 
-Based on the 1860 census, and assuming Bartlett's obituary is accurate, we can surmise the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner at Broadway and Castleton, and the "adjoining house" referred to may be the structure shown at the corner of State Street and Castleton Avenue, or possibly the one next to it, both of which are labelled as "DWG." on the 1885 Sanborn map.
+Based on the 1860 census, and assuming Bartlett's obituary is accurate, we can surmise the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner of the intersection at Broadway and Castleton, and the "adjoining house" referred to is most likly the structure shown at the corner of State Street and Castleton Avenue, or possibly the one next to it, both of which are labelled as "DWG." on the 1885 Sanborn map.
 
 {{% fig "staten-island/1874-beers-map" "800" /%}}
 
@@ -93,7 +131,7 @@ The following are Google Maps street view images of Bartlett Brown's property, c
 {{% fig "staten-island/2022-Aug-google-maps-brown" "800" /%}}
 {{% fig "staten-island/2022-Aug-google-maps-brown3" "800" /%}}
 
-Webb's Consolidated Directory of Staten Island from 1886 lists Brown’s general store, referencing 114 Broadway, the address mentioned in his obituary,  as well as a reference to the home on State Street "near" Castleton Avenue. This description opens the possibility of a different interpretation of which building was the home: as the directory legend below shows, there is an abbreviation for "corner" which would seem to be more appropriate than "near" in this case, and the Beers map indicates Bartlett owned the other lots on that block (although those other lots could have been purchased after the Mills left Staten Island, obviously), so perhaps the home the Mills lived in was the building immediately below the highlighted one, number 424 on the Sanborn map, which is also describe as a "DWG". (Or perhaps Brown moved into that home at a later time?)
+Webb's Consolidated Directory of Staten Island from 1886 lists Brown’s general store, referencing 114 Broadway, the address mentioned in his obituary,  as well as a reference to the home on State Street "near" Castleton Avenue. This description opens the possibility of a different interpretation of which building was the home: as the directory legend below shows, there is an abbreviation for "corner" which would seem to be more appropriate than "near" in this case, and the Beers map indicates Bartlett owned the other lots on that block (although those other lots could have been purchased after the Mills left Staten Island, obviously), so perhaps the home the Mills lived in was the building immediately below the highlighted one, number 424 on the Sanborn map, which is also described as a "DWG". (Or perhaps Brown moved into that home at a later time?)
 
 {{% fig "staten-island/1886-staten-island-directory-p117" "500" /%}}
 
@@ -141,27 +179,41 @@ Population, 15,961. Sandy Ground’s AME Church incorporated.
 </figcaption>
 </figure>
 
+The quarantine buildings were burned just a few months before Emily was born. The following figures are taken from 1950, *Staten Island 1524-1898* by Henry G. Steinmeyer, and show that in the time that Edward and Mary Ann lived in Staten Island, the population roughly tripled.   
+
+| Year | Population |
+| --- | --- |
+| 1840 | 10,965 |
+| 1850 | 15,961 |
+| 1860 | 25,492 |
+| 1870 | 33,629 |
+| 1880 | 38,950 |
+| 1890 | 51,693 |
+| 1900 | 67,021 |
+
 The early 1860’s were a time of significant life changes for both Bartlett Brown and the Mills family. Bartlett Brown started a new grocery store, married a few months after the census was taken, and started a family of his own, as documented in the records of the Reformed Dutch Church and the 1865 census. The Mills moved to Corfu sometime between the Summer of 1862 and the Spring of 1863, during a period in which the Battle of Antietam in Sharpsburg MD was fought just a few hundred miles southwest of Castleton, and just before the draft riots on Staten Island. 
 
 {{% fig "staten-island/RDC/rdc-scan_151-p144" "800" /%}}
 
 {{% fig "staten-island/census-1865-nys-brown" /%}}
 
-Bartlett honored his former employer and friend by naming his son after him:
+Bartlett honored his former employer and friend by naming his *first* son after him: Charles Pine Brown (25 Jan 1866 to 22 Jan 1887) who died of tuberculosis in West New Brighton three days before his 21st birthday. (1887, New York State Death Index, Certificate number 41287, New York Department of Health, Albany, NY, ancestry.com.) Bartlett named his second son after himself. 
 
 {{% fig "staten-island/RDC/rdc-scan_083" "800" /%}}
 
-Edward and Bartlett appeared to work together at Charles Pine's store, and perhaps Edward worked for Bartlett as Bartlett was first starting his own store. Whatever role, if any, Edward had in Bartlett's new store, it seems reasonable to assume that seeing his co-worker take this risk, and perhaps seeing the process first-hand, must have only encouraged Edward to take an even bigger risk of his own just a few years later when he also started his own store in [Corfu NY]({{% relref "corfu" %}}). 
+Edward and Bartlett appeared to work together at Charles Pine's store, and perhaps Edward worked for Bartlett as Bartlett was first starting his own store. Whatever role, if any, Edward had in Bartlett's new store, it seems reasonable to assume that seeing his co-worker take this risk, and perhaps seeing the process first-hand, must have only encouraged Edward to take an even bigger risk just a few years later when he also started his own store in [Corfu NY]({{% relref "corfu" %}}). 
 
-As already mentioned, Charles M. Pine and James A. Hillyer (1831/2 to 20 Mar 1925) were listed as co-owners of E. H. Mills & Co. in Corfu:
+As described in that section, Charles M. Pine and James A. Hillyer (1831/2 to 20 Mar 1925) were listed as co-owners of E. H. Mills & Co. in Corfu:
 
-{{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "400" /%}}
+{{% fig "corfu/1869-Gazetteer-Business-Directory-Genesee-County-inset" "500" /%}}
 
 (James M. Hillyer is a presumed misprint of James A. Hillyer.)
 
-Charles M. Pine is Mary Ann Mills' brother. He married Elmira (sometimes spelled as "Almira") Jane Loper in 1835 in South Hempstead, New York. It was just two years later that Edward likely moved with his father Jonas to Hempstead, also known as South Hempstead. 
+Charles M. Pine is Mary Ann Mills' brother. He married Elmira (sometimes spelled "Almira") Jane Loper in 1835 in South Hempstead, New York. It was just two years later that Edward likely moved with his father Jonas to Hempstead, also known as South Hempstead. 
 
 {{% fig "staten-island/1835-02-21-charles-pine" "800" /%}}
+
+{{% fig "staten-island/martha-deed/elmira" "800" /%}}
 
 Weekes, Seaman & Pine was a general store in Hempstead, possibly with some of the same partners as the previous firm of Weekes, Seaman & Co. in the same village:
 
@@ -201,17 +253,17 @@ Page 176 of the same volume lists Nathaniel Seaman, adding that "Nathaniel Seama
 </aside>
 </figure>
 
-Charles Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hillyer, Mark Hartley, and Charles' own sons, [Charles Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (? to 28 May 1895) and [Alverade Richmond Pine](https://www.findagrave.com/memorial/199952865/alvarade-r-pine) (1850 to 21 Aug 1929).
+Charles M. Pine was a prominent and prolific business man who was a central figure in the lives of many other successful proteges and business partners that included Edward Mills, Bartlett Brown, James Hillyer, Mark Hartley, and Charles' own sons, [Charles "Theodore" Theodore Pine](https://www.findagrave.com/memorial/26215884/charles-theodore-pine) (1839 to 28 May 1895) and [Alverade Richmond Pine](https://www.findagrave.com/memorial/199952865/alvarade-r-pine) (1850 to 21 Aug 1929).
 
 <div class="cols">
 {{% fig "pine/cm-pine-signature-on-luther-loper-will-2" "350" /%}}
 {{% fig "pine/cm-pine-signature-on-luther-loper-will" "350" /%}}
 </div>
 
-{{% fig "pine/charles-t-pine" "350" /%}}
 
-Charles Pine continued his grocery business in Staten Island starting in 1848, and the Beers map (explored further below) confirms what other histories describe, that there are two stores associated with Charles Pine: C. M. Pine & Co., and the location next to his residence that was known earlier as Pine, Hillyer & Co. and later as C. M. Pine & Son. Presumably, Edward Mills worked for Charles at least some of the time that he lived in Staten Island, and it seems likely Edward moved to Castleton because of Charles. Edward may have worked at either or both locations.
 
+
+Charles M. Pine continued his grocery career in Staten Island starting in 1848, and the Beers map (explored further below) confirms what other histories describe, that there are two stores associated with Charles Pine: C. M. Pine & Co., as well as the location next to his residence that was known earlier as Pine, Hillyer & Co. and later as C. M. Pine & Son. Presumably, Edward Mills worked for Charles at least some of the time that he lived in Staten Island, and it seems likely Edward moved to Castleton because of Charles. Edward may have worked at either or both locations.
 
  <figure>
 <blockquote>
@@ -223,11 +275,11 @@ Charles Pine continued his grocery business in Staten Island starting in 1848, a
 </figcaption>
 </figure>
 
-Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably also working in Charles' store. Note that roughly coinciding with the establishment of Charles Pine's store James Hillyer's grandfather John Hillyer as well as Nathaniel Seaman, both died in 1848.
+Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably also working in Charles' store. This might suggest that James is not actually the "Hillyer" being indicated in the store's name, but one of his relatives who were also known to be in the same line of work. And it is perhaps relevant that roughly coinciding with the establishment of Charles M. Pine's store James Hillyer's grandfather John Hillyer as well as Nathaniel Seaman, both died in 1848. However, other clues seem consistent with James being the indicated co-owner, as he seems to be referred to as such when he is said to be "of the firm Pine Hillyer & Co." and the rough timeline I am aware of seems consistent with the store's name changing after he left to form Hillyer & Egbert. 
 
 {{% fig "staten-island/1850-us-census-castleton" "800" /%}}
 
-Both the 1850 and 1860 census show [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles for some time. George was a Civil War veteran, and he went on to become successful in business himself; in several places he is credited with rebuilding St. Andrews Church, although is obituary doesn't explicitly mention this. 
+Both the 1850 and 1860 census show [George Mersereau](https://www.findagrave.com/memorial/182609528/george-mersereau) (24 Apr 1835 to 08 Mar 1896) also living with the family of Charles Pine. Charles appears to have taken over the general store in Staten Island from George Mersereau's father and brother, and George worked as a clerk for Charles for some time. George was a Civil War veteran, and he went on to become successful in business himself; in several places he is credited with rebuilding St. Andrews Church, although his obituary doesn't explicitly mention this. 
 
 {{% fig "staten-island/1860-06-15-US-Census-Castleton-NY-p96-pine" "800" /%}}
 
@@ -263,16 +315,16 @@ Today, the Episcopal Church of St. Andrew is an active faith community. The curr
 The Mersereau families were well known, five brothers were spies for George Washington.
 </blockquote>
 <figcaption>
-<cite>— 01 Mar 2023, personal correspondence with Kathleen Langdon.
+<cite>— 01 Mar 2023, Kathleen Langdon, personal correspondence.
 </cite>
 </figcaption>
 </figure>
 
-In 1865, Mark Hartley is also living with Charles M. Pine, occupation "clerk", presumably in Pine's general store. Later, Mark Hartley co-owned the general store Hillyer & Hartley, along with James Hillyer's brother Abraham Hillyer.
+In 1865, Mark Hartley is also living with Charles M. Pine, occupation "clerk", presumably in Pine's general store. Later, Mark Hartley co-owned the general store Hillyer & Hartley, along with James Hillyer's brother Abraham Hillyer. Later, Mark Hartley would be Charles' assignee when Charles' store failed.
 
 {{% fig "pine/1865-census-nys" "800" /%}}
 
-By 1859, Charles' general store is known as Pine, Hillyer & Co., co-owned with James Hillyer. The 1874 Beers map shows "General Store of Pine, Hillyer & Co.", in an area described below as "the bend between Van Street and Broadway" at 188 Richmond Terrace (also called "Shore Road", at least to the west of Pine's store). Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years, as exemplified by the bends in this stretch of Richmond Terrace.
+By 1859, Charles' general store is known as Pine, Hillyer & Co., presumably co-owned with James Hillyer. The 1874 Beers map shows "General Store of Pine, Hillyer & Co.", in an area described below as "the bend between Van Street and Broadway" at 188 Richmond Terrace (also called "Shore Road", at least to the west of Pine's store). Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years, as exemplified by the bends in this stretch of Richmond Terrace.
 
 {{% fig "staten-island/2023-01-20-Google-Maps" "500" /%}}
 
@@ -280,7 +332,7 @@ By 1859, Charles' general store is known as Pine, Hillyer & Co., co-owned with J
 
 {{% fig "staten-island/1874-beers-map-cropped-pine-close" "800" /%}}
 
-The 1885 Sanborn Fire Insurance Map shows the structures in more detail, including important aspects of what the buildings were made of and some other characteristics of their appearance.
+The 1885 Sanborn Fire Insurance Map shows the structures in more detail, including important aspects of what the buildings were made of and some other characteristics of their appearance. Note the hydrant on the corner of Pine's store.
 
 {{% fig "staten-island/1885-sanborn-p20" "800" /%}}
 
@@ -383,7 +435,7 @@ Lawrence and Ann Larzalere married Dec. 4, 1808.
 
 <li><a href="https://www.findagrave.com/memorial/105596531/john-blake-hillyer">John Blake Hillyer</a> (06 Oct 1808 to 28 Jan 1909) married <a href="https://www.findagrave.com/memorial/105596573/joanna-hillyer">Joanna (Simonson) Hillyer</a> (? to 1880). John Blake Hillyer is the son of John Jones and Elsee Lambert Hillyer and the father of James A. Hillyer.</li>
 
-<li> <a href="https://www.findagrave.com/memorial/9143966/abram-crocheron-hillyer">Abraham Crocheron Hillyer</a>  (25 Dec 1842 to 14 Oct 1932) is the brother James A. Hiller and co-proprietor of Hillyer & Hartley grocers, with Mark Hartely.</li>
+<li> <a href="https://www.findagrave.com/memorial/9143966/abram-crocheron-hillyer">Abraham Crocheron Hillyer</a>  (25 Dec 1842 to 14 Oct 1932) is the brother James A. Hiller and co-proprietor of Hillyer & Hartley grocers, with Mark Hartley.</li>
 </ul>
 
 
@@ -569,6 +621,14 @@ Despite many decades of success in varied endeavors that were important in the g
 
 {{% fig "staten-island/1895-06-01-Richmond-County-Advance-WNB-p4" "800x300" "" "top" /%}}
 
+{{% fig "staten-island/martha-deed/theodore" "800" /%}}
+
+The phrase "Theodore his legitimate son" may be understood in light of Alverade's scandal, that financially ruined Theodore in the final years of his life when  he was "perfectly helpless" and that also forced their father to return to work at an advanced age, and to do so for the first time in many years as an employee in someone else's business.    
+ 
+For more information about Theodore's time in the Civil War see [Milton Loper's Civil War Letters]({{% relref "staten-island/#milton-lopers-civil-war-letters" %}}), below, which also mention Charles and Elmira Pine and indirectly reference Pine's general store.
+
+When Bartlett Brown Sr. completed his will on 23 October 1972, both of Charles M. Pine's sons, Theodore and Alverade were his witnesses, and after his death, Alverade notes that he was "well acquainted with Bartlett Brown" having known him "for many years before his death." Because Theodore died before Bartlett, fellow grocer Abram C. Hillyer, James A. Hillyer's brother, was also called upon to verify Theodore's signature, as Abram "was well acquainted with C. Theodore Pine, late of Castleton, Staten Island, and with his manner and style of writing, having often seen him write" (Wills, Vol 8-9, 1903-1906, Surrogate's Court, Richmond County NY, ancestry.com).
+
 {{% fig "staten-island/1897-10-09-The-New-York-Daily-Tribune-p7" "500" /%}}
 
 {{% fig "staten-island/1897-10-21-Queens-County-Sentinel-Hempstead-NY-p1" "500" /%}}
@@ -587,10 +647,501 @@ Interestingly, in the 1910 United States Federal Census, James Hillyer and wife 
 Regarding your search, we do not have any identified images of the Pine store, the Bartlett Brown store or residence, or Edward H. Mills, unfortunately. 
 </blockquote>
 <figcaption>
-<cite>— 28 Sep 2022, personal correspondence with Carli DeFillo, Collections Manager, Historic Richmond Town.</cite> 
+<cite>— 28 Sep 2022, Carli DeFillo, Historic Richmond Town, personal correspondence.</cite> 
 <figcaption>
 </figure>
 
+
+
+## Milton Loper's Civil War Letters
+
+Martha Deed, the great-granddaughter of [Juliett (Loper) Shepard](https://www.findagrave.com/memorial/36665791/juliet-shepard) (06 Jan 1845 to 02 Apr 1911), has done considerable work on her family history including transcribing many letters written to Juliett. The letters presented below were written by Juliett's cousin Milton Loper while he fought in the Union Army in the Civil War, and within, Milton mentions Theodore Pine and the Pine residence on Staten Island, providing insight into the Pine family residence at that time, just a few years after Edward Mills' family departed from Staten Island for Corfu. 
+
+> "we have all three of us been exposed to immediate danger and have escaped. ought we not to be thankful to our heavenly Father. who alone hath preserved our lives?"
+>
+> "Rogers proposes to meet me somewhere in New York, and go home together. I have named Staten Island as a substitute — won't it be pleasant for us to meet there?" 
+> 
+> "...time drags heavily to me now. that I am looking forward so anxiously to a time when I can go home.  Why! Since the order came to muster us out, I have become almost homesick −  But I think I shall survive..."
+
+
+In the following letter to Juliett, Milton specifically mentions Charles M. Pine and alludes to Pine, Hillyer & Co.: 
+
+<figure>
+<blockquote>
+
+Camp of the 115th N.Y. Inft<br />
+Near Petersburg Va<br />
+Sept 21st 1864<br />
+
+Cousin Juliett
+
+There is one thing I forgot to mention in my last to you so for fear I may forget again, and the thought not return in season to be of any benefit I write this soon.  I am well aware too. that when you peruse this, you will think strange that I do not write to Uncle Charles instead of you.  My reply to this is. That I prefer writing to those I have reason to believe are at home rather than to those whome I know are absent.  I wrote to Uncle requesting him to order a pair of boots for me.  Very soon after. I concluded that a small hatchet − (one that I can carry in my waist belt.) would be very convenient, and intended to ask you to mention it to him. but forgot until now.  So I now wish you would be so kind as to say to Uncle. that I would like very much to have him send me such a hatchet. as I have described. Send it when he does the boots −I would like one that I can draw nails with and want it sharpened . for I can't find any thing here to sharpen my knife even.  Now that the business part of my letter is finished. I will devote the remainder of this sheet to something that may be more interesting.
+
+</blockquote>
+<figcaption>
+<cite>
+
+— From *Civil War Letters: Luther Milton Loper to Juliett Loper, Staten Island References, Excerpts from letters*, compiled by Martha Deed. Provided by Martha Deed and used with permission.
+
+</cite>
+</figcaption>
+</figure>
+
+The belts provided to the Union soldiers as part of their uniform were mass produced and so, nearly identical across the Army. Milton, Rogers, and Theodore would all have worn a belt very similar to [the belt found within the walls of Mills' Home in Brooktondale]({{% relref "civil-war-belt" %}}).
+
+
+The following text was provided by Martha Deed and is reproduced here with her permission. This text is also publicly available through the New York Military Museum, as Martha donated it along with an Army photograph of Charles Theodore Pine, also shown further below.
+
+<figure>
+
+<blockquote>
+
+#### References to Charles Theodore Pine and to Jarvis Rogers Loper in Luther Milton Loper's letters to Juliett Loper
+
+**Compiled by Martha Deed**
+**May 11, 2015**
+
+Luther Milton Loper (1837-1865) had two close male relatives in the Civil War: Jarvis Rogers Loper (1835-1883) was his older brother, and Charles Theodore Pine (1839-1895) was his first cousin. He referred to them frequently in his letters to his first cousin, Juliett Loper. 
+
+Note that members of the family were often called by their middle names. Thus, Luther (named after his paternal grandfather) was "Milton," Jarvis Rogers was “Rogers,” and Charles Theodore Pine (named after his father) was "Theodore." 
+
+Milton, Rogers, Theodore and Juliett were all grandchildren of Luther Loper (1780-1856) and Sarah Bishop Loper (1786-1870). Jarvis Rogers and Luther Milton's father was their son, Isaac; Juliett's father was their son, Erastus; and Theodore's mother was their daughter, Elmira. 
+
+Luther Milton Loper enlisted at Saratoga Springs, New York in August 1862, Charles Theodore Pine enlisted at Castleton, Staten Island, New York in August 1862, and Jarvis Rogers enlisted in the Rhode Island Volunteers (date unknown). 
+
+Milton mentions Rogers and Theodore and the Pine family with some frequency in his letters to Juliett, including the following: 
+
+You say Theodore was thinking about enlisting. So it seems we were both thinking of it at the Same time. and I for one decided to enlist. and did. on 6" August. left the state of N.Y. the 21‘. went to Harper's Ferry. .. Rogers is also in the Army. though not in the same Regmt that I am. . . 
+
+Please write soon and let me know whether Theodore is in the Army. Your loving Cousin, Milton Oct 22/62 
+
+Roger’s address is J. R. Loper, Co “I”, 2" R.I.V. Washington D C 
+
+Dec 25/62 
+
+Since I received your letter I have received one from Aunt Mary (Smith). She wrote that Theodore was with Banks Expedition, and that the boat he was in. grounded on the Florida Reefs, but he escaped unhurt. . Rogers was in the Battle at Fredricksburgh and he was unhurt. so you see we have great cause to be thankfull. we have all three of us been exposed to immediate danger and have escaped. ought we not to be thankful to our heavenly Father. who alone hath preserved our lives? 
+
+Jan 7/63 
+
+I have not yet received a letter from Auntie Pine [Charles Theodore Pine's mother]. I wish she would write. 
+
+May 10/63 
+
+I don't know what Rogers. could find to write about. in order to fill 9 pages. I guess he must keep a journal. 
+
+Jul 13/63
+
+I am obliged to you for sending Theodore's address. I think I shall write to him. . . How in the name of common sense, Rogers could think of enough to fill nine pages, I can't see. By the way, I received a letter from Helen, in which she stated that Rogers, wrote that his Regt was ordered to march on to Gettysburgh[sic]. I had not heard from him since. So of course did not know whether he survived to battle or not. She wrote that the papers state that his Regt lost in killed -45. I am quite anxious to hear from him 
+
+Aug 2/63 
+
+I have at last concluded to have my photograph taken, and this is the reason I write now so as to send one to you before they get damaged, for I have no convenient place for keeping them. I also inclose [sic] one for Auntie Pine. which you will please send to her. with my compliments. 
+
+Aug 21/63 
+
+I wrote to you last week and sent you two of my photographs, one for you, and the other for Auntie Pine, which I hope may reach their destination safely. Rogers is acting Brigade Hospital Steward, So he and Theodore are both in good and comfortable situations, better off than I am. . . 
+
+Aug 28/63 
+
+I sent two of my photographs in the letter, one of which I of course intended for you. the other was for Auntie Pine. I hope you will get yours all right. I did receive the letter in which you requested me to direct to Staten Island, but forgot to do so. I will try to direct this one right. 
+
+Sep 15/63 
+
+Note: Pine family lived on Staten Island. 
+
+Rogers is in Virginia somewhere. The letter I received from him yesterday was mailed from Alexandria, but his address is, Washington. D. C. as before, or in other words, it is Mr. J. R. Loper. Co. 9 2 R.I. Vols., Washington, D. C. 
+
+Oct 2/63 
+
+I am glad to hear that Grand Ma's [Sarah Bishop Loper] health is better. than when you last wrote. and that Theodore is rising in the world. 
+
+Nov 19/63 
+
+Note: Reference may be to Theodore being promoted to 2nd Lt. and joining U.S. Colored Troops in October 1863. 
+
+I suppose Theodore enjoyed himself more at that dinner party. than I would have done. could I have had the privalige [sic]. for I am not very social, which you perhaps well know. . . Rogers wrote that He. had just received a letter from Cousin Mary G[?]. Buffet. He said he dreaded to answer the letter, but could not very well get around it. 
+
+Jan 7/64 
+
+I would like to write to Theodore. but have forgotten his address. please give me it again. and I will copy is so that I can write whenever I have an opportunity. I wrote to him about the first december last but did not direct as you told me but guessed at his Address-- and now. I guess. that I didnt guess right. this was before you sent his address 
+
+Feb 10/64
+
+I found a letter there for me from Theodore, which surprised me somewhat. It was written the 2™ of April. He was well at the time. 
+
+May 27/64 
+
+Rogers is now Hospital Steward. And gets 30$ per month. And [illegible]. So he is above me now, and will be I suppose until I get a Commission. He has been more fortunate than I have, he went into an old Regt as a recruit so of course did not stand so good a right for a promotion as if he had enlisted with the Regt but he has worked his way to a very good and admirable position. I went into the service a Sergt and am only first Sergt yet. 
+
+Jun 27/64 
+
+I hope Theodore is well by this time. Patients in Hospital do not get the “best of care.” as one would conclude after reading the papers. 
+
+Aug 16/64 
+
+I received a letter from Roger to night. He is near Harper's Ferry and say they have to change their position quite often. 
+
+Sep 19/64 
+
+I think it will be as well for Theodore to remain at home now. that is. after he gets there. which I hope he will do soon. After one has been in the service two or three years. I think he has done his share. though if he is really anxious to do more I am willing he should. but shall not advise him to. 
+
+Oct 14/64 
+
+I received a letter from Brother Rog. the other day. It seems He conducted himself in such a manner. during Sheridan's operations in the "Valley" (in his capacity of Hospital Steward of course) as to fain the approbation of the Div Surgeon who subsequently was appointed Inspector (Judicial) and took Rogers with him in the office to do his writing, which Rog says he finds very easy and comfortable position. He is at Winchester, Va. and says he owes his position. to his attending to his "Biz" while in the field. 
+
+Nov 6/64 
+
+I recd.. one a few days later from Rogers written the same day. He was well and so well pleased with his situation. that he thinks of going into the regular service. If he was in my place. here at the front. obliged to get up at four and five oclock every morning and stand in line of battle until day light. besides being routed out and midnight about twice every week. He would not be so fast for continuing in the service. 
+
+Nov 21/64 
+
+Rogers proposes to meet me somewhere in New York, and go home together. I have named Staten Island as a substitute — won't it be pleasant for us to meet there? 
+
+May 19/65 
+
+Rogers has some peculiar notions about some things and it may not suit his convenience to meet me on S. I. [Staten Island] so I have written him that I will meet him wherever he directs. 
+
+Jun 5/65
+
+</blockquote>
+
+<figcaption>
+<cite>
+
+— 11 May 2015, *References to Charles Theodore Pine and to Jarvis Rogers Loper in Luther Milton Loper's letters to Juliett Loper*, compiled by Martha Deed. 
+
+</cite>
+</figcaption>
+</figure>
+
+
+Milton Loper's Army photograph, presumably the same one he mentioned having taken in Aug 1863:
+
+{{% fig "staten-island/martha-deed/milton-loper/luthermiltonlopergaruniform" "500" "img,cite,link" /%}}
+
+
+At least two known photographs of Theodore survive, including his Army portrait, donated to the New York Military Museum by Martha Deed:
+
+<div class="cols"> 
+{{% fig "staten-island/martha-deed/charles-theordore-pine-portrait-front" "350" /%}}
+{{% fig "staten-island/martha-deed/charles-theordore-pine-portrait-back" "350" /%}}
+</div>
+
+Martha provided the following additional context to the photograph:
+
+{{% fig "staten-island/martha-deed/charlestheodorepinecivilwar" "800" /%}}
+
+Martha has an additional portrait taken after the War that shows "Theodore Pine a a yong man":
+
+{{% fig "staten-island/martha-deed/theodore" "800" /%}}
+
+Based on similar characteristics of Theodore's two photographs, the second was taken perhaps only a few years after the Army portrait, possibly when Theodore was in his late 20's or early 30's. 
+
+<div class="cols">
+<figure style="max-width:350px">
+
+> The head post was most popular in the early 1860’s, usually treated with a vignette look, with the area around the head feathered or gradually fading away. The image area in these head poses was quite small, due to camera and lens technology at that time. The camera was usually 12 or more feet from the subject, and the concept of telephoto or zoom did not exist.
+
+<figcaption>
+<cite>
+
+— 2013, *19th Century Card Photos KwikGuide* by Gary W. Clark, p22, phototree.com.
+
+</cite>
+</figcaption>
+</figure>
+
+<figure style="max-width:350px">
+
+> Nearly all pre-1863 cards have no border. Even though borders first appeared in 1862 (usually hand drawn) this style was not widely used until 1864. … The first commonly used borders usually consisted of two thin gilt lines of the same width. These have only been found on documented 1863 and 1864 cards. Beginning in 1864, nearly all documented cards, especially the vast number with tax stamps, have two gilt lines, but the outer line is considerably thicker that the inner line. This dual-width style of border remained almost unchanged until about 1869.
+
+<figcaption>
+<cite>
+
+— 2013, *19th Century Card Photos KwikGuide* by Gary W. Clark, p18, phototree.com.
+
+</cite>
+</figcaption>
+</figure>
+</div>
+
+Milton mentions Theodore's hospital stay, and as already discussed above, it was not long after Milton wrote that "Theodore is rising in the world" due to his promotion to 2nd Lieutenant, that Theodore fell from his horse, injuring his spine, which also affected his eyesight. He would never fully recover from these injuries, which as stated in his obituary, "finally resulted in the total loss of his sight and in the brain trouble which for several years past left him perfectly helpless, and to which he at last succumbed." Comparing his Army portrait with the studio portrait taken perhaps just a few years later, his gaze does seem to have a different quality.
+
+{{% fig "staten-island/martha-deed/theodore-portrait-comparison" "800" /%}}
+
+Milton Loper's letters to Juliett as well as other family letters referencing Staten Island make it clear what the census records suggest: that in addition to boarders that commonly included employees of Pine, Hillyer & Co., the residence of Charles M. and Elmira Pine in West New Brighton was visited often by close and extended family members, and Juliett and Milton write about meeting at Staten Island with a mixture of warmth and excitement that is palpable. And the nieces and nephews seemed to regard Elmira with unique affection, as they always refer to her as "Auntie Pine", as compared to "Aunt Mary (Smith)" for example.
+
+Contrasted with Rogers' eventual position as hospital steward, Milton describes long days battling on the front lines, at times ending in retreat. Fortunately, Milton survived the battlefield, and as his regiment was mustering out at the end of the war, he wrote his last two letters to Juliett "from the south" in which he expresses his longing to see her in Staten Island.
+
+<figure>
+<blockquote>
+
+Raleigh N C May 19/65
+
+Dear Cousin
+
+Your long letter written sometime this month came to hand this morning. And to make amends for past neglect, I reply immediately.  If you did not get a letter from me after Feb 17th until that one I wrote after taking Raleigh, it was not my fault but the fault of the mail carriers for I wrote at least two and I think three letter in that time.  I wrote one while in camp near Wilmington from which place I also sent you a paper called the “Herald of the Union” printed in Wilmington which I suppose you did not receive as you never mentioned it.  I think I wrote again while near Goldsboro on or about the 22 March. and again while at Rockfish Creek. Bridge on the Wilmington and Weldon RR about 95 miles from the former place.  So you must not go back on me because you did not get them.  I am surprised that Uncle Manning should sell his beautiful place.  What do you sat to our making them another visit?
+
+I am anxious to get home even if there is to be no more fighting.  For I want to see him. It will seem to be free once more.  It is rumored that we are to be mustered out before our term of service expires.  I hope so and then I flatter myself in having a few weeks recreation at Staten Island, New Brunswick, Hempstead and Saratoga and then I shall be homeward bound.  Rogers proposes to meet me somewhere in New York, and go home together.  I have named Staten Island as a substitute – won't it be pleasant for us to meet there?  I may make Uncle Samuel a visit but have not decided.  It is raining and I hope it will rain all day – cause why?  So I shall not have to drill.  I hate these drills and inspections now the war is over and the fewer of them I have to do with the better.
+
+I am glad you were pleased with Burty.  I would like very much to have you go there with me if Auntie Pine can spare you when I return.  How would you like it?
+
+I will close now so good bye
+
+Yours as Ever<br />
+L M Loper<br />
+Co. G 115 N Y V<br />
+Raleigh, N C <br />
+
+</blockquote>
+
+<figcaption>
+<cite>
+
+— Provided by Martha Deed and reproduced here with permission.
+
+</cite>
+</figcaption>
+<aside>
+
+  - "Uncle Samuel" *may* be a reference to Charles M. Pine's brother, [Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine) (26 Nov 1814 to 14 Mar 1880), a carriage maker in Hempstead. Another possibility is Elmira's brother Samuel W. Loper, but at least at the time of his father Luther Loper's death, Samuel Loper was living in Newstead, Erie County NY.
+  
+  - I asked Martha if she thought "Burty" could be a reference to Albert Burt Pine, and her reply: "I wanted to caution you about "Burty" because there were great numbers of Alberts on both sides of my family in those days -- so it looked to me from other letters I have (totally unrelated to your side of the family--or maybe not) that the Burty of this letter was from the Hull family up in Connecticut, i.e. Charles's family, not Juliett's." (09 Nov 2023, Martha Deed, personal correspondence.)
+
+</aside>
+</figure>
+
+<figure>
+<blockquote>
+
+Raleigh N.C. June 5/65
+
+My Dear Cousin
+
+Yours of May 29th came this morning, and was read with pleasure, and this my answer, is in all probability my last letter to you from the South at least. until after I have again tasted the sweets of freedom. I long to be free, and in order to become so, I refuse to accept of a 1st Leutnt Commission, that is. to muster as such, for three years – My appointment is here – and the Commission will be soon.  I recd.. a copy of the N Y Times from you.  a few days ago and thank you for it.  I like to get reading matter for time drags heavily to me now. that I am looking forward so anxiously to a time when I can go home.  Why! Since the order came to muster us out, I have become almost homesick −  But I think I shall survive. so don't be alarmed.  I hope GrandMa will enjoy her visit to Hempstead, and also, that we shall enjoy ours.  Gertrude I understand has broken up house-keeping.  How that will affect our visit I do not Know. but I guess it will not interfere with it, though it may not be so pleasant to us, as though she were keeping house.  I know that I shall not enjoy myself so well and consequently shall not stay so long, but will try to enjoy the visit while I do stay.  Rogers has some peculiar notions about some things and it may not suit his convenience to meet me on S. I. [Staten Island] so I have written him that I will meet him wherever he directs.  I have had an invitation to visit Aunt Mary and Nancy Smith and Buffet and I think I will accept.  If I go to Josie you must go with me.  If you will that is of course.  I do not mean to dictate to you.  I have enough of that here in the army.  I shall be glad when I can get where I can get what I want from others, without saying you must do so etc etc and I shall be joyful beyond measure, when I can feel and know that no human being has the right to say to me You must do this, or you must do that – and the sooner that blessed time arrives the better.
+
+There is to be a great exactment at Saratoga on the 4 Jul and Gen Grant is expected to be there.  I hope that we may be there to see the “elephant.”  Leut Geary has come and now we have to get to work at the muster out rolls again.
+
+Yours as Ever <br /> 
+L M Loper
+
+PS  an officer just came from HeadQuarters with orders for us to suspend operations until next week – Then they will muster our Regt out – there is something wrong about the rolls – Well I suppose I must live in hope awhile longer. L.M.L.
+
+</blockquote>
+<figcaption>
+<cite>
+
+— Provided by Martha Deed and reproduced here with permission.
+
+</cite>
+</figcaption>
+</figure>
+
+Martha Deed provided the following images of the letter immediately above:
+
+{{% fig "staten-island/martha-deed/milton-loper/44LM-to-Juliett-Jun-5-1865p1web" "800" /%}}
+
+<div class="cols">
+{{% fig "staten-island/martha-deed/milton-loper/44LM-to-Juliett-Jun-5-1865p2&3web" "350" /%}}
+{{% fig "staten-island/martha-deed/milton-loper/44LM-to-Juliett-Jun-5-1865p4web" "350" /%}}
+</div>
+
+<figure>
+
+> From the handwriting, it was obvious that Milton was seriously ill.
+
+<figcaption>
+<cite>
+
+— 13 Nov 2023, Martha Deed, personal correspondence.
+
+</cite>
+<figcaption>
+</figure>
+
+<figure>
+
+{{% fig "staten-island/martha-deed/milton-loper/LutherMiltonLoperphotobothsides800" "800" /%}}
+
+<figure>
+
+> While Theodore Pine's photograph was taken in officer's uniform and clearly in a studio, Milton's was taken on the battlefield and he looks very worn.  He did not die in the War exactly.  As I worked my way through transcribing his letters to Juliett, I took them in chronological order, and so I did not know what happened to him -- which was really difficult when I reached his last letter after several years of work on the collection.
+>
+> The plan was to meet at the Pine house in Staten Island for a family reunion.  Milton did not make it.  He was placed on a hospital ship and taken to Portsmouth Grove Civil War hospital just outside of Providence, RI and died there of typhoid fever July 4 or 5,1865.  He spent three years in the Union Army and never made it home.  He was buried on the hospital grounds, but his body was later moved to a Cypress Hills Civil War cemetery in Brooklyn -- as documented by a plaintive letter from his father, Isaac Loper, to Rhode Island officials in 1868. I visited Cypress Hills and took the attached photo.
+> 
+> Odd note about that hospital:  I later learned that three distant cousins of mine served as nurses at that hospital.  I have a photo of one of them, Ada Brewster, taken while she worked there.  Ada Brewster was an artist and my very distant connection to her is on my father's side of the family, while the Lopers are on my mother's side.  The paternal relatives and the Brewsters were very close associates though not close genealogically, which is how I found the Brewsters.  I've wondered if Luther and the Brewster sisters ever met.
+
+<figcaption>
+<cite>
+
+— 11 Nov 2023, Martha Deed, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
+
+<div class="cols">
+
+<figure style="max-width: 350px;margin-top: 30px">
+<blockquote class="small">
+
+Oshkosh, Wisconsin, June 23/68<br />
+Mr. George H. Stewart<br />
+
+Dear Sir
+
+I wrote a letter some time ago. . .  I have had no response to it. . .  I lost a son in the Army & he was buried at Portsmouth Grove, R.I.  The government as I notice has been moving some of the bodies. . .  If you will be kind enough to inform me whether they have moved all or intend to move all & break up the cemetery there, I will be truly obliged to you.  My sons name was Luther M. Loper.
+
+Yours with respect<br />
+Isaac Loper<br />
+
+</blockquote>
+<figcaption>
+<cite>
+
+— Text provided by Martha Deed and used with permission. For more context, see 2012, *Rhode Island’s Civil War Hospital: Life and Death at Portsmouth Grove, 1862–1865* by Frank L. Grzyb. 
+
+</cite>
+</figcaption>
+</figure>
+
+<br />
+{{% fig "staten-island/martha-deed/milton-loper/lmlopergravecypresshills800" "350" /%}}
+</div>
+
+Martha Deed wrote the following poem based on Milton's final letter to Juliett.
+
+<figure>
+<blockquote>
+
+**Mustering Out 5 June 1865**
+
+**Martha Deed**
+
+It is Spring now – finally<br />
+and I am writing my last letter to you –<br />
+from the South<br />
+
+A private letter – like<br />
+all the others I have written –<br />
+to you – and I have burned<br />
+
+Your letters – to keep<br />
+them private, too –<br />
+except in memory<br />
+
+I long to be free again –<br />
+Soon I will – I think –<br />
+My hand shakes<br />
+
+as I pen this to you –<br />
+I may be sick –<br />
+But I don’t tell you this<br />
+
+The War –<br />
+All that stood between you<br />
+and me – is over now<br />
+
+“I shall be joyful<br />
+beyond measure<br />
+when I can feel<br />
+
+and know<br />
+that no human being<br />
+has the right<br />
+
+to say to me<br />
+'You must do this'<br />
+'You must do that'<br />
+
+Time drags heavily to me now<br />
+but I think I shall survive<br />
+so don’t be alarmed.”<br />
+
+</blockquote>
+
+<figcaption>
+<cite>
+
+— 2021, "Mustering Out 5 June 1865" from *Under the Rock* by Martha Deed, [Foothills Publishing](https://www.foothillspublishing.com/2021/deed.html).
+
+</cite>
+<figcaption>
+</figure>
+
+
+<figure>
+
+> Under the Rock is Martha Deed's second FootHills Publishing collection. Her first, Climate Change, was released in 2014.
+>
+> Her poetry has been published in dozens of journals, including Shampoo, Moria, Unlikelystories, CLWN WR,  Le Mot Juste, Edifice Wrecked, Big Bridge, and Earth's Daughters. Her work has been included in FootHills anthologies, including Birdsong and Coast to Coast: The Route 20 Anthology as well as anthologies published by Iowa, Mayapple, Red Hen, Xexoxial, Beatlick Press and others. 
+
+<figcaption>
+<cite>
+
+— [Foothills Publishing](https://www.foothillspublishing.com/2021/deed.html).
+
+</cite>
+</figcaption>
+</figure>
+
+
+## More on Bartlett Brown, Hawkins Ancestry and Descendants
+
+The most complete genealogical record of the ancestry of [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902), that I have yet reviewed, is by Gerald Molloy (@jerrymolloy) on [Geneanet.org](https://gw.geneanet.org/jerrymolloy?lang=en&n=brown&oc=0&p=bartlett), which I rely upon heavily below.
+
+The parents of [Bartlett Brown](https://www.findagrave.com/memorial/199802084/bartlett-brown) (1833 to 24 Nov 1902) are [Abraham "Abram" Brown](https://www.findagrave.com/memorial/20577929/a-brow) (10 May 1802 to 10 Feb 1874) and [Hannah Hawkins](https://www.findagrave.com/memorial/122608336/hannah-brown) (04 Feb 1804 to 14 Aug 1879). A "Hawkins family" folder and a folder containing Hawkins genealogical data are archived in the <a href="https://www.queenslibrary.org/manuscripts/0205#bg-largeview-about">The Mills Family of Jamaica and Mills Pond, Long Island</a>, Archives at Queens Library, Queens Borough Public Library, Jamaica NY. I have yet to personally examine these.
+
+The early Hawkins genealogy, like the Mills genealogy, is explored in *Genealogies of Long Island Families*:
+
+<figure>
+
+> This family has always been a very prolific one in Suffolk County, particularly in Brookhaven Town where the common ancestor Zachariah Hawkins settled. Members of the family can now be found in almost every town in Suffolk County. The early generations generally spelled the name "Hawkings" but all finally adopted the correct spelling.
+> 
+> Zachariah Hawkins<sup>1</sup> an Englishman, was one of the original proprietors of Brookhaven Town, settling at Setauket in 1655. He was a large property owner and a prominent man in the settlement.
+
+<figcaption>
+<cite>
+
+— 1919, Genealogies of Long Island families : a collection of genealogies relating to the following Long Island families: Dickerson, Mitchill, Wickham, Carman, Raynor, Rushmore, Satterly, Hawkins, Arthur Smith, Mills, Howard, Lush, Greene, Compiled by Charles J. Werner, Mainly From Records Left By Benjamin F. Thompson, Historian of Long Island, p85, Logan Utah FamilySearch Library, familysearch.org.
+
+</cite>
+<figcaption>
+</figure>
+
+It was the father of Zachariah "Zachary" Hawkins (25 Oct 1639 to 1699) "the common ancestor" mentioned above, Robert Hawkins (1610 to 11 Sep 1704), born in Plymouth, Devon, England, who immigrated to America in 1635, marrying Mary Marie Pease that same year in Charlestown, Suffolk, Massachusetts.
+
+Bartlett Brown's Hawkins ancestry, largely based on Gerald Molloy's data:
+
+| generation |	        lineal ancestor | birth | death | spouse | birth | death |
+| --- | --- | --- | --- | --- | --- | --- |
+| mother |	            [Hannah Hawkins](https://www.findagrave.com/memorial/122608336/hannah-brown) |	1804-02-09 |	1879-08-14 | [Abram Brown](https://www.findagrave.com/memorial/20577929/abram-brown) | 1802-05-10 | 1874-02-10 |
+| grandfather |	        [David H. Hawkins](https://www.findagrave.com/memorial/68858575/david-h-hawkins) |	1780-09-18 |	1850-01-07 | [Prudence (Tuthill) Hawkins](https://www.findagrave.com/memorial/68858530/prudence-hawkins) | 1874-03-30 | 1870-06-23 |
+| Great-grandfather |	[Nathaniel Hawkins](https://www.findagrave.com/memorial/66529292/nathaniel-hawkins) |	1752 |	1823-08-31 | [Dina (Longbotham) Hawkins](https://www.findagrave.com/memorial/106350919/dinah-hawkins) | ? | 1836-02-26 |
+| Gg-grandfather |	    Zachariah Hawkins |	1710 |	1800 | Abigail (Jayne) Hawkins | 1714 | 1780 |
+| Ggg-grandfather |	    Joseph Hawkins |	1677 |	1728-09-18 | Susan (?) Hawkins | ? | ? |
+| Gggg-grandfather |	Zachariah “Zachary” Hawkins |	1639-10-25 |	1699 | Mary (Biggs) Hawkins | 1643 | ? |
+| Ggggg-grandfather |	Robert Hawkins |	1610 |	1704-09-11 | Mary Marie (Pease) Hawkins | 1611-01-09 | 1642-04-11 |
+
+I have often wondered if Bartlett Brown and Edward H. Mills were related, if even distantly. There are several instances of the descendants of Zackary Hawkins, and the descendants of Timothy Mills of Mills Pond intermarrying and both the Hawkins and Mills genealogies include multiple instances each of Hallock and Longbotham. I have only begun to explore all of the lines that could potentially intersect, and I don't know when or even if I will ever complete that work, as answering this question isn't my highest priority currently, and I suspect that gaps in genealogical records may make it impossible to draw a definite conclusion. I suspect that it is unlikely the two men were related, even distantly, but again, this is just my impression after gaining some initial familiarity with the Mills, Hallock and Hawkins genealogies.
+
+Bartlett Brown married [Sarah Adelaide (Ward) Brown](https://www.findagrave.com/memorial/199802098/sarah-a-brown) (1833 to 04 Sep 1916) on 13 Sep 1860. Bartlett and Sarah's marriage as well as their children's baptisms are all recorded by the Reformed Dutch Church of Port Richmond. Their children are:
+
+  - Adele Irving Brown (09 Nov 1862 to 18 Jan 1927). It appears that Adele never married or had children, and census records indicate that she lived for many years with her younger brother Bartie's family. Although some census records may suggest her middle initial was "J", the middle name "Irving" is explicitly written in her baptism records in the Reformed Dutch Church of Port Richmond, as well as the 1910 United States Federal Census.
+
+  - Charles Pine Brown (25 Jan 1866 to 22 Jan 1887), named for his father's mentor and friend, Charles M. Pine. (This seems most likely, although perhaps he could also be named for Charles' son Charles Theodore Pine, who was a witness to Bartlett's will. But Theodore was in the same generation as Bartlett, and in fact, a few years younger, so it seems more logical that he named his son for his mentor in the grocery business.) Charles died of tuberculosis in West New Brighton just three days before his 21st birthday, and is purportedly buried in Moravian Cemetery. (1887, New York State Death Index, Certificate number 41287, New York Department of Health, Albany, NY, ancestry.com.) I find no evidence that Charles ever married or had children. 
+
+  - [Bartlett "Bartie" Jr.](https://www.findagrave.com/memorial/199802139/bartlett-brown) (04 Mar 1870 to 15 Dec 1946). Bartlett Sr. retired from the grocery business in 1892, and the 1900 census implies that Bartlett Jr. continued to run the store for some years after. By 1910, Bartlett Jr. is working in the railroad industry, and by 1920, he is "chief accountant" at a railroad company.
+
+{{% fig "staten-island/1916-09-05-New-York-Herald-New-York-NY-p10" "500" /%}}
+
+Bartlett Brown Jr. Married [Elizabeth "Bessie" F. (?) Brown](https://www.findagrave.com/memorial/199802102/elizabeth-brown) (1871 to 13 Nov 1946) and they lived for many years at 302 Bement Avenue in West New Brighton. Note that Bartie outlived Bessie by just a month. Their children:
+
+  - Farrington Wade Brown (01 Dec 1894 to 27 Sep 1963) served in World War I, and graduated from Columbia University with a degree in architecture, which he made his career. His physical description, recorded on his military recruitment card, describes him as tall and slender, with brown hair and brown eyes. Farrington married Mabel Cornell Barton on 21 Jan 1926 in Manhattan, and they had a son, Barton Brown, born Jun 1935.
+
+  - Amy Bartlett Brown (? to ?).
+
+{{% fig "staten-island/1923-06-26-The-Evening-Telegram-New-York-NY-p8" "500" /%}}
 
 ## Churches in Staten Island
  
@@ -712,7 +1263,3 @@ The following table is from [Presbyterian churches and their founding](http://ww
 I have looked through transcriptions of the Reformed Church's graveyard and could not find an entry for James Wheelock Mills. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find him there. 
 
   
-
-
-
-

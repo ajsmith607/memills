@@ -188,9 +188,12 @@ Sarah's age is independently specified in her obituaries as "83 yrs 2 months" an
 
 </figure>
 
-Elmira also had a niece, [Juliet (Loper) Shepard](https://www.findagrave.com/memorial/36665791/juliet-shepard) (06 Jan 1845 to 02 Apr 1911), who is the daughter of Elmira's brother [Erastus Harvey Loper](https://www.findagrave.com/memorial/33057122/erastus-harvey-loper) (1813 to 1860). Juliet was 20 when the census was taken in 1865, matching the age of "Julia". Her obituaries state that "she was married to Mr. Shepard November 28, 1872", and so would still have the name Loper in 1865.
+Elmira also had a niece, [Juliett (Loper) Shepard](https://www.findagrave.com/memorial/36665791/juliet-shepard) (06 Jan 1845 to 02 Apr 1911), who is the daughter of Elmira's brother [Erastus Harvey Loper](https://www.findagrave.com/memorial/33057122/erastus-harvey-loper) (1813 to 1860). Juliett was 20 when the census was taken in 1865, matching the age of "Julia". Her obituaries state that "she was married to Mr. Shepard November 28, 1872", and so would still have the name Loper in 1865.
 
-However, this may be somewhat obscured by two of Juliette's obituaries, that agree that "her early life was spent in New York City, and following the death of her father in 1860, the family moved to this place [Huntington]." Although, I would point out the vagueness of the relative time reference as well as the phrase "the family". Also note that in the census "Julia" gives her birthplace as Suffolk County, and Farmingdale overlaps the Suffolk County border.
+(As  will be seen, there are variations of the spelling of her name including "Juliet" and "Juliette", but 
+"Juliett" appears to be correct based on surviving letters.)
+
+However, this may be somewhat obscured by two of Juliett's obituaries, that agree that "her early life was spent in New York City, and following the death of her father in 1860, the family moved to this place [Huntington]." Although, I would point out the vagueness of the relative time reference as well as the phrase "the family". Also note that in the census "Julia" gives her birthplace as Suffolk County, and Farmingdale overlaps the Suffolk County border.
 
 <div class="cols">
 {{% fig "pine/1911-04-07-The-Long-Islander-Huntington-NY-p4" "350" /%}}
@@ -201,7 +204,69 @@ To further support my theory, consider how similarly the name "Loper" when handw
 
 {{% fig "pine/luther-loper-will-0-1" "800" /%}}
 
-I now propose the true Pine genealogy, which I will show documentary evidence for further below, starting with Charles' and Mary Ann's grandparents:
+Subsequent to my initial investigation, I have been in contact with Martha Deed, Juliett's great granddaughter, who possesses many letters to Juliett that she has transcribed and made available. 
+
+<figure>
+
+> My  maternal grandmother, Jessie Louise Shepard, was the daughter of Charles E Shepard, editor and publisher of The Long Islander weekly newspaper  (and -- yes -- there are Walt Whitman connections which I explored for Huntington Historical Society in honore of WW's 200th birthday -- another story).  Jessie's own mother, Juliette Loper Shepard (1st cousin of C Theodore Pine) died ca 1910 -- and M Amanda Hillyer moved in and looked after Charles, who apparently was not good at looking after himself.
+
+<figcaption>
+<cite>
+
+— 31 Oct 2023, Martha Deed, personal correspondence.
+
+</cite>
+<figcaption>
+</figure>
+
+The transcriptions provided by Martha Deed appear to corroborate that Sarah Bishop Loper lived at the Pine residence in Staten Island during the 1860's (presumably following husband Luther's death in 1856), and that Juliett appears to have also made had a number of visits to the Pine residence in the 1860's and into the early 1870's. 
+
+
+<figure>
+
+> Dear Charlie
+>
+> According to promise I write you but dear it is not much trouble either.   I got my feet warm at home at the risk of burning my face and clothes up.  the boat came in a few minutes after you left me but did not go back to the island again till 11 o’clock, so I had a whole hour to wait – but it did not seem very long I got a paper to read which took up the time when I go here instead of ringing the bell I walked right into the sitting room supposing I should find Auntie there but there was no one in the room so I concluded I would sit down and make myself comfortable and surprise them when they came in   but after awhile no one coming in so I took off my things and went out to find you may rest assured they were surprised to see me.  I did not get to bed very early after all but I rested well after I did it seemed quite a long day getting up so early. . . .
+> 
+> My Address is West New Brighton Staten Island 
+> Care C. M. Pine 
+>
+> New York Jan 20 [1872 ‒ Sent c/o Pine in New Brighton, Staten Island.  Related to other letters in series]
+
+<figcaption>
+<cite>
+
+— *Juliett Loper correspondence with Charles E Shepard, References to Juliett’s Staten Island Relatives*, compiled by Martha Deed. Provided by Martha deed and used with permission.
+
+</cite>
+<figcaption>
+<aside>
+
+  - C. M. Pine is obviously a reference to grocer Charles M. Pine, and "Auntie" refers to Elmira. 
+
+  - The referenced "boat" may be a reference to the People's Ferry of Staten Island, which the Beers map from 1874 shows is directly across the street from the Pine residence on the north shore of Staten Island, in the Kill Van Kull.
+
+</aside>
+</figure>
+
+
+<figure>
+
+> Juliett's visits.  Certainly, there were many visits, and I am interested that she was included in a Census at the Pine residence.  I am not aware of extended stays, but I  am aware that family members tended to have visits of several days at least when they visited family, partly, I think, because of transportation issues.  There is, I think, particularly in Juliett and Charles's wedding prep correspondence, a suggestion of longish visits, but I am not aware of a visit lasting weeks or months.  It doesn't mean it never happened.  I don't, for example, have any correspondence for Juliett prior to 1862.  There was quite a tragedy in her family.  Her family was living in Manhattan Ward 11, District 8 when her father died.  That district is on the Lower East Side of Manhattan.  Juliett was 15 when he died.  She was the oldest of 5 children.  The youngest was only a year old.  I wonder if you found any references to her father's death.  His name was Erastus Loper.  Aunty (Almira or Elmira) Pine was his sister and that may have brought Juliett close to her aunt and to the Pine household on Staten Island. Her mother was a Conklin from Huntington, and I have assumed that it was her father's death that took her mother, now raising 5 children alone, back to Huntington.  But none of this history is well-documented by me at this point.
+
+<figcaption>
+<cite>
+
+— 13 Nov 2023, Martha Deed, personal correspondence.
+
+</cite>
+<figcaption>
+</figure>
+
+
+More transcriptions of Juliett Loper's letters are available in the Staten Island section: [Milton Loper's Civil War Letters]({{% relref "staten-island/#milton-lopers-civil-war-letters" %}}). Continued correspondence with Jacqueline Igliozzi, Samuel M. Pine's great-great-great granddaughter, has also corroborated details in the following genealogy.
+
+I now present the true genealogical data for this section of the Pine family tree, which I will show documentary evidence for further below, starting with Charles' and Mary Ann's grandparents:
 
   - **Reuben Pine** (1757 to 1827), married,  
 
@@ -219,7 +284,7 @@ Read more about the Seaman family in the section on [Captain John Seaman]({{% re
 
 And Nicholas and Rhoda's children are:
 
-  - **Lois Almy (Pine) Snedeker** (1805? to 07 Nov 1890) married William Snedeker (sometimes spelled "Snediker") in 1831 in South Hempstead. Their children include [Livingston Snedeker](https://www.findagrave.com/memorial/180916294/livingston-snedeker) (May 1836 to 10 Aug 1906). William was also involved in the dry goods business in Manhattan, and later, Staten Island where he moved the family. More can be learned about them in [that section]({{% relref "staten-island" %}}).
+  - **Lois Almy (Pine) Snedeker** (1805? to 07 Nov 1890) married William Snedeker (sometimes spelled "Snediker") in 1831 in South Hempstead. Their children include [Livingston Snedeker](https://www.findagrave.com/memorial/180916294/livingston-snedeker) (May 1836 to 10 Aug 1906). William was also involved in the dry goods business in Manhattan, and later, in Staten Island, where he moved the family. More can be learned about them in [that section]({{% relref "staten-island" %}}).
 
 <div class="cols">
 {{% fig "hempstead/NY-gbr-p392" "350" /%}}
@@ -232,9 +297,9 @@ And Nicholas and Rhoda's children are:
 
   - **[Jerusha Pine](https://www.findagrave.com/memorial/108830285/jerusha-pine)** (? to 31 Aug 1860) presumably named for her grandmother Jerusha (Mills) Pine listed above.
 
-  - **[Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine)** (1812 to 08 Oct 1897), approximately 16 years old when his father died. Read more about Charles' life and family in the [Staten Island]({{% relref "staten-island" %}}) section. 
+  - **[Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine)** (1812 to 08 Oct 1897), approximately 16 years old when his father died. Professionally, Charles went by "Charles M. Pine" or "C. M. Pine". At least two independent sources confirm that Charles' middle name is "Mills". Read more about Charles' life and family in the [Staten Island]({{% relref "staten-island" %}}) section. 
 
-  - **[Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine)** (26 Nov 1814 to 14 Mar 1880), 13 years old when his father died.
+  - **[Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine)** (26 Nov 1814 to 14 Mar 1880), 13 years old when his father died. "His middle name "Mills" is in honor of his paternal grandmother, Jerusha Mills (married to Rheuben Pine)." (11 Nov 2023, Jacqueline Igliozzi, personal correspondence.) Samuel was a carriage maker.
 
 {{% fig "hempstead/NY-gbr-p251" "500" /%}}
 
@@ -242,7 +307,7 @@ And Nicholas and Rhoda's children are:
 
 {{% fig "hempstead/nygb-v54-p30" "500" /%}}
 
-Although some birthdates are missing, the birth order is likely correct based on the following, which is also the most complete documentary evidence of the family members, linking together Mary Ann, Charles M., and Samuel M., in the will of their father, Nicholas Pine:
+Although some birthdates are missing, the birth order is likely correct based on the following, which is also the clearest documentary evidence linking together Mary Ann, Charles M., and Samuel M., in the will of their father, Nicholas Pine:
 
 {{% fig "pine/will-nicholas-pine-5" "800" /%}}
 
@@ -271,10 +336,11 @@ According to [Samuel Mills Pine's](https://www.findagrave.com/memorial/180274612
 <blockquote>
 Son of Nicholas Ludlow Pine and Rhoda Seaman, husband of Frances Gildersleeve and father of Frances Gertrude, Albert "Burt", Mary Elizabeth, Lois Alma, and Nicholas Ludlow Pine.
 </blockquote>
-</figcaption>
 </figure>
 
-When Edward married Hannah, an announcement in the Hempstead Sentinel states that Edward is "brother-in-law of the late Samuel M. Pine".
+
+
+When Edward Mills married Hannah, an announcement in the Hempstead Sentinel states that Edward is "brother-in-law of the late Samuel M. Pine".
 
 {{% fig "1897-01-14-The-Sentinel-Hempstead-NY-p2" "500" /%}}
 
@@ -294,7 +360,7 @@ A portrait of Samuel Mills Pine survives in the family collection of Jacqueline 
 If I come across any more info, I'll let you know, however, there are no other photos in my possession. I am so grateful to my G Grandfather for labeling all the picutres I have. There is no way I could have identified these people if he hadn't had the foresight to do this so many years ago.
 </blockquote>
 <figcaption>
-<cite>— Jacqueline Igliozzi via personal correspondence 01 Feb 2023.
+<cite>— 01 Feb 2023, Jacqueline Igliozzi, personal correspondence.
 </cite>
 </figcaption>
 <aside>
@@ -310,10 +376,26 @@ Jacqueline also has several photos of Samuel's descendants:
 
 {{% fig "pine/abert-burt-pine" "500" /%}}
 
+<figure>
+
+> As for Albert Burt Pine, his middle name is "Burt" in honor of his maternal grandmother, Mary Burt (married to David Gildersleeve).
+
+<figcaption>
+<cite>
+
+— 11 Nov 2023, Jacqueline Igliozzi, personal correspondence.  
+
+</cite>
+<figcaption>
+</figure>
+
+
 <div class="cols">
 {{% fig "pine/anna-b-pine-front" "350" /%}}
 {{% fig "pine/anna-b-pine-back" "350" /%}}
 </div>
+
+When Jackie provided me with the photos of Anna, above, she drew my attention to Anna's surprisingly modern hairstyle. Its unclear if the hair is short or, more likely, just pulled back and out of sight. Compared to similar photographs from the time that I have studied elsewhere in this work, her head is turned at a more pronounced angle, and may be intended to draw the viewer's eye to her ear and where her visible hair ends.
 
 A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Loper of Clarence NY, at one point further specified as Newstead NY, coinciding with when [William and Deborah Mills]({{% relref "buffalo-mills" %}}) lived in Newstead.  
 
@@ -324,7 +406,11 @@ A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Lope
 
 ## The Legacy of Captain John Seaman
 
-Mary Ann (Pine) Mills, through her mother Rhoda (Seaman) Pine, is descended from Captain John Seaman, the American progenitor of the Long Island Seaman families and one of the original settlers of Hempstead. The Seaman family history is summarized in 1928, *The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island* by Mary Thomas Seaman, archive.org. Selections from this work will be cited as "Seaman" below. 
+Mary Ann (Pine) Mills, through her mother Rhoda (Seaman) Pine, is descended from Captain John Seaman, the American progenitor of the Long Island Seaman families and one of the original settlers of Hempstead. 
+
+> "Once he signed an agreement or pledged his faith he never disclaimed his share of it."
+
+The Seaman family history is summarized in 1928, *The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island* by Mary Thomas Seaman, archive.org. Selections from this work will be cited simply as "Seaman" below. 
 
 <figure>
 <blockquote>

@@ -14,7 +14,7 @@ TREASURER PINE SHORT $10,000.
 
 Will the Staten Island Building and Savings Association be a Loser? 
 
-Alverade R. Pine of tho firm of C. M. Pine & Son, West New Brighton, was until recently Treasurer of the Staten Island Building, Loan, and Savings Association. For some time before his retirement from the Treasurership it was known among the members that there was a deficiency in his accounts. Mr. Pine has the sympathy, apparently, of nearly all the members of the association, and it 1s said the shortage in his accounts was not due to any wrongful act on his part. The members are reticent about the affair, but the amount of the shortage is said to be between $10,000 and $11,000. 
+Alverade R. Pine of tho firm of C. M. Pine & Son, West New Brighton, was until recently Treasurer of the Staten Island Building, Loan, and Savings Association. For some time before his retirement from the Treasurership it was known among the members that there was a deficiency in his accounts. Mr. Pine has the sympathy, apparently, of nearly all the members of the association, and it is said the shortage in his accounts was not due to any wrongful act on his part. The members are reticent about the affair, but the amount of the shortage is said to be between $10,000 and $11,000. 
 
 On Tuesday night last, at the annual meeting of the association, John F. Smith was elected Treasurer in place of Mr. Pine, whose term had expired. On Saturday the firm of C. M. Pine & Son made an assignment to Mark Hartley, with the Loan Association as the preferred creditor. Mr. Pine, the senior member of the firm, was one of the three bondsmen of his son. The other two bondsmen are Edward Clark and Robert Moore, Supervisor of Castleton. The assignment was made to protect the bondsmen. 
 

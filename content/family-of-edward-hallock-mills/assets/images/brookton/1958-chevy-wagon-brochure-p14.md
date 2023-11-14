@@ -1,5 +1,5 @@
 ---
-citation: "1958, Chevrolet Wagon Sales Brochure, p14. Provided by Bernard Vascotto, General Motors Heritage Center via personal correspondence 20 Dec 2022."
+citation: "1958, Chevrolet Wagon Sales Brochure, p14. Provided by Bernard Vascotto, General Motors Heritage Center, personal correspondence 20 Dec 2022."
 ---
 
 

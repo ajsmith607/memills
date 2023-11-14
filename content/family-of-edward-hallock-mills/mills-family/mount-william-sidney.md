@@ -15,6 +15,19 @@ include_toc: true
 {{% fig "mills-family/mount-brady-photo" "800" /%}}
 
 <figure>
+
+> In the early years, some of Mount's more prominent Long Island patrons were members of the Wells, Weeks, Mills, and Strong families. 
+
+<figcaption>
+<cite>
+
+— [William Sidney Mount](https://en.wikipedia.org/wiki/William_Sidney_Mount), Wikipedia.org.
+
+</cite>
+</figcaption>
+</figure>
+
+<figure>
 <blockquote>
 William S. Mount ranks high among American artists and his work today is much sought after. Probably no one will ever be his equal in depicting the happy side of American country life. His “Power of Music” and “Farmer’s Nooning” are famous and in their engraved form have gone into many a home throughout our land. The scenes of most of his pictures are laid on Long Island, many of them near his home at Stony Brook. He lived during a considerable portion of his life in the Hawkins homestead at Stony Brook. He was in truth, Long Island’s artist—but his fame knew no bounds. Space forbids a longer account of his genius but the inquiring reader is referred to “Historical Miscellanies Relating to Long Island" by the compiler of this genealogy, where a more extended account of his life and work may be found. His brothers Henry S. and Shepard A, Mount were also artists of considerable ability. Shepard A. Mount’s portraits especially, take high rank. 
 </blockquote>
@@ -24,6 +37,26 @@ William S. Mount ranks high among American artists and his work today is much so
 </cite>
 </figcaption>
 </figure>
+
+{{% fig "mills-family/william-mount-farmers-nooning" "800" /%}}
+{{% fig "mills-family/william-mount-the-power-of-music" "800" /%}}
+
+<figure>
+
+> Mount's fiddle performances for country dances convinced him there was a need for a violin that would project its sound loudly enough to be heard over the noise of the crowd. He also aimed to design a violin that had fewer parts than normal so that it could be manufactured more efficiently and affordably. Mount patented a hollow-backed violin, which he named the “Cradle of Harmony” in 1852. Mount experimented with various violin shapes and modifications for the rest of his life, with four different versions existing today. He displayed the instruments publicly and demonstrated one at the New York Crystal Palace Exposition in 1853.
+
+<figcaption>
+<cite>
+
+— [William Sidney Mount](https://en.wikipedia.org/wiki/William_Sidney_Mount), Wikipedia.org.
+
+</cite>
+</figcaption>
+</figure>
+ 
+</div>
+
+{{% fig "mills-family/cradle-of-harmony" "350" /%}}
 
 {{% toc "Text from Past Exhibitions of The Long Island Museum:" %}}
 

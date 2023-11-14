@@ -1,5 +1,5 @@
 ---
-citation: "25 Oct 2022, via personal correspondence with Charles D. Warren."
+citation: "25 Oct 2022, Charles D. Warren, personal correspondence."
 ---
 House built by Hon. Thomas M. Foote, North Street and Elmwood Avenue.
 

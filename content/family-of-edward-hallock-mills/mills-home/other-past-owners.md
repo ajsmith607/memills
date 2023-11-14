@@ -3,7 +3,7 @@ title: "Deeds and Other Past Owners"
 weight: 100 
 ---
 
-This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's with the first owner of record, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer. It is unclear exactly when the Mills family first moved into the home, although I believe the 1880 census strongly suggests that they lived in the home shortly after their move to Mott's Corners, if not immediately so. 
+This section explores the historical deeds and the lives of some of the other former owners of the home beginning in the 1860's, when the property is first sub-divided from the lower grist mill and called "The Wolcott Lot" for the first owner of record, William Benton Wolcott, through to the 1960's ownership by Jessie (Shurter) Brewer. It is unclear exactly when the Mills family first moved into the home, although I believe the 1880 census strongly suggests that they lived in the home shortly after their move to Mott's Corners, if not immediately so. 
 
 <!--more-->
 
@@ -413,7 +413,7 @@ She died in April 1982 in Thibodaux, LaFouche, Louisiana.
 </p>
 </blockquote>
 <figcaption>
-<cite>—04 Jul 2022, Jean Shulman, Historical Programs and Collections at American Red Cross via personal correspondence.</cite>
+<cite>—04 Jul 2022, Jean Shulman, Historical Programs and Collections at American Red Cross, personal correspondence.</cite>
 </figcaption>
 </figure>
 

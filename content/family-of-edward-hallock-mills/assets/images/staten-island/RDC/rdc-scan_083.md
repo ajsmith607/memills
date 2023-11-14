@@ -4,5 +4,5 @@ media: "Partial transcription."
 ---
 | Date | Baptized | Born | Parents' Names |
 | --- | --- | --- | --- | 
-| 1866, Feb. 21| Charles Pine | Jan. 25, 1866 | Bartlett Brown, Sarah A. Ward | 
+| 1866 June 13| Charles Pine | Jany. 25, 1866 | Bartlett Brown, Sarah A. Ward | 
 

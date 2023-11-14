@@ -53,13 +53,20 @@ In what was a purely farming community, the 113-acre (46 ha) cemetery was origin
 <a href="https://en.wikipedia.org/wiki/Moravian_Cemetery">Moravian Cemetery</a>, wikipedia.org.
 </cite>
 </figcaption>
+<aside>
+
+  - The Vanderbilt family were also members of the Reformed Dutch Church of Port Richmond.
+
+</aside>
 </figure>
 
-The Vanderbilt family were members of the Reformed Dutch Church of Port Richmond, and Wikipedia also notes that “After the closure in the 1880s of the South Reformed Dutch Church in Richmondtown the graves of that church's graveyard were reinterred at Moravian.”
+ Wikipedia also notes that “After the closure in the 1880s of the South Reformed Dutch Church in Richmondtown the graves of that church's graveyard were reinterred at Moravian.”
 
-I contacted Moravian Cemetery, and they had no record of James there.
+In addition to using both findagrave.com and the burial search feature of the Moravian Cemetery website and not finding James, I contacted Moravian Cemetery directly, and after a search, the representative I spoke to also did not find James. Despite this, I cannot completely rule out the possibility that James is buried in Moravian. I strongly suspect that the representative I spoke to used the same burial search I had used, or a similar search based on the same digital records, thus only replicating my efforts and not actually corroborating my results. I can confidently assert that not only are the Moravian digitized records incomplete, but I suspect, quite incomplete. I have used the burial search to look for several members of the Pine and Brown families that multiple independent sources state are buried in Moravian, yet I cannot retrieve them using the burial search, again, despite trying multiple variations of the names, including initials, switching first and last names, etc. The graves I am looking for are not particularly ancient, especially for Moravian, and the fact that such a high percentage of people I looked for cannot be retrieved, suggests to me ample room to find James among his Pine relatives there. I am pursuing avenues for accessing the original print records of Moravian to look for James there. 
 
-Friends of Abandoned Cemeteries of Staten Island (FACSI), have [lists](http://richmond.nygenweb.net/facsi/facsi_cemeteries_m2.shtml) of many Staten Island cemetery burials. There is a James C. W. Mills in Fountain Cemetery, who died at age 47 on 18 Apr 1893 (FACSI ID 353), and a James Mills buried in the row 5, grave 11 of the Fountain Cemetery Public Grounds who died 13 Jun 1889. There are also two unnamed Mills in Fountain Cemetery, in lot 080 and lot 095 (FACSI IDs 665 and 709 respectively), ages and death dates are unknown, but FACSI indicates that there are known burials in Fountain Cemetery from the 1860's, so these last two cannot be ruled out.
+There are other possible candidates for James' final resting place. The Beers map of Staten Island shows Staten Island Cemetery, Trinity Chapel/Church of the Ascension, and Fountain Cemetery are clustered together in the general vicinity of Pine, Hillyer & Co. general store, where Edward was presumably employed.
+
+{{% fig "staten-island/1874-beers-map-cropped-churches" "800" /%}}
 
 <figure>
 <blockquote>
@@ -74,8 +81,10 @@ Children were not always buried by name. Staten Island Cemetery has an area for 
 </p>
 </blockquote>
 <figcaption>
-<cite>—
-20 Feb 2023, personal correspondence via email with Friends of Abandoned Cemeteries of Staten Island.
+<cite>
+
+— 20 Feb 2023, Friends of Abandoned Cemeteries of Staten Island, personal correspondence.
+
 </cite>
 </figcaption>
 </figure>
@@ -89,16 +98,15 @@ Trinity Chapel Burying Ground est. abt. 1799 was at one time attached to Trinity
 Trinity Methodist Church Cemetery - is now part of St. Johns Lutheran church in Port Richmond. It is a tiny cemetery attached to a tiny church that is still active today - not part of FACSI
 </blockquote>
 <figcaption>
-<cite>— 08 Apr 2023, personal correspondence via email with Friends of Abandoned Cemeteries of Staten Island.
+<cite>— 08 Apr 2023, Friends of Abandoned Cemeteries of Staten Island, personal correspondence.
 </cite>
 </figcaption>
 </figure>
 
+Friends of Abandoned Cemeteries of Staten Island (FACSI), have [lists](http://richmond.nygenweb.net/facsi/facsi_cemeteries_m2.shtml) of many Staten Island cemetery burials. There is a James C. W. Mills in Fountain Cemetery, who died at age 47 on 18 Apr 1893 (FACSI ID 353), and a James Mills buried in the row 5, grave 11 of the Fountain Cemetery Public Grounds who died 13 Jun 1889. There are also two unnamed Mills in Fountain Cemetery, in lot 080 and lot 095 (FACSI IDs 665 and 709 respectively), ages and death dates are unknown, but FACSI indicates that there are known burials in Fountain Cemetery from the 1860's, so these last two cannot be ruled out.
+
 FACSI also notes a number of burials identified simply as being on "Van Street". No Mills are listed there, and the dates of the burials at that location were decades after the Mills left Staten Island.  
 
-The Beers map of Staten Island shows that the two most likely burial places for James (assuming that the Reformed Dutch Church burial ground is ruled out), Staten Island Cemetery and Trinity Chapel/Church of the Ascension, are clustered together, along with Fountain Cemetery, near Pine, Hillyer & Co. general store, where Edward was presumably employed. 
-
-{{% fig "staten-island/1874-beers-map-cropped-churches" "800" /%}}
 
 Finally, Samuel J. Wood Library at Weill Cornell Medicine has records starting from 1854 from the Nursery and Child’s Hospital, and I contacted them about a search for James. This was a unlikelihood anyway, and became moot as even to search for him, they required the very information I was looking for: exact date of death, death certificate, etc., and even then, I would have to sign an agreement to de-identify the information, defeating the purpose.
 
@@ -174,17 +182,25 @@ Assuming the name "Wheelock" is correct as written, as the evidence indicates, w
 
 Nor do I recall encountering Wheelock in the genealogical data I have reviewed for related families such as Hawkins and Brown, nor among the names of known business associates, fellow church members, etc., nor in the available census records I have reviewed, although admittedly, I only discovered James once I was a few years into this research, so I may have encountered the name at a time when it would not have caught my attention.
 
-Searching more broadly for Wheelocks, in the 1800's, there are a number of Wheelocks in Brooklyn, central New York and Erie County. By 1890, there are Wheelocks in North Hempstead, notably, Daniel Wheelock, a farmer.
+I asked Martha Deed, great-granddaughter of Juliett (Loper) Shepard, if she knew of "Wheelock":
 
-The Wheelocks living in Erie County, included in the following list, lived in Clarence at and around the time that the [Mills Family of Erie County]({{% relref "buffalo-mills" %}}) are living in Clarence, and Edward's family are in Staten Island and later Corfu in Genesee County, perhaps 10 miles from Clarence:
+<figure>
 
-  - [Jeanette Wheelock](https://www.findagrave.com/memorial/79798619/jeanette-wheelock) (1845 to 1903).
+> No Wheelock.  There is a Mary Hallock (1800, Westchester County, NY - 1870 Westchester County, NY) who was married to a very distant Conklin ancestor of mine, John C Conklin 1800-1878.  They appear to be Quakers and are buried in the Friends Cemetery in Amawalk, NY.
+> 
+> ...Mills is a surname in my tree, but is part of my incomplete work on ancestors from Kingston and Duxbury, Plymouth County, so may be of little help.
 
-  - [Jesse Wheelock](https://www.findagrave.com/memorial/79798512/jesse-wheelock) (15 Feb 1804 to 24 Nov 1887) who married [Anna A. (Young) Wheelock](https://www.findagrave.com/memorial/79798526/anna-a-wheelock) (1812 to 23 Jul 1858). Their children:
-        
-    - [John G. Wheelock](https://www.findagrave.com/memorial/160105705/john-g-wheelock) (12 Sep 1839 to 11 Oct 1909).
+<figcaption>
+<cite>
 
-    - [Eugene J. Wheelock](https://www.findagrave.com/memorial/79798548/eugene-j-wheelock) (1848 to 02 Feb 1866).
+— 31 Oct 2023, Martha Deed, personal correspondence.
+
+</cite>
+<figcaption>
+</figure>
+
+One possibility I should point out, though it may be unlikely. In all of the documents referencing Bartlett Brown, the grocer in whose home the Mills lived for part of their time in Staten Island, most likely overlapping the time James was yet living, I believe I have only seen one source, the New York State Death Index, that even hints at Bartlett's middle name, which the Index recorded "W". But if Edward wanted to honor his friend, it seems "James Bartlett Mills" or "James Brown Mills" would be more logical choices. And perhaps a clue to Bartlett Brown's full middle name can be found in the middle name of his grandson Farrington Wade Brown (01 Dec 1894 to 27 Sep 1963).
+
 
 Perhaps it is worth further investigation to search for a possible business relationship between the West New Brighton grocers and [William Almy Wheelock](https://www.findagrave.com/memorial/178689119/william-almy-wheelock) (23 Mar 1825 to 06 Jul 1905) who was a dry goods jobber throughout the 1850's in Manhattan, creating a fortune for himself at a young age. In the 1850 United States Federal Census in New York Ward 17 (Ancestry.com), William Snedecker's occupation appears to be "hosiery" and William Wheelock's dry goods businesses routinely featured hosiery among their advertised products. By 1859, William Snedeker is also a dry goods jobber, operating several blocks away from William Wheelock.  And note that William Wheelock's middle name is also that of William Snedeker's wife, Lois Almy (Pine) Snedeker, Mary Ann's sister. But aside from this modest collection of coincidences, I don't have any direct evidence connecting William Wheelock to the Pines or Mills. 
 
@@ -214,6 +230,18 @@ Perhaps William Wheelock was an investor in C. M. Pine & Co. in Staten Island, o
 {{% fig "wheelock/1878-06-24-The-Brooklyn-Union-Brooklyn-NY-p2" "350" /%}}
 </div>
   
+Searching more broadly for Wheelocks, in the 1800's, there are a number of Wheelocks in Brooklyn, central New York and Erie County. By 1890, there are Wheelocks in North Hempstead, notably, Daniel Wheelock, a farmer.
+
+The Wheelocks living in Erie County, included in the following list, lived in Clarence at and around the time that the [Mills Family of Erie County]({{% relref "buffalo-mills" %}}) are living in Clarence, and Edward's family are in Staten Island and later Corfu in Genesee County, perhaps 10 miles from Clarence:
+
+  - [Jeanette Wheelock](https://www.findagrave.com/memorial/79798619/jeanette-wheelock) (1845 to 1903).
+
+  - [Jesse Wheelock](https://www.findagrave.com/memorial/79798512/jesse-wheelock) (15 Feb 1804 to 24 Nov 1887) who married [Anna A. (Young) Wheelock](https://www.findagrave.com/memorial/79798526/anna-a-wheelock) (1812 to 23 Jul 1858). Their children:
+        
+    - [John G. Wheelock](https://www.findagrave.com/memorial/160105705/john-g-wheelock) (12 Sep 1839 to 11 Oct 1909).
+
+    - [Eugene J. Wheelock](https://www.findagrave.com/memorial/79798548/eugene-j-wheelock) (1848 to 02 Feb 1866).
+
 I also considered the possibility that Wheelock was not referring to a relative or someone else the Mills knew personally, but a famous person of the time. Although I can't say this was never done in the Mills family, the overwhelming tradition was to reuse the same small set of names over many generations and even spanning across widely divergent branches of the family tree. Additionally the Wheelock I could find with any notoriety from the relevant time frame in America was Cyrus H. Wheelock:
 
 <figure>
@@ -251,8 +279,6 @@ The original source is given as: Filby, P. William, Meyer, Mary K., Passenger an
 </aside> 
 </figure>
 
-It is also perhaps worth noting that the second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891). Also, the family of [Charles Wheelock](https://www.findagrave.com/memorial/85993460/charles-wheelock) (1787 to 12 Oct 1868) lived in Brooklyn NY before moving to the Trumansburg NY area. 
-
 Finally, I looked into the previously mentioned James C. W. Mills, to see exactly what the "W" stands for, but I have not found documentation that spells out these initials. As far as I can tell, this is an unrelated Mills, not a descendant of Timothy Mills of Mills Pond or of George Mills of Jamaica. 
 
 <div class="cols">
@@ -268,6 +294,8 @@ Finally, I looked into the previously mentioned James C. W. Mills, to see exactl
 {{% fig "staten-island/1907-11-09-Richmond-County-Advance-WNB-NY-p1" "350" /%}}
 {{% fig "staten-island/1991-03-23-The-Tampa-Tribune-Tampa-FL-p12" "350" /%}}
 </div>
+
+And for the sake of completeness, I will add these final Wheelocks. I briefly explored the family of [Charles Wheelock](https://www.findagrave.com/memorial/85993460/charles-wheelock) (1787 in Wexford Ireland to 12 Oct 1868) who married [Lydia Alice (Brown) Wheelock](https://www.findagrave.com/memorial/85980782/lydia-alice-wheelock) (1798 in Brooklyn NY to 06 Feb 1872, Ithaca NY) on 08 Jun 1824 in Brooklyn NY before later moving to the Trumansburg NY area. He was a tallow chandler (candle maker) and a farmer. I found no evidence connecting them to the Mills. The second Pastor of the Congregational Church of Mott’s Corners, from 1868 to 1870, was [Reverend Rufus A. Wheelock](https://www.findagrave.com/memorial/73576400/rufus-a-wheelock) (03 Mar 1815 to 01 Dec 1891), although after a brief exploration of his life and service to a number of congregations, I cannot find any evidence connecting him to the Mills at any time or place. 
 
 Wheelock is overwhelmingly used as a surname, but I have found rare instances of it being used as a first name. Like the Mills and Seaman names, Wheelock has English origins.
 
