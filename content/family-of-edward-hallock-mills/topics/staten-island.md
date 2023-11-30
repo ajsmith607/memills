@@ -107,7 +107,7 @@ Bartlett Brown was born in Oak Farm on Long Island NY and according to the 1850 
 
 {{% fig "staten-island/1902-11-29-richmond-county-advance-p4" "700x400" "" "top" /%}}
 
-Based on the 1860 census, and assuming Bartlett's obituary is accurate, we can surmise the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner of the intersection at Broadway and Castleton, and the "adjoining house" referred to is most likly the structure shown at the corner of State Street and Castleton Avenue, or possibly the one next to it, both of which are labelled as "DWG." on the 1885 Sanborn map.
+Based on the 1860 census, and assuming Bartlett's obituary is accurate, we can surmise the Mills were residing with Bartlett at "the adjoining house" to "the valuable property at the corner of Broadway and Castleton Avenue". The Beers map from 1874 shows "B Brown" in the southwest corner of the intersection at Broadway and Castleton, and the "adjoining house" referred to is most likely the structure shown at the corner of State Street and Castleton Avenue, or possibly the one next to it, both of which are labelled as "DWG." on the 1885 Sanborn map.
 
 {{% fig "staten-island/1874-beers-map" "800" /%}}
 
@@ -144,6 +144,8 @@ Other maps showing this property include the Colton and Dripps maps which both i
 {{% fig "staten-island/1866-colton-map-cropped" "800" /%}}
 {{% fig "staten-island/1872-dripps-map-cropped" "800" /%}}
 
+Bartlett Brown's store at the corner of Castleton Avenue and Broadway in Staten Island was addressed as 114 Broadway in the 1800's, but as I write this, it is addressed as 280 Broadway, block 206, lot 13 (Borough-Block-Lot Lookup, New York City Department of Finance).
+
 Bartlett Brown's son [Bartlett Brown Jr.](https://www.findagrave.com/memorial/199802139/bartlett-brown) (04 Mar 1870 to 15 Dec 1946), apparently known locally as "Bartie", succeeded him in business: 
 
 {{% fig "staten-island/1891-08-06-Richmond-Cty-WNB-NY-p1" "500" /%}}
@@ -179,7 +181,7 @@ Population, 15,961. Sandy Ground’s AME Church incorporated.
 </figcaption>
 </figure>
 
-The quarantine buildings were burned just a few months before Emily was born. The following figures are taken from 1950, *Staten Island 1524-1898* by Henry G. Steinmeyer, and show that in the time that Edward and Mary Ann lived in Staten Island, the population roughly tripled.   
+The quarantine buildings were burned just a few months before Emily was born. The following figures are taken from 1950, *Staten Island 1524-1898* by Henry G. Steinmeyer, and show that in the by the time that Edward and Mary Ann left Staten Island in the early 1860's, the population of the island roughly doubled from when they arrived in the late 1840's. 
 
 | Year | Population |
 | --- | --- |
@@ -260,9 +262,6 @@ Charles M. Pine was a prominent and prolific business man who was a central figu
 {{% fig "pine/cm-pine-signature-on-luther-loper-will" "350" /%}}
 </div>
 
-
-
-
 Charles M. Pine continued his grocery career in Staten Island starting in 1848, and the Beers map (explored further below) confirms what other histories describe, that there are two stores associated with Charles Pine: C. M. Pine & Co., as well as the location next to his residence that was known earlier as Pine, Hillyer & Co. and later as C. M. Pine & Son. Presumably, Edward Mills worked for Charles at least some of the time that he lived in Staten Island, and it seems likely Edward moved to Castleton because of Charles. Edward may have worked at either or both locations.
 
  <figure>
@@ -320,13 +319,13 @@ The Mersereau families were well known, five brothers were spies for George Wash
 </figcaption>
 </figure>
 
-In 1865, Mark Hartley is also living with Charles M. Pine, occupation "clerk", presumably in Pine's general store. Later, Mark Hartley co-owned the general store Hillyer & Hartley, along with James Hillyer's brother Abraham Hillyer. Later, Mark Hartley would be Charles' assignee when Charles' store failed.
+In 1865, Mark Hartley is also living with Charles M. Pine, occupation "clerk", presumably in Pine's general store. Later, Mark Hartley co-owned the general store Hillyer & Hartley, along with James Hillyer's brother Abraham Hillyer. Later still, Mark Hartley became Charles M. Pine's assignee when Charles' store failed.
 
 {{% fig "pine/1865-census-nys" "800" /%}}
 
 By 1859, Charles' general store is known as Pine, Hillyer & Co., presumably co-owned with James Hillyer. The 1874 Beers map shows "General Store of Pine, Hillyer & Co.", in an area described below as "the bend between Van Street and Broadway" at 188 Richmond Terrace (also called "Shore Road", at least to the west of Pine's store). Comparing a number of historical maps of Castleton to present day maps, it is striking how the major road names and their courses have remained consistent over these many years, as exemplified by the bends in this stretch of Richmond Terrace.
 
-{{% fig "staten-island/2023-01-20-Google-Maps" "500" /%}}
+{{% fig "staten-island/pine-store-today/2023-01-20-Google-Maps" "500" /%}}
 
 {{% fig "staten-island/1874-beers-map-cropped-pine" "800" /%}}
 
@@ -346,10 +345,10 @@ Although I don't have documentary evidence for this currently, I think it is rea
 
 The following are Google Maps street view images from Richmond Terrace captured in 2022 that show the buildings in the footprint of Pine's store and residence. "Apollo Intl." is in the area of Pine's residence, but the brick building to the left may be Pine's store intact.
 
-{{% fig "staten-island/2022-oct-google-maps-pines-store4" "800" /%}}
-{{% fig "staten-island/2022-oct-google-maps-pines-store" "800" /%}}
-{{% fig "staten-island/2022-oct-google-maps-pines-store2" "800" /%}}
-{{% fig "staten-island/2022-oct-google-maps-pines-store3" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store4" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store2" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store3" "800" /%}}
 
 It is also interesting to note that the Factory Lake (sometimes referred to as Factory Pond) raceway flows behind Pine's store, where stables are indicated. Factory Lake became quite polluted and was filled in by the early 1900's, and is the location today of Corporal Thompson park, named after the first African-American from Staten Island to be killed in action in the Vietnam War, in 1967.
 
@@ -602,6 +601,24 @@ Despite many decades of success in varied endeavors that were important in the g
 {{% fig "staten-island/1891-02-28-Richmond-County-Advance-WNB-NY-p7" "350" /%}}
 </div>
 
+
+Left penniless, Charles M. Pine was forced to return to work, and to do so for the first time in many years as an employee in someone else' business. Elmira died just over a year later. Theodore, who had been blind for two years prior to the business failure, continued to decline, becoming "perfectly helpless" in his final years. Theodore died more than 2 years before Charles, and approximately six months prior to Charles' sister Mary Ann (Pine) Mills's death in Brookton.
+
+<figure>
+
+| Date | Events in Charles M. Pine's Final Years |
+| --- | --- |
+| 1889-01-01 (approx) | Son Theodore goes blind. |
+| 1890-11-07 | Sister Lois Almy (Pine) Snedker died two months before the business failed. |
+| 1891-01-10 | C. M. Pine & Son failed after more than 40 years. |
+| 1892-03-07 | Wife Elmira Jane (Loper) Pine died. |
+| 1895-05-28 | Son Theodore died at 56 years old. |
+| 1895-12-28 | Sister Mary Ann (Pine) Mills died in Brookton three days after Christmas. |
+| 1897-10-08 | Charles M. Pine died. |
+
+</figure>
+
+
 <div class="cols">
 {{% fig "staten-island/1891-04-04-Richmond-County-Advance-WNB-NY-p4" "350" /%}}
 {{% fig "staten-island/1891-07-25-Richmond-County-Advance-WNB-NY-p7" "350" /%}}
@@ -623,7 +640,7 @@ Despite many decades of success in varied endeavors that were important in the g
 
 {{% fig "staten-island/martha-deed/theodore" "800" /%}}
 
-The phrase "Theodore his legitimate son" may be understood in light of Alverade's scandal, that financially ruined Theodore in the final years of his life when  he was "perfectly helpless" and that also forced their father to return to work at an advanced age, and to do so for the first time in many years as an employee in someone else's business.    
+The phrase "Theodore his legitimate son" may be understood in light of Alverade's scandal.
  
 For more information about Theodore's time in the Civil War see [Milton Loper's Civil War Letters]({{% relref "staten-island/#milton-lopers-civil-war-letters" %}}), below, which also mention Charles and Elmira Pine and indirectly reference Pine's general store.
 
@@ -634,6 +651,8 @@ When Bartlett Brown Sr. completed his will on 23 October 1972, both of Charles M
 {{% fig "staten-island/1897-10-21-Queens-County-Sentinel-Hempstead-NY-p1" "500" /%}}
 
 {{% fig "pine/590040034-orville-pine-portrait" "500" /%}}
+
+As I write this, the Richmond County Clerk makes deeds available online going back to the early 1900's, and I found Orville Pine's name among them.
 
 Read more about the Pine family in the [Hempstead]({{% relref "hempstead" %}}) section.
 
@@ -831,7 +850,7 @@ Martha provided the following additional context to the photograph:
 
 {{% fig "staten-island/martha-deed/charlestheodorepinecivilwar" "800" /%}}
 
-Martha has an additional portrait taken after the War that shows "Theodore Pine a a yong man":
+Martha has an additional portrait taken after the War that shows "Theodore Pine as a yong man":
 
 {{% fig "staten-island/martha-deed/theodore" "800" /%}}
 
@@ -871,7 +890,7 @@ Milton mentions Theodore's hospital stay, and as already discussed above, it was
 
 Milton Loper's letters to Juliett as well as other family letters referencing Staten Island make it clear what the census records suggest: that in addition to boarders that commonly included employees of Pine, Hillyer & Co., the residence of Charles M. and Elmira Pine in West New Brighton was visited often by close and extended family members, and Juliett and Milton write about meeting at Staten Island with a mixture of warmth and excitement that is palpable. And the nieces and nephews seemed to regard Elmira with unique affection, as they always refer to her as "Auntie Pine", as compared to "Aunt Mary (Smith)" for example.
 
-Contrasted with Rogers' eventual position as hospital steward, Milton describes long days battling on the front lines, at times ending in retreat. Fortunately, Milton survived the battlefield, and as his regiment was mustering out at the end of the war, he wrote his last two letters to Juliett "from the south" in which he expresses his longing to see her in Staten Island.
+Contrasted with Rogers' eventual position as hospital steward, Milton describes long days battling on the front lines, at times ending in retreat. Fortunately, Milton survived the battlefield, and as his regiment was mustering out at the end of the war, he wrote his last two letters to Juliett "from the South" in which he expresses his longing to see her in Staten Island.
 
 <figure>
 <blockquote>
@@ -906,7 +925,7 @@ Raleigh, N C <br />
 
   - "Uncle Samuel" *may* be a reference to Charles M. Pine's brother, [Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine) (26 Nov 1814 to 14 Mar 1880), a carriage maker in Hempstead. Another possibility is Elmira's brother Samuel W. Loper, but at least at the time of his father Luther Loper's death, Samuel Loper was living in Newstead, Erie County NY.
   
-  - I asked Martha if she thought "Burty" could be a reference to Albert Burt Pine, and her reply: "I wanted to caution you about "Burty" because there were great numbers of Alberts on both sides of my family in those days -- so it looked to me from other letters I have (totally unrelated to your side of the family--or maybe not) that the Burty of this letter was from the Hull family up in Connecticut, i.e. Charles's family, not Juliett's." (09 Nov 2023, Martha Deed, personal correspondence.)
+  - I asked Martha if she thought "Burty" could be a reference to Albert Burt Pine, and her reply: "I wanted to caution you about "Burty" because there were great numbers of Alberts on both sides of my family in those days -- so it looked to me from other letters I have (totally unrelated to your side of the family--or maybe not) that the Burty of this letter was from the Hull family up in Connecticut, i.e. Charles's [Shepard] family, not Juliett's." (09 Nov 2023, Martha Deed, personal correspondence.)
 
 </aside>
 </figure>
@@ -978,6 +997,12 @@ Martha Deed provided the following images of the letter immediately above:
 
 </cite>
 </figcaption>
+
+<aside>
+
+  - Tyhoid fever, also known as typhoid, is a disease caused by Salmonella serotype Typhi bacteria. Symptoms vary from mild to severe, and usually begin six to 30 days after exposure. Often there is a gradual onset of a high fever over several days. This is commonly accompanied by weakness, abdominal pain, constipation, headaches, and mild vomiting. Some people develop a skin rash with rose colored spots. In severe cases, people may experience confusion. ...Typhoid is spread by eating or drinking food or water contaminated with the feces of an infected person. Risk factors include limited access to clean drinking water and poor sanitation. Those who have not yet been exposed to it and ingest contaminated drinking water or food are most at risk for developing symptoms. ([Typhoid Fever](https://en.wikipedia.org/wiki/Typhoid_fever), Wikipedia.org.)
+
+</aside>
 </figure>
 
 <div class="cols">
@@ -1109,7 +1134,7 @@ The early Hawkins genealogy, like the Mills genealogy, is explored in *Genealogi
 <figcaption>
 </figure>
 
-It was the father of Zachariah "Zachary" Hawkins (25 Oct 1639 to 1699) "the common ancestor" mentioned above, Robert Hawkins (1610 to 11 Sep 1704), born in Plymouth, Devon, England, who immigrated to America in 1635, marrying Mary Marie Pease that same year in Charlestown, Suffolk, Massachusetts.
+It was Robert Hawkins (1610 to 11 Sep 1704)–the father of Zachariah "Zachary" Hawkins (25 Oct 1639 to 1699) "the common ancestor" mentioned above—born in Plymouth, Devon, England, who immigrated to America in 1635, marrying Mary Marie Pease that same year in Charlestown, Suffolk, Massachusetts.
 
 Bartlett Brown's Hawkins ancestry, largely based on Gerald Molloy's data:
 
@@ -1262,4 +1287,93 @@ The following table is from [Presbyterian churches and their founding](http://ww
 
 I have looked through transcriptions of the Reformed Church's graveyard and could not find an entry for James Wheelock Mills. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find him there. 
 
-  
+## Early 2000's Images of Pine, Hillyer & Co. Building
+
+What is to my knowledge the only surviving photograph of the residence of Charles M. and Elmira Jane Pine in Staten Island shows the side of C. M. Pine & Co., the grocery and dry goods store that Charles M. Pine ran with his son Theodore. Before Theodore joined the business, it was known as Pine, Hillyer & Co. at the same location, in partnership with James A. Hillyer.
+
+{{% fig "staten-island/pine-residence" "800" /%}}
+
+As I write this in late 2023, the Richmond County Clerks office in Staten Island does have digitized records searchable online, but only going back to the early-mid 1900's. Despite this, I think I can confidently show that the store building whose side is shown in the Pine residence photograph still exists in active use as I write this.
+
+The most detailed maps I have seen of the properties of Staten Island of the 1800's are the Sanborn Fire Insurance maps, created a decade before the Pine residence photograph was taken, that shows the residence and "Gro. & Gen'l S."
+
+{{% fig "staten-island/1885-sanborn-p20" "800" /%}}
+
+{{% fig "staten-island/1885-sanborn-p1" "500" /%}}
+
+The Sanborn map confirm what is captured in the Pine residence photograph. Pine's store is a 3 story red brick structure, with windows on the alley wall on all three floors toward the front, with three more windows on the ground floor behind those. Also visible is the wood cornice on the storefront that is indicated in the Sanborn map, as well as the side of the shed in the rear of the store next to the stables.
+
+Finally, note that Pine's store is slightly trapezoidal, matching the curve of Richmond Terrace at that point. All of these are corroborated by contemporary Google Maps photographs taken from Sep 2007 to Oct 2022, at both street level and aerial views. 
+
+{{% fig "staten-island/pine-store-today/2023-01-20-Google-Maps" "500" /%}}
+{{% fig "staten-island/pine-store-today/2022-10-pine-store-aerial3" "800" /%}}
+
+{{% fig "staten-island/pine-store-today/2022-10-pine-store-aerial4" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-10-pine-store-aerial" "800" /%}} 
+
+A similar shape is not present in the Beers maps from 1874, although these maps are much less detailed in general.
+
+{{% fig "staten-island/1874-beers-map-cropped-pine-close" "800" /%}}
+
+And from street level, the building's angle is much less apparent.
+
+{{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store4" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store2" "800" /%}}
+
+{{% fig "staten-island/pine-store-today/2021-10-pine-store-front" "800" /%}}
+
+Closer images show that the bricks of the front face are badly decayed and crumbling in spots, and evidence of repair work can be seen in some images, where there is white patching. Notice too that the bricks encompassing the third story windows on the front face of the building appear to be a distinctly different color than the bricks around it, suggesting they were replaced at a later time.
+
+{{% fig "staten-island/pine-store-today/2019-09-pine-store-front-decay2" "800" /%}}
+{{% fig "staten-island/pine-store-today/2019-09-pine-store-front-decay" "800" /%}}
+{{% fig "staten-island/pine-store-today/2021-10-pine-store-front-repair" "800" /%}}
+
+The east face shows and even more distinct differences on the first floor.
+
+{{% fig "staten-island/pine-store-today/2022-10-pine-store-east-face1" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-10-pine-store-east-face-closer" "800" /%}}
+
+Some of these closer images show clear details of the decorative window cornices that can be seen on all windows of all floors on the north (front) and east faces. Assuming these are made of wood, their excellent condition suggests to me that these are more modern additions.
+
+{{% fig "staten-island/pine-store-today/2019-09-pine-store-front-cornice3" "800" /%}}
+{{% fig "staten-island/pine-store-today/2017-07-pine-store-front-cornice1" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-10-pine-store-east-cornice" "800" /%}}
+{{% fig "staten-island/pine-store-today/2022-10-pine-store-east-face-cornice1" "800" /%}}
+
+As recently as Oct 2021, the building was occupied, as Google Maps images of the second floor show an office with pictures hanging on the wall, and a computer monitor with brand name Dell against the window.
+
+{{% fig "staten-island/pine-store-today/2021-10-pine-store-front-office" "800" /%}}
+
+For a number of years prior to that, the building was occupied by Furniture Restoration Workshop. 
+
+<figure>
+
+>
+> Furniture Restoration Workshop (FRW) is saying goodbye to the Staten Island community. It will mark the end of this 48-year run that defines owners Matthew and Nina Long’s lives.
+>
+> ... Watching his father run his own home improvement business and spending his youth working carpentry, Long decided to start a furniture restoration business in a small warehouse/garage in West Brighton, aptly named “The Furniture Restoration Workshop.” As the business grew, he moved into 1550 Richmond Terrace in 1986. The work evolved into a successful business and took a turn towards commercial work with high profile companies such as; the Jewish Division Reading Room at the 42nd Street Library, Radio City, and the Federal Reserve Bank.
+> 
+> Over 48 years, Long has given hope to many that may have seemed unemployable in our community. He took in and trained people with criminal records, developmental disabilities, mental health issues, and countless people who would have fallen through the cracks that made a life under his care and employment.
+>
+
+<figcaption>
+<cite>
+
+— 01 Apr 2022, [Staten Island furniture restoration business is liquidating after 48 years](https://www.silive.com/news/2022/04/furniture-restoration-workshop-is-closing-after-a-48-year-run-on-staten-island.html) by Jan Somma-Hammel, silive.com. 
+
+</cite>
+<figcaption>
+</figure>
+
+{{% fig "staten-island/pine-store-today/2019-09-pine-store-front-best" "800" /%}}
+{{% fig "staten-island/pine-store-today/2017-07-pine-store-front1" "800" /%}}
+
+{{% fig "staten-island/pine-store-today/2019-09-pine-store-front" "800" /%}}
+
+{{% fig "staten-island/pine-store-today/2019-09-pine-store-front2" "800" /%}}
+
+The address for Pine's store was 188 Richmond Terrace, but is addressed today as 1550 Richmond Terrace. It is located on Staten Island block 186, lot 10 (Borough-Block-Lot Lookup, New York City Department of Finance).
+
+{{% fig "staten-island/pine-store-today/2019-09-pine-store-front-door" "800" /%}}
+

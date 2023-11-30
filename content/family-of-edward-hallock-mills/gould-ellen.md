@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 80
 ---
 
-Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848, died 31 Oct 1929. Ellen lived in the Mills' home, possibly for over a decade, to help care for Hannah and to help Emily with the home and store. She was a devoted member of Brookton Baptist Church and active in the temperance movement.
+Ellen Jane (Andrews) Predmore Gould, born 27 Mar 1848 Bourne, Lincolnshire, England, died 31 Oct 1929 Ithaca NY. Ellen lived in the Mills' home, possibly for over a decade, to help care for Hannah and to help Emily with the home and store. She was a devoted member of Brookton Baptist Church and active in the temperance movement.
 
 <!--more-->
 
@@ -55,7 +55,7 @@ It isn't clear when exactly Ellen started living in the Mills' home, but she may
 
 {{% fig "1914-12-05-ithaca-journal" "500" /%}}
 
-Like Hannah and Emily, Ellen was active in the Women's Christian Temperance Union. Both Hannah and Ellen were born in England, and Ellen at least, spoke with an English accent. Hannah herself likely spoke with an English accent, but at the very least, Ellen's familiar voice surely added comfort. Ellen's temperament also sounds like it was very compatible with what we know of Hannah and Emily:
+Like Hannah and Emily, Ellen was active in the Women's Christian Temperance Union. Both Hannah and Ellen were born in England, and Ellen at least, spoke with an English accent. This fact suggests the possibility that Hannah herself spoke with an English accent, but at the very least, Ellen's familiar voice surely added comfort. Ellen's temperament also sounds like it was very compatible with what we know of Hannah and Emily:
 
 <figure class="quote-only">
 <blockquote>

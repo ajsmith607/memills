@@ -7,6 +7,8 @@ Compiled by Deborah Halpern and Kathy Keaney. Layout and design by Avi Smith. Co
 
 <!--more-->
 
+{{% fig "ellen-gould/2007-11-20-The-Ithaca-Journal-Ithaca-NY-p4" "500" /%}}
+
 ### Front Cover
 {{% fig "brookton/2011-calendar-brooktons-market/01" "800" /%}}
 

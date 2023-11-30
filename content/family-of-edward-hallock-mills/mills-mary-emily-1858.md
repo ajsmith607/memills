@@ -9,10 +9,9 @@ Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale 
 <!--more-->
 
 <blockquote>
-<p>"She was a sweet little lady ... quiet, neat, cheerful and always smiling."</p>
-
+<p>Emily Mills was a little woman, with her hair in a bun on top of her head... She was quiet, neat, cheerful and always smiling.</p>
+<p>"She was a 'sweet little lady'"</p>
 <p>"I remember her as very kind"</p>
-
 <p>"If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers."</p>
 </blockquote>
 

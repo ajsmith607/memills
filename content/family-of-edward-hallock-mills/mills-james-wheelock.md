@@ -11,7 +11,7 @@ James Wheelock Mills (1856?, Staten Island NY to between 31 July 1857 and 19 Jun
 
 {{% fig "staten-island/rdc/rdc-scan_073" "800" /%}}
 
-Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name as it is originally recorded, which I had initially speculated could be a mis-transcription of "Hallock". This possibility is explored [further below]({{% relref "#exploring-wheelock" %}}). 
+Because this is the only information I presently have for James, I asked Kathleen Langdon of the Reformed Dutch Church to photograph the original entry, which she graciously agreed to do. This also verifies James' middle name as it was originally recorded, which I had initially speculated could be a mis-transcription of "Hallock". This possibility is explored [further below]({{% relref "#exploring-wheelock" %}}). 
 
 {{% fig "staten-island/RDC/rdcpr-cover" "500" /%}}
 
@@ -29,11 +29,11 @@ Note several bounding dates for James' birth and death: he was presumably born s
 
 {{% fig "census/census-1860-us" "800" /%}}
 
-The order of the Mills baptisms strongly suggests that James was born between Horace and Emily, and if James was born in 1856, this would evenly distribute the Mills births over the decade of 1850 to 1680, and would mean that his baptism was likely approximately a year after his birth, just as Emily's was in Nov 1859. So, I believe that James died under five years old. 
+Both the date of his baptism, and the order of the Mills children baptisms overall strongly suggests that James was born between Horace and Emily, and if James was born in 1856, this would evenly distribute the Mills births over the decade of 1850 to 1680, and would mean that his baptism was likely approximately a year after his birth, just as Emily's was in Nov 1859. So, I believe that James likely died under five years old. 
 
 This would mean that the Mills left Staten Island within a few years of James' death, just as they left Corfu a few years after Horace's. If my speculation holds, even if James died at the latest possible time, Emily would likely have not had memories of him.
  
-Aside from his baptism record, I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find evidence of the Mills there. Likewise, James is not within the volume: 1940, Cemetery Inscriptions from Hempstead, Long Island New York by Josephine C. Frost, familysearch.org.
+Aside from his baptism record, I cannot find any other records for James in *The Records of the Reformed Protestant Dutch Church on Staten Island*, including many pages of gravestone transcriptions. Kathleen Langdon from the Reformed Dutch Church performed an independent search and also could not find him. Finally, I have also examined the First of Staten Island/Stapleton records on Ancestry.com, and I did not find evidence of the Mills there. Likewise, James is not within the volume: 1940, Cemetery Inscriptions from Hempstead, Long Island New York by Josephine C. Frost, familysearch.org. Nor can I find James in Mills Cemetery or any other cemetery in Smithtown.
  
 I have not found James in any records on FindAGrave, FamilySearch, or Ancestry.  
 
@@ -64,7 +64,7 @@ In what was a purely farming community, the 113-acre (46 ha) cemetery was origin
 
 In addition to using both findagrave.com and the burial search feature of the Moravian Cemetery website and not finding James, I contacted Moravian Cemetery directly, and after a search, the representative I spoke to also did not find James. Despite this, I cannot completely rule out the possibility that James is buried in Moravian. I strongly suspect that the representative I spoke to used the same burial search I had used, or a similar search based on the same digital records, thus only replicating my efforts and not actually corroborating my results. I can confidently assert that not only are the Moravian digitized records incomplete, but I suspect, quite incomplete. I have used the burial search to look for several members of the Pine and Brown families that multiple independent sources state are buried in Moravian, yet I cannot retrieve them using the burial search, again, despite trying multiple variations of the names, including initials, switching first and last names, etc. The graves I am looking for are not particularly ancient, especially for Moravian, and the fact that such a high percentage of people I looked for cannot be retrieved, suggests to me ample room to find James among his Pine relatives there. I am pursuing avenues for accessing the original print records of Moravian to look for James there. 
 
-There are other possible candidates for James' final resting place. The Beers map of Staten Island shows Staten Island Cemetery, Trinity Chapel/Church of the Ascension, and Fountain Cemetery are clustered together in the general vicinity of Pine, Hillyer & Co. general store, where Edward was presumably employed.
+There are other possible candidates in Staten Island for James' final resting place. The Beers map of Staten Island shows Staten Island Cemetery, Trinity Chapel/Church of the Ascension, and Fountain Cemetery are clustered together in the general vicinity of Pine, Hillyer & Co. general store, where Edward was presumably employed.
 
 {{% fig "staten-island/1874-beers-map-cropped-churches" "800" /%}}
 
@@ -279,7 +279,7 @@ The original source is given as: Filby, P. William, Meyer, Mary K., Passenger an
 </aside> 
 </figure>
 
-Finally, I looked into the previously mentioned James C. W. Mills, to see exactly what the "W" stands for, but I have not found documentation that spells out these initials. As far as I can tell, this is an unrelated Mills, not a descendant of Timothy Mills of Mills Pond or of George Mills of Jamaica. 
+Finally, I looked into the previously mentioned James C. W. Mills, to see exactly what the "W" stands for, but I have not found documentation that spells out these initials. As far as I can tell, this is an unrelated Mills, not a descendant of Timothy Mills of Mills Pond nor of George Mills of Jamaica. 
 
 <div class="cols">
 {{% fig "staten-island/1893-04-22-Richmond-County-Advance-WNB-NY-p5" "350" /%}}

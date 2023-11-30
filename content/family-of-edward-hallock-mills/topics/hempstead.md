@@ -397,6 +397,23 @@ Jacqueline also has several photos of Samuel's descendants:
 
 When Jackie provided me with the photos of Anna, above, she drew my attention to Anna's surprisingly modern hairstyle. Its unclear if the hair is short or, more likely, just pulled back and out of sight. Compared to similar photographs from the time that I have studied elsewhere in this work, her head is turned at a more pronounced angle, and may be intended to draw the viewer's eye to her ear and where her visible hair ends.
 
+<figure>
+
+> The 1870's produced some of the most dramatic hairstyle changes since the sausage curls from two decades earlier. The ringlet curls from the 1860's lasted a short while, but soon dropped off. A new modern look was taking hold. 
+>
+> New fashions banished the simple pulled back hair style. The current trend was plenty of curled and sculpted hair, piled high on top of the head. Big hair was coming into style.
+
+<figcaption>
+<cite> 
+
+— 2013, *19th Century Card Photos KwikGuide* by Gary W. Clark, p26, phototree.com.
+
+</cite>
+<figcaption>
+</figure>
+
+Anna died when she was only 16 years old, so the photograph must have been taken in the final years of her life, and reflects the fashion of the later 1870's.
+
 A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Loper of Clarence NY, at one point further specified as Newstead NY, coinciding with when [William and Deborah Mills]({{% relref "buffalo-mills" %}}) lived in Newstead.  
 
 <div class="cols">

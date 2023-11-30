@@ -1,5 +1,5 @@
 ---
-title: "The Family of Reverend James Richards Robinson."
+title: "The Family of Reverend James Richards Robinson"
 mainid: "robinson-family"
 ---
 

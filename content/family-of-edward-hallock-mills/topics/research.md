@@ -150,4 +150,17 @@ To preserve this information, and as an aid to future researchers, the following
 All accompanying materials are publicly available in a Github repository and licensed under a Creative Commons license. I am also contributing content to Findagrave.com and Ancestry.com as I am able, for the benefit of Mills descendants.
 
 
+Perhaps the reader will wonder about this. What more can I say? The future is hard to predict, and harder still is knowing the past. But hardest of all is understanding the present. And it is in that moment when understanding is murkiest that urgent action is required.
+
+Courage is what is left over after fear is subtracted, it defines the boundaries of an area encompassing morality and truth, which I suspect are two symbols pointing to the same concept. 
+
+
+
+
+
+
+
+
+
+
 -->

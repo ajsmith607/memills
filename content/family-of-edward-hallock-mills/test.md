@@ -3,41 +3,25 @@ title: "TEST PAGE"
 draft: true
 ---
 
-others living in the pine residence
 
+w v personius, occupation "insurance" 16 Aug 1902, Ithaca Daily Journal, Ithaca NY, p7, q31, nyshistoricnewspapers.org.
 
-1870
-Sidney Brown, clerk in store
-Henry Williams, clerk in store
-Catherine Duffy, domestic servant
+wv pers: "Tompkins County Cooperative Fire Insurance Company", secretary, 16 Jan 1907, Ithaca Daily Journal, Ithaca NY, p5, q22, nyshistoricnewspapers.org.
+(Farmer's insurance, with edward lounsbery?)
 
-1875 
-Robert Miller, 19, boarder, clerk
-Henry Woodhull, 19, boarder, clerk
-Eugene Cook, 16, boarder, clerk, from Maine
+"Bates or Bull" 09 May 1892, Ithaca Daily Journal, Ithaca NY, p3, q12, nyshistoricnewspapers.org.
 
-1880
-Sidney Brown, cousin, clerk grocery
-Carl Tooker, boarder, clerk grocery
-Thomas W. Brown, boader, clerk grocery
-Amy Barry, 17, servant
+MILLS STORE
+07 Jan 1895, Ithaca Daily Journal, Ithaca NY, p3, q23, nyshistoricnewspapers.org.
 
+WCTU/GAR temperance, women's suffrgage. Collaboration
 
+-----
+neighborhood, church photos
 
-
-
-
-{{% fig "temperance/1914-08-26-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
-{{% fig "temperance/1984-10-01-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
-{{% fig "temperance/graham-overacker-postcard-back" "500" /%}}
-{{% fig "temperance/graham-overacker-postcard-front" "500" /%}}
-{{% fig "temperance/trestle-ruth-maggie-back" "500" /%}}
-{{% fig "temperance/trestle-ruth-maggie-front" "500" /%}}
-
-Charles T. Pine's photo:
-
-http://catalog.nysmm.org/Presto/content/Detail.aspx?ctID=ZDhjMmE5MjktYTE3Yi00M2Y0LWJmYjYtZDIxZWRlNmIxN2Vi&rID=MTA1NjU=&qrs=RmFsc2U=&q=KFBob3RvZ3JhcGhzLkFsbFRleHQ6KENoYXJsZXMgVCBQaW5lKSk=&ph=VHJ1ZQ==&bckToL=VHJ1ZQ==&rrtc=VHJ1ZQ==
-
+{{% fig "adams-photos/brookton/2023-05-22_10.06.28-imp" "500" /%}}
+{{% fig "adams-photos/brookton/2023-06-11_19.10.28-imp" "500" /%}}
+{{% fig "adams-photos/brookton/2023-06-11_19.10.59-imp" "500" /%}}
 
 <figure>
 
@@ -51,10 +35,6 @@ http://catalog.nysmm.org/Presto/content/Detail.aspx?ctID=ZDhjMmE5MjktYTE3Yi00M2Y
 </cite>
 </figcaption>
 </figure>
-
-
-
-
 
 
 
@@ -110,6 +90,17 @@ page of tests
 
 
 
+
+{{% fig "temperance/1914-08-26-The-Ithaca-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "temperance/1984-10-01-The-Ithaca-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "temperance/graham-overacker-postcard-back" "500" /%}}
+{{% fig "temperance/graham-overacker-postcard-front" "500" /%}}
+{{% fig "temperance/trestle-ruth-maggie-back" "500" /%}}
+{{% fig "temperance/trestle-ruth-maggie-front" "500" /%}}
+
+
+
+
 {{% fig "bcc/founding/2023-02-28_09.48.55" "800" "img,link,blockquote,aside" /%}}
 {{% fig "bcc/founding/2023-02-28_09.49.29" "800" "img,link,blockquote,aside" /%}}
 {{% fig "bcc/founding/2023-02-28_09.49.33" "800" "img,link,blockquote,aside" /%}}
@@ -143,34 +134,31 @@ page of tests
 
 ---------
 
-(Cantine?) Lounsberry and Norwood, 
+DONE
 
-https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-24/ed-1/seq-3/png/
-https://nyshistoricnewspapers.org/lccn/sn83031157/1888-03-02/ed-1/seq-3/png/
 https://nyshistoricnewspapers.org/lccn/sn83031157/1884-09-30/ed-1/seq-3/png/
-https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-22/ed-1/seq-3/png/
-
-Charles Personeous, SOV (Sons of Veterans Post No. 101)
+https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-11/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1887-06-09/ed-1/seq-3/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1888-03-02/ed-1/seq-3/png/
 https://nyshistoricnewspapers.org/lccn/sn83031157/1888-05-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-22/ed-1/seq-3/png/
 https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-24/ed-1/seq-3/png/
+https://nyshistoricnewspapers.org/lccn/sn83031157/1889-01-18/ed-1/seq-3/png/
 https://nyshistoricnewspapers.org/lccn/sn83031157/1892-12-12/ed-1/seq-2/png/
 
-(also, ithaca, danby, newfield)
+TODO
 
-walker v personius, gettysburg
-https://nyshistoricnewspapers.org/lccn/sn83031157/1889-01-18/ed-1/seq-3/png/
---------
 
-https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-24/ed-1/seq-3/png/
-https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-24/ed-1/seq-3/png/
+
+
+Multiple?
 https://nyshistoricnewspapers.org/lccn/sn83031157/1888-03-02/ed-1/seq-3/png/
 https://nyshistoricnewspapers.org/lccn/sn83031157/1884-09-30/ed-1/seq-3/png/
 https://nyshistoricnewspapers.org/lccn/sn83031157/1889-05-22/ed-1/seq-3/png/
 https://nyshistoricnewspapers.org/lccn/sn83031157/1887-06-09/ed-1/seq-3/png/
-https://nyshistoricnewspapers.org/lccn/sn83031157/1887-03-11/ed-1/seq-3/png/
 
 ------
-https://nyshistoricnewspapers.org/lccn/sn83031157/1887-06-09/ed-1/seq-3/
 
 
 Verify where william wolcott lived, check other property deeds.
@@ -212,12 +200,27 @@ Backlinks:
   - hallock - james
 
 
------
-neighborhood, church photos
-
-{{% fig "adams-photos/brookton/2023-05-22_10.06.28-imp" "500" /%}}
-{{% fig "adams-photos/brookton/2023-06-11_19.10.28-imp" "500" /%}}
-{{% fig "adams-photos/brookton/2023-06-11_19.10.59-imp" "500" /%}}
 
 -----
+
+others living in the pine residence
+
+
+1870
+Sidney Brown, clerk in store
+Henry Williams, clerk in store
+Catherine Duffy, domestic servant
+
+1875 
+Robert Miller, 19, boarder, clerk
+Henry Woodhull, 19, boarder, clerk
+Eugene Cook, 16, boarder, clerk, from Maine
+
+1880
+Sidney Brown, cousin, clerk grocery
+Carl Tooker, boarder, clerk grocery
+Thomas W. Brown, boader, clerk grocery
+Amy Barry, 17, servant
+
+
 

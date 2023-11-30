@@ -90,134 +90,8 @@ But ultimately, because these 1912 maps are highway surveys and not property sur
 
 So, where exactly was the bridge relative to Mills' Home? What follows are my best attempts to estimate the location of the mill race bridge based on references to it in historical deeds and associated property survey maps of Mills' Home and Dalebrook. Essentially, to understand the location of the Mill Race Bridge, one must understand the history of the boundary line shared by Mills' Home and Dalebrook, which is not straightforward.  
 
+
 <!--
-## The Original Surveys
-
-The goal of this section is to correctly interpret the two Mills' Home deed descriptions from the 1800's. These descriptions described the property for more than two decades after Emily died.  
-
-As the documents that follow will show, Brooktondale Road's previous names and designations included: Creek Road, Cooks Corners-Brookton Highway, Brooktondale-Ithaca Highway, New York State Route 330, and Tompkins County Route No. 115.
-
-The first deed for Mills' Home as a separate parcel divided from the grist mill lot, was given to William Benton Wolcott in 1869, and was appropriately called "The Wolcott Lot" at the time. The Tompkins County Clerks Office was kind enough to provide me with two scans of the deed that I present here as each is clearer in areas that the other is not:
-
-<div class="cols">
-{{% fig "mills-home/caroline-deeds-1-572" "350" /%}}
-{{% fig "mills-home/caroline-deeds-1-572-alt-scan" "350" /%}}
-</div>
-
-The transcribed legal property description: 
-
-<figure>
-
-> Being a part of the grist mill lot and bounded as follows. **Beginning in the center of the Creek road, 71 links westerly from the center of the bridge over the race from the grist mill** and running thence south 81 degrees east 1 chain and 43 links to a stake; thence north nine degrees east, four chains & twenty links to the brow of the hill. Thence westerly along said brow of hill to the center of the aforesaid "Creek road". Thence easterly along said center of road three chains & ten links to the place of beginning.
-
-<figcaption>
-<cite>— 22 May 1869, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to William B. Wolcott, Caroline Deeds 1, p572, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
-</figcaption>
-</figure>
-
-This and subsequent deed deed descriptions use the metes and bounds system and quadrantal compass bearings. 
-
-<figure>
-
-> Prior to the Revolutionary War, when land was surveyed, the “metes and bounds” system was used to define boundaries. The system is still in existence today for land which was acquired before the present system of surveying land was adopted. States which used this form of surveying were the thirteen original colonies (Connecticut, Delaware, Georgia, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, South Carolina, Pennsylvania, Rhode Island, Virginia) as well as the state land states Hawaii, Kentucky, Maine, Texas, Tennessee, Vermont, West Virginia and parts of Ohio.
->
-> In a metes and bounds land description, there is a starting point which is always at a corner. This is followed by directions and measurement which may be written in a variety of ways, indicating a line leading to the next corner. **The corners will generally be a physical feature.** Often the property owners will be mentioned who bound the land being described.
-
-<figcaption>
-<cite>
-
-— [Metes and Bounds](https://www.familysearch.org/en/wiki/Metes_and_Bounds), familysearch.org. Emphasis added.
-
-</cite>
-</figcaption>
-</figure>
-
-In conjunction with using landmarks as boundaries, it seems to have been common practice to measure landmarks from their centers, presumably to choose a more stable reference point, thus mitigating variations over time, such as the growth of trees, the widening of roads, etc. In the Mills' Home deeds and surveys, this practice is used in relation to Brooktondale Road, the mill race bridge, and the large oak tree on the hill. The references to the center of the road are implicit in the Mills' Home deeds, but explicit in the corresponding Dalebrook deed descriptions.
-
-Although I do not see the name of the surveyor in 1869 documented, it was likely [John L. Mandeville](https://www.findagrave.com/memorial/67292637/john-mandeville) (1836 to 29 Nov 1907), the grandson of [Reverend Garrett Mandeville](https://www.findagrave.com/memorial/65244680/garrett-mandeville) (18 May 1775 to 11 Dec 1853), who was the minister of the Dutch Reformed Church for 25 years. John Mandeville was a Civil War veteran and a founding member of the [Congregational Church of Mott's Corners]({{% relref "founding-documents" %}}). He is listed as "surveyor" on the 1866 Stone & Steward map of Mott's Corners, a portion of which was shown above, and he advocated for and consulted on the 1912 highway improvements already explored, although he died before he could see the work completed. For more information, see [John Mandeville and The Good Roads Movement]({{% relref "#john-mandeville-and-the-good-roads-movement" %}}). Obviously, I can't prove that John Mandeville was the 1869 surveyor, but for the purposes of this exploration, I will suppose that he was. 
-
-With the next Mills' Home deed in 1883, a new Place of Beginning relative to the Mill Race Bridge was established, and this description remained unchanged until Jessie Brewer sold the property to the Jones family. The difference in measurement suggests the surveyor of 1883 may have been someone other than the surveyor of 1869. But as I will show, without this new Place of Beginning, we would not know how to correctly interpret these deed descriptions. 
-
-{{% fig "mills-home/car-deeds-5-70" "800" /%}}
-
-The transcribed property description:
- 
- <figure>
-
-> Being a part of the grist mill lot and bounded as follows. **Beginning in the center of the Creek road, eighty-two links easterly from the center of the bridge crossing the mill race;** running thence north nine degrees east, sixty-three links to a stake; thence north nine degrees east, four chains and twenty links to the brow of the hill; thence westerly along said brow of hill to the center of the aforesaid Creek Road; thence easterly along said center of road four chains and sixty-three links to the place of beginning.
-
-<figcaption>
-<cite>— 23 Oct 1883, William B. Wolcott and Ellen Wolcott, his wife to Horace N. Humiston Senior. Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
-</figcaption>
-</figure>
-
-To understand the measurements given in the descriptions above:
-
-<div class="cols">
-
-<figure style="width: 350px">
-
-> The chain is a unit of length equal to 66 feet (22 yards), used in both the US customary and Imperial unit systems. It is subdivided into 100 links or 4 rods. There are 10 chains in a furlong, and 80 chains in one statute mile. In metric terms, it is 20.1168 m long. By extension, chainage (running distance) is the distance along a curved or straight survey line from a fixed commencing point, as given by an odometer.
-
-<figcaption>
-<cite>
-
-— [Chain (unit)](https://en.wikipedia.org/wiki/Chain_(unit)), Wikipedia.org.
-
-</cite>
-</figcaption>
-</figure>
-
-<figure style="width: 350px">
-
-> The link (usually abbreviated as "l.", "li." or "lnk."), sometimes called a Gunter’s link, is a unit of length formerly used in many English-speaking countries. In US customary units modern definition, the link is exactly 66⁄100 of a US survey foot, or exactly 7.92 inches or approximately 20.12 cm.
-
-<figcaption>
-<cite>
-
-— [Link (unit)](https://en.wikipedia.org/wiki/Link_(unit)), Wikipedia.org.
-
-</cite>
-</figcaption>
-</figure>
-</div>
-
-These measurements were taken by a standardized physical chain with 100 links called a Gunter's chain.
-
-{{% fig "brookton/gunters-chain" "800" /%}}
-
-<figure>
-
-> Gunter's chain (also known as Gunter's measurement) is a distance measuring device used for surveying. It was designed and introduced in 1620 by English clergyman and mathematician Edmund Gunter (1581–1626). It enabled plots of land to be accurately surveyed and plotted, for legal and commercial purposes. 
->
->...Gunter's chain reconciled two seemingly incompatible systems: the traditional English land measurements, based on the number four, and decimals based on the number 10. Since an acre measured 10 square chains in Gunter's system, the entire process of land area measurement could be computed using measurements in chains, and then converted to acres by dividing the results by 10.[2] Hence 10 chains by 10 chains (100 square chains) equals 10 acres, 5 chains by 5 chains (25 square chains) equals 2.5 acres. By the 1670s the chain and the link had become statutory units of measurement in England.
-
-<figcaption>
-<cite>
-
-— [Gunter's chain](https://en.wikipedia.org/wiki/Gunter's_chain), Wikipedia.org.
-
-</cite>
-</figcaption>
-</figure>
-
-
-The 1869 and 1883 deed descriptions follow the same structure in five steps, the significant differences between them emphasized in the following step-wise comparison:
-
-<figure>
-
-| | 1869 | |  1883 |
-| --- | --- | --- | --- |
-| **1** | Beginning in the center of the Creek road, **71 links westerly** from the center of the bridge over the race from the grist mill | **1** | Beginning in the center of the Creek road, **eighty-two links easterly** from the center of the bridge crossing the mill race; | 
-| **2** | running thence **south 81 degrees east 1 chain and 43 links** to a stake;| **2** |running thence **north nine degrees east, sixty-three links** to a stake | 
-| **3** | thence north nine degrees east, four chains & twenty links to the brow of the hill. | **3** |thence north nine degrees east, four chains and twenty links to the brow of the hill; | 
-| **4** | Thence westerly along said brow of hill to the center of the aforesaid "Creek road". | **4** |thence westerly along said brow of hill to the center of the aforesaid Creek Road; | 
-| **5** | Thence easterly along said center of road **three chains & ten links** to the place of beginning.| **5** | thence easterly along said center of road **four chains and sixty-three links** to the place of beginning. | 
-
-<figcaption>
-<cite>– 22 May 1869, Caroline Deeds 1, p572 and 23 Oct 1883, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite>
-</figcaption>
-</figure>
 
 Based on the deed descriptions of 1869 and 1883 given above, I have attempted to create my own rudimentary “pseudo-survey” maps. I should point out that my knowledge of surveying methods is self-taught, so my efforts should be evaluated accordingly.  
 
@@ -335,7 +209,6 @@ The 1869 Mills' home deed description, adjusted for 6° Magnetic declination:
 
 </figure>
 
-{{% fig "brookton/maps/475-brookton/475-magnetic/compass-1869" "800" /%}}
 
 1883 adjusted for 7° Magnetic declination:
 
@@ -357,11 +230,9 @@ The 1869 Mills' home deed description, adjusted for 6° Magnetic declination:
 
 I overlaid my 1869 pseudo-survey on the 2023 Dresser survey that has also been adjusted to True north for its specific Magnetic declination so that the road on each survey is parallel. To match the scale, I lined up the center-line of the road, which has been established as a stable landmark throughout all the referenced deeds and surveys, and scaled Dresser until it overlapped Point C on my pseudo-survey in the northeast corner of the brow of the hill, a point that also appears to be consistently located over the years. Admittedly, this is a crude approach, but it is adequate to explore the location of the Mill Race Bridge.  
 
-{{% fig "brookton/maps/475-brookton/475-magnetic/compass-1883-7dalt" "800" /%}}
 
 The two pseudo-surveys thus adjusted and overlaid brings Points A very close together, clearly indicating a match.
 
-{{% fig "brookton/maps/475-brookton/475-magnetic/mag-1869-1883-7dalt" "800" /%}}
 
 It becomes even clearer how closely the Magnetic interpretations match when attempting to close The Mandeville Triangle using the Pythagorean Theorem. In the calculations below, compatible but unitless values will be used, so that for example, 1 chain and 43 links can be represented unitlessly as 1.43. Combining Steps 1 from 1869 and 1883 gives us the following expected value of the hypotenuse of Mandeville's Triangle:
 
@@ -411,7 +282,6 @@ If the road widened in the intervening time, say because of increased traffic af
 
 To illustrate this last point, realize that as you move down the Mandeville Line toward the road you are moving at an angle three degrees to the *west*. Second, the raceway itself flows to the southwest at an even greater degree, and if Point A tracks it, then every step you take to the southwest along the Mandeville Line, Point A moves even further southwest relative to you. Consider the following, which for simplicity, shows the relationship to a vertical line:
 
-{{% fig "brookton/maps/475-brookton/475-magnetic/raceway-sw-drift" "500" /%}}
 
 This difference would then propagate to Point D as expected. In other words, I don't think there is evidence for a significant shift in the location of Point A between 1869 and 1883, at least in these descriptions.
 
@@ -444,11 +314,9 @@ The Magnetic interpretation clearly proves 1883's bearings as recorded in the re
 
 Magnetic 1869 and 1883 on Dresser shows the Mill Race Bridge center falls on a line perpendicular to the road that also approximately intersects a utility pole present in 2023:
 
-{{% fig "brookton/maps/475-brookton/475-magnetic/mag-1869-1883-dresser-7dalt" "800" /%}}
 
 Magnetic 1869 and 1883 on Miller shows the center of the Mill Race Bridge intersects the concrete highway monument on a line perpendicular to the road:
 
-{{% fig "brookton/maps/475-brookton/475-magnetic/mag-1869-1883-miller-7dalt" "800" /%}}
 
 1883 also suggests that at that time, the road apparently does not yet begin to curve toward Dalebrook (the grist mill) until some point after the 1883 Place of Beginning. 
 
@@ -460,11 +328,9 @@ Magnetic 1869 and 1883 on Miller shows the center of the Mill Race Bridge inters
 
 The 1869 pseudo-survey in which the steps and points described above are indicated: 
 
-{{% fig "brookton/maps/475-brookton/1869-only" "800" /%}}
 
 I overlaid my 1869 pseudo-survey on the 2023 Dresser survey that has also been adjusted to True north for its specific Magnetic declination so that the road on each survey is parallel. To match the scale, I lined up the center-line of the road, which has been established as a stable landmark throughout all the referenced deeds and surveys, and scaled Dresser until it overlapped Point C on my pseudo-survey in the northeast corner of the brow of the hill, a point that also appears to be consistently located over the years. Admittedly, this is a crude approach, but it is adequate to explore the location of the Mill Race Bridge.  
 
-{{% fig "brookton/maps/475-brookton/1869-overlaid-dresser" "800" /%}}
 
 A dark blue, thick, dashed line drawn perpendicular to Brooktondale Road, suggests that the place of beginning in 1869 is roughly aligned with the southwestern corner of the original (and still current) foundation of Mills' Home. The center of the mill race bridge falls on a line perpendicular to the road that falls just to the east of the stone patio steps. I verified with Lee Dresser that the structures on the Mills' Home lot, including the patio and shed, are all accurate to scale. In his words "those measurements [for the structures] were all verified with lines of sight from the front control".
 
@@ -477,15 +343,12 @@ My 1869 pseudo-survey appears to be consistent with Dresser, with Points C and B
 
 In 1883, a new place of beginning is chosen, this time to the east of the center of the mill race bridge. 
 
-{{% fig "brookton/maps/475-brookton/1883-only" "800" /%}}
 
 The 1883 pseudo-survey was also overlaid onto the 2023 Dresser survey, using the same method for matching the scale as described above for the 1869 pseudo-survey. 
 
-{{% fig "brookton/maps/475-brookton/1883-overlaid-dresser" "800" /%}}
 
 1883 doesn't line up nearly as well against Dresser as 1869, and the Dresser survey had to be adjusted to a different size for 1869 and 1883 to fit Point C and the center of Creek Road. The center line of the Mill Race Bridge has shifted, and Point B no longer falls near the bent pipe on the Highway Line. The differences between the two pseudo-surveys is clarified by overlaying them onto each other so that the road and the center of the Mill Race Bridge align (and so, assuming that the center of the bridge itself has not moved, which I will later prove), it shows that Points B and C both shift to the same extent, forming parallel eastern boundary lines that differ by roughly 18 links or approximately 12 feet. 
 
-{{% fig "brookton/maps/475-brookton/1869-1883" "800" /%}}
 
 In other words, 1869 and 1883 appear to be mathematically incompatible: we are unable to close The Mandeville Triangle. I will show a way to reconcile these two maps, but for the moment, I must acknowledge that this 1869/1883 overlay appears to be essentially how the first two deed descriptions have been interpreted by surveyors after 1883, as I will now show.
 
@@ -509,13 +372,6 @@ As the 1912 road improvements advocated by John Mandeville were being planned, t
 </figcaption>
 </figure>
 
-Frank Proto gave me the opportunity to take the following photographs of the Dalebrook foundation and interior roof.
-
-{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.27.22" "800" /%}}
-{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.27.21" "800" /%}}
-{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.27.36" "800" /%}}
-{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.35.35" "800" /%}}
-{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.37.58" "800" /%}}
 
 <figure>
 
@@ -703,31 +559,20 @@ The distance and bearing for Step Y is not explicitly stated in the footnote, an
 
 The difference between the two distances (X and Y) is approximately 25 feet, which is the stated distance between the "center line of the highway" and both the iron pipe set by Miller in 1972 and the "highway monument" (Deeds 499/981). And of course, as before, Step Z will be further adjusted to S 64° 30' E to properly align the road with the other surveys, and when mapped, roughly accounts for the 9.5 feet given by Miller. 
 
-{{% fig "brookton/maps/475-brookton/t3" "800" /%}}
 
 Combining the Tract III pseudo-survey with those for 1869 and 1883 seems to confirm–despite several imperfections in the fit–that Tract III appears to be an attempt to reconcile Rice's Broken Line and perhaps ultimately, the traditional interpretation of 1869 and 1883.   
 
-{{% fig "brookton/maps/475-brookton/1869-1883-t3" "800" /%}}
 
 How these three pseudo-surveys look overlaid on Dresser:
 
-{{% fig "brookton/maps/475-brookton/1869-1883-t3-overlaid-dresser" "800" /%}}
 
 Now overlaying the three pseudo-surveys on Schlieder:
 
-{{% fig "brookton/maps/475-brookton/1869-1883-t3-overlaid-schlieder" "800" /%}}
 
 And finally, its fit on the western boundary of Dalebrook as drawn by Miller:
 
-{{% fig "brookton/maps/475-brookton/1869-1883-t3-overlaid-miller" "800" /%}}
 
 A side-by-side comparison of each: 
-
-<div class="cols">
-{{% fig "brookton/maps/475-brookton/1869-1883-t3-overlaid-dresser-cropped" "230" /%}}
-{{% fig "brookton/maps/475-brookton/1869-1883-t3-overlaid-schlieder-cropped" "230" /%}}
-{{% fig "brookton/maps/475-brookton/1869-1883-t3-overlaid-miller-cropped" "230" /%}}
-</div>
 
 So, it seems that the intention of the footnote defining "Tract III" is to reconcile Rice and Miller, or perhaps more generally, to reconcile the True interpretation of 1869 and 1883 that was first introduced by Rice. However, as has been shown, the referenced Miller survey, verified by Schlieder, proves that the Rice survey was in error, so there is nothing to reconcile in that regard, and as I will show, this is not the correct way to reconcile the differences in 1869 and 1883. 
 
@@ -757,21 +602,17 @@ Dresser in 2023 found all iron pipes, including Miller's set pipe by the road, n
 
 As we already showed above, Dresser seems to essentially corroborate the True Mandeville Line, matching Points C and B, the center of the road and with the southwest corner of the dwelling as the approximate starting point. 
 
-{{% fig "brookton/maps/475-brookton/1869-overlaid-dresser" "800" /%}}
 
 Dresser’s line is a variation of Miller’s Dalebrook line, which seems to corroborate the True Mandeville Line even more closely:
 
-{{% fig "brookton/maps/475-brookton/1869-overlaid-miller" "800" /%}}
 
 And likewise, Schlieder:
 
-{{% fig "brookton/maps/475-brookton/1869-overlaid-schlieder" "800" /%}}
 
 In other words, the original 1869 pseudo-survey fits all the maps better than the 1883 pseudo-survey. With the exception of Rice’s Broken Line, every survey matches the 1869 Mandeville Line at Points C and B; 1883 never matches up with the surveys this way, and as already show, is mathematically incompatible with 1869.
 
 To properly reconcile 1869 and 1883, Points B and C *must* match between them. Recognizing this fact, set aside the previous approach of combining the pseudo-surveys and instead of lining up Creek Road and the center of the mill race bridge, only align Points B and C:
 
-{{% fig "brookton/maps/475-brookton/1869-1883-alt-north" "800" /%}}
 
 This suggests a different possibility for reconciling 1869 and 1883, if there is a way to get 1883 back to the center of the road, where we know he must be. I believe there is a way to do this, but it means questioning a fundamental assumption: that the maps should be interpreted as True bearings. I will now explore Magnetic interpretations of 1869 and 1883 to see what they may reveal. 
 
@@ -790,7 +631,6 @@ But this is just speculation on my part, and as far as I know, there is no direc
 
 To try to gain further insight, I have examined both the Mills' Home and Dalebrook surveys–the only surveys I have found to show the OIP–to see if there is a mathematical relationship between the OIP and other points or landmarks. The closest I could find is neither definitive nor apparently relevant: if a line is drawn from the OIP to the concrete highway monument on the brow of the hill, it appears to be parallel, or nearly so, to both the Highway Line and the center line of the road. An obvious implication is that a line perpendicular with the road that intersects the OIP will also be perpendicular to the line from the OIP to the hill monument, creating right angles. 
 
-{{% fig "brookton/maps/475-brookton/1869-oip-dresser" "800" /%}}
 
 (Recall that various surveys over the years have given slightly different angles for the road when corrected for Magnetic declination.)
 
@@ -1038,7 +878,6 @@ I took my own measurements based on landmarks that are depicted on Dresser's 202
 
 Then, using the same approach I used to create the pseudo-surveys at the appropriate scale, I created the following overly onto Dresser. Point A, the center of the Mill Race Bridge at the center of Creek Road, is indicated with a red dot that is on a line perpendicular to the road that intersects the southeast corner of the original foundation. I am assuming that this would be the same approximate point in space regardless of whether the bridge were diagonal or square with the road. 
 
-{{% fig "brookton/maps/475-brookton/gpr/gpr-dresser" "800" /%}}
 
 The northern edge of the channel is oriented based on distance of the northeast corner of the channel to the utility pole. And, as shown in photographs above, the center of the channel at the southern edge of the road is roughly on a perpendicular line that approximately intersects the southwest corner of the original Mills' Home foundation, and I placed it on the map accordingly. This is all quite imprecise obviously, but for my purpose here, I believe the accuracy is sufficient. 
 
@@ -1051,15 +890,11 @@ It is interesting to note that a line perpendicular to the road that intersects 
 
 Now overlaying the *Magnetic* interpretation of 1869 on the Dresser and raceway diagram shows that the Place of Beginning roughly corresponds with the center of the raceway at the center of the road, 71 links west of Point A, where we expect the center of the Mill Race Bridge to be, a clear mis-match. 
  
-{{% fig "brookton/maps/475-brookton/gpr/gpr-1869-1883-mag-dresser" "800" /%}}
-{{% fig "brookton/maps/475-brookton/gpr/gpr-1869-1883-mag-dresser-cropped" "800" /%}}
 
 I am intrigued that Point A on Magnetic 1869 is at a distance from the GPR detected center that is roughly equal to the distance given in Step 1, but if that is a relevant consideration, I don't currently understand it.
 
 Next, I overlaid the *True north* interpretation of 1869 on Dresser and the raceway diagram.
 
-{{% fig "brookton/maps/475-brookton/gpr/gpr-1869-true-dresser" "800" /%}}
-{{% fig "brookton/maps/475-brookton/gpr/gpr-1869-true-dresser-cropped" "800" /%}}
 
 Although the Mill Race Bridge center in the center of the road, Point A, does not intersect the GPR detected center, it comes closer, and intriguingly, it does approximately intersect the center of the raceway channel on the northern edge of the road. Further correcting the diagram to accurately reflect the detected bend of the raceway under the road would not be enough to align the two diagrams at the center of the road. After a visual inspection of the marked points in the real world, I estimate that the center of the raceway at the center of the road would still fall several feet to the west of the western edge of the raceway at the northern side of the road. Even after shifting my True north 1869 pseudo survey to the west so that Point B lines up precisely with Miller's Bent Pipe, I still can't get the two road center points close enough to claim a direct match. 
 
@@ -1087,10 +922,6 @@ Even if the raceway course did not change over time, there is still our ignoranc
 
 One final point to consider is the potential impact the Mill Race Bridge had on the choice of Place of Beginning. Step 2 in 1869 passes near the eastern edge of the raceway on the northern side of the road, and because the Mill Race Bridge structure must have extended beyond the raceway, the possibility that the bridge would obstruct this line should be considered. Notice that **the Mill Race Bridge is less likely to obstruct the Magnetic version of Step 2**:
 
-<div class="cols">
-{{% fig "brookton/maps/475-brookton/gpr/gpr-1869-mag-dresser-cropped" "350" /%}}
-{{% fig "brookton/maps/475-brookton/gpr/gpr-1869-true-dresser-cropped" "350" /%}}
-</div>
 
 This may provide more context for understanding the change in Place of Beginning in 1883. Aside from being simpler and more direct, the 1883 placement very effectively eliminates the possibility of the Mill Race Bridge obstructing the line. This might support the idea that the Mill Race Bridge changed in the intervening time and either was obstructing the line of 1869 Step 2 in 1883, or perhaps the 1883 surveyor considered the possibility of such an obstruction in the future, and he moved the Place of Beginning accordingly.
 
@@ -1182,13 +1013,8 @@ Now 1883, likewise adjusted for Magnetic 6° declination:
 
 </figure>
 
-{{% fig "brookton/maps/475-brookton/475-magnetic/compass-1883" "800" /%}}
-{{% fig "brookton/maps/475-brookton/475-magnetic/mag-1883-only" "800" /%}}
 
 And now overlaying Magnetic 1869 and Magnetic 1883 so that Points B and C line up, results in a nearly perfect match, much closer to reconciling than any attempt thus far, and tantalizingly close to closing The Mandeville Triangle:
-
-{{% fig "brookton/maps/475-brookton/475-magnetic/mag-1869-1883-bc" "800" /%}}
-
 
 
 Also between 1869 and 1883, the wooden trestle was constructed, completed in Dec 1875. Particularly because of the proximity of Mills Home to Brookton Depot, this may have resulted in increased road traffic and also heavier loads, requiring maintenance and perhaps widening of the road.
@@ -1202,7 +1028,7 @@ There is still the open question of
 
 Where does this leave us in the end? Although I have examined all of the surveys and legal descriptions to get a deeper understanding of them and the history of the property, when it comes to knowing where the Mills' Home property lines should correctly fall.Of the two possible correct interpretations I can't say for certain, but I will talk in terms of probabilities instead, and of course, at some point, a different kind of calculation has to be made if we consider how any past mistakes made during the tenure of previous owners should be corrected among the current owners. 
 
-First,  to be clear on our goal, whicit is not to reconcile every survey or even explain aspects of individual surveys that seemingly lack explanation, although I have tried to do to gain a deeper understanding of the home’s history. Our goal is to come to a correct interpretation of the 1869 deed description, the supposed Mandeville Survey, because as I write this, no intentional change to 1869 has ever been made. The eastern line that defines Tract III was created to correct an obvious error  . 1869 appears to be self-consistent and correct, that is to say, there are no apparent defects. The only question then is whether its bearings are Magnetic or True. And recall that as this implies, 
+First,  to be clear on our goal, which is not to reconcile every survey or even explain aspects of individual surveys that seemingly lack explanation, although I have tried to do to gain a deeper understanding of the home’s history. Our goal is to come to a correct interpretation of the 1869 deed description, the supposed Mandeville Survey, because as I write this, no intentional change to 1869 has ever been made. The eastern line that defines Tract III was created to correct an obvious error  . 1869 appears to be self-consistent and correct, that is to say, there are no apparent defects. The only question then is whether its bearings are Magnetic or True. And recall that as this implies, 
 
 And after pealing back the actions over the years, it is clear that at the bottom, each interpretation has exactly one piece of evidence supporting it.
 
@@ -1262,7 +1088,6 @@ R818 and guard rail on 1912 highway maps?
 ------
 A potential clue that would constrain the timeframe of the OIP’s existence and confirm that it was truly “old” by the time of Rice and Miller, is that a line perpendicular to the road that intersects the OIP falls close to the GPR detected eastern side of the raceway channel on the northern side of the road:
 
-{{% fig "brookton/maps/475-brookton/gpr/gpr-dresser" "800" /%}}
 
 Regardless of the exact construction of the bridge, we can assume that the structure would extended significantly to the east of the eastern edge of the raceway, and this may have provided a visual landmark for the placement of the OIP. If this were the case, the OIP would obviously pre-date the closing of the grist mill described above. Based on deed dates for Dalebrook and Mills’ Home, it seems more likely that it would have been placed by a Mills’ Home surveyor at some point, thereby favoring the True north interpretation of the Mandeville Line.
 
@@ -1375,7 +1200,138 @@ It seems to me that despite how it is described by Mandeville, the initial plott
 
 But despite overshooting the 1883 PoB due to a one degree difference in 
 Point B is the only point on either 1869 or 1883 that is not directly referenced by at least one landmark.
+-->
 
+
+## The Mill Race Bridge as a Property Landmark
+
+The goal of this section is to correctly interpret the two Mills' Home deed descriptions from the 1800's. These descriptions described the property for more than two decades after Emily died.  
+
+As the documents that follow will show, Brooktondale Road's previous names and designations included: Creek Road, Cooks Corners-Brookton Highway, Brooktondale-Ithaca Highway, New York State Route 330, and Tompkins County Route No. 115.
+
+The first deed for Mills' Home as a separate parcel divided from the grist mill lot, was given to William Benton Wolcott in 1869, and was appropriately called "The Wolcott Lot" at the time. The Tompkins County Clerks Office was kind enough to provide me with two scans of the deed that I present here as each is clearer in areas that the other is not:
+
+<div class="cols">
+{{% fig "mills-home/caroline-deeds-1-572" "350" /%}}
+{{% fig "mills-home/caroline-deeds-1-572-alt-scan" "350" /%}}
+</div>
+
+The transcribed legal property description: 
+
+<figure>
+
+> Being a part of the grist mill lot and bounded as follows. **Beginning in the center of the Creek road, 71 links westerly from the center of the bridge over the race from the grist mill** and running thence south 81 degrees east 1 chain and 43 links to a stake; thence north nine degrees east, four chains & twenty links to the brow of the hill. Thence westerly along said brow of hill to the center of the aforesaid "Creek road". Thence easterly along said center of road three chains & ten links to the place of beginning.
+
+<figcaption>
+<cite>— 22 May 1869, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to William B. Wolcott, Caroline Deeds 1, p572, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
+</figcaption>
+</figure>
+
+This and subsequent deed deed descriptions use the metes and bounds system and quadrantal compass bearings. 
+
+<figure>
+
+> Prior to the Revolutionary War, when land was surveyed, the “metes and bounds” system was used to define boundaries. The system is still in existence today for land which was acquired before the present system of surveying land was adopted. States which used this form of surveying were the thirteen original colonies (Connecticut, Delaware, Georgia, Maryland, Massachusetts, New Hampshire, New Jersey, New York, North Carolina, South Carolina, Pennsylvania, Rhode Island, Virginia) as well as the state land states Hawaii, Kentucky, Maine, Texas, Tennessee, Vermont, West Virginia and parts of Ohio.
+>
+> In a metes and bounds land description, there is a starting point which is always at a corner. This is followed by directions and measurement which may be written in a variety of ways, indicating a line leading to the next corner. **The corners will generally be a physical feature.** Often the property owners will be mentioned who bound the land being described.
+
+<figcaption>
+<cite>
+
+— [Metes and Bounds](https://www.familysearch.org/en/wiki/Metes_and_Bounds), familysearch.org. Emphasis added.
+
+</cite>
+</figcaption>
+</figure>
+
+In conjunction with using landmarks as boundaries, it seems to have been common practice to measure landmarks from their centers, presumably to choose a more stable reference point, thus mitigating variations over time, such as the growth of trees, the widening of roads, etc. In the Mills' Home deeds and surveys, this practice is used in relation to Brooktondale Road, the mill race bridge, and the large oak tree on the hill. The references to the center of the road are implicit in the Mills' Home deeds, but explicit in the corresponding Dalebrook deed descriptions.
+
+Although I do not see the name of the surveyor in 1869 documented, it was likely [John L. Mandeville](https://www.findagrave.com/memorial/67292637/john-mandeville) (1836 to 29 Nov 1907), the grandson of [Reverend Garrett Mandeville](https://www.findagrave.com/memorial/65244680/garrett-mandeville) (18 May 1775 to 11 Dec 1853), who was the minister of the Dutch Reformed Church for 25 years. John Mandeville was a Civil War veteran and a founding member of the [Congregational Church of Mott's Corners]({{% relref "founding-documents" %}}). He is listed as "surveyor" on the 1866 Stone & Steward map of Mott's Corners, a portion of which was shown above, and he advocated for and consulted on the 1912 highway improvements already explored, although he died before he could see the work completed. For more information, see [John Mandeville and The Good Roads Movement]({{% relref "#john-mandeville-and-the-good-roads-movement" %}}). Obviously, I can't prove that John Mandeville was the 1869 surveyor, but for the purposes of this exploration, I will suppose that he was. 
+
+With the next Mills' Home deed in 1883, a new Place of Beginning relative to the Mill Race Bridge was established, and this description remained unchanged until Jessie Brewer sold the property to the Jones family. The difference in measurement suggests the surveyor of 1883 may have been someone other than the surveyor of 1869. But as I will show, without this new Place of Beginning, we would not know how to correctly interpret these deed descriptions. 
+
+{{% fig "mills-home/car-deeds-5-70" "800" /%}}
+
+The transcribed property description:
+ 
+ <figure>
+
+> Being a part of the grist mill lot and bounded as follows. **Beginning in the center of the Creek road, eighty-two links easterly from the center of the bridge crossing the mill race;** running thence north nine degrees east, sixty-three links to a stake; thence north nine degrees east, four chains and twenty links to the brow of the hill; thence westerly along said brow of hill to the center of the aforesaid Creek Road; thence easterly along said center of road four chains and sixty-three links to the place of beginning.
+
+<figcaption>
+<cite>— 23 Oct 1883, William B. Wolcott and Ellen Wolcott, his wife to Horace N. Humiston Senior. Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY. Emphasis added.</cite>
+</figcaption>
+</figure>
+
+To understand the measurements given in the descriptions above:
+
+<div class="cols">
+
+<figure style="width: 350px">
+
+> The chain is a unit of length equal to 66 feet (22 yards), used in both the US customary and Imperial unit systems. It is subdivided into 100 links or 4 rods. There are 10 chains in a furlong, and 80 chains in one statute mile. In metric terms, it is 20.1168 m long. By extension, chainage (running distance) is the distance along a curved or straight survey line from a fixed commencing point, as given by an odometer.
+
+<figcaption>
+<cite>
+
+— [Chain (unit)](https://en.wikipedia.org/wiki/Chain_(unit)), Wikipedia.org.
+
+</cite>
+</figcaption>
+</figure>
+
+<figure style="width: 350px">
+
+> The link (usually abbreviated as "l.", "li." or "lnk."), sometimes called a Gunter’s link, is a unit of length formerly used in many English-speaking countries. In US customary units modern definition, the link is exactly 66⁄100 of a US survey foot, or exactly 7.92 inches or approximately 20.12 cm.
+
+<figcaption>
+<cite>
+
+— [Link (unit)](https://en.wikipedia.org/wiki/Link_(unit)), Wikipedia.org.
+
+</cite>
+</figcaption>
+</figure>
+</div>
+
+These measurements were taken by a standardized physical chain with 100 links called a Gunter's chain.
+
+{{% fig "brookton/gunters-chain" "800" /%}}
+
+<figure>
+
+> Gunter's chain (also known as Gunter's measurement) is a distance measuring device used for surveying. It was designed and introduced in 1620 by English clergyman and mathematician Edmund Gunter (1581–1626). It enabled plots of land to be accurately surveyed and plotted, for legal and commercial purposes. 
+>
+>...Gunter's chain reconciled two seemingly incompatible systems: the traditional English land measurements, based on the number four, and decimals based on the number 10. Since an acre measured 10 square chains in Gunter's system, the entire process of land area measurement could be computed using measurements in chains, and then converted to acres by dividing the results by 10.[2] Hence 10 chains by 10 chains (100 square chains) equals 10 acres, 5 chains by 5 chains (25 square chains) equals 2.5 acres. By the 1670s the chain and the link had become statutory units of measurement in England.
+
+<figcaption>
+<cite>
+
+— [Gunter's chain](https://en.wikipedia.org/wiki/Gunter's_chain), Wikipedia.org.
+
+</cite>
+</figcaption>
+</figure>
+
+
+The 1869 and 1883 deed descriptions follow the same structure in five steps, the significant differences between them emphasized in the following step-wise comparison:
+
+<figure>
+
+| | 1869 | |  1883 |
+| --- | --- | --- | --- |
+| **1** | Beginning in the center of the Creek road, **71 links westerly** from the center of the bridge over the race from the grist mill | **1** | Beginning in the center of the Creek road, **eighty-two links easterly** from the center of the bridge crossing the mill race; | 
+| **2** | running thence **south 81 degrees east 1 chain and 43 links** to a stake;| **2** |running thence **north nine degrees east, sixty-three links** to a stake | 
+| **3** | thence north nine degrees east, four chains & twenty links to the brow of the hill. | **3** |thence north nine degrees east, four chains and twenty links to the brow of the hill; | 
+| **4** | Thence westerly along said brow of hill to the center of the aforesaid "Creek road". | **4** |thence westerly along said brow of hill to the center of the aforesaid Creek Road; | 
+| **5** | Thence easterly along said center of road **three chains & ten links** to the place of beginning.| **5** | thence easterly along said center of road **four chains and sixty-three links** to the place of beginning. | 
+
+<figcaption>
+<cite>– 22 May 1869, Caroline Deeds 1, p572 and 23 Oct 1883, Caroline Deeds 5, p70, Tompkins County Clerk, Ithaca NY.</cite>
+</figcaption>
+</figure>
+
+I am currently working on software to draw accurate survey maps based on these deed descriptions, at which point, I will be able to overlay them onto the current survey to estimate where the mill race bridge center was.
 
 ## John Mandeville and The Good Roads Movement
 
@@ -1475,10 +1431,12 @@ John Mandeville along with William B. Wolcott and Charles Personius were photogr
 {{% fig "bcc/obituaries/1907-12-05-Ithaca-Daily-Journal-Ithaca-NY-p4" "350" /%}}
 </div>
 
+## Photographs of Dalebrook
 
------
+Frank Proto gave me the opportunity to take the following photographs of the Dalebrook foundation and interior roof.
 
-Creek road is the one place where the bearings of 1869 and 1883 *should* match, as Creek Road is referenced by each as a landmark with no specific bearing given. For this scenario, I will adjust the angle of Creek Road from 64° 30' True, used thus far, to 66° True. This bearing more closely matches the angles of Mandeville's Triangle, which are 90, 24 and 66 when rounded to whole degrees. (90 + 24 + 66 = 180)  It should be kept in mind, however, that 66° True north is a bit outside of the expected range as indicated by the historical readings for Creek Road already summarized above, which are all under 65°, and it most closely matches Dresser's 2023 reading of 64° 57' True (adjusted for Magnetic declination), slightly more than a degree difference. Finally, only Point C will be relied upon to align the pseudo-surveys.
-
-
---> 
+{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.27.22" "800" /%}}
+{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.27.21" "800" /%}}
+{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.27.36" "800" /%}}
+{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.35.35" "800" /%}}
+{{% fig "adams-photos/brookton/dalebrook/2023-07-03_12.37.58" "800" /%}}
