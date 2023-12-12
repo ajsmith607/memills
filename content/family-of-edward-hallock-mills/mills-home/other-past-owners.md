@@ -467,7 +467,7 @@ Reverend Humiston's son [Horace N. Humiston Jr.](https://www.findagrave.com/memo
 
 Horace Jr.’s daughter was also a Slater: [Cora J. (Humiston) Slater](https://www.findagrave.com/memorial/101229340/cora-j-slater) (1865 to 1934) who married [Charles A. Slater](https://www.findagrave.com/memorial/101229259/charles-a-slater) (1867 to 1918). 
 
-Horace Jr. was portrayed in the newspapers as a local celebrity, so there was great interest when he was tried and convicted in “The Humiston Case”  of "Keeping a Disorderly House". 
+Horace Jr. was portrayed in the Ithaca Daily Journal as a local celebrity, a man familiar with the darker elements of Ithaca society, and a man with many enemies, so there was great interest when he was tried and convicted in “The Humiston Case”  of "Keeping a Disorderly House". 
 
 <figure>
 
@@ -482,6 +482,7 @@ Horace Jr. was portrayed in the newspapers as a local celebrity, so there was gr
 </figcaption>
 </figure>
 
+Based on the reporting of that "young boys are very properly kept from the court house during the testimony" further described as "prurient", one can surmise this was a brothel.
 
 {{% fig "mills-home/humiston/1886-06-11-Ithaca-Daily-Journal-Ithaca-NY-p2" "800x300" "" "top" /%}}
 

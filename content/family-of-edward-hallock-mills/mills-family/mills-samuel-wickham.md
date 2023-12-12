@@ -86,7 +86,7 @@ Prepared by Reverend Samuel Wickham Mills, and scans provided courtesy of Nancy 
 
 ## The Seawanhaka Disaster
 
-As Reverend Mills notes in *Mills Genealogy* above, his cousin [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880), son of [William Wickham Mills](https://www.findagrave.com/memorial/68729507/william-wickham-mills) (03 Sep 1797 to 06 Jan 1865) of [Mills Pond]({{% relref "smithtown" %}}), “drowned in Seawanhaka disaster in Long Island Sound”. 
+As Reverend Mills notes in *Mills Genealogy* above, his cousin [Horatio W. Mills](https://www.findagrave.com/memorial/68729755/horatio-w-mills) (21 Oct 1837 to 28 Jun 1880), son of [William Wickham Mills](https://www.findagrave.com/memorial/68729507/william-wickham-mills) (03 Sep 1797 to 06 Jan 1865) of [Mills Pond]({{% relref "smithtown" %}}), “drowned in Seawanhaka disaster in Long Island Sound” on his way to Mills Pond. 
 
 <figure>
 <blockquote>
@@ -156,7 +156,9 @@ Those fleeing the Seawanhaka were forced to choose between a blazing, sinking sh
 
 On the entire front page of the 29 Jun 1880 edition of The New York Times, only news of the Seawanhaka disaster was reported. The event and its aftermath were reported statewide for many months, including in newspapers in Tompkins, Erie, and Orange counties.
 
-Initially nobody knew that Horatio Mills was a passenger on the boat, and his remains may not have been identified except for papers he was carrying when he died. (And even then, those papers would likely have been lost had Horatio's body been discovered by the “river thieves” first.) Although Horatio was known to be a strong swimmer, a large bruise on his back suggested he was severely injured from striking the boat’s paddle wheel.
+Initially nobody knew that Horatio Mills was a passenger on the boat, and his remains may not have been identified except for papers he was carrying when he died. (And even then, those papers would likely have been lost had Horatio's body been discovered by the “river thieves” first.) Although Horatio was known to be a "very fine swimmer", a large bruise on his back suggested he was severely injured from striking the boat’s paddle wheel.
+
+Horatio was a Columbia educated lawyer "endowed with talents of the highest order".
 
 {{% fig "long-island/seawanhaka-disaster/1880-07-01-Utica-Daily-Observer-Utica-NY-p3" "800x500" "" "top" /%}}
 {{% fig "long-island/seawanhaka-disaster/1880-07-02-The-Brooklyn-Daily-Eagle-Brooklyn-NY-p4" "800x500" "" "top" /%}}

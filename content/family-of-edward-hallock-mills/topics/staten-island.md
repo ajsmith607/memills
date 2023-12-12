@@ -609,8 +609,9 @@ Left penniless, Charles M. Pine was forced to return to work, and to do so for t
 | Date | Events in Charles M. Pine's Final Years |
 | --- | --- |
 | 1889-01-01 (approx) | Son Theodore goes blind. |
+| 1890-05-08 | Son Alverade's wife Serena died. |
 | 1890-11-07 | Sister Lois Almy (Pine) Snedker died two months before the business failed. |
-| 1891-01-10 | C. M. Pine & Son failed after more than 40 years. |
+| 1891-01-10 | Charles' grocery business failed after more than 40 years in the same location. |
 | 1892-03-07 | Wife Elmira Jane (Loper) Pine died. |
 | 1895-05-28 | Son Theodore died at 56 years old. |
 | 1895-12-28 | Sister Mary Ann (Pine) Mills died in Brookton three days after Christmas. |
@@ -1000,7 +1001,7 @@ Martha Deed provided the following images of the letter immediately above:
 
 <aside>
 
-  - Tyhoid fever, also known as typhoid, is a disease caused by Salmonella serotype Typhi bacteria. Symptoms vary from mild to severe, and usually begin six to 30 days after exposure. Often there is a gradual onset of a high fever over several days. This is commonly accompanied by weakness, abdominal pain, constipation, headaches, and mild vomiting. Some people develop a skin rash with rose colored spots. In severe cases, people may experience confusion. ...Typhoid is spread by eating or drinking food or water contaminated with the feces of an infected person. Risk factors include limited access to clean drinking water and poor sanitation. Those who have not yet been exposed to it and ingest contaminated drinking water or food are most at risk for developing symptoms. ([Typhoid Fever](https://en.wikipedia.org/wiki/Typhoid_fever), Wikipedia.org.)
+  - "Typhoid fever, also known as typhoid, is a disease caused by Salmonella serotype Typhi bacteria. Symptoms vary from mild to severe, and usually begin six to 30 days after exposure. Often there is a gradual onset of a high fever over several days. This is commonly accompanied by weakness, abdominal pain, constipation, headaches, and mild vomiting. Some people develop a skin rash with rose colored spots. In severe cases, people may experience confusion. ...Typhoid is spread by eating or drinking food or water contaminated with the feces of an infected person. Risk factors include limited access to clean drinking water and poor sanitation. Those who have not yet been exposed to it and ingest contaminated drinking water or food are most at risk for developing symptoms." ([Typhoid Fever](https://en.wikipedia.org/wiki/Typhoid_fever), Wikipedia.org.)
 
 </aside>
 </figure>
@@ -1156,7 +1157,7 @@ Bartlett Brown married [Sarah Adelaide (Ward) Brown](https://www.findagrave.com/
 
   - Charles Pine Brown (25 Jan 1866 to 22 Jan 1887), named for his father's mentor and friend, Charles M. Pine. (This seems most likely, although perhaps he could also be named for Charles' son Charles Theodore Pine, who was a witness to Bartlett's will. But Theodore was in the same generation as Bartlett, and in fact, a few years younger, so it seems more logical that he named his son for his mentor in the grocery business.) Charles died of tuberculosis in West New Brighton just three days before his 21st birthday, and is purportedly buried in Moravian Cemetery. (1887, New York State Death Index, Certificate number 41287, New York Department of Health, Albany, NY, ancestry.com.) I find no evidence that Charles ever married or had children. 
 
-  - [Bartlett "Bartie" Jr.](https://www.findagrave.com/memorial/199802139/bartlett-brown) (04 Mar 1870 to 15 Dec 1946). Bartlett Sr. retired from the grocery business in 1892, and the 1900 census implies that Bartlett Jr. continued to run the store for some years after. By 1910, Bartlett Jr. is working in the railroad industry, and by 1920, he is "chief accountant" at a railroad company.
+  - [Bartlett "Bartie" Brown Jr.](https://www.findagrave.com/memorial/199802139/bartlett-brown) (04 Mar 1870 to 15 Dec 1946). Bartlett Sr. retired from the grocery business in 1892, and the 1900 census implies that Bartlett Jr. continued to run the store for some years after. By 1910, Bartlett Jr. is working in the railroad industry, and by 1920, he is "chief accountant" at a railroad company.
 
 {{% fig "staten-island/1916-09-05-New-York-Herald-New-York-NY-p10" "500" /%}}
 
@@ -1321,25 +1322,130 @@ And from street level, the building's angle is much less apparent.
 {{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store" "800" /%}}
 {{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store2" "800" /%}}
 
+Matt Long is a recent former owner of the property and has confirmed that the building is indeed the same that housed Pine's store.
+
+<figure>
+
+> Adam asked:
+>
+> *To your knowledge, is the structure that is there presently the same one that would have housed the grocery store in the mid-late 1800's? (I am not local, so my ability to research the deed history remotely is limited.)*
+>
+> Matt replied:
+>
+> *Yes, it is indeed still the original structure.*
+>
+> *...When I moved into 'The Terrace' There was nothing around it.  The Apollo building next door was an empty lot that was the one time location of The Swan Hotel (check the name) where I was told Aaron Burr spent his last years convalescing. There was no heat, electricity or water.  I used a wood stove to warm the place...poorly!  It was too big a space for a wood stove to be effective. I knew Claire Brown's son and had several conversations about the property with the Staten Island Historian... A Mr. Williamson and late on his successor Barnett Shepherd.*
+
+<figcaption>
+<cite>
+
+— 06 Dec 2023, Matt Long, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
+
 {{% fig "staten-island/pine-store-today/2021-10-pine-store-front" "800" /%}}
 
-Closer images show that the bricks of the front face are badly decayed and crumbling in spots, and evidence of repair work can be seen in some images, where there is white patching. Notice too that the bricks encompassing the third story windows on the front face of the building appear to be a distinctly different color than the bricks around it, suggesting they were replaced at a later time.
+<figure>
+
+> Adam asked:
+>
+> *I am assuming the two areas on either side of the front door were display windows, is this theory compatible with what you know of those spaces?*
+>
+> Matt replied:
+>
+> *Absolutely. I reconstructed the windows as they were and surely the display/window seats are still there.*
+>
+
+<figcaption>
+<cite>
+
+— 06 Dec 2023, Matt Long, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
+
+Closer images clearly testify to the age of the bricks and evidence of recent repair work can be seen in some images, where there is white patching. Notice too that the bricks encompassing the third story windows on the front face of the building appear to be a distinctly different color than the bricks around it, suggesting they were replaced at a later time.
 
 {{% fig "staten-island/pine-store-today/2019-09-pine-store-front-decay2" "800" /%}}
 {{% fig "staten-island/pine-store-today/2019-09-pine-store-front-decay" "800" /%}}
 {{% fig "staten-island/pine-store-today/2021-10-pine-store-front-repair" "800" /%}}
 
-The east face shows and even more distinct differences on the first floor.
+<figure>
+
+> Adam asked:
+>
+> *At the rear of the building on the east side, there appears to be a large door that I assume opens to a loading area. Given your knowledge of the building, was that likely there in the 1800's as well, and for that purpose?*
+>
+> Matt replied:
+>
+> *Yes.  The loading dock was quite obviously original to the building.*
+>
+
+<figcaption>
+<cite>
+
+— 06 Dec 2023, Matt Long, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
 
 {{% fig "staten-island/pine-store-today/2022-10-pine-store-east-face1" "800" /%}}
 {{% fig "staten-island/pine-store-today/2022-10-pine-store-east-face-closer" "800" /%}}
 
-Some of these closer images show clear details of the decorative window cornices that can be seen on all windows of all floors on the north (front) and east faces. Assuming these are made of wood, their excellent condition suggests to me that these are more modern additions.
+<figure>
+
+> Adam asked:
+>
+> *There are two features of the building's face that might indicate past work done, and I was wondering if you knew anything about them: on the east side, facing Barrett Lane, there is a distinct line in the middle of the second floor where the exterior color changes, do you know anything about that? Similarly, the third floor front appears to have newer bricks encompassing all the windows for the entire width of the structure, do you know anything about that?*
+>
+> Matt replied:
+>
+> *I don't know anything about a color change at any level.  The east side of the building was covered over with stucco before I purchased it.*
+
+<figcaption>
+<cite>
+
+— 06 Dec 2023, Matt Long, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
+
+Some of these closer images show clear details of the decorative window lintels (which I had originally called "cornices" in keeping with Sanborn) that can be seen on all windows of all floors on the north (front) and east faces. Their excellent condition today is the result of Matt Long's work.
 
 {{% fig "staten-island/pine-store-today/2019-09-pine-store-front-cornice3" "800" /%}}
 {{% fig "staten-island/pine-store-today/2017-07-pine-store-front-cornice1" "800" /%}}
 {{% fig "staten-island/pine-store-today/2022-10-pine-store-east-cornice" "800" /%}}
 {{% fig "staten-island/pine-store-today/2022-10-pine-store-east-face-cornice1" "800" /%}}
+
+
+<figure>
+
+> Adam asked:
+>
+> *The window cornices appear to all be present and in excellent
+condition. I assume then that these are of a more modern origin and
+not the original cornices?*
+>
+> Matt replied:
+>
+> *These lintels as they are called are also original.  You will see these on buildings in the early manufacturing buildings in SOHO NYC. The cast iron frame for the front door bears the name of the same company that made them for most of those in NYC.  I can't recollect the name offhand but I believe it was an Elm Street address embossed on the base.* 
+
+<figcaption>
+<cite>
+
+— 06 Dec 2023, Matt Long, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
+
+
+
 
 As recently as Oct 2021, the building was occupied, as Google Maps images of the second floor show an office with pictures hanging on the wall, and a computer monitor with brand name Dell against the window.
 
@@ -1373,7 +1479,41 @@ For a number of years prior to that, the building was occupied by Furniture Rest
 
 {{% fig "staten-island/pine-store-today/2019-09-pine-store-front2" "800" /%}}
 
+<figure>
+
+> Adam asked:
+>
+> *To your knowledge, is there anything in the building, or about the building that still provides evidence today of Charles Pine or his grocery store? (Or was there such evidence at any time during the period you occupied it?)*
+>
+> Matt replied:
+>
+> *There are (maybe were as I sold the building in March) some unusual hanger millwork with very heavy duty bolts extending out of them. I might have a photo or could make a sketch if you like. They looked to be used for moving heavier objects along the length of the store (my best guess) When I first moved in and cleared out the basement, there were many...what looked like present day clothes drying racks but much larger. Someone suggested they were used for drying pasta.*
+
+
+<figcaption>
+<cite>
+
+— 06 Dec 2023, Matt Long, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
+
 The address for Pine's store was 188 Richmond Terrace, but is addressed today as 1550 Richmond Terrace. It is located on Staten Island block 186, lot 10 (Borough-Block-Lot Lookup, New York City Department of Finance).
 
 {{% fig "staten-island/pine-store-today/2019-09-pine-store-front-door" "800" /%}}
+
+
+<figure>
+
+> I was quite proud to own that property.  It's a gem.  Especially here on Staten Island. I have the advertisement (reprint of course) for CM Pine you probably found as well.  I believe I also have images from the time when the building housed Victory Van Lines and Claire Brown's Auction house. Of course I have images from the years I spent there (40+).
+
+<figcaption>
+<cite>
+
+— 06 Dec 2023, Matt Long, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
 
