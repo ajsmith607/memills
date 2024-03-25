@@ -1,0 +1,12 @@
+---
+---
+BROOKTON, NEW YORK
+
+TOMPKINS CO. 
+
+E. H. MILLS, P. M.
+
+MAY 26 1886
+
+
+

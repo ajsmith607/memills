@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+{{% fig "bcc/general/1880-06-13-robert-edward-departs" "500" /%}}
+{{% fig "bcc/general/1909-04-12-Ithaca-Daily-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "bcc/obituaries/1901-10-17-ida-may-shurter-obit" "500" /%}}
+{{% fig "bcc/obituaries/1903-11-04-clara-smiley-obit" "500" /%}}
+{{% fig "bcc/obituaries/1909-03-14-ella-personius-obit" "500" /%}}
+{{% fig "bcc/obituaries/1909-03-27-abbie-landon-obit" "500" /%}}
+{{% fig "bcc/obituaries/1909-04-02-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+{{% fig "bcc/obituaries/1909-04-03-Ithaca-Daily-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "bcc/obituaries/1909-04-05-Ithaca-Daily-Journal-Ithaca-NY-p6" "500" /%}}
+{{% fig "bcc/obituaries/1909-05-06-Ithaca-Daily-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "bcc/obituaries/1910-03-30-Star-Gazette-Elmira-NY-p10" "500" /%}}
+{{% fig "bcc/obituaries/1910-03-31-Ithaca-Daily-Journal-Ithaca-NY-p9" "500" /%}}
+{{% fig "bcc/obituaries/1910-deaths" "500" /%}}
+{{% fig "bcc/obituaries/1914-deaths" "500" /%}}
+{{% fig "bcc/obituaries/1925-05-25-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+
+
+
+
+
+citation: "Digitally photographed entry in *Congregational Church 1868-1933 Minutes of Meetings and Membership*, used with permission from Caroline Valley Community Church."
+
+

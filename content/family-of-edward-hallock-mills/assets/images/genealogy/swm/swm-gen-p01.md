@@ -1,0 +1,9 @@
+---
+citation: "Mills Genealogy. Prepared by Samuel Wickham Mills. Minisink Valley Historical Society, Port Jervis NY, p1. Used with permission."
+---
+
+MILLS GENEALOGY.
+
+Prepared by S. W. Mills
+
+The name of Mills, which is found in so many parts of our country, appears to be chiefly of English origin. There are those who bear the name who are of Holland extraction. In the early settlement of New England there was one Peter Water Van Der Mulin, who emigrated from Holland and settled at Windsor, Conn., and took the English name of Mills. (The English of Van Der Mulin is “from the Mill”.) This same name is found among the early settlers of Hartford, Conn. Of his descendants we know nothing, but it is quite probable there are those living who can trace their ancestry back to him. Of those of English extraction we know more. The name of Mills or Milnes, otherwise DeMolis, was found in Devon, England, in 1083-6. It was derived from Meulles, Normandy. It is supposed to have been brought there in the time of William the Conqueror who introduced the Norman language into England about 1066. Lord Haughton (Milne) has been a member of Gladstone's Cabinet in this year. (1894) Under the various forms of Mill, Mills, Milne, Milles and Mylles, the name is found in Yorkshire in 1530, 1560, 1584, 1612, 1627 and 1665. In Sussex County, England it appears as follows- Geffry Atte Milne 1307-27: Agnes Atte Milne– John Atte Mull alias Mill, Lord of Grethan in Sussex Co., 1366 Robert Atte Mulle alias Mille of Gilford, Surry Co., 1377-99- John Atte Mille of Pulborough 1366, Robert Mill of Sussex 1422-61. John Myllle 1578. Sir Richard Mill, Born 1690. The first emigrant from England by the name of Mills of whom we have knowledge was John Mills who came over in the fleet with Gov. Winthrop in 1629 or 1630. His name

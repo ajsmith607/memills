@@ -1,0 +1,2 @@
+IFS=$'\n' sorted=($(sort <<<"${array[*]}"))
+unset IFS

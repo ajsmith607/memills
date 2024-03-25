@@ -1,0 +1,3310 @@
+#  - Meetings: list of objects with properties:
+#    - date: string
+#        - markup: string
+#        - stripped: string
+#        - attendees: list of objects with properties:
+#          - name: string that matches a name in People above
+#              - action: string that is one of "todo" or "done"
+#              - item: string that matches a name in Citations above
+
+---
+Meetings:
+
+  - date: 1883-04-20
+    content: |+
+
+      Brookton April 20th, 1883. I.O. of G. T.
+
+      Lodge called to order by W.C.T. Officers Pro. Tem. V.T. Sis Mills.
+
+      W.F.S. Bro. Lounsbery. Officers absent Treas. F.S. ~ V.T. ~ L.S.
+
+      Minutes read & approved. Roll call Result Lounsbery 10.. Denman 9... All members reported true to the pledge 
+
+      under the head of new business it being the time to nominate officers the followeing were nominated 
+
+      | [?] | Vice Templar | Secretary  |
+      | --- | --- | --- |
+      | Chas VanDemark | Emily Mills | Richard Denman | 
+      | Emily Mills | Sis Auchmoody | Burrie Besemer |
+      | M. C. Nolan | V. T. Sis Johnson | Arthur Green |
+      | Arthur Green | Sis Shurter | Sis Georgie Tucker |
+      | Sis Hungerford | Sis Hungerford | Sis Genung |
+
+      Treas 
+
+      | Treasurer | Finan. Secy. | Chaplain |
+      | --- | --- | --- |
+      | Fred Allen | Sis Newberry | Sis Shurter|
+      | M. C. Nolan | Arthur Denman | Sis Besemer |  
+      | Arthur Denman | Bro Genung | John McWhorter | 
+      | Burrie Besemer | Richard Denman | Sis Genung |
+      | Wm Hungerford | Chas VanDemark | |
+
+      [Star?]
+
+      | | Inside Guard | Outside Guard |
+      | --- | --- | --- |
+      | M. C. Nolan | Bro McWhorter | Cora Bush |
+      | Sis Besemer | Bro. Lounsbery | Angelica Reed | 
+      | Ed. Auchmoody | Sis Auchmoody | Bennie Genung |
+      | Bennie Genung | Fred Allen | |
+      | Geo. Sanders | M. C. Nolan | |
+
+      Recess
+
+      For good of the order, the following selections were read
+
+      Sel. Bro. Lounsbery..A Doctor’s Prescription..Sel. Bro. Green..The Sign Board..Sel. Sis. Lounsbery..Whistling in Heaven. Sel. Sis. Johnson. Kims Last Whipping..Recitation, Sis. Genung..Listen to the Water Wheel Sel. Sis. Besemer Auntie Bell’s Bonnet. 
+
+      Song by Bro. McWhorter 
+
+      closing song Marching to Zion
+
+      Lodge adjourned for one week. 
+
+      No Recpts.
+
+      Chas. VanDemark, W.C.T.
+
+      Arthur Green Secy
+
+  - date: 1883-04-27
+    content: |+ 
+
+      Brookton April 27, 1883
+
+      Lodge called to order by W.C.T.
+
+      Officers Pro Tem V.T. Sis. Mills, Chap[?], Bro. Lounsbery. Officers absent Treas ~ F.S. ~ V.T. ~ Chap & O.G. Minutes read & approved. Roll call Result Lounsbery 7 Denman 6.
+
+      The Sec read a letter from the Union Lodge of Ithaca inviting us to attend an open session held by them Tuesday evening, May 1st. Moved & carried to accept the invitation. The next order being election of Officers the following elections were made
+
+      W.C... Chas Vandemark. ~ V. T. Sis Mills. Secy. Arthur Green.. ~  Chap. Sis Shurter F.S. Richard Denman.. Treas. Burrie Besemer. Mar. M.C. Nolan. I.G. Fred Allen. O.G Bennie Genung.
+
+      Moved & carried to adjourn the appointment of Delegates to county Lodge till some future meeting. Lodge adjourned for one week. No Recpts.
+
+      Chas. Van Demark, W.C.T.
+
+      Arthur Green, Secy.
+
+
+  - date: 1883-05-04
+    content: |+ 
+
+      Brookton May 4, 1883
+
+      Lodge called to order by W.C.T. Officers Pro. Tem. V.T. Sis. Bush. Officers absent Treas.. ~ V.T.
+
+      Minutes read & approved. Roll call result tie. Bill presented by Bro Lounsbery of $5.00 for Hall rent. Also a bill presented by the secretary of $.75 for secretary's book. moved & carried the bills be paid. 
+
+      Recess. After recess the W.C. opened [?] of nomination of Officers. Sis Besemer being nominated & elected as Treas in place of Burrie Besemer who declined the office Sis Genung was also nominated & elected as P.W. The officers were duly installed for the present quarter The next being appointment of Delegates to county lodge the following were appointed.
+
+      Reg 
+        - Chas VanDemark 
+        - Sis Sherman 
+        - Sis Genung 
+
+      Alt 
+        - Bro Nolan 
+        - McWhorter 
+        - Sis Shurter.
+
+      Good of the order. Sel Sis Shurter *Who can make Home Happy*
+
+      The following were appointed to read.. Bro Lounsbery Sis Sanders Bro R. Denman Sis Lounsbery Sis Shurter. Music Sis Besemer Sis Newburry John McWhorter. Rects of the evening, ~~$1.25~~, recpts $1.85.
+
+      Chas VanDemark W.C.T. 
+
+      Arthur Green, Secy.
+
+
+  - date: 1883-05-11
+    content: |+ 
+
+      Brookton May 11th 1883
+
+      Lodge called to order by W.C.T.
+      
+      Officers Pro. Tem. P.W. Bro Lounsbery, O.G. Ed Auchmoody. Officers absent: Treas. P.W. O.G. & Dep Mar came at recess.
+
+      Minutes read & approved except rects of the "eve" which was corrected. Inside Guard duly installed by the Se. D. Recess. after recess committees appointed as follows:
+
+      Sick Com 
+        - Sis Besemer
+        - Sis Lounsbery 
+        - Sis Bush 
+        - Sis Tucker
+        - Sis Auchmoody
+        - Bro. Nolan
+        - Bro. Denman 
+        - Bro. Green
+
+      Finan Com 
+        - Sis Mills
+        - Sis Besemer
+        - Bro. Denman.
+
+      Good of the order Sel. Bro Lounsbery Sel. Bro Denman A Vision of Virgins. Music by Sis Besemer & John McWhorter also a piece of Music by sis Newberry.
+
+      Appointments to read Sis Shurter, Sis Sanders Sis Lounsbery, Sis Bush Sis Auchmoody, Sis Reed Sis Tucker Sis Mills. 
+
+      Music: Sis Besemer Sis Newberry Sis Genung Bro. McWhorter.
+
+      recpts of the evening 65 cts
+
+      report of the credit System as follows: Bro Lounsbery 5000, Bro. Denman 2000. 
+
+      Lodge adjourned one week.
+
+      Chas VanDemark W.C. 
+
+      Arthur Green Secy.
+
+
+  - date: 1883-05-25
+    content: |+ 
+
+      Brookton, May 25th 1883
+
+      Lodge called to order by W.C.T.
+
+      Officers Pro. Tem. P.W. Bro. Lounsbery I.G. Sis Johnson. Officers absent F.S. ~ Treas. ~ I.G. ~ O.G. ~ D.M. ~ P.W. Treas came at recess.
+
+      Minutes read & approved. Moved & carried that a com. of five be appointed to decide what the reward of merit shall be for the credit system contest. 
+
+      Appointments as follows.. Sis Reed.. Sis Shurter.. Sis Mills.. Sis Sherman Sis Bush. 
+
+      All members present true to the pledge.
+
+      Recess [?] 10 _min_. Report from County Lodge by Chas. VanDemark. Appointments to read Sis Mills, Bro. Lounsbery, Sis Johnson Bro. Bennie Genung, Sis Auchmoody 
+
+      Music Sis Besemer Bro. McWhorter, Sis Genung. Lodge adjounred for one week.
+
+      No Recpts.
+
+      Chas VanDemark, W.C.T.
+
+      Arthur Green, Secy.
+
+
+  - date: 1883-06-01
+    content: |+ 
+
+      Brookton, June 1st, 1883.
+
+      Lodge called to order by W.C.T.
+
+      Officers Pro. Tem. Bro. Lounsbery Chap Sis Lounsbery, I.G. chap. came a little later. Bro. Lounsbery ..App.. P.W. Officers absent: I.G & O.G. Minutes read and approved. communication from Temperance Star Lodge received stating that Watson Aldridge had been expelled from their Lodge.
+
+      All Members present true to the pledge. Recess 15 min. After recess moved & carried that a com. of three be ..app.. to find out what a set of Officers regalias can be bought for and how we can pay for them. ..app.. Bro Lounsbery, Bro Nolan & Bro Denman.
+
+      Good of the order.. Sel. Sis Mills.. Misplaced door key's. Sel Bro. Lounsbery, Sel. Bro. Genung Sel. Sis Lounsbery.. Sel. Sis Auchmoody Appointements to read Bro. Denman. Bro. Nolan.. Sis Genung sis Bush. Music Burrie Besemer Chas. VanDemark McWhorter Sis Besemer Sis Genung. Recpts of the evening 60 cts. Lodge adjounred 1 week
+
+      Chas VanDemark W.C.T.
+
+      Arthur E. Green Secy.
+
+
+  - date: 1883-06-08
+    content: |+ 
+
+      Brookton, June 8th, 1883.
+
+      Lodge met and was called to ordery by W.C.
+
+      Officers Pro. Tem. P.W. Bro. Lounsbery I.G. Sis Johnson. V.T. Arthur Denman Officers absent.. P.W. ~ Treas. ~ V.T. ~ I.G.
+
+      Minutes read and ..app.. Communication recd from C.C.T. Stating that Hon. J.H. Selkreg has consented to delivery Termperances addresses throughout tht county and if we would like to have and address here to inform him of the Date and place of Meeting.
+
+      All members true to the pledge
+
+      Recess 10 min
+
+      After recess report from the regalia Com by Bro. Lounsbery.
+
+      Good of the order Sel. Sis Bush Sel Chas VanDemark.
+
+      App.. to read A. Denman, R Denman sis Denman.. Sis Auchmoody.. Sis Shurter Bro Nolan Sis Genung.
+
+      Music Sis Tucker Sis Bush Burrie Besemer McWhorter.. Sis Besemer Sis Genung
+
+      rects of the evening 75 cts.
+
+      Lodge adjourned one week
+
+      Chas VanDemark W.C.
+      
+      Arthur E. Green Secy
+
+
+  - date: 1883-06-15
+    content: |+ 
+
+      Brookton June 15, 1883. High Bridge Lodge I.O. of G.T. Lodged called to order
+
+      Officers Pro. Tem. P.W. Bro. Lounsbery. Mar. A. Denman. I.G. Ed. Auchmoody Officers absent P.W Mar. IG.
+
+      Minutes read & approved. for member of this Lodge the name of Mifs Ida. Olney was proposed by C.A. Denman. Com.. App.. Sis. Lounbery. Sis Tucker. sis Sanders. Regalia business unfinished
+
+      Good of the oder.. Sel. Bro. R. Denman Sel. Bro. A Denman. The Smithy
+
+      Intermission.. during which Bro Denman's side furnished ice cream for the company as a reward of merit for the Credit contest
+
+      Appointments to read as follows sis Mills. Sis Sherman. Sis Denman. Bro. Lounsbery. Sis Lounsbery Sis Sanders
+
+      Music Sis Besemer Sis Sanders sis Genung. Bro. McWhorter
+
+      rects 40 cts
+
+      Lodge adjourned one week
+
+      Chas VanDemark W.C.
+
+      Arthur E. Green, Secy.
+
+  - date: 1883-06-22
+    content: |+ 
+
+      Brookton June 22nd 1883
+
+      Lodged called to order by W.C. Pro. Tem. Officers Pro. Tem. P. W. Bro. Lounsbery V.T. Sis Lounsbery Officers absent W.C. .. Treas. .. P. W. .. V.T.  Le.S. ..
+
+      Minutes read and approved..
+
+      Balloting for candidates next in order Miss Ida Olney being balloted for & elected.. was duly initiated..
+
+      Rects of the evening .50 cts..
+
+      Moved & carried to adjourn
+
+      Lodge adjourned one week
+
+      ( Pro Tem John McWhorter W.C.T.
+
+      Aurther E. Green Secy 
+
+
+  - date: 1883-06-29
+    content: |+ 
+
+      Brookton June 29 1883
+
+      Lodge met pursuant to adjournment 
+      
+      Officers Pro Tem. P.W. Bro. Lounsbery Mar. Bro. Auchmoody. D. M. Sis Lounsbery I.G. Bro. Genung. Officered absent: P.W Mar & Dep and I.G.
+
+      Minutes read & app.. Communication recd. from Temperance Star Lodge stating that Mr. Will Evans had been expelled from their order..
+
+      recess 10 min
+
+      After recess report from the regalia Com. By Bro. Lounsbery.
+
+      Good of the oder. Sel Bro Lounsbery A poem Sel. Sis Lounsbery A Womans Choice.
+
+      Appointements to read.. Bro. R. Denman, Sis Mills. Geo. Ault Bro. A Denman Sis Bush Sis Auchmoody Sis Besemer
+
+      rects of the evening 70 cts.
+
+      Lodged adjounred one week.
+
+      Chas VanDemark W.C.
+
+      Arthur Green Secy.
+
+  - date: 1883-07-06
+    content: |+ 
+
+      Brookton July 6th 1883
+
+      Lodged called to order as usual.
+
+      Officers Pro. Tem. Mar. A. Denman Dep. Mar. sis Reed. Officers Absent P.W. Mar & Dep I.G & R.S.
+
+      Minues read & approved
+
+      Communication received from C.C.T. informing us of the arrangments for County Lodge and asking us to help entertain said Lodge Also a bill presented by the Secy. of .10 cts for stationary
+
+      All members present true to the pledge recess 10 min
+
+      Good of the Order Sel Bro. R. Denman The Squires fun. Also a Sel by sis Mills
+
+      Appointments to Read. Bro Green Bro. Denman Bro Lounsbery Sis Olney. Sis Auchmoody
+
+      No Recpts. Lodged adjounred one week.
+
+      Chas. VanDemark W.C.
+
+      Arthur Green, Secy.
+
+
+  - date: 1883-07-13
+    content: |+ 
+
+      Brookton July 13th 1883
+
+      High Bridge Lodge No. 296. called to order as usual
+
+      Officers Pro. Tem. Mar. Bro. A. Denman P.W. Bro. Lounsbery. IG. Burrie Besemer
+
+      Officers Absent.. F.S. P.W. Mar. I.G. O.G & R.S. Minutes read & approved
+
+      Circular recd from the Gr. W.C. of Ohio Soliciting financial aid for the Temperance people of Ohio against the liquor Traffic.. All members true to the pledge
+
+      Recess.. After recess moved & carried that circular be laid on the table 1 wk.
+
+      Good of the Order Sel. Bro A. Denman Sel Bro. Lounsbery. Sel Sis Olney also a piece of instrumental Music by Miss Cora Genung
+
+      Appointments to read Sis Denman Sis Mills Sis Auchmoody Sis Tucker. A. Green. Chas VanDemark.
+
+      No. Recpts..
+
+      Lodge closed one week
+
+      Chas. VanDemark W.C.
+
+      Arthur Green. Secy.
+
+  - date: 1883-07-27
+    content: |+ 
+
+      Brookton July 29 1883
+
+      Lodge called to order as usual
+
+      Officers Pro. Tem. P.W. Bro Lounsbery V.T. Sis Lounsbery. F.S. Geo. Sanders Mar. Sis Auchmoody. I.G. Geo. Ault.. 
+
+      Officers Absent P.W. V.T. FS & Treas Mar & Dep IG. & O.G.
+
+      Minutes read & approved. All Members present reported true to the pledge. Moved & carried that the circular from Ohio be laid on the table
+
+      Nomination of Officers next in order 
+
+      | W. C. | V.T. | WS |
+      | --- | --- | --- |
+      |  | Sis Bush | Geo Sanders |
+      | R. Denman | Sis Olney | Bro. Ault |
+      | A. Denman | Sis Auchmoody | Arthur Green | 
+
+      | (F.S.) | (Treas) | (Chap) |
+      | --- | --- | --- |
+      | R. Demnam | Addie Denman | |
+      | Sis Auchmoody | Sis Besemer | Sis Shurter |
+      | Sis Lounsbery | Sis sherman | sis Lounsbery |
+
+      | (Mar) | (IG) | (OG.) |
+      | --- | --- | --- |
+      | Bro Auchmoody | VanDemark | Bro Ault |
+      | Sis Auchmoody | Bro. Ault | Bro Sanders |
+      | Bennie Genung | sis Auchmoody | Bro Lounsbery |
+
+      Officers elected as follows W.C. R. Denman V.T. Sis Auchmoody. W.S. Arthur Green Treas Sis Lounsbery F.S. Sis Denman Chap sis shurter Mar Bro Auchmoody I.G. Bro Ault OG. Bro Lounsbery
+
+      Delegates to County Lodge as follows Regular Chas. VanDemark sis Auchmoody Bro. Lounsbery Alternate Bro. Sanders Sis Lounsbery Arthur Green.
+
+      Representative to Grand Lodge Bro. Lounsbery. Delegate sis shurter moved & carried that Delegates to county Lodge have power to fill Vacancys from those present
+
+      Lodge adjourned one week
+      
+      No rects
+
+      Chas VanDemark W.C.
+
+      Arthur Green, Secy.
+
+  - date: 1883-08-03
+    content: |+ 
+
+      Brookton Aug. 3 1883
+
+      Lodge called to order as usual
+
+      Officers Pro. Tem. P.W. Dr. Galhagar I.G. Sis Johnson. Mar. Geo. Ault. Dep. Mar. Sis Reed. Officers Absent P.W. Mar & Dep. & I.G. Minutes read and approved. New names proposed were Miss May. Toby & Mrs. Ellen Lounsbery Moved & carried to ask the Se. D. to grant a dispensation to ballot for the names tonight Names Balloted for & elected
+
+      Recess 10 min After recess The Officers for the present quarter were duly installed by Miss May Robinson as Gr. W.C.T. Dr. Galhagar as Gr. W. Mar. Miss LaVern Sherman as Gr. W. Secy
+
+      Good of the Order Remarks by Bro Galhagar on the Progress of Temperance Sel Sis Newberry The Guardian Angel
+
+      Moved & carried to extend a Vote of thanks to the Se.D. & Gr Mar of Slaterville for their kindness in assisting us with our instalation ceremony
+
+      finance Com
+        - Mrs Besemer
+        - Geo. Sanders
+        - Chas VanDemark
+
+      Sick Committee
+        - Mrs Lounsbery
+        - Sis Auchmoody
+        - Sis Johnson
+        - Bro Genung & Arthur Green
+
+      Appointments to read Bro Denman Sis Olney. also all those appointed at the preceding Meeting
+
+      For Music. Mrs. Besemr. Sis Genung, Sis Newberry
+
+      Recpts of the Evening $4.00.
+
+      Lodge Adjourned one week
+
+      Richard Denman W.C.
+
+      Arthur E. Green Secy
+
+
+  - date: 1883-08-10
+    content: |+ 
+
+      Brookton August 10th 1883
+
+      Lodge called to order as usual
+
+      Officers Pro. Tem. P.W. Sis Besemer Dep. Mar. Sis Sherman Le.S. Sis Johnson Officers Absent P.W. Dep.Mar. & Le.S.
+
+      Minutes read and approved
+
+      All Members reported true to the pledge Except Bro. Nolan & Bro. Auchmoody Who were reobligated
+
+      New Name proposed was Miss Pheobe Davenport who was duly Balloted for Elected & Initiated  Recess 10 mins
+
+      After recess the Mar & Dep Mar were Duly installed for the present quarter by Bro. Nolan as Gr W[?] Mar & the Se.D.
+
+      Bill presented by Bro. Lounsbery of $5.00 for rent Moved & carried the bill be paid
+
+      Good of the Order Sel Sis Mills Something or Nothing Music by Miss Cora Genung remarks by Bro. Lounsbery report from County Lodge by Bro. Lounsbery Sel Sis Besemer Miss Genung again favored the Lodge with Music
+
+      Appointments Sis Reed. Sis Johnson sis Lounsbery Music Bro. McWhorter Sis Newberry sis Besemer Sis Genung. recpts of the evening $1.75
+
+      Lodge Adjourned one week
+
+      Richard Denman W.C.
+
+      Arthur Green, Secy. 
+
+
+  - date: 1883-08-17
+    content: |+ 
+
+      Brookton Aug 17th 1883
+
+      Lodge called to order as usual
+
+      Officers Pro Tem W.FS M.C. Nolan Treas Mrs Besemer Officers Absent F.S. ~ Treas & Le.S. Minutes read & approved
+
+      Communication received from Cascadilla Lodge inviting our Lodge to the Annual Basket Picnic held by them. Moved & carried to accept the invitation.
+
+      All present true to the pledge
+
+      Recess [?]
+
+      Good of the Order  Sel. By Chas VanDemark Sel. by Bro. Arthur Denman Music by Miss Cora Genung
+
+      Appointments Sis Reed Bro Lounsbery Sis Auchmoody Sis Besemer Sis Bush Sis Tucker Music Sis Genung
+
+      Recpts of the evening .65 cts
+
+      Lodge adjourned one week
+
+      Richard Denman W.C.
+
+      Arthur Green Secy
+
+
+  - date: 1883-08-24
+    content: |+ 
+
+      Brookton Aug 24. 1883
+
+      Lodge called to order as usual
+
+      Officers Pro. Tem. P.W. Geo. Sanders Officers absent P.W.
+
+      Minutes read & approved All present true to the obligation  Intermission. 10 Minutes  After recess for Good of order the following Selections were read  Sel. By Bro Lounbery. Se. Sis Auchnmoody Sel. Sis Bush. Remember Thy Mother Sel. sis Besemer.
+
+      Remarks by Bro. Franklin of Wisconsin 
+
+      Appointments Sis Johnson Geo. Ault Sis shurter. Ed.. Auchmoody Sis Davenport Geo. Sanders.. Sis Olney Sis Mills  
+
+      Music Sis Newberry Sis Genung
+
+      Lodge adjourned one week
+
+      No recpts
+
+      Richard Denman W.C.
+
+      Arthur Green Secy
+
+
+  - date: 1883-08-31
+    content: |+ 
+
+      Brookton Aug 31st 1883
+
+      High Bridge Lodge No. 296. called to order as usual. Officers Pro. Tem V.T Sis Johnson. P.W. Bro. Sanders Mar. Bro Nolan. Officers Absent: V.T. P.W. 
+
+      Minutes read and approved.
+
+      All present true to the pledge
+
+      Unfinished business paying for the ice cream furnished by the Defeated Side of the credit system contest Which was finally Settled.
+
+      Recess of 10 Minutes After recess the Selections for Good of the order were furnished as follows Sel by Sis Johnson. also a Sel. by Bro Geo. Ault Music by Sis Newberry. Mifs Cora Genung also favored the Lodge with Music
+
+      Appointments to Read as follows Sis Genung. Sis Reed. Bro. Green. Sis Tucker Bro. Nolan. Sis Besemer. Sis Davenport Sis Lounsbery Bro. Genung.
+      
+      App for Music Bro. McWhorter. Sis Genung Sis.. Newberry
+
+      Recpts of the evening $.155.
+
+      Lodge Adjounred one week
+
+      Richard Denman W.C.
+
+      Arthur Green Secy. 
+
+  - date: 1883-09-07
+    content: |+ 
+
+      Brookton Sep. 7th 1883
+
+      High Bridge Lodge No. 296 met and called to order as usual.
+
+      Officers Absent F.S. I.G. & Le.S. 
+
+      Minutes read and approved.
+
+      All members reported true to the pledge. Recess. 10. minutes
+
+      After recess for Good of the order the following selections were read Sel. by Bro Lounsbery The American Devil Tree. Sel by Bro. Franklin The Grog Seller's Dream.
+
+      Appointments to read. Bro. Sanders Sis Olney. Bro. Vandemark A. Green Sis Johnson. Sis Sherman
+
+      Lodged closed for one week
+
+      No. Recpts.
+
+      Richard Denman W.C.
+
+      Arthur Green Secy 
+
+
+  - date: 1883-09-14
+    content: |+ 
+
+      Brookton Sept 14th 1883.
+
+      High Bridge Lodge called to order by W.C. Pro. Tem. Officers appointed W.C. Arthur Denman. P.W. Sis Olney F.S. Sis Sherman Dep. Mar. Bro Nolan I.G. Bro Sanders O.G. Bro. Genung Le.S. Sis Bush Officers Absent: W.C. ~ P.W. ~ F Secy & Treas Dep Mar. ~ IG. & OG. & LeS.
+
+      Minutes read & approved Under the order of propositions the name of Theodore Mandeville was proposed to be initiated to Night Said candidate duly balloted for & initiated
+
+      Intermission 10 min. for Good of the Order Recitation by Sis Olney Notheing But leaves
+
+      Appointments Bro. VanDemark Bro. Auchmoody Sis [?] Sis Mills Sis Shurter Sis Sherman
+
+      Recpts of the evening .50 cts.
+
+      Lodge Ajourned one week
+
+      Arthur Denman (Pro Tem. W.C.
+
+      Arthur Green Secy
+
+
+  - date: 1883-09-21
+    content: |+ 
+
+      Brookton Sept. 21. 1883.
+
+      Lodge called to order by Chas VanDemark W.C. Pro. Tem. Officers. Pro. Tem. P. W. Bro. Denman. V.T. Sis Olney FS. Sis Sherman Officers Absent: W.C. V.T. P.W. FS & Treas Mar. R.S. & Le.S. I.G.
+
+      Minutes read & approved All members present reported true to the pledge
+
+      For Good of the Order members unprepared
+
+      Appointments Bro. A. Denman. Sis Olney. Sis Sherman Bro. Nolan. Bro. Lounsbery Bro Mandeville Sis Davenport. Arthur Green. Sis Shurter Chas VanDemark
+
+      Lodge Adjourned one week
+
+      No. Recpts.
+
+      Chas VanDemark (Pro Tem W.C.
+
+      Arthur Green Secy
+
+  - date: 1883-09-28
+    content: |+ 
+
+      Brookton Sept 28. 1883
+
+      High Bridge Lodge called to order by Bro VanDemark W.C. Pro. Tem Officers Pro. Tem. Chas Vandemark W.C. P.W. Bro Arthur Denman. F.S. Sis Mills. Treas Sis Sherman Mar. Geo. Sanders. Officers Absent W.C. FS. & Treas. Mar. & RS.
+
+      Minutes read and approved. Communication received from Caroline Center Lodge inviting us to give them a call on Sat Evening Sep 29 moved & carried to accept the invitation  
+
+      Recess. for Good of the Order Sel. Bro. Lounsbery. Sel Bro. A. Denman Sel Bro. Sanders.
+
+      Appointments Sis Olney. Bro. Green Sis Genung. Sis Auchmoodey Bro. Sanders Bro. Lounsbery Sis Mills.
+
+      Lodge Adjourned one week
+
+      No. Recpts
+
+      Chas Vandemark W.C.T.
+
+      Arthur Green. Secy.
+
+  - date: 1883-10-05
+    content: |+ 
+
+      Brookton Oct. 5th 1883.
+
+      Lodge called to order by the WC. Pro. Tem Officers Pro Tem. W.C. Chas VanDemark P.W. Bro. Sanders. Mar Bro. Nolan Officers Absent W.C. & F.S. Mar I.G.
+
+      Minutes read and approved All members true to the pledge
+
+      Recess 10 min
+
+      For Good of the Order the following Selections & Music was furnished Sel by Bro. Lounsbery The Ordinary Domestic Flea. Sel. Sis Genung Picnic Sam. Music by Sis Newberry Also A piece of Music by Bro McWhorter Entitled The Old Kitchen floor
+
+      Appointments for next week Bro. Sanders Sis Auchmoody. Sis Mill A. Green. Bro Nolan
+
+      Music Sis Newberry Sis Besemer Bro. McWhorter. Sis Genung
+
+      Lodge Adjourned one week
+
+      No. Recpts
+
+      Chas VanDemark (Pro Tem W.C.
+
+      Arthur Green. Secy
+      
+
+  - date: 1883-10-12
+    content: |+ 
+
+      Brookton October 12th 1883
+
+      Lodge called to order as usual
+
+      Officers Pro. Tem. W.C. Chas VanDemark P.W. Bro. Arthur Denman Cap. Bro Sanders Officers Absent W.C. Trea. Chap IG. OG. RS. & LeS
+
+      Minutes read and approved All members true to the pledge Recess
+
+      For Good of the Order Sel by Arthur Green also a Sel by Bro Arthur Denman
+
+      Appointments Bro Sanders Sis Auchmoody Bro. Nolan Music same as last week
+
+      Lodge Adjourned one week
+
+      No. Recpts
+
+      Chas Vandemark (pro. tem) W.C.
+
+      Arthur E. Green Secy
+
+
+  - date: 1883-10-19
+    content: |+ 
+
+      Brookton Oct. 19. 1883
+
+      Lodge called to order by Arthur Denman W.C. Pro. Tem. Officers Pro. Tem P.W. Bro Sanders V.T. Sis Bush Chap. Sis Johnson. Mar. Bro Nolan Dep Mar. Sis Besemer Officers Absent W.C. P.W. V.T. Chap. Mar & Dep I.G. RS. & LeS. Minutes read & approved All members true to the pledge
+
+      Recess After recessed moved & carried to nominate officers to Night Officers Nominated as follows
+
+      | W.C. | W.V. | W. Secy |
+      | --- | --- | --- |
+      | Richard Denman | Sis Besemer | Sis Mills |
+      | Chas. VanDemark | Sis Johnson | Sis Tucker |
+      |  | Sis Sherman | Bro. Mandeville |
+
+      | Finan.. Secy. | Treas. | Chap |
+      | --- | --- | --- |
+      | Sis Lounsbery | Arthur Denman | Sis Johnson |
+      | Sis Tucker | M.C. Nolan | Bro. Mandeville
+      | | | Sis Shurter |
+
+      | Mar | I.G. | O.G. |
+      | --- | --- | --- |
+      | Arthur Green | Bro. Lounsbery | Sis Auchmoody |
+      | M.C. Nolan | Sis Mills | Bro. Lounsbery |
+      | Sis Tucker | | Chas VanDemark |
+      | | | Bro. Mandeville |
+      | | | Bro. Nolan | 
+
+      Good of the Order Sel by Bro Sanders
+
+      App Sis Mills Sis Bush Sis Johnson Bro. Sanders Bro Lounsbery Bro. Mandeville
+
+      Lodge Adjourned one week No. Recpts
+
+      Arthur Denman W.C.
+
+      Arthur Green Secy
+
+  - date: 1883-10-26
+    content: |+ 
+
+      Brookton October 26. 1883  
+
+      Lodge called to order by W.C.
+
+      Officers Pro. Tem Chap Bro Mandeville Dep Mar. sis Besemer. Officers absent FS. Chap Mar R.S. Le.S.
+
+      Minutes read and approved  Recess
+
+      After recess election of officers next in order. Officers elected as follows
+
+      | W.C. | W.V. | W. Secy |
+      | --- | --- | --- |
+      | Richard Denman | Sis Johnson | Arthur Green |
+      | F.S. | Treas | Chap |
+      | Georgie Tucker | Arthur Denman | Theo. Mandeville |
+      | Mar | I.G. | O.G. |
+      | Bro. Nolan | Sis Mills | Sis Auchmoody |
+
+      Chas VanDemark Sis Sherman (tellers [?] Bro. Nolan Sis Genung appointed as 
+
+      Delegates to County Lodge Appointed as follows Regular Delegates Chas VanDemark Jno. McWhorter Bro Hungerford Alternate Bro Mandeville Sis Besemer Bro. Nolan
+
+      For Good of the Order Sel by Bro Lounsbery Music by Bro. McWhorter
+
+      Lodge Adjourned one week
+
+      No. Recpts
+
+      Richard Denman W.C.
+
+      Arthur Green Secy
+
+  - date: 1883-11-02
+    content: |+ 
+
+      Brookton Nov 2nd 1883
+
+      High Bridge Lodge called to order as usual.
+
+      Officers Pro.Temp. Chap Bro. Mandeville Officers Abset Treas.. Dep Mar... I.G. Chap Asst. Secy. Minutes read & approved
+
+      All Members present true to the pledge
+
+      Recess. After recess the quarterly reports of the Finan. Secy & Treas. & Secy were read & referred to the finance. Com. Installation of Officers next in order The Officers for the present quarter were duly Installed except the Mar & Dep and Asst Secy who were absent.
+
+      Standing Committee appointed same as last quarter Appointments for Good of the order Sis Genung. Bro Sanders Sis Olney. Bro. A. Denman Chas VanDemark
+
+      Lodge adjourned one week
+
+      recepts of the evening $1.40
+  
+      R.L. Denman W.C.
+
+      Arthur Green Secy
+
+  - date: 1883-11-09
+    content: |+ 
+
+      Brookton Nov. 9th 1883
+
+      Lodge called to order as usual
+
+      Officers Pro. Tem Mar Sis Besemer Officers Absent P.W. Secy & Asst Secy Mar. & Dep. & R.S.
+
+      Opening exercises as usual. Recess.
+
+      After recess for Good of the Order the following recitation & Selection were received. Recitation by Sis Olney Sel. By Arthur Denman.
+
+      Appointments for next week Sis Besemer. Sis. Denman Sis Johnson Bro. Mandeville. Sis Mills. Sis Tucker
+
+      Recpts of the Evening .45 cts
+
+      Lodge Adjourned one wee
+
+      R.L. Denamn W.C.
+
+      Arthur E Green Secy
+
+  - date: 1883-11-16
+    content: |+ 
+
+      Brookton Nov. 16. 1883
+
+      High Bridge Lodged called to order as usual
+
+      Officers Pro. Tem Mar. Bro Nolan
+
+      F.S. Bro. Sanders Officers Absent Mar. Treas. LeS. Minutes of last week and week last read & approved. Rcess
+
+      After recess Good of the Order Sel. Sis Denman. Sel. Bro. Mandeville Sel. Sis Genung Appointments for next week as follows Sis Johnson Sis Auchmoody Bro. VanDemark Bro. Green Sis Tucker Sis Bush Bro. McWhorter
+
+      Recpts of the Evening $1.35 cts 
+
+      Lodge Adjourned one week
+
+      Richard Denman W.C.
+
+      Arthur E. Green Secy
+
+  - date: 1883-11-23
+    content: |+ 
+  
+      Brookton Nov. 23. 1883
+
+      Lodge called to order as usual
+
+      Officers Pro. Tem Treas Sis Bush Mar Sis Besemer Dep Mar Geo. Ault Chap Sis Shurter. Officers Absent Treas. Chap. Dep Mar.
+
+      Minutes read & approved
+
+      Recess. Good of the Order Sel Sis Johnson Sel. Bro. VanDemark. Sel. Sis Genung
+
+      Appointments for next week Sis Besemer. sis Mills Bro. Ault sis Genung sis Newberry Sis Auchmoody Sis Bush Sis Tucker Bro. McWhorter
+
+      Recpts of the Evening .20 cts
+      
+      Lodge adjourned one week
+
+      Richard Denman W.C.
+
+      Arthur E. Green Secy
+  
+  - date: 1883-11-30
+    content: |+ 
+
+      Brookton Nov. 30th 1883
+
+      High Bridge Lodge called to order as usual
+
+      Officers Pro. Tem. Mar. Sis Besemer Dep Mar Geo. Ault FS. Burry Besemer  Officers Absent Treas. F.S. P.W. Mar & Dep Mar. R.S. & LeS.
+
+      Minutes read and approved All Members true to the pledge Recess
+
+      After recess for Good of the Order Sel by Sis Besemer Also a Sel by Sis Mills Appointments for next week. Bro Mandeville Sis Sanders. Sis Denman Sis Shurter Bro. Ault. Sis Davenport Sis Auchmoody Bro Sanders Sis Reed Sis Johnson Bro. VanDemark Burrie Besemer Arthur Green  
+
+      Recpts of the Evening .30 cts
+
+      R. L. Denman W. C.
+
+      Arthur Green Secy
+
+  - date: 1883-12-07
+    content: |+ 
+
+      Brookton Dec. 7th 1883
+
+      High Bridge Lodge called to order as usual
+
+      Officers Pro. Tem F.S. Sis Besemer Officers Absent. R.S. RS. 
+
+      Minutes read & approved  All members true to the pledge Recess
+
+      After recess the following persons read Selections for Good of the Order Sel. by Bro. Mandeville Music by Sis Newberry Sel by Sis Denman. & Sis Newberry Sel by Bro. Denman. Appointments for next week Bro. VanDemark Sis Besemer Bro. A. Denman. Sis Olney. Sis Johnson Sis Auchmoody Bro. Ault Sis Davenport
+
+      Recpts of the Evening 60 cts
+
+      Lodge Adjourned one week
+
+      Richard Denman W.C.
+
+      Arthur Green Secy
+
+  - date: 1883-12-14
+    content: |+ 
+
+      Brookton Dec. 14 1883
+
+      Lodge met and were called to order by R.L. Denman, W.C.T. Officers pro tem, Chap. Bro Sanders, Secy Sis Lounsbery, Mar. Bro Ault. 
+
+      Officers absent Chap, Secy, F Secy and Mar.
+
+      Minutes read and approved. All true to the pledge. Recess.
+
+      Good of order Selection Bro Chas Vandemark, "Strabusmas and Justice" Bro Arthur Denman was next on the list, but he said his selection was of the solemn order, and not quite suited to the occasion. Bro Sanders encouraged him by saying, "It will be funny when you read it" but he still hesitated, so the next was called.
+
+      Sel Sis Olney "The book of life" Sister Johnson, Auchmoody, Davenport and Bro Ault were not prepared.
+
+      By this time Bro A Denman had decided to experiement on us with his solemn article The title sounded like "free mind", there were one or two hindrances before he was fairly started which added to the interest, it was as solemn and awful as we had been led to expect. Many of the members were quite hysterical at the close of it. 
+      
+      App for next week, Sel. Sister Johnson, Mills, Lounsbery & Bro. Sanders, Rec Bro A Denman
+
+      No receipts
+
+      R.L. Denman W.C.T.
+
+      Amanda Lounsbery Secy pro tem
+
+  - date: 1883-12-21
+    content: |+ 
+
+      Brookton Dec 21, 1883
+
+      Lodge met as usual and was called to order by WCT. Officers pro tem, V.T. Sis Besemer, Secy Sis Lounsbery, A. Mar Sis Newebery, Singing, "Ho my comrades see the signal warning in the sky" let by Sis Newbery. Officers absent WV, Secy, DM, R.S. OG. Minutes read and approved No propositions or communications
+
+      All true to the pledge  Under head of unfinished business, Lodge deputy installed Mar & D Mar. Recess
+
+      Bill was presented by E. Lounsbery of $5.00 for rent, which was ordered paid
+
+      Good of order. Bro Sanders and Denman not prepared. Sis Newbery sand "Douglas, tender and true" Sel Sis Lounsbery, "The corn and the lillies" Bro Arthur Denman then introduced a plan, which he siad was not original with him, but he thought it would work well. the plan was to devote the time given to the good of the order to some one poet, the poems to be Recited read or sung. Moved and carried that we try this plan. Will Carlton, the poet chosen for next week. WC said the meeting would begin 1/4 before 8 oc  Recpts 30 c
+
+      Closing exercises
+
+      RL Denman WCT
+
+      Amanda Lounsbery Secy pro tem
+
+
+  - date: 1883-12-28
+    content: |+ 
+
+      Brookton Dec 28, 1883
+
+      Lodge called to order by W.C.T. Officers pro tem, WV Sis Genung, Secy Sis Lounsbery, Mar Bro Ault Officers absent, WV, Secy, F.S., T, PW, M, DM, LS.
+
+      Recess. All true to the pledge
+
+      This evening being the one devoted to the poems of "Will Carlton", Sis Besemer read, "The Key to Thomas's heart", Sis Denman "The old reading class", Sis Genung, How we kept the day  Music by Sis Newberry, "The bridge" Sel by Sis Olney "The dead [?] Bro. Richd Denman, "How we found the fire" Arthur Denman, "The Debater" Bro Lounsbery, "The Joys that are left"
+
+      Moved and seconded, that we select from  the writing of Mrs. Browning for next weeks entertainment. WCT appointed Bro Edward Lounsbery to furnish a short sketch of the life of Mrs. Browning, & Bro Arthur Denman one of Carleton, which had been omitted this eve
+
+      Singing, Ring the bells of heaven Led by Miss Newbery Closing exercises No Recpts.
+
+      Richd Denman WCT
+
+      Amanda S. Lounsbery Secy pro tem
+
+  - date: 1884-01-04
+    content: |+ 
+
+      Brookton Jan 4, 1884
+
+      The regular weekly session of High Bridge Lodge met as usual and was called to order by the W.C.T. 
+
+      The attendence was not large, but harmonious and deeply enthusiastic. The members have strong faith and like Gideon's few, are determinied to win.
+
+      Officers pro tem, WV, Sis Mills, Secy Sis Lounsbery, F Secy Bro Lounsbery, Mar Bro Ault IG Sis Auchmoody.
+
+      Officers absent, WV, PW Secy, Fs, M, OG, RS, LS. All true to the pledge
+
+      W.C.T then declared a recess of 3 1/2 minutes
+
+      Good of the order was commenced by the read fo a short sketch of the Life of Mrs. Browning by Bro Lounsbery, from which we learned that she began to write at 10 years of age, was a publisher at 17, was married at 37 yrs, died at 52, leaving one son, she was born in London, in 1809, died in Florence, Italy 1861
+
+      Sis Lounsbery read "Amy's Cruelty", Bro Mandeville, "The souls expression" Bro R. Denman Mother and poet, Bro E Lounsbery, "The forced recruit" Mark Twains writings, were chose to select from next week.
+
+      This is the first meeting in the New Year and as success comes through individual effort it depends upon each one of us to make it a happy and prosperous "New Year"
+
+      Richd Denman WCT
+
+      Amanda S. Lounsbery Secy pro tem
+
+
+  - date: 1884-01-18
+    content: |+ 
+
+      Brookton Jan 18th 1884
+
+      High Bridge Lodge No. 296 I.O of G.T. met and was called to order by RL Denman W.C.T. Officers Absent, Secy, A. Secy, F. Secy, M, R.S.
+
+      Minutes of last meeting read and approved A communication was read from C.C.T. stating when county lodge meet and asking our lodge to furnish literary entertainment.
+
+      The W.C.T then opened under nomination of officers. The following were nominated for
+
+      W.C.T.
+        - Bro R. Denman
+        - Bro A. Denman
+        - Bro Mandeville
+
+      W.V.T.
+        - Sis Johnson
+        - Sis Auchmoody
+        - Sis Mills
+
+      W. Secy
+        - Bro. A Denman
+        - Sis Besemer
+        - Sis Newbury
+
+      W. F. Secy
+        - Sis Lounsbery
+        - Sis Besemer
+
+      W Treas.
+        - Arthur Green
+
+      W. Chap.
+        - Bro Mandeville
+        - Sis Shurter
+        - Sis A Denman
+
+      W.M. 
+        - Chas VanDemark
+        - Sis Denman
+        - Bro Mandeville
+
+      IG
+        - Sis Mills
+        - Sis Davenport
+        - Sis Besemer
+
+      O.G
+        - Bro Lounsbery
+        - Sis Davenport
+        - Sis Newbury
+
+      Recess of 5 minutes
+
+      Good of the Order
+
+      The following read selections from __Mark Twain__
+      Bro. Mandeville, Entitled, An old man Bro R Denman, Entitled, How I edited an agricultural paper Bro. A. Denman, The Undertakers Chat. 
+
+      Moved and Carried that we read from the writings of __Tennyson__ next week
+
+      Moved and Carried that we meet next week Thrusday evening, instead of Friday evening
+
+      Lodge closed for one week
+
+      R.L. Denman W.C.T.
+      
+      Chas VanDemark Secy (Pro Tem)
+
+  - date: 1884-02-01
+    content: |+ 
+
+      Brookton Feb 1, 1884
+
+      Lodge called to order by R.L. Denman W.C.T. Officers pro tem P.W.C.T Sis Shurter Mar. Sis. Auchmoody. I.G. Bro Sanders. Officers absent, P.W.C.T. M. Dep. M. Min. read & approved.
+
+      ~ Election of officers ~
+
+      The following officers were elected for the ensuing qr. For W.C.S. R.L. Denman for W.V.T. Sis. Mills. For Sec C.A. Denman Finan. Sec Sister Lounsbery For Treas. Arthur Green. For Chap. Sister C.A. Denman. For W.M. Bro VanDemark For I.G. Sis. Besemer. For O.G. Sis. Davenport
+
+      Recess.
+
+      The delegates elected to Co Lodge. were regular, C.A. Denman Sis Genung & Sis Besemer. Alternate Sister C.A. Denman Sis. Shurter & Bro Ma[?] [?]. Installation being next in order the following officers were installed. W.C.S. W.V.T W. dec. A. Secy Finan. Sec. Treasureer & Chap. & R. Sup. Moved & carried that Sis Shuter act as P.W.C.T. the coming quarter to fill the place of Bro VanDemark who was elected Mar.
+
+      The following committees were appointed. After the ensuing quarter:
+
+      Finance
+        - Bro Sanders
+        - Sis. Besemer
+        - Bro. VanDemark
+
+      Sick
+        - Bro Green
+        - Sis Johnson
+        - Bro Mandeville
+
+      ~ Good of the order ~
+
+      A sketch of the life of Tennyson by C.A. Denman. Selection. "The Deserted House" by Sis C.A. Denman "Dora" by Sis Lounsbery. "Lady Clare" by Bro Lounsbery.
+
+
+      Moved and carried that we have for our entertainment next week selections on temperance..
+
+      Lodge adjourned for one week
+
+      R.L. Denman W.C.T.
+
+      C.A. Denman W. Sec.
+
+
+  - date: 1884-02-08
+    content: |+ 
+
+
+      Brookton Feb 8th 1884
+
+      High Bridge Lodge No. 296 I.O. of G.T. met pursuant to adjournment and was called to order by the W.C.T.
+
+      Officers absent Sec & A. Sec. R & L. Sup. All present true to pledge.
+
+      ~ Intermission ~
+
+      Next in order was the installation of officers not present at our regular installation. The following officers were installed. Mar. * Dep. Le Sup. I. & O Gds
+
+      Minutes of last meeting read & approved
+
+      Bill of $5.00 presented by Bro. E Lounsbery for rent for the past qr. The bill having been approved by the Finance Com. it was moved & carried that is action be sustained. A petition was read by Bro Lounsbery having for its object the prevention of the manufacture & sale of intoxicating liquors within the jurisdiction of the state. Said petition to be laid before our legistlature.
+
+      Moved and carried that a com. of three ladies be appointed or elected to circulate the petition. Moved & carried that the W.C.T. appoint the comm. The W.C.T. appointed Sister Lounsbery Hungerford & Mills.
+
+      ~ Good of the order ~
+
+      Selection entitled "A Shot [at ?] the [decanter ?] by Bro. Mandeville. Speech by Bro Hunderford. Story by Bro Lounsbery entitled "[Teds ?] Jacket". Selection by Sis Addie Denman "My New Years Calls".
+
+      It was announced by Bro Lounsbery that Morrison was expected to give a lecture at one of the churches one week from next Sunday evening. Moved and carried that the W.C.T. name the author from whom we shall make selections next Friday evening. The W.C.T. named Whittier.
+
+      The following members have paid their dues this date. Wm. Hungerford & wife. John McWhorter R.L. Denman & wife. E. Lounsbery & wife Theo. Mandeville. Chas. Vandemark. Mrs. Besemer. Burrie Besemer. C.A. Denman & wife.
+
+      receipts of the evening $2.30
+
+      Lodge adjourned one week.
+
+      R.L. Denman W.C.T.
+
+      C.A. Denman W.S.
+
+  - date: 1884-02-15
+    content: |+ 
+
+      Brookton Feb. 15. 1884
+
+      High Bridge Lodge convened as usual with R.L. Denman W Feb. 15. 1884
+
+      High Bridge Lodge convened as usual with R.L. Denman W.C.T. in chair Appointments pro-tem. G.E. Sanders P.W.C.T. Sister Addie Denman W.C. Bro Lounsbery W.S. Lodge sang "Let the [lower ?] Lights be burning". At roll call the following officers were absent P.W.C.T. W.S. W.C. W.A.S. Delegates call on to report proceedings of Co Lodge. Laid on the table until after intermission.
+
+      ~ Intermission ~
+
+      All members present reported true to the pledge. W.C.S. reported proceedings of Co Lodge said the program was carried out & gave us a firm account of all the proceedings.
+
+      ~ Good of the order ~
+
+      Selections from Whittier. The first in order was a sketch of the life of Whittier by Sis. Besemer. "The Call of St Gregory" by Sis Mills "The Yankee Girl" by Sis addie Denman. Singing by the lodge "Yield not to temptation" "The Eternal Goodness" by Sis Newbery. "Nauhaught, the Indian Deacon" by Bro Lounsbery. Couldn't find the piece so did not read by Bro R.L. Denman.
+
+      Sister Genung was appointed to name the author for next week. She named Longfellow. Sister Lounsbery was appointed to furnish sketch of the life of Longfellow at our next meeting.
+
+      Receipts $1.70.
+
+      Lodge adjourned one week.
+
+      R.L. Denman W.C.T.
+
+      E. Lounsbery W.S. Pro Tem.
+
+      The following persons have paid their dues this date. Arthur Green, Flora Auchmoody, Phoebe Davenport, Geo. Sanders & wife, Miss Emily Mills, Jonas Mills, Miss Anna Newbery.
+
+  - date: 1884-02-22
+    content: |+ 
+
+      Brookton Feb 22, 1884
+
+      High Bridge Lodge met as usual and was called to order by W.C.T. Officers absetn P.W. & I.G. Minutes of two last meetings read & approved. Sis Auchmoody proposed for members of the lodge Mr. Fred Allen & Mr. Ed Vorhis to be initiated tonight. Moved & carried that we waive the usual rule and proceed to ballot on the candidates. The candidates were duly elected.
+
+      The Marshal reported waiting for initiation the following candidates. Mrs. May Toby Mr. Fred Allen & Mr. Ed Vorhis. They were initiated in due form into the 1st degree of our order.
+
+      ~ Intermission for congratulations. ~ 
+
+      All members present reported true to the pledge.
+
+      ~ Good of the order. ~
+
+      Readings from Longfellow. A sketch of the poets life by Sis Lounsbery. "The Beleagured City" by Sister Ida Denman. "The Golden Milestone" by Bro A Green. "This Method" by Sis Mills. Sang "The Bridge" by Sis Newbery. "Dead at the Ford" by C.A. Denman. "The Childrens Hour" by Sis. Addie Denman. "The Leap of Roushan Beg" by Bro Lounsbery. "The Psalm of Life" by Sis. Newbery. Speeches by Bro's Norwood, Hamilton, June & Diderick of Slaterville.  Resitations by Sis Angie Quick & Sis Elosia Landon of Slaterville.  
+
+      Selections to be from John G. Saxe next week.
+
+      The following members have paid their dues this date. Sis. Tucker, Bro [?] Seager, Sis May Toby, Bro Fred Allen & Bro Ed Vorhis. Receipts. $2.15
+
+      Lodge adjourned one week.
+
+      R.L. Denman W.C.T.
+
+      C.A. Denman W.S.
+
+
+  - date: 1884-03-07
+    content: |+ 
+
+      Brookton Mar 7, 1884
+
+      Lodge met as usual and was called to order by W.C.T. Officers all present. Minutes of last meeting read and approved. Motion made and lost [?] that we be [?] to half the expense to paint the desks in the lodge room. Moved & carried that Bro Lounsbery be instructed to have the desks painted & present bill to the lodge. All Members present reported true to pledge. Moved & lost that we have our interm
+
+      ~ Selections from Saxe ~ "A Snake in the Glass" by Bro Lounsbery. "Kings and Cottagers" by Sis Newbery. "The wind in the rose" by Sis Besemer. "The Cockney" by Bro R.L. Denman.
+
+      Moved and carried that we have for our entertainment next week something that Wendall Phillips has said or done or something that has been written conserning him. Lodge adjourned for supper. The following members have paid dues this date. Ed. Auchmoody, Cora Bush, Mrs Genung, Benj Genung, Frank Johnson, Mrs. Shurter, John Tucker.
+
+      Recepts $1.35
+
+      R.L. Denman W.C.T.
+
+      C.A. Denman W.S.
+
+  - date: 1884-03-28
+    content: |+ 
+
+      Brookton Mar 28, 1884
+  
+      Lodge met and was called to order by Bro John McWhorter.
+
+      Officers absent, W.C.T Treas R.Sup. & Asst Sec. Minutes of last meeting read and approved. The name of Minnie Huntley was proposed by Sis Georgia Tucker to be3 initiated tonight. Moved & carried that we wave the usual rule and proceed to ballot, tonight. The candidate was elected & initiated in the 1st degree.
+
+      ~ Intermission ~
+
+      ~ Good of the Order ~ The lodge was called upon to furnish something concerning Wendall Phillips which was met by a weak repsonce. The lodge voted to bring selections from Emmerson next week.
+
+      Adjourned one week.
+
+      Receipts .50
+
+      John McWhorter W.C protem
+
+      C.A. Denman W.S.
+
+
+  - date: 1884-04-25
+    content: |+ 
+
+      Brookton April 25, 84
+
+      Lodge called to order by C.W. Vandemark Officers abset W.C. W.S. A.S. W. Chap & Left S.
+
+      All members true to pledge.
+
+      Committee reported favorably on the name of Maud Jansen She was duly balloted for & elected 
+
+      Moved & seconded we have recess ammended by five minutes but motion as amended was lost. Recess 6 minutes
+
+      After recess election of officers. John McWhorter was elected W.C. Cora Bush W.V. Benj Genung W.S. F. Spaulding F.S. Arthur Green T. Sister Davenport, W. Chap. C.W Vandemark W.[?] Belle Lashier I.G. Flora Auchmoody O.G. Mrs. Shurter P.W.C.
+
+      Delegates for Co Lodge regular Bro Lounsbery Sister Hungerford & Sister Genung alternate Sister Besemer Sister Toby & Ch Vandemark
+
+      Appointments for next week for music John McWhorter, Miss Toby, Mrs. Genung, Burrie Besemer Literary, Sister Mills, Sister Lounsbery, Sister Bush, Sister Raickes [?] Bro Lounsbery, Bro. Sanders, Sister Shurter
+
+      Mrs. Besemer W.S. Pro tem C Vandemark W.C. Protem
+  
+  - date: 1884-05-02
+    content: |+ 
+
+      Brookton May 2nd, 84
+
+      Lodge called to order by John McWhorter ~~W.C Protem~~ Officers absent W.C., W.S., AS.. R.S.
+
+      Mrs Richard Sloughter was proposed for member of this Lodge The committe appointed were Sister Besemer, Sister Shurter Sister Mills.
+
+      The Marshall reported Maud Jansen in waiting to be intiated. She introduced and initiated in to the first degree of our order.
+
+      ~ Recess ~
+
+      After recess report of officers Motion made & carried teh reports be accepted. Next in order was Installation of officers. The finandial Secy elect not being present it was moved and carried that we open under head of officers Mrs. Lounsbery & Frank Spaulding were nominated Mrs. L resigning in favor of Frank Spaulding Moved & carried the marshall be intructed to cast the ballot for F. Spaulding The Lodge Deputy then proceeded to install the officers. Bro. Lounsbery presented the following Bills To our quarter rent $5.00 To painting .80c moved & carried the bills be paid The committee reported favorably on the name of Mrs. Sloughter It being late the appointment for good of order were held over one week. Receipts $2.15
+
+      BW Genung W.S.
+
+      John McWhorter W.C.
+
+
+  - date: 1884-05-09
+    content: |+ 
+
+      Brookton May 9, 1884
+
+      Lodge called to order by John McWhorter W.C. Officers absent R. & L.S. Miss Gosline and Myrtie Ault were proposed for members of this Lodge. Mrs. Sloughter Lu Gosline and Myrtie Ault were balloted for and duly elected. the Marshall reported Lu Gosline & Myrtie Ault in waiting to be initiated. They were introduced and initiated in the first degree of our order.
+
+      ~ Recess ~
+
+      all true to the pledge.
+
+      ~ Good of order ~ Selection Bro Lounsbery, Sister Mills Sister Lounsbery. Appointments for next week Music Miss Toby Literary Sister Genung, Sister Besemer, Sister Mills, Sister Shurter, C.W. Vandemark Bro Lounsbery Receipts $1.60
+
+      BW. Genung W.S.
+
+      John McWhorter W.C.T.
+
+
+  - date: 1884-05-16
+    content: |+ 
+
+      Brookton May 16 1884
+
+      Lodge called to order by by CW Vandemark W.C. protem. Officers absent, A.S. I.G, R. & L.S. Minutes of last meeting read and approved. The names of Joe Campbell, Will Allen, Arnold Hill, Orsen Snow, Emma Allen, Geo Janson, Dea Shaw were proposed for members of this Lodge. They were balloted for and duly elected. The marshall reporte Joe Campbell, Will Allen, Arnold Hill, Orsen Snow Emma Allen, Dea Show, in Waiting to be initiated They were introduced and initiated in the first degree of our order.
+
+      ~ Recess ~
+
+      all true to pledge ~ Good of Order ~ Selection Sis. Genung, Vocal Music by Miss Tobey Selection Bro Lounsbery Speech by Bro Lounsbery Appointments for next week Sister Mills Bro Ault, Sis. Besemer, Bro Lounsbery, Bro Nolan Bro Vandemark, Bro Hill. Music Geo. & Myrtie Ault. Receipts $ 4.15 [?]
+
+      BW Genung W.S.
+
+      CW Vandemakr W.C. protem
+
+
+  - date: 1884-05-23
+    content: |+ 
+
+      Brookton May 23 1884
+
+      Lodge Called to order by John McWhorter W.C. Officers absent, F.S. R. & L.S. Minutes of last meeting read and approved Sarah Genung & Em Auchmoody were proposed for members of this Lodge. Em Auchmoody was balloted for and duly elected. The marshall reported Em Auchmoody in waiting to be initiated, she was introduced & initiated in the first degree of our order.
+
+      ~ Reces ~
+
+      all true to pledge
+
+      ~ Good of Ofrder ~ Selection by Bro Lounsbery, Selection by Sister Besemer, Spice Box Selection By CW. Vandemark, Selection Sis Shurter Appointments for next week. Sister Tucker Bro Sanders Sis Lashier Bro Greene Receipts $1.60.
+
+      BW Genung W.S.
+
+      John McWhorter W.C.
+
+       
+  - date: 1884-05-30
+    content: |+ 
+
+      Brookton May 30 1884
+
+      Lodge Called to order by Chas VanDemark W.C Pro tem. Officers WC. Secy. R. & L.S.. All true to pledge.
+
+      The name of Sarah Genung was ballotted for & duly elected. Meeting adjourned for one week. no receipts
+
+      Arthur Green Secy Protem
+
+      CW Vandemark W.C. Pro tem
+
+
+  - date: 1884-06-06
+    content: |+ 
+
+      Brookton June 6th 84
+
+      Lodge called to order by R. Denman W.C. Pro tem. Officers absent W.C P.W.C. W. Chap. R & LS. Minutes of last meeting read and approved. The name of Chas Edward was proposed for member of this Lodge. Marshall reported Sarah Genung in waiting to be initiated in the first degree of our order
+
+      ~ Recess ~
+
+      Bro. Lounsbery informed us that an appointment has been made for the Grand Lecturer to be with us on Tuesday evening of next week.
+
+      motion made & carried that a committee be appointed to procure a suitable place for said lecturer. Committee Bro Lounsbery Sister Genung. All true to pledge
+
+      ~ good of order ~  Essay by Bro Green Subject Forest city Selection Sis Besemer Appointments for next week R. Denman, Miss Newbery, Mike Nolan CW Vandemark Em Allan. Committee reported favorably on the name of C. Edwards Receipts $.50
+
+      John McWhorter W.C.
+
+      BW Genung W.S.
+
+  - date: 1884-06-13
+    content: |+ 
+
+      Brookton June 13, 1884
+
+      Lodge called to order by R. Denman W.C. Pro tem. Officers absent W.C. & V. Chap. Marshall, I & O.G. R & L.S.
+
+      The name of Chas Edward was balloted for & duly elected. Communication received from Brookton Division S of T. N. 113, expressing a desire to unite with us paying initiation fee with money in treasury and property belonging to said Division. Motion made & carried that we appoint a committee to confer with division. Motion Withdrawn. Motion made & carried that a committee be appointed to ascertain the amount of money & property belonging to division. Committee reported that money & property would cover initiation. moved & carried we accept their proposition.
+
+      good of order Selection by Bro Denman Speech by Ed Winchell Appointments for next week. Music Myrtie Ault Literary Bro Hungerford Sister Genung Bro Snow, Sis Mills, Arthur Denman Sis Newbery Bro Nolan Bro Vandemark Sister Ellen [?] Receipts 1.50c [?] 
+
+      R. Denman W.C. Protem
+
+      BW Genung W.S.
+
+  - date: 1884-06-20
+    content: |+ 
+
+      Brookton June 20 1884
+
+      Lodge called to order by R. Denman W.C. Pro temp. Officers absent W.C. W.V. Chap. F.S. I & O.G. R & L.S.
+
+      Minutes of last meeting read & approved The marshall reported Charles Edwars in waitiing to be initiated. He was introduced and initiated in the first degree of our order
+
+      ~ Intermission ~
+
+      ~ Good of Order ~ Selection by Sis. Genung Selection by Bro Denman
+
+      Appointements for next week are Sis Shurter Sis Besemer Sis Tucker R. Denman. Receipts 50c
+
+      John McWhorter WC
+
+      BW. Genung W.S.
+
+  - date: 1884-07-11
+    content: |+ 
+
+      Brookton July 11th 1884
+
+      Lodge called to order by John McWhorter W.C. Officers absent W.S. - W.T. - I.G. - W.C. - R. & L.S. - W.A.S. -
+
+      The name of Susie Genung was proposed to be initiated to night. Motion made & carried that we waive the usual rule and proceed to ballot She was balloted for and duly elected after which she was initiated in the first degree of our order.
+
+      ~ Recess 10 min. ~
+
+      all members true to pledge
+
+      ~ Good of Order ~ Sister Besemer entitled advice Sis Shurter - The [?]
+
+      Receipts 50c
+
+      John McWhorter W.C.
+
+      E. Lounsbery W.S.
+
+  - date: 1884-07-25
+    content: |+ 
+
+      Brookton July 25 1884
+
+      Lodge called to order by R. Denman W.C. Protem  Officers absent W.C. - W.V. - Chap. - F.S. - I. & O.G. - M & DM - A.S. - R & L.S. - 
+
+      Minutes of last meeting read & approved The marshall reported George Richardson in waiting to be initiated he ws introduced and initiated in the first degree of our order.
+
+      ~ Recess ~
+
+      All present true to pledge
+
+      It being the regular night for election of Officers we proceeded to nomintate the following persons
+
+      W.C.
+        - Arthur Denman
+        - John McWhorter
+
+      Treas 
+        - Arthur Greene
+
+      W.V. 
+        - Sis Genung
+
+      Chap. 
+        - Sis Arthur Denman
+
+      W.S. 
+        - BW. Genung
+        - A. Greene
+        - Sis Lounsbery
+        - Sis Besmer
+
+      Mar 
+        - CW Vandemark
+
+      F.S 
+        - B. F. Spaulding
+
+      I.G. 
+        - Sis Besemer
+        - Sis Bush
+
+      O.G. 
+        - Bro E. Lounsbery
+
+      After Nomination we proceeded to elect the following officers For W.C. Arthur Denman For W.V. Sis Genung For W.S. Bro Genung For Treas. Arthur Green For F.S. F Spaulding For Chap Sis. Arthur Denman For Mar CW Vandemark for I.G Sis Besemer For O.G. Bro. E. Lounsbery.
+
+      ~ Good of Order ~ Sis Rhodes of Groton favored us with a song. Selection by Mis Rhodes entitled The Christmas feast - Song by Miss Rhodes entitled Pansey Blossom Song by Miss Rhodes entitled Under the Daisies Selection by Miss Rhodes entitled The Polish Book [?]
+
+      Receipts 50 c
+
+      John McWhorter WC
+      
+      B.W. Genung W.S.
+
+
+  - date: 1884-08-01
+    content: |+ 
+      
+      Brookton N.Y. Aug 1st 1884
+
+      Lodge called to order by R.L. Denman W.C. Protem  Officers Protem [?] Lounsbery Chap. Bro Mandeville Mar Bro Ault D.M. Sis Gorsline  Officers Absent - W.C. Sec. A. Sec P.W. F.S Mar. D. Mar I.G. O.G. R. & LS.
+
+      ~ Intermission ~
+
+      After Recess Lodge called to order by Bro McWhorther W.C. The minutes of last meeting read and approved Moved & carried that we [retain ?] our old Lodge Deputy
+
+      Bro Denman Sis Besemer Sis Genung were appointed to represent our Lodge at the County Lodge Mrs. Shurter CW Vandemark & E Lounsbery were appointed alternates
+  
+      The committees appointed were -
+
+      Executive
+        - Bro Mandeville
+        - Bro Sanders
+        - Bro Lounsbery
+
+      Sick
+        - Mrs Shurter
+        - Sis Bush
+        - Bro Ault
+
+      Motion made & carried that we ellect delegates to grand Lodge The delegates elected were Regular RL Denman alternate Sis Genung Motion made & carried that the Secretary send for 200 copies History of Good Templarism
+
+      ~ Good of the order ~ Selection by Sis Shurter Selection by Bro Lounsbery Song by Sis Toby
+
+      Appointments for next week are literary CW Vandemark Sis Bush Bro Mandeville Sis Genung Bro Greene Sis Toby Music by Sis Toby
+
+      John McWhorter W.C.
+
+      BW Genung W. Sec.
+
+  - date: 1884-08-08
+    content: |+ 
+
+      Brookton Aug 8th 84
+
+      High Bridge Lodge met and were called to order by A. Denman W.C. Officers Absent Mar & D. Mar. Minutes of last meeting read and approved. Bro E. Lounsbery Presented a bill for one quarter rent $5.00 for quarter ending July 31st. Motion made & carried that the bill be paid
+
+      ~ Intermission ~
+
+      all true to pledge
+
+      Good of Order Selection by Sis Newbery appointments for next week are Sis Gorsline Bro. C.A. Denman Bro R Denman Sis Shurter
+
+      Receipts $2.90
+
+      CA Denman W.C.
+
+      BW Genung W. Sec.
+
+
+  - date: 1884-08-15
+    content: |+ 
+
+      Brookton Aug 15th 1884
+
+      Lodged called to order by RL Denman W.C. Pro Tem Officers absent W.C. W.V. P.W.C. A. Sec Mar. Chap. Minutes of last meeting read & approved  B.W. Genung Presented a bill for stationary of $.10
+
+      BW. Genung proposed for member of this Lodge WB Wolcott. He was balloted for & duly elected.
+
+      Moved & carried that Bro Hungerford represent us at the grand Lodge held at Chautaqua instead of RL Denman
+
+      ~ Intermission ~
+
+      Committee report favorably on the bill of BW Genung. Moved & carried that the bill be paid. all true to pledge Remarks by Bro Hungerford REmarks by Bro E. Lounsbery
+
+      ~ Good of order ~ Selection by Sis Shurter Selection by Bro Greene Song by Sis Toby Selection by Sis Genung The Engineers Story Selection by Sis Lounsbery Entitled I am going to vote for Keuyka [?]
+
+      Remarks by Bro. Hungerford Remarks by Bro E Lounsbery
+
+      Appointments for next week are Literary Myrtie Ault Sis Besemer Sis Tucker Sis Mills Bro Sanders Bro Vandemark Bro Lounsbery Music by Sis Toby
+
+      Receipts 25c
+
+      R.L. Denman W.C. Pro Tem
+
+      BW Genung W. Sec.
+  
+  - date: 1884-08-22
+    content: |+ 
+
+      Brookton Aug 22d 1884
+
+      Lodge called by R.L. Denman WC Pro Tem Officer Pro Tem W.V. Mrs Genung W.C Bro Sanders F.S. Bro R.L. Denman Officers absent W.C. W.V. W.S. W.M. D.M. W.F.S. Treas. R. Sup.
+
+      ~ Intermission ~
+
+      Minutes of last meeting read and approved
+
+      ~ Good of Order ~ Selection by R.L. Denman Selection by Bro Lounsbery Selection by Bro Greene
+
+      Appointments for next week are Sis Shurter Sis Lashier Bro Ault and last weeks appointments held over 
+
+      C.A. Denman W. C. 
+
+      BW Genung W. Sec
+
+  - date: 1884-08-29
+    content: |+ 
+
+      Brookton Aug 29th 1884
+
+      Lodge called to order by E. Lounsbery W.C. pro tem Officers Pro Tem WC Ed Lounsbery Chap Bro Mandeville F.S Sis Lounsbery W.M. Geo Sanders. Officers absetn W.C. P.W. Chap. Mar. D. Mar W.S F.S T. I.G.
+
+      Minutes of last meeting read & approved All true to pledge.
+
+      ~ Good of Order ~ Selection by R.L. Denman Leadville Line Song. By Sis Toby Fly forth O gentle Dove
+
+      Selection by Sis Lounsbery be you a Lady Selection by Bro. Sanders The story of a gas bill Song by Sis Toby One morning Oh soearly. Selection by Sis Genung
+
+      Appointments for next week Bro Sanders, Sis Genung Bro. R Denman Bro. Mandeville, Sis. Toby, Sis Lounsbery Bro Genung Bro Lounsbery
+
+      Receipts .20c
+
+      E. Lounsbery W.C. pro tem
+
+      BW Genung W.S.
+
+
+  - date: 1884-09-05
+    content: |+ 
+
+      Brookton Sept 5th 1884
+
+      Lodge called to order by R.L. Denman W.C. pro tem Officers Absent - W.C. Mar. D. Mar. Chap. F.S. T. Minutes of last meeting read and approved all true to the pledge.
+
+      ~ Intermission ~
+
+      ~ Good of order ~ Selection by Sis. Genung Instrumental music by Sis. Toby. Selection by Bro. Lounsbery Song by Sis. Toby The Kerry [?] Dance Selection by sis. Lounsbery who shall shut the door Selection by Bro. R. Denman Song by Sis. Toby The Cows are in the [corn ?]
+
+      ~ appointments for next week ~ Sis. Newbery, Sis. Bush, Sis. Mills, Sis. Toby Sis. Shurter Sis. Genung Sis. Auchmoody Bro Genung Bro Sanders & Bro. Mandeville, held over from last week.
+
+      R.L. Denman W.C. Protem
+
+      BW Genung W.S.
+      
+
+  - date: 1884-09-12
+    content: |+ 
+
+      Brookton Sept 12th 1884
+
+      High Bridge Lodge met & was called to order by A Denman W.C.T. Officers Absent F.S. T. Secy A.S. D. Mar Minutes of last meeeting read & approved
+
+      ~ Intermission ~
+
+      All present true to the pledge
+
+      ~ Good of Order ~ Selection by Sis. Shurter The Children Music by Sis. Genung Sing Sweet Bird song by Mifs Cora Genung. Selection by Bro Lounsbery. Song by Mifs Cora Genung Sweet Violets
+
+      The followinger were appointed for next week Sis. Lounsbery, Sis. Bush Sis. auchmoody Bro Vandemark Bro. Lounsbery, Sis. Denman, Sis. Tucker, Sis Genung. Music Sis. Toby. Lodge adjounred for one week
+
+      Arthur Denman W.C.T.
+
+      Chas. Vandemark W.S. Pro. tem
+
+  - date: 1884-09-19
+    content: |+ 
+
+      Brookton Sept 19th 1884
+
+      High Bridge Lodge met and was called to order by Sis. Genung W.C. Protem Officers absent W.C., W. Sec. A.S. Mar D. Mar R.S. W.T.
+
+      All present true to the pledge Minutes of last meeting read and approved
+
+      ~ Good of the Order ~ Selection by Sis Lounsbery The Sick F[?] Selection by Bro Greene Selection by Sis. Shurter Selection by Bro. Lounsbery
+
+      The following appointed for next week Sis. Lounsbery Bro Lounsbery Sis. Shurter Bro Sanders Sis. Mills
+
+      ~ Music ~ Sis Tucker Bro McWhorter
+
+      Adjounred for one week
+
+      Sis. Genung W.C. Protem
+
+      G. E. Sanders W.S. Protem
+
+  - date: 1884-09-26
+    content: |+ 
+
+      Brookton Sept. 26th 1884
+
+      Lodged called to order by Addie L. Genung W.C protem  Officers protem W.C. A.L. Genung, Chap Geo Sanders Mar [?] Auchmoody V.T. Cora Bush F.S. Bro Hungerford. Officers abset WC Chap Mar. D. Mar I. & O. G. F.S. T. Minuts of last meeting read and approved.
+
+      Report of Delegate to grand Lodge
+
+      ~ Recess ~
+
+      Motion made & carried that we [adjourn ?] subbordintate Lodge and open under 2d degree. The marshall reported BW. Genung, May Toby, Georgia Tucker Sarah Genung Susie Genung Geo. Sanders in waiting to be initiated They were introduced & initiated into the second degree of our order
+
+      ~ Good of the Order ~ Selection by Sis Lounsbery entitled A Terrible warning [?] to boy's Selection by Sis Shurter Selection by Bro Sanders entitled How it Happened. Remarks by Sis Hungerford.
+
+      The following were appointed for next week Miss Mills, Sis. Auchmoody, Sis. Toby, Bro Hungerford, Bro Genung Sis Genung 
+
+      Lodge adjourned for one week
+
+      Sis Genung W.C. Protem
+
+      BW. Genung W.S.
+
+
+  - date: 1884-10-03
+    content: |+ 
+
+      Brookton Oct 3rd 1884
+
+      High Bridge Lodge met and was called to order by Bro Lounsbery W.C. Protem Officers Pro tem WC. Bro Lounsbery T. Sis Mills V.T. Bro Sanders Mar. Bro Green W.S. Sis Newbery Chap. Officers absent W.C. R.S. V.T. Chap. W.S. A.S. I.G. F.S. All members present true to the pledge
+
+      ~ Intermission ~
+
+      Good of Order Selection by Sis. Mills. Song by Sis Newbery entitled Yet Strangers Music by Sis. Toby. Selection by Bro. Sanders. 
+
+      Appointments for next week Bro. Greene sis. Shurter Sis. Newbery, Sis. Baker, Sis. Lounsbery Sis. Toby. Lodge adjourned for one week.
+
+      Bro Lounsbery W.C. Pro Tem
+
+      Bro Greene W.S. Pro Tem
+
+  - date: 1884-10-10
+    content: |+ 
+
+      Brookton Oct 10th 1884
+
+      High Bridge Lodge met and was called to order by sis Genung W.C. Protem. Officers Protem W.C. Sis Genung W.V. Sis Davis, Chap. Sis. Lounsbery, P.W.C Sis. Hungerford, Mar. Geo. Sanders, I.G. Bro Hungerford Officers absent W.C. P.W.C. Chap. A.S. F.S. T. I.G. Mar & D. Mar. Minutes of last meeting read and approved. All true to the pledge. Motion made and carried that we have short intermission.
+
+      ~ Intermission ~
+
+      ~ Good of the Order ~ Selection by Bro Sanders Entitled Never [despair ?] Selection by Sis. Toby The Temperance Question Selection By sis Lounsbery The Force of Example. Remarks by Bro. Hungerford Selection by Sis. Genung Was She a Flirt Selection By Bro Lounsbery How Mike Rafferty was saved.
+
+      Appointments for next week Music Sis Toby Literary Bro Lounsbery, Sarah Genung Bro. Hungerford Bro. Sanders Sis. Denman Sis. Hungerford Bro Genung
+
+      Sis Genung W.C. protem
+
+      B.W. Genung W.S.
+
+  - date: 1884-10-17
+    content: |+ 
+
+      Brookton Oct 17th 1884
+
+      High Bridge Lodge met and was called to order by Sis Genung W.C. Pro Tem Officers Protem W.C. Sis. Genung, W.V. Sis. Lounsbery, Chap. Sis. Newbery Mar. Bro. Sanders, I.G. Sis Sarah Genung. Officers Absent W.C. A.S. F.S. Chap. I.G. Mar. D. Mar. L.S. Minutes of last meeting read and approved all present true to pledge. Moved and carried that we suspend all members in arrears for over one quarter dues. Moved and carried that we have a short intermission
+
+      Intermission
+
+      after intermission lodge proceeded to good of order. Selection by Sis Sarah Genung Selection by Bro. Sanders Entitled The Bad Boy. Music by Miss Cora Genung Entitled Pretty Primrose Flower. Selection by Bro. Genung Entitled A remarkable perscription Recitation By Sis. Baker Selection By Sis Newbery entitled Under the Snow
+
+      Motion made and carried that we have our organ repaired and Bro Lounsbery was apointed committee to see that it was done.
+
+      Appointements for next week were for music sis. Newbery, Sis. Toby, Literary, sis. Shurter, Bro. Greene, Bro. Lounsbery, Sis. Baker Bro. Hungerford, Sis. Hungerford.
+
+      Sis Genung W.C. protem
+
+      B.W. Genung W.S.
+
+
+  - date: 1884-10-24
+    content: |+ 
+
+      Brookton N.Y. Oct 24th 1884
+
+      High Bridge lodge met and were called to order by Sis Genung W.C. protem Officers protem W.C. Sis Genung, W.V. Sis Hungerford Chap Sis Lounsbery O.G. Bro Hungerford Officers absent W.C. Chap. A.S. F.S. O.G. Mar & D. Mar. Minutes of last meeting read and approved all present true to pledge Motion made & carried that we have a short intermission.
+
+      Intermission.
+
+      After intermission lodge proceeded to nominate officers and the following were nominated.
+
+      W.C. 
+        - Sis. Genung
+        - Bro. Hungerford
+        - Sis. Hungerford
+        - Sis. Shurter
+
+      W.V.
+        - Sis. Toby
+        - Sis. Bush
+        - Sis. Auchmoody
+
+      W.T.
+        - Arthur Greene
+        - Sis Denman
+
+      F.S.
+        - Sis Mills
+        - Maud Jansen
+        - Sis. Newbery
+
+      Treas. 
+        - Sis. Lounsbery
+        - Sis Denman
+        - Bro. Greene
+
+      Chap. 
+        - Sis. Toby
+        - Sis. Shurter
+        - Bro. Greene
+
+      Mar. 
+        - Bro. Genung
+        - Sis. Auchmoody
+        - Bro. Greene
+
+      I.G. 
+        - Bro. Hungerford
+        - Bro. Lounsbery
+        - Sis. Denman 
+
+      O.G. 
+        - Bro. Lounsbery
+
+      Good of Order 
+
+      Music by Sis. Toby entitled Come F[?] [?]. Selection by Sis Shurter entitled S[?] Friends Selection by Bro Greene "Uncle John's Last Vote" (Crooked) Selection by Bro. Lounsbery all Selection by Bro. Hungerford Remarks by Bro. Hungerford Selection by sis Hungerford [Mother ?] [?]
+
+      Appointments for next week are music Sis Newbery sis Toby Sis Denman Sis Hungerford Literary sis Mills Sis Tucker Sis Bush Sis Jansen Bro Hungerford sis Lounsbery
+
+      Lodge adjourned for one week
+
+      Sis. Genung W.C. Protem
+
+      B.W. Genung W.S. 
+
+
+  - date: 1884-10-31
+    content: |+ 
+
+      Brookton Oct 31st 1884
+
+      High Bridge Lodge Met and was called to Order by Sis Genung, W.C. Pro Tem  Officers Pro Tem W.C. Sis Genung, W. Vice, Sis Auchmooody, F.S. Maud Jansan Chap. Sis Lounsbery, D. Mar. Sis Mills O.G. Bro. Hungerford Officers Absent W.C. D. Mar. I.G. O.G. Chap. R.S. Bro Lounsbery read a communication stating that the County Lodge has levied an additional tax of one cent on each member. B.W. Genung presented a bill of ten cents for Stationary Moved & carried that an order for the [?] be drawn on the treasurer. Moved & Carried that we have a short intermission
+
+      Intermission
+
+      After Intermission the lodge proceeded to the election of Officers
+
+      - W.C. Sis Genung 
+      - W.V. Sis Toby
+      - W. Secy. Bro Green
+      - F.S. Sis Mills
+      - Treas Sis Lounsbery
+      - Mar Bro. Genung,
+      - Chap Sis Shurter
+      - I.G. Bro Hungerford
+      - O.G. Bro Lounsbery
+
+      Motion made & carried to pay per capita tax only on those who pay their Due's Delegates to County Lodge Bro Hungerford Sis Genung Sis Hungerford Alternate Del Bro & Sis Lounsbery C.W. VanDemark
+
+      Moved & Carried of to extend a vote of thanks to sis Hungerford for popcorn Moved & carried to adjourn. Meeting adjourned one week
+
+      Mrs. Genung W.C. Pro Tem
+
+      B.W. Genung Secy.
+
+  - date: 1884-11-07
+    content: |+ 
+
+      Brookton Nov 7th 1884
+
+      High Bridge Lodge called to order by C.A. Denman W.C. Officers Absent P.W. W. Secy. W.F.S. I.G. Bro. Lounsbery presented a bill of $5.00 for one quarter rent. Moved & carried that the Bill be paid. All members reported true to the pledge. Intermission
+
+      Next order of Business isntallation of Officers by the Grand Worthy Chief Templar The Officers for the present quarter were duly installed. Sick Committee Sis Denman, Sis Lounsbery, Sis Auchmoody Finance Committee, Bro Arthur Denman Bro Chas VanDemark Bro Sanders 
+
+      Officers report next in order, Treasurers report read & accepted.
+      
+      Good of the Order. Sel by Bro Sanders the Lightning rod adjuster. Sel. by Sis Lounsbery. Appointments for Music Sis Toby Bro Lounsbery Sis Newbery. Literary, Sis Denman Sis Sarah Genung, Arthur Denman.
+
+      Recpts of the evening $2.20.
+
+      Lodge Adjourned for one week.
+
+      Mrs. Addie Genung W.C.
+
+      Arthur Green, Secy.
+
+  - date: 1884-11-14  
+    content: |+ 
+
+      Brookton Nov 14th 1884
+
+      High Bridge Lodge Met and was called to order by W.C. Officers Pro Tem Chap Sis Hungerford Mar Sis Auchmoody Officers Absent, Chap, Assistant Secy  Minutes of last Meeting were read & after being corrected approved. All members reported true to the pledge. Next order of business, being installation of Officers the Chap. Mar & I.G. Being duly installed Moved & carried to have an intermission
+
+      Intermission
+
+      For Good fo the Order were read the following Selections. Sel by Bro. Hungerford Sel by bro Lounsbery, Song by sis Genung & Sis Toby, In the Starlight. Remarks by Sis Hungerford about the Burmese people.
+
+      Appointments for Music Sis Toby, Bro Lounsbery, Literary Sis Shurter, sis Hungerford, Sis Mills Bro. Mandeville Bro Sanders.
+
+      Moved & carried to comment upon Selection & recitations.
+
+      Receipts of the evening .70 cts
+
+      Lodge adjourned one week
+
+      Mrs Addie Genung W.C.
+
+      Arthur Green Secy
+
+
+  - date: 1884-11-21
+    content: |+ 
+
+      Brookton Nov. 21st 1884 
+
+      Lodge Met & was called to order as usual. Officers Pro Tem Mar Sis Newberry. Officers Absent P.W. Mar & Deputy Mar Minutes were read & approved. All Members present reported true to the pledge Intermission
+
+      unfinished business being fixing the organ Moved & carried that Bro Lounsbery use his own judgement about fixing the organ as cheaply as possible.
+
+      Good of the order Sel Sis Shurter our Grandmother committee appointed to comment Bro VanDemark Bro. Lounsbery, Sis Hungerford Bro Hungerford. General remark about Grandmothers. Music by Sis Toby. Sel. by Bro Lounsbery, Tom Browns day in Gotham Comments by Bro Hungerford.
+
+      Appointments for Music Sis Newberry, Bro. Lounsbery. Literary Bro VanDemark Bro Sanders Sis Mills Sis Hungerford.
+
+      Recpts of the evening $.45cts
+
+      Lodge Adjourned one week
+
+      Mrs. Addie Genung W.C.
+
+      Arthur Green Secy
+
+  - date: 1884-11-28
+    content: |+ 
+
+      Brookton Nov. 28th 1884
+
+      High Bridge Lodge Met and was called to order as usual. Officers Pro Tem P.W. Bro Mandeville. Officers Absent P.W. I.G. Roll call of officers. Minutes of last Meeting were read & approved.
+
+      Bro. Lounsbery proposed for members of this lodge the Names of Mifs Gertie Roe & Mifs Cassie Woodhull. Moved & carried to waive the usual rules and Ballot upon the Names to Night. The candidates being found waiting for invitation were duly initiated.
+
+      Intermission
+
+      All members reported true to the pledge 
+
+      Good of the Order. Selection by Bro VanDemark, The Small Boy in Court. comments by Bro Lounsbery. Selection by Bro Sanders, knew known [?] Master Comments by Sis Lounsbery & Bro Mandeville Music by Sis Toby. Appointments for next week For Music Sis Toby, Bro. Lounsbery, Sis Roe, Sis Sanders, For literary entertainment Literary Sis Shurter, Sis Woodhull Bro Genung, Sis Mills.
+
+      Recepts of the evening $1.30.
+
+      Lodge adjourned one week
+
+      Mrs Genung W.C.
+
+      Arthur Green, Secy.
+
+  - date: 1884-12-05
+    content: |+ 
+
+      Brookton Dec 5th 1884
+
+      High Bridge Lodge Met and was called to order as usual. Roll call of Officer's Officers Absent, W.F. S. P.W. I.G. Mar. Minutes of last meeting were read and approved. All members reported true to the pledge. Intermission. 7 1/2 Minutes
+
+      Good of the Order. Sel by Bro Lounsbery. Music & song by Sis Sanders & Sis Toby.
+
+      Appointments for next Meeting, Literary Bro. Vandemark. Bro Green Sis Lounsbery. Sis Auchmoody.
+
+      Music. Sis Toby. Sis Roe. Sis Woodhull
+
+      Recpts of the evening .15cts
+
+      Moved & carried to adjourn two weeks.
+
+      Mrs Genung W.C.T.
+
+      Arthur Green, Secretary
+
+  - date: 1884-12-26
+    content: |+ 
+
+      Brookton N.Y. Dec 26th 1884
+
+      High Bridge Lodge Met as usual. Roll call of Officers. Officers Absent, P.W. I.G. Mar. Minutes of Dec 5th were read & approved. All Members present reported true to the pledge
+
+      Bro Lounsbery reported that he had got the organ fixed and that it had cost .25cts. Motion made and carried the bill be paid
+
+      Intermission.
+
+      For Good of the Order Selection by Bro VanDemark Sel by Sis Lounsbery. Music by Sis Toby. Selection by Sis  Shurter
+
+      Appointments Literary Bro. Lounsbery Sis Mills. Sis Newberry. Bro. Sanders For Music Sis Toby. Sis Roe. Sis Woodhull
+
+      No Recepts. Lodge adjourned one week
+
+      Mrs. Addie Genung W.C.T
+
+      Arthur E Green Secy
+
+  - date: 1885-01-02
+    content: |+ 
+
+      Brookton Jan 2nd 1885.
+
+      High Bridge Lodge Met and was called to order by Mrs Genung W.C. Officers Pro Tem. W.V. Sis Mills, Mar. Sis Sarah Genung, Roll call of Officers. Officers Absent: P.W. I.G. W.T. Mar & Deputy & R.H.S. Minutes of last Meeting were read and approved. All members present reported true to the pledge
+
+      Intermission
+
+      For Good of The Order
+
+      Selection by Bro Lounsbery Sel by Sis Lounsbery
+
+      Appointment for next week Sis Shurter Sis Sanders Sis Mills. Sis Lounsbery. Bro. Green. Sis Woodhull Sis Roe
+
+      No. Recpts. Lodge adjourned one week
+
+      Mrs Addie Genung W.C.T.
+
+      Arthur E. Green Secy
+
+
+  - date: 1885-01-23
+    content: |+ 
+
+      Brookton, Jan. 23rd 1885
+
+      High Bridge Lodge called to order as usual Officers Pro Tem P.W. C.W. VanDemark roll call of Officers. P.W. Chap I.G. were absent. Minutes of last Meeting were ready and approved. All Members present reported true to the pledge
+
+      nomination of Officers next in order Officers nominated as follows
+
+      W.C.
+        - Sis Genung
+        - Bro VanDemark
+        - Bro R.L. Denman
+        - ~~Arthur Green~~
+
+      W.V. 
+        - Sis Toby
+        - Sis. Lounsbery
+        - Sis. Addie Genung
+
+      Secy
+        - Bro. Green
+        - Bro VanDemark
+        - Sis Lounsbery
+
+      W.F.S.
+        - Sis Mills
+        - Sis Sanders
+        - Sis Newberry
+
+      Treas
+        - Arthur Denman
+        - Sis Lounsbery
+        - Bro. VanDemark
+
+      Chap
+        - Bro. R.L. Denman
+        - Sis Shurter
+        - Sis Newberry
+
+      Mar
+        - Bro Genung
+        - Bro VanDemark
+        - Sis Auchmoody
+        - Bro Hungerford
+
+      I.G.
+        - Bro. Lounsbery
+        - Bro. R.L. Denman
+        - Bro. Hungerford
+
+      O.G. 
+        - Chas VanDemark
+        - Bro Hungerford
+        - Bro. Geo Sanders
+        - Bro Lounsbery
+
+      Intermission
+
+      For Good of The Order. Sel by Sis Mills Selection by Sis Lounsbery Sel By Bro Green. Music by Sis Toby Selection by Bro Sanders Remarks by Bro Lounsbery Music by Sis Toby & Sis Sanders
+
+      Lodge adjounred one week No Recpts
+
+      Mrs Genung W.C.
+
+      Arthur Green Secy
+
+  - date: 1885-01-30
+    content: |+ 
+
+      Brookton Jan 30th 1885
+
+      High Bridge Lodge No. 296 called to order by Sis Genung, W.C. Roll call of Officers Officers absent, Secy, Right Supporter, past W. inside Guard. All members reported true to the pledge
+
+      Intermission
+
+      After recess the Minutes of last Meeting were read and approved. Next order of Business being election of Officers the Officers were duly elected as follows
+
+      W.C.T Arthur Green W.V. Sis Addie Denman Secy Chas VanDemark Finan Secy. Sis Mills Treas Sis Lounsbery Chap. Sis Shurter Mar Bro. Genung I.G. Bro. Lounsbery Outside Sentinel Bro. Sanders
+
+      Moved and carried that we elect Delegates to County Lodge to Night. Delegates as follows Regular C.W. VanDemark Arthur Green, Sis Shurter Alternate, Bro Mandeville Sis Genung, Bro Hungerford Moved & carried that the delegates have power to furnish substitutes. Good of the Order as follows
+
+      Music by Sis Sanders and Sis Toby Remarks by Bro Lounsbery about postage stamps Selection by Sis Shurter Sel Sis Toby 
+
+      Appointements for next week. Music Sis Roe sis Toby. Literary Sis Woodhull. Bro Mandeville Sis Mills Bro Vandemark. No Recpts. Lodge closed
+
+      Mrs Genung, W.C. Arthur Green Secy.
+
+
+  - date: 1885-02-06
+    content: |+ 
+
+      Brookton Feb 6th 1885
+
+      High Bridge Lodge called to order by W.C.T. as usual. Officers Absent W.M. P.W.C.T & I.G. Minutes of last meeting read and app. All members present reported true to the pledge except one brother who reported that he had violated the obligtation and asked that the lodge excuse him without [?] reobligation. Moved and carried we excuse him
+
+      Recess
+
+      The W.V. elect declining her office, it was necessary to elect a W.V. Moved and Carried that Sis Tobey take the office another quarter.
+
+      The reports of the W. Secy, W.F. Secy and Treas. were read and accepted.
+
+      Installation of officers next in order they were installed in due form by Bro Lounsbery. The following Com. were appointed for the coming qr.
+
+      Fin Com
+        - Bro Lounsbery
+        - Sis Genung
+        - Bro. Vandemark
+
+      Sick Com 
+        - Sis Shurter
+        - Sis Lounsbery
+        - Sis Tobey
+
+      Moved and Carried that we hold a meeting next Friday Evening. Moved and Carried that we do not pay that 1 cent tax this quarter.
+
+      Good of the Order Selection furnished by Sis Tobey and read by Bro Lounsbery. Sel. by Sis. Genung. Instl music by Sis Tobey. App. for next week - Music Sists Sanders Tobey, Genung and Roe. Literary - Sis. Shurter, sis Denman Sis. Mills Sis Lounsbery and Bro Denman
+
+      Rcpts. $2.40
+
+      Arthur Green W.C.T.
+
+      Chas Vandemark W. Secy
+
+
+  - date: 1885-02-13
+    content: |+ 
+
+      Brookton Feb 13th 1885
+
+      Lodge called to order by W.C.T. App. Pro Tem W.V.T Cora Bush W. Secy R.L. Denman W.C. Sis Sanders Offiders Absent. W.V.T. ~ W.C. ~ W. Secy Sis. Roe and Sis. Woodhull were appointed R and L. Supporters. Sis. Roe presided acceptable at the organ. All true to the pledge. Rcess.
+
+      Edward Lounsbery presented a bill for 1 qr. rent $5.00 Moved and Carried that it be paid. Bro. Green presented a bill of 10c for Stationary. Moved and carried that it be paid. Good fo the Order Sel. by Sis Lounsbery We shall reap what we sow. Sel by Sis. Mills. Sponges Music by Sis. Roe. Sel. By R.L. Denman Sel by Sis Woodhull. app. for next week Music - Sis. Roe. Sis. Tobey. Cora Genung Literary - Bros. Lounsbery and Sanders. Sits. Bush and Denman
+
+      Rcts. 60c
+
+      Arthur Green W.C.T.
+  
+      R.L. Denman Secy Pro. Tem. 
+
+  - date: 1885-02-20
+    content: |+ 
+
+      Brookton Feb 20th 1885
+
+      High Bridge Lodge met at their lodge rooms and called to order by A. Green W.C.T. Appointments Pro. Tem Bro Lounsbery Secy & Sis. Roe W.V.T. ~ Chap. Sis. Woodhull
+
+      All members true to the pledge
+
+      Sisters Tobey ~ Shurter ~ Mills and Bush reported sick. Bro VanDemark convalescing
+
+      ~ Recess ~
+
+      Worthy Chief and two girls retired to the store for refreshments. W.C.T. bought the candy and passed it around to all except Bro. Sanders and Bro Lounsbery During Recess Sists. Roe and Woodhull entertained us with music which was well received. At the sound of the gavel the lodge resumed work. For good of the order Sis. Genung read a Poem Entitled, What would you take for me. Sis. Roe assisted by Sis. Woodhull sang a song entitled the two villagers [?] which was well rendered. Bro Lounsbery read from Good Templars Gem The Ideal Lodge. Bro Green read an article entitled Musings of a great life. App. for next week Music sis. Genung ~ Sis. Roe and Sis Tobey. Literary Bro Sanders. Sis. Woodhull, Sis. Lounsbery Bro VanDemark. Bro. Denman & W.C.T.
+
+      No Receipts
+
+      Arthur Green W.C.T.
+
+      E. Lounsbery Secy Pro Tem
+
+  - date: 1885-02-27
+    content: |+ 
+
+      Brookton Feb 27th 1885
+
+      Lodge called to order by A. Green W.C.T. Appointements Pro Tem P.W.C.T. Sister Roe, W.M. Sister Bush, W. Secy R.L. Denman 
+
+      Officers Absent W.M and W. Secy All members true to the pledge. 
+
+      ~ Recess ~
+
+      Minutes of last meeting read and approved. 
+
+      Good of Order Bro Sanders sick and had to be excused from selection. Sister Lounsbery gave a declaration on cork [?] Music Cora Genung Selection by W.C.T Entitled King Vol[?] and Eloie Music - Sister Tobey Selection by Sister Genung
+
+      Appointments for next week Music ~ Sister Tobey, Sister Genung, Sis. Roe. Literary ~ Sister Lounsbery, Sister Mills Sister Shurter. Bro. Lounsbery. Bro. Denman
+
+      No Receipts
+
+      Arthur Green W.C.T.
+
+      R.L. Denman W. Secy Pro Tem
+  
+  - date: 1885-02-27
+    content: |+ 
+
+      Brookton N.Y. March 6th 1885
+
+      High Bridge Lodge No 296 called to order by Arthur Green W.C.T
+
+      Appointments Pro Tem W. Secy R.L. Denman Officers Absent - W. Secy and Asst Secy  Minutes read and approved. All members true to the pledge.
+
+      ~ Recess ~ 
+
+      Bro. Mandeville proposed the name of Chas Nourse. Moved and Carried that we vote upon the name of the candidate tonight. After voting the W.C.T. declared the candidate duly elected. After the usual questions were properly answered and the fee paid, Bro Nourse was duly initiated in our order
+
+      ~ Recess No 2 ~
+
+      While W.C.T. was absent to escort one of our singers to the lodge room, Bro Sanders reported sick.
+
+      ~ Good of the Order ~
+
+      An oration by Bro Lousnbery on Holland The remarkable thing about the country is that it is lower than the sea. At one time a small insect came near drowning the whole country by working a hole in the levee
+
+      Music - by Sister Tobey Selection by R.L. Denman Music - Sis. tobey and Sis Genung, Brid Song
+
+      Appointements for next week Music - Sis Roe and Sis Genung Literary - Bro Sanders. ~~Bro~~ Sis Lounsbery Bro Mandeville Sister Mills and W.C.T.
+
+      Moved and Carried that we have an anniversary supper next week Moved and Carried that the supper be only for those who are in good standing.
+
+      Rcpts 85c
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T
+
+      R.L. Denman, W. Sec'y (Pro Tem)
+
+      _____
+
+      Brookton March 6, 1885 For Members of this Lodge I propose the Name of Charles Nourse, age 21 years occuplation Farmer residence Dryden signed Theodore Mandeville
+
+  - date: 1885-03-13 
+    content: |+ 
+
+      Brookton Mar 13th 1885 
+
+      High Bridge Lodge No 296 met and were called to order by Arthur Green W.C.T Officers Absent ~ P.W.C.T ~ W. M ~ Minutes of last meeting read and approved All members present true to the pledge. The W.C.T then requested the members to take seats around the table which was elegantly spread with victuals of the best selection, as a remembrance of the 6th of March 1876.
+
+      With the W.C.T. seated at the head with the W.O.G. at his right and the W. Secy at his left and the rest of the members seated around the table, they proceeded to partake of the sumptuous meal. After which the lodge room was cleared and the dishes taken care of. The W.C.T. then opened under Good of the Order of which the following members participated. Sel. by Sister Lounsbery - Entitled April Fool[s?] Bro Mandeville read a selection on Temperance Sel by Bro. Green Entitled The Witches Daughter
+
+      App. for next week Music - Sis. Tobey Liberary - Sis. Mills - Bro Lounsbery Bro Sanders - Sis. Shurter - Bro Nourse
+
+      Rcts 15c
+       
+      Lodge closed for one week
+
+      Arthur Green W.C.T.
+
+      Chas VanDemark W. Sec'y 
+
+  - date: 1885-03-27
+    content: |+ 
+
+      Brookton March 27th 1885
+
+      High Bridge Lodge No 296 met and was called to order by E. Lounsbery W.C.T. Pro Tem  Appointments Pro Tem W.C.T. Bro Lounsbery. W.V.T. Sis. Bush W.I.G. Sis. Sarah Genung Officers Absent at Roll call W.C.T. - W.V.T. - W.F.S - W. Chap - W.O.G. Minutes of last meeting read and approved
+
+      ~ Recess ~
+
+      During intermission the W.M. took up a collection, got three cents and bought some Licorice Drops and passed them around to the members.
+
+      Good of The Order Selection by Bro Lounsbery (Entitled) Gathering Them in Sel. by Sis Genung (Entitled) Ouf of the fire Sel by Sis Lounsbery (Entitled) Easter Lilies The following are the app. for next week For Music Sisters Roe, Woodhull, Bush and Genung For Literary Entertainment Bros. VanDemark and Genung Sisters Lounsbery and Mills
+
+      Arthur Green W.C.T.
+
+      Chas VanDemark Sec'y
+
+
+  - date: 1885-04-03
+    content: |+ 
+      
+      Brookton April 3d 1885
+
+      High Bridge Lodge met and was called to order by Arthur Green W.C.T. App. Pro Tem W Chap. Bro Denman P.W.C.T Sis Bush
+
+      Officers Absent at roll call -  W.F.S. - P.W.C.T.  - W. Chap. and O.G. Minutes of last meeting read and approved  All members present true to the pledge  Moved and carried that we have an Intermissions
+
+      ~ Recess ~
+
+      Bro. Lounsbery stated that the Slaterville Dramatic Club wanted to borrow our curtain  Moved and carried that we dont lend the curtain Bro. Lounsbery also said that the butter that was left of the Anniversary supper was at this house. Moved and Carried that Bro Lounsbery pay for the butter and put the money in the Treasury. Moved and Carried that Bro Lounsbery pay to the Treasurer what he thinks the butter is worth.
+
+      ~ Good of the Order ~ Sis Gertie Roe favored the lodge with a piece of vocal music Sel. by Sis. Lounsbery (Entitled) My Boy written by John B. Gough A piece of instrumental music by Sis Tobey
+
+      App. for music for next week - Sisters Tobey - Newbery - Roe and Woodhull Literary Entertainment Bros. Denman - Lounsbery VanDemark and Genung Sis. Denman
+
+      Rcts .50c
+
+      Lodged closed for one week
+
+      A. Green, W.C.T. C.W.V Secy
+
+
+  - date: 1885-04-10
+    content: |+ 
+
+      Brookton N.Y. Apr. 10th 1885
+
+      High Bridge Lodge No 296 called to order by W.C.T  Officers Pro Tem - W. Secy R.L. Denman W. Chap Sister Denman Officers Absent at roll call W. Secy W.M and W.Chap. Minutes of last meeting read and approved All members present true to the pledge  Bro Lounsbery said that Mrs Alice Draper wished to come here and deliver a temperance lecture
+
+      Moved and Carried that we have a recess
+
+      ~ Intermission ~
+
+      Motion made that if any one will volunteer to keep Mrs Draper and find a place for her to lecture, that we have her come. Motion not seconded
+
+      ~ Good of the Order ~ Sel. by Bro Denman Vocal Music Sis. Tobey Sel. by Bro Lounsbery (Entitled) Oscar Wilde on Dress Sel by Bro Sanders (Entitled) There is life App. for next week Music - Sisters Tobey - Newbery - Roe Literary Sisters Denman - Lounsbery Mills and Genung
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T.
+
+      Chas VanDemark Sec'y
+
+
+  - date: 1885-04-17
+    content: |+ 
+
+      Brookton Apr 17th 1885
+
+      High Bridge Lodge No. 296 I.O. of G.T. met and was called to order by Arthur Green W.C.T.  Officers Pro Tem ~ W.M. - Bro Denman P.W.C.T. Bro Mandeville Officers Absent at roll call - W.F.S P.W.C.T - D.M and O.G. Minutes of last meeting read and approved.  The names of Louise Bates, Minnie [Vandeark ?] and Phoebe Davenport were proposed for membership of this lodge
+
+      The Com. app. on the names were Sis. Lounsbery, Bro. Genung and Sis. Roe All members present true to the pledge Moved and Carried that we have an intermission
+
+      ~ Recess ~
+
+      After Intermission the lodge resumed work under the head of nomination of officers. The following were nominated
+
+      For W.C.T
+        - Bro. Green
+        - Bro. Denman
+        - Bro Mandeville
+
+      W.V.T.
+        - Sis. Tobey
+        - Sis. Shurter
+        - Sis. Roe
+
+      W. Secy
+        - Bro Green
+        - Bro VanDemark
+        - Bro Sanders
+
+      W.F.S.
+        - Sis. Mills
+        - Sis. Roe
+        - Sis. Lounsbery
+
+      W.T.
+        - Sis. Lounsbery
+        - Sis. Woodhull
+
+      W. Chap. 
+        - Bro Mandeville
+        - Bro Denman
+        - Sis Shurter
+
+      W.M. 
+        - Sis. Roe
+        - Bro Nourse
+        - Bro Genung
+
+      W.I.G. 
+        - Sis. Woodhull
+        - Bro. Lounsbery
+        - Bro. Denman
+
+      O.G.
+        - Bro. Lounsbery
+        - Bro Denman
+        - Bro Green
+        - Bro Mandeville
+        - Bro VanDemark
+
+      The lodge then listened to Gideon's Army march up the stairs and after a consultation with the guard, said that they wished to become members of our order. The following names were proposed Fred Allen, Joe Campbell, Geo Richardson Geo. Ault, A.B. Hill, EF Vorhis, Will Allen and Will VanKuren
+
+      Moved and Carried that we waive the usual rule and proceed to ballot on the candidates to night. They were balloted for and Elected And when we were ready to initiate them they were found wanting 
+
+      Good of the Order Sel. by Sis. Lounsbery (Entitled) It came to her Instrumental music by Sis Tobey Sel. by Sis. Genung (Entitled) Who loves not flowers App. for next week Music Sisters Tobey, Genung, Newbery and Roe Literary Sisters Woodhull and ~~Lounsbery~~ Shurter Bro's Lounsbery and Denman
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T.
+
+      Chas VanDemark Sec'y
+
+
+  - date: 1885-04-24
+    content: |+ 
+
+      Brookton N.Y. April 24th 1885
+
+      High Bridge Lodge called to order by W.C.T. Officers Pro Tem - W Secy ~ R.L Denman W.M - Sister Bush - D.M. Sis. Roe P.W.C.T. Arthur Denman Officers absent at roll call - P.W.C.T. - W. Secy - W.M - D.M - R.S - 
+
+      Minutes of last meeting read and approved Com. on the names of Mif Bates Mif Vandemark and Mif Davenport report favorable. The names were balloted on and the W.C.T. declared the candidates elected. All members present true to the pledge Moved and Carried that we proceed to the election of officers. Bros. Sanders and Lounsbery were appointed [?] Officers elected with the following result W.C.T. Arthur Green W.V.T. Sis. Tobey W. Sec'y - Chas VanDemark W.F.S. - Sis. Mills W. Treas. Sis. Lounsbery W. Chap. Sis. Shurter W.M. Sis. Roe W.I.G. Sis. Woodhull W.O.G. Bro. Mandeville
+
+      – Recess –  
+
+      Good of the Order Sel. by Bro Lounsbery Vocal Music by Sis. Tobey Vocal Music by Sis. Tobey For Sis. Genung
+
+      App. for next week Music Sisters Genung - Tobey - Roe and Newbery Literary Sisters Lounsbery and Mills. Bros. Sanders, A.D. Denman and R.L. Denman 
+
+      Rcts 35c Lodge closed for one week
+
+      Arthur Green W.C.T.
+
+
+  - date: 1885-05-01
+    content: |+ 
+
+      55c  1.50
+
+      Brookton May 1st 1885
+
+      High Bridge Lodge met and were called to order by Arthur Green, W.C.T. Officers Pro Tem W.T. Sis Roe D.M sister Woodhull Officers Absent at roll call - W.M. D.M. O.G. Minutes of last meeting read and approved A bill of $1.50 for Per Capita tax was drawn and ordered paid. Sis. Bush and Bro Hungerford reported sick. All members present true to the pledge.
+
+      ~ Intermission ~
+
+      The W.C.T. then opened under Report of Officers W. Sec’y and W.F.S. made reports, W. Treas, not [prepared ?] The next in order was installation of officers. Moved and Carried that we only install the officers that have not been installed. The following were the officers installed by Bro. Lounsbery, Lodge deputy. For W.M. Sis. Roe for O.G. Sis. Whoodhull. The W.C.T. appointed the same Finance and Sick Com. that were appointed last quarter. 
+
+      Good of the Order Sel. by Sis. Lounsbery (Entitled) April Vocal Music by Sis. Tobey 
+
+      Moved and Carried that we adjourn.
+
+      Rcts 55c
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T.
+
+      Chas VanDemark Sec'y
+ 
+  - date: 1885-05-08
+    content: |+ 
+
+      $1.50  5.00
+
+      Brookton May 8th 1885
+
+      High Bridge Lodge No 296 I.O. of G.T. met and was called to order by A.Green W.C.T. Appointments Pro Tem - P.W.C.T - Bro. Denman Officers absent at roll call - P.W.C.T. D.M. and O.G. Minutes of last meeting read and approved Bro Lounsbery presented a bill of $5.00 for rent. The W.C.T. ordered the bill paid. All members present true to the pledge
+
+      ~ Intermission ~
+
+      After intermission the W.C.T. called for the Treas.’s report which was promplty responded to.
+
+      ~ Good of the Order ~ The W.M. collected the spices for the spice box and then passed them to be read Vocal Music by Sister Tobey Moved and Carried that we furnish spices for next Friday Evening
+
+      Rcts. $1.50
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T
+
+      Chas VanDemark Sec'y
+
+
+  - date: 1885-05-15
+    content: |+ 
+
+      $1.00
+
+      Brookton N.Y. May 15th 1885
+
+      High Bridge Lodge met and was called to order at 8:30 P.M. by A.G. W.C.T Appointments Pro Tem - W.V.T. Sis. Bush P.W.C.T Bro Sanders Officers Absent at roll call - P.W.C.T W.V.T and O.G. - 
+
+      Minutes of last meeting read and approved The name of Chas Woodhull was proposed for membership of this lodge. Moved and Carried that we waive the usual rule and proceed to ballot on the name. The W.C.T. declared the candidate elected. After the usual questions were answered and the fee paid He was initiated in the first degree of our order.
+
+      ~ Intermission ~
+       
+      All members present true to the pledge For the good of the order the lodge was highly entertained with another spice box 
+
+      Moved and Carried that we have a spice box next Friday Evening 
+
+      Rcts. $1.00
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T
+
+      Chas VanDemark Sec'y
+      
+  - date: 1885-05-29
+    content: |+ 
+
+      30c Rainy May 22d
+
+      Brookton May 29th 1885
+
+      High Bridge Lodge No 296 I.O. of G.T. met and was called to order by A. Green W.C.T Appointments Pro Tem W.V.T Bro Lounsbery Officers absent at roll call - W.V.T and O.G. Minutes of last meeting read and approved All members present true to the pledge.
+
+      ~ Intermission ~
+
+      After intermission the W.C.T called for a report of county Lodge, but no delegates being sent we were unable to have any report given. 
+
+      For the Good of the ORder a tasty Spice Box was furnished Also a few remarks by Bro. Winchell  Moved and Carried we adjourn
+
+      App. for next week Music. Sisters Roe and Woodhull Literary Bro. Lounsbery, Sis. Lounsbery Sis Gorsline, Sis. Mills and Sis. Shurter
+
+      Rcts. 30c
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T
+
+      Chas VanDemark Sec'y
+
+  - date: 1885-06-05
+    content: |+ 
+
+      Brookton N.Y. June 5th 1885
+
+      High Bridge Lodge No 296 I.O. of G.T met pursuant to adjournment and was called to order by Arthur Green W.C.T Appointments Pro Tem. W.V.T. Sis. Bush P.W.C.T. Bro Sanders. Officers absent at roll call - W.V.T. P.W.C.T. D.M and O.G.  Minutes of last meeting read and approved. All members present true to the pledge. Moved and Carried that we have a recess.
+
+      ~ Intermission ~
+
+      ~ Good of the Order ~ Sel. by Bro. Lounsbery (Entitled) The story of the [shoes ?] Sel by Sis. Lounsbery (Entitled) Have a purpose Vocal Music by Sis. Roe - Would you tell me why [?] Recitation by Sis. Gorsline (Entitled) The Wedding fee For next Friday Evening the W.C.T. decided to have a spice box for the Good of the Order. 
+
+      Lodge Closed for one week
+
+      Arthur Green W.C.T
+
+      Chas VanDemark Sec'y
+
+      Sister Gorsline Ass’t Sec’y 
+  
+  - date: 1885-06-12
+    content: |+ 
+
+      Brookton N.Y. June 12th 1885
+
+      High Bridge Lodge called to order by W.C.T. Appointments Pro Tem - W.V.T. Sis. Bush W. Secy Bro Lounsbery All members present true to the pledge
+
+      Recess
+
+      Minutes of last meeting read and approved. The W. Sec’y read a communication from C.P. Wiles of Cortland.
+
+      For the Good of the Order the members furnished a spice box
+
+      The Worthy Chief Templar said that we could have a spice box next Friday Evening
+
+      Lodge closed for one week
+
+      Arthur Green W.CT.
+
+      Charles VanDemark Sec'y
+  
+  - date: 1885-06-19
+    content: |+ 
+
+      Brookton N.Y. June 19th 1885
+
+      H.B. Lodge called to order by W.C.T. Appointments Pro. Tem W.V.T. Bro Lounsbery W. Sec’y R.L. Denman  Officers Absent at roll call - W.V.T. - W. Sec’y P.W.C.T. - Ass’t Sec’y - F. Sec’y - R. and L Supporters - and Outside Guard  Minutes of last meeting read and approved. Sis. Bush reported sick the 18th just. All members present true to the pledge. Moved and Carried that we have a recess of five minutes
+
+      ~ Intermission ~
+
+      Good of the Order Sel. by Bro. Lounsbery Spices by Sis. Lounsbery Spices by Bro Woodhull Sel. by Bro Denman
+
+      Moved and Carried that we dont have any lodge meeting next Friday Evening Moved and Seconded that we adjourn Motion [not ?] [?]
+
+      Lodge closed for two weeks
+
+      Arthur Green W.C.T
+
+      Chas VanDemark Sec'y
+
+  - date: 1885-07-10
+    content: |+ 
+
+      Friday Evening, July 10th 1885
+
+      Lodge called to order by W.C.T. Officers Pro. Tem. - W.V.T. Bro Lounsbery W. Sec’y Bro. Denman, P.W.C.T Bro Sanders Officers Absent at roll call - W.V.T. P.C.T. W. Sec’y - F.S - O.G - R and L. Supp. W. Sec’y read a communication from Ithaca Union Lodge No 295 stating that Harvey Cole and Lula Hungerford were expelled from the Order June 22d 1885 Moved that we have a recess Motion Lost 
+
+      For Good of Order a Spice Box and a selection by Bro Sanders
+
+      App. for next week Literary - Bro Lounsbery - Sis. Genung Sis. Shurter - Bro Denman - Sis. Lounsbery Music - Sister Roe
+
+      Lodge adjourned for one week
+
+      Arthur Green W.C.T
+
+      R.L. Denman W. Secy. Pro Tem
+
+  - date: 1885-07-24
+    content: |+ 
+
+      Brookton N.Y. July 24th 1885
+
+      High Bridge Lodge met and was called to order by Arthur Green W.C.T Officers all absent by W.C.T. - W. Sec’y and W. Treas. Minutes of last meeting read and approved  All members present true to the pledge  Moved and Carried that we postpone the nomination of officers till next week
+
+      Good of the Order Sel. by Sis. Lounsbery Sel. by Bro Lounsbery (Entitled) Solomonica [?]
+
+      Lodge closed for one week
+
+      Arthur Green W.C.T. 
+
+      Chas VanDemark Sec'y
+
+  - date: 1885-07-31
+    content: |+ 
+
+      35c
+
+      Brookton N.Y. July 31st 1885
+
+      High Bridge Lodge I.O. of G.T. met at their rooms and was called to order by Arthur Green W.C.T App. Pro Tem. P.W.C.T. Bro. Besemer W.V.T. sis. Bush. Offisers absent at roll call - W.V.T. - P.W.C.T F.Secy - Asst Secy - D.M. - O.G. Minutes of last meeting read and approved All members present true to the pledge Moved and Carried that we elect the officers by informal ballot. The following are the officers elect W.C.T. Chas VanDemark W.V.T. Sis. Woodhull W. Sec’y Sis. Lounsbery W.F.S. Sis. Mills W.T. Bro. Woodhull W. Chap. Sis. Shurter W.M. Sis. Roe W. I.G. Sis Bush W.O.G. Bro Lounsbery
+
+      The following are the delegates to Co. Lodge
+
+      Reg. 
+        - Chas. VanDemark
+        - Bro. Lounsbery
+        - Sis. Shurter
+
+      Alt. 
+        - Bro. Denman
+        - Bro. Green
+        - Sis. Roe
+
+      Moved and Carried that we adjourn until the 3d Friday in September
+
+      Rcts. 35c
+
+      Arthur Green W.C.T 
+
+      C.W. V Sec’y
+
+  - date: 1885-09-18
+    content: |+ 
+
+      Brookton N.Y. Sept 18 1885
+
+      High Bridge Lodge called to order by Edw Lounsbery WCT Pro Tem 
+
+      Officers absent at roll call WCT P.W.C.T Minutes of last meeting read and approved Bro. Lounsbery proposed the name of Miss Franklin Davis for initiation. Com on same. Sisters Tobey, Bush & Roe. Next in order being installation of Officers, they were duly installed by Bro Lounsbery LS. [?] All true to the pledge. Appointing of standing Committee by Bro Chas VanDemark W.C.T
+
+      Finance Committee Bro Lounsbery, Sis Tobey Sis Shurter
+
+      Sick Committee Sis Lousnbery Sis Bush Sis Mills Sis Auchmoody Sis Roe Sis Woodhull
+
+      Remarks from Bro Lounsbery to the effect that we must all work if we expect to be successful A charge of violation of this pledge was preperred against a Bro and the following committee appointed on same
+
+      Bro’s Lounsbery Richd Denman & Woodhull Motion to adjourn carried. Appts for next meeting Music Sisters Tobey & Roe Sel Sis Mills Bro & sis Lounsbery & Sis Bush 
+
+      Chas VanDemark WCT
+
+      Amanda S Lounsbery Secy
+
+
+  - date: 1885-09-25
+    content: |+ 
+
+      Brookton Sept 25 1885
+
+      Lodge called to order by W.C.T. Officers pro tem Sis Hungerford P.W. Opening ode Whosoever will Off absent  - PW. DM. 
+
+      Minutes read & approved. Sister Hungerford proposed the name of Reynolds B. Young for membership. Committee app on this propostion were Bro Lounsbery Sisters Tobey & Shurter  Ballotting on the name of Miss Franklin Davis the Com on same having reported favorable, she was elected. All true to the pledge.
+
+      Recess
+
+      After Recess the report of the Com on violation of Art II of the Consitution was called for not being prepared one week more was given [thence ?] [?] reports of Officers FS. T. & Secy responded their reports agreeing they were adopted by the Lodge
+
+      Good of Order opened with Music by Sis Tobey “Where the leaves begin to turn” Sel - Sis Mills - “One day in a country store” Sel Bro Lounsbery “The cider Mill” Music Sis roe “Sailing” Remarks by Bro Hungerford commending & advising. Sis Hungerford gave us the old ladies rule for telling good indigo from poor. Sel Sis Lounsbery “Florry’s [?] doing” Appt next week Lit - Sisters Shurter Bush & Bro Woodhull Sis Tobey & Hungerford Music - Sis Roe & Bush - Recpts $1.65 
+
+      Chas Vandemark WCT
+
+      Amanda S Lounsbery Secy
+
+
+  - date: 1885-10-02
+    content: |+ 
+
+      Oct 2 1885
+
+      Lodge called to order by Edw Lounsbery WC Pro tem. Officers ~~absent~~ appointed P.W - DM - Singing “Gates afar” Officers found to be absent at roll call - WC - PWD - RS - LS - reading of minutes - they were approved
+
+      Sis Lounsbery proposed the name of Miss Sallie Speed to be initiated to night - a special dispensation being granted by LD, the balllots box was prepared & Miss Sallie Speed & Mr Reynolds B Young were duly elected. The Marshall then repaired to the Ante Room and returning reported the Misses Davis & Speed to be in waiting - they were introduced and properly initiated in the first degree of our order - Recess - during recess, Bro & Sis Hungerford came bringing a beautiful basket of pears, which were greatly appreciated.
+ 
+      Special committeed of [Case ?] of Arthur Green reported that he acknowledged violation of Art II of Constitution and recommended that he be suspended. Bro Hungerford moved that the report be accepted. Good of order, Sel Sis Shurter “Dont drink to night” Sis Bush “The flowers & the reaper” Bro Woodhull asked to be excused. sis roe sang - I cannot sing that old song. Bro Lounsbery read “The clown baby. Appt for next - Sis Mills, Bro Woodhull & VanDemark, Sis Lounsbery - Music Sis Roe Woodhull & Tobey & Sisters Davis & Speed. Pie & fruit festival proposed for 1 week from to night - object social & financial
+
+      Recpts $1.45
+
+      Chas VanDeMark - W.C.
+
+      Amanda S L.  Secy
+
+
+  - date: 1885-10-09
+    content: |+ 
+
+      Oct 9 1885 Brookton N.Y.
+
+      Meeting called to order Edw Lounsbery in the chair as WCT - pro tem - Appointements to fill vacancies - Bro Hungerford PW - Sis Auchmoody DM - All correct in Pass-Word - Prayer & Singing - Officers absent - WC - PW - DM
+
+      Reading of minutes - Adopted - 
+
+      Initiation of Reynolds B Young - Recess - & Pears furnished by Bro & Sis Hungerford - We number them among the few -  who seem to grasp the true idea & aim of our order - loyally have they stood by us through all our ups & downs - Strong of intellect - true of heart - may they long be spared to us.
+
+      All true to the pledge. Case of Bro Green brough up Bro. Hungerford made the motion that he be suspended - motion carried - Good of order - Recitation by Bro. Woodhull “The Village Blacksmith” which was recited in an excellent manner & roundly applauded - Music - Sis Roe “I’d be a star” [?] Song by Sis Woodhull - accompanied by Sis Roe - Sentiment - by Sis Lounsbery - Music Sis Tobey - Bro Young fave a synopsis of an article in Toledo Blade on Prohibition as viewed by a minister - Remarks by Bro Hungerford comparing Blacksmith and Rum seller - results of thoughts while listening to Bro Woodhull’s recitation. Literary works from to-night - Sisters Mills Bush Roe & Tobey & Shurter - Bro Young & Hungerford - sisters Roe & Woodhull for music - Closing exercises - Recpts 50c
+
+      Pie Party one week from tonight
+
+      Chas VanDeMark - WC
+
+      Amanda S Lounsbery - Secy
+
+
+  - date: 1885-10-23
+    content: |+ 
+
+      Oct 23 - 1885
+
+      Lodge called to order by Edw Lounsbery WC - pro tem - officers appointed - PW - Bro Young, DM - Sis Gorsline - opening exercises - Officers absent - WC - PW  Minutes read and approved - Communication from Ithaca Union Lodge - to the effet that a delegation from their Lodge would visit us soon. Bill presented by Edw Lounsbery for 1 qr rent - ending July 31 - approved by the F Com & ordered paid All true to the pledge
+
+      Recess - with Pop Corn furnished by Sis Hungerford
+
+      After Recess - the chair of the PW was declared vacant and an election ordered - Bro Hungerford moved that Secy cast the ballot for Bro Young carried & Bro Young was declared elected - Report of Pie & friut fesitival - well [?] - recpts so far $6.22
+
+      Good of order - Sis Hungerford read an article on the right of women to vote - Bro Young - Sel. A Mothers blessing - Bro Hungerford “Woman’s Suffrage - for next week appts for literary were Sis Mills - Bro Woohull - Sis Gorsline - Sisters Tobey, Roe, Woodhull - & Bro Lounsbery
+
+      Singing “Rescue the perishing” Prayer by Chaplain - no recpts - adjourned for one week
+
+      Edw Lounsbery - WC protem
+
+      Amanda S Lounsbery, Secy
+
+  - date: 1885-11-13
+    content: |+ 
+
+      Nov 13 1885 
+
+      Lodge called to order by Edw Lounsbery WC pro tem. Prayer & singing. Off absent at roll call - WC PW - DM - Minutes read and approved at this stage of proceeding WCT. Bro Vandemark put in an appearance - All true to the pledge except Bro Mandeville - he had taken a very small drink of sweet-cider - on being questioned - he said he dit it as a test to see if it was sweet - after hearing what he had to say - W.C.T decided to excuse him
+
+      Recess - Treasurer reported $2.67 re’cd from the sale of Bananas & peanuts left-over at festival To night being the time for nomination & election of officers Bro Edw Lounsbery moved that Sis Auchmoody - our M - cast the ballot of the Lodge for the off of the past quarter (except WCT) who positively declined) Sis Wm Hungerford was nominated & elected as worthy CT - Bro Young RS - Bro Mandeville LS - Installation ceremonies by L.D.
+
+      Delegates to County Lodge - Reg. Bro’s Young, Lounsbery & Sis Hungerford Alt - Bro’s Woodhull, VanDemark & Mandeville. Degree meeting appointed for next week friday night - after the regular opening excercises in first degree. Good of order - Sis Tobey read an article on “Sun Spots” Bro Young - “Measure for Measure” Appts for next week - Rec - Sis Gorsline - Lit - Bro VanDemark & Sis Shurter - Music - Sis Woodhull Rec Bro Woodhull - Lit. Bro Young - Chas VanDemark 
+
+      Recpts .70
+
+      Sis Hungerford W.C.T
+
+      Amanda S Lounsbery, Secy
+
+  - date: 1885-11-20
+    content: |+ 
+
+      Nov 20 - 1885
+
+      Lodge called to order by W-C-T Officers pro tem PW Bro Mandeville - Chap Bro Hungerford - Prayer followed by opening ode Sis Cassie Woodhull presiding at the organ. Officers absent - Chap - M - IG - Minutes read and approved - All true to the pledge’
+
+      WCT appointed as Finance Com - Bro Hungerford Sis Tobey - Sis Shurter - Sick Com - same as last qr - Repors of FS-T-Secy moved and carried that reports be referred to Finance Com
+
+      Recess - Lodge opened in the second degree the degree of Fidelity. Bro’s Mandeville Young Woodhull & Sis Woodhull were the candidates - after initiating them in this degree - DT gave us the unwritten work of Third degree - or the degree of Charity - W-C-T then took the chair for the closing services of subordinate lodge - For good of order - Those of last weeks appointment were retained and Bro Hungerford added to the list - Recpts of the evening $1.90
+
+      Lodge adjourned for one week
+
+      Mrs Wm. Hungerford W.C.T
+
+      Amanda S Lounsbery Secy
+
+    
+  - date: 1885-11-27
+    content: |+ 
+
+      Nov 27 1885
+
+      High Bridge Lodge met and was called to order by Edw Lounsbery WC pro tem after ascertaining that all present were qualified to remain, the WCT on account of the coldress of [our ?] room varied the usual order by deferring the rest of the opening [?] exercises until later on - and the M was instructed to see if there any candidates for initiation in the anteroom returning she reported Mrs Ellen Lounsbery in waiting - she was then introduced and properly initiated in the first degree of our order. Officers absent at roll call WC - M - IG - R&LS -
+
+      Minutes read and approved Recess
+
+      All true to the pledge - Good of the order Bro. Chas VanDemark - read an affecting story of the exploits and adventures of a hen at a Moody meeting. Bro Lounsbery told us some things which he had read about Holland - their customes & manner of living which were of interest - by this our new Sis remember to have reading of a little boy who saved Holland by stopping a hold in the dyke with his coat - and holding it there though near freezing until help came. I felt there was something that might give courage to the G-T hearts in the story - we do not seem to be doing very much good - but if we have the grit to stick and do what we can - we may be the manner of stopping many holes in the dyke of the intemperant
+
+      Appt - Lit - Sis Mills Tobey & Sis Ellen Lounsbery Recpts 50c
+
+      Edw Lounsbery WC pro tem
+
+      Amanda Lounsbery Secy
+
+
+  - date: 1885-12-18
+    content: |+ 
+
+      Dec 18 1885
+
+      High Bridge Lodge met at their rooms and was called to order by Edw Lounsbery WC pro tem Bro Mandeville was appointed I.G Prayer & Singing. Officers absent - WC - PW - T - M - IG - LS - Minutes read & approved - All true to the pledge - Sis Amanda Lounsbery read an article “How  the temperance lecture came to the man who would not go to it” Bro Mandeville “What were the tap out” Appts for next week - Bro Mandeville - Sis Ellen Lounsbery  - Sis Shurter - Music Sis Woodhull 
+
+      No recpts Lodge closed for one week - to meet on Christmas night. 
+
+      Edw Lounsbery WC pro tem
+
+      Amanda S Lounsbery Secy
+
+  - date: 1886-01-01
+    content: |+ 
+
+      Jan 1st 1886 Brookton
+
+      High Bridge Lodge met on the first night of the new year, with a good number in attendance, and were called to order by Bro Edw Lounsbery, WC pro tem. Officers appointed to fill vacancies, Sis Ellen Lounsbery Chap. Bro Young - IG. opening exercises. Roll call officers absent - WC - PW - C - DM -
+
+      Minutes read & approved - All true to the pledge. Sis Hungerford at this point appeared on the scene, with a basket of popped corn. Under propositions for membership, Bro Young, presented the name of Miss Florence Young, committee app on same Sis Ellen S Lounsbery May H Tobey M. Emily Mills Com reported at once result, in favor or Miss Young
+
+      Recess - Under order of Bills - Edw Lounsbery presented one of $2.50 for 1/2 qr rent ending Oct 31 - 1885 - [?] signed & approved by the finance Com moved & carried that the bill be paid
+
+      Good of order, Se. by Sis Ellen Lounsbery - “Rob’s diaries [?]“ Music Sis Woodhull & Sis Roe, “Under the Linden tree” Bro Hungerford - Sel. The polite Yankee, Sis Toby & [Lounsbery ?] Music “Sharons Rose” Bro Young Sel “Stanley [?] faith” Sis Mills - Sel “L[?] customs in China” - everyone app to furnish for next meeting - meeting adjourned for one week - opinion unanimous that we had spent a profitable evening. No Receipts -  
+      
+      Mrs Wm Hungerford WCT 
+
+      Amanda S Lounsbery - Secy
+
+
+  - date: 1886-01-08
+    content: |+ 
+
+      Lodge met and was called to order by Edw Lounsbery W-C-T pro tem. Sis Ellen Lounsbery was appointed Chap - Prayer & Singing - roll call - officers absent W.C Chap - PW - R&LS - Minutes read & app.
+
+      All true to the pledge - Recess of ten minutes. At the sound of the gavel lodge resumed work - first in order balloting for candidates - Sister Florence Young was balloted for & elected
+
+      Good of order - Sel Sis Ellen Lounsbery “The life boat” Music Sis Gertie Roe - “Oh fair dove, oh fond dove” Sel Sis Amanda Lounsbery “A temperance poem” Sel Bro Lounsbery “Ask the price”
+
+      Appts for next week - Literary Sis Mills - Bro Woodhull - Sisters Bush & Auchmoody Recitations Sis Lounsbery Sel - Sisters Roe Tobey & Woodhull for Music Recpts 15c - closing exercises.
+
+      Lodge adjounred for one week.
+
+      Edw Lounsbery, WC protem
+
+      Amanda S Lounsbery, Secy
+  
+  - date: 1886-01-15
+    content: |+ 
+
+      Jan 15 1886
+
+      Lodge met & was called to order by Edw Lounsbery, WC pro tem. off appointed, Bro Mandeville PW Sis Ellen Lounsbery IG - Bro Young Mar - Prayer & Singing Initiation of Miss Florence Young in the first degree of our order Recess. Reading of minutes approved. all true to the plege
+
+      Good of order. Reading of a pleasant poem by Sis Mills. Music by the Lodge Sel Sis Ellen Lounsbery What Cocoanine is made of. Sel Bro Young Every [?] has its [worm ?], Sel Bro Lounsbery “I think its a dream, Sis Lousnbery, The temperhance ship” Recpts 50c. Everyone appt for next week
+
+      Edw Lounsbery WC pro tem
+
+      Amanda S Lounsbery Secy
+      
+  - date: 1886-01-22
+    content: |+ 
+
+      Jan 22 1886 Brookton
+
+      High Bridge Lodge met and was called to order by W-C-T. Appointments to fill vacancies PW Bro Hungerford - Mar Sis Davis Officers Absent - PW - FS - M & DM - IG - RS - Minutes read & approved
+
+      Bro Lounsbery gave a verbal report from Ithaca lodge - substance of the report that we might expect a visit from them next week on Friday night. Under propositions for membership - Sis Edw Lounsbery presented the names of Mr & Mrs Ernest Winchell - Com appt on Mr Winchell - Wm Hungerford, Edw Lounsbery Sis Tobey - Com on Mrs Winchell - Mrs Shurter Mrs Ellen Lounsbery - Miss Frank Davis
+
+      All true to the pledge Recess - The Committees on the names of Mr & Mrs Winchell reported favorable. Good of order Sel by Sis Ellen Lounsbery “The curse of drink” by Canon Farrow before the N-T-S Precepts & Sayings of Sam Jones by Sis Shurter. Sel by Sis Davis - “The perils of paper bag bustles”  Bro Hungerford read an extract from the Ithaca Republican, on the condition of things generally in that village. Sis Amanda Lounsbery The Quaker Lady & Servant” [?] Sis Hungerford “How she cured him” Bro Hungerford “Flirting with [strangers ?] Bro Lounsbery - Do your duty to day - Sis Ellen Lounsbery moved a vote of thanks for the apples & [?] to Bro Theo Mandeville - Recpts 60cts - all appt for good of order 
+
+      Mrs Wm Hungerford W.C.T.
+
+      Amanda Lounsbery Secy
+
+  - date: 1886-01-29
+    content: |+ 
+
+      Jan 19 - 1886 Brookton
+
+      Lodge called to order by WCT - officers appointed to fill vacancies Chap - Sis Ellen Lounsbery - Mar - Bro Edw Lounsbery - Prayer & Singing Off absent - PW - Chap - M - DM - IG - L&RS - Minutes read & app - Balloting on the names of Mr & Mrs Ernest Winchell - they were declared elected All true to the pledge - Recess - 
+
+      After recess the lodge proceeded to the election of officers with the following result 
+
+        - Bro. Hungerford WCT 
+        - Sis. Ellen Lounsbery W.V.T 
+        - Secy, Sis Mills 
+        - F.S. Sis Amanda Lounsbery 
+        - Treas. Bro. Woodhull 
+        - Chap. Sis. Shurter
+        - Mar Sis. Woodhull
+        - IG. Bro Mandeville
+        - OG Bro. Lounsbery
+        - DM Bro Young
+        - RS Sis Speed
+        - LS Sis Davis
+
+      For good of the order Sis Wm Hungerford read an essay. Subject - “Woman Suffrage” This essay was written by Sis Hungerford and read before the State Grange at Cortland & will be published in the Husbandman” Bro Hungerford read the [substance ?] of a bill introduced before the State Legislature and the Editorial remarks of the Ithaca Republican on the same. Remarks by Bro Lounsbery on the state of temperance in Kansas. Sel. Sis Mills, “Strive, Wait & Pray”
+
+      Recpts 30 cts
+
+      Mrs Wm Hungerford - W.C.T. 
+
+      Amanda S Lounsbery Secy
+
+
+  - date: 1886-02-19
+    content: |+ 
+
+      Brookton Feb 19, 1886
+
+      Lodge called to order by Bro. Hungerford, W.C. pro tem Officers appointed to fill vacancies, Bro Lounsbery D.M. Officers absent: W.D.M - I.G. - R.H.S.
+
+      Minutes read and approved. Names of A.M. Dedrick proposed for membership of this Lodge, by Sister Davis. Committee on same, Bro. Lounsbery, Sister Ellen Lounsbery and Sister Tobey. Committee report favorably All true to the pledge. Recess. Reports of Officers. Moved and carried that they be accepted. Installation of Officers. Delegates to County Lodge: -  Bro. & Sister Hungerford and Bro. Young. Alternates: - Bro. Lounsbery, Sister Shurter & Sister Ellen Lounsbery. Motion made & carried giving the delegates power to fill vacancies at C.L. Members of Finance Committee, W.M. - W.V.T. - F.S. 
+
+      Good of the Order: - Selections by Sister Lounsbery Bro. Lounsbery. Song by Sister Tobey.
+
+      Receipts 85c. Closing ceremonies. Lodge adjourned ~~closed~~ for one week.
+
+      Bro. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+      ____________
+
+      Feb 19 1886 - Called to order by Bro Hun off appt - Mar Bro Louns. off ab M DM IG RLS Minutes read & approved. Name of AM Dedrick proposed by Sis Davis. Bro Lounsbery - Sis Ellen Lounsbery & Sis May Tobey Com All true to the pledge. Recess. Reports of officers - moved & carried that they be accepted Installation of officers - Election of Delegates to C.L. Bro & Sister Hungerford & Bro. Young. Alternates Bro Lounsbery Sister Shurter & sister Ellen Lounsbery ~~Bro L made~~ Motion made & carried that the delegates at C.L. have the power to fill the delegation Finance Committee W.M W.V F.S. Good of the Order Sister Louns. Bro Louns. Song by Sister Tobey. Receipts 85cts
+
+
+  - date: 1886-03-05
+    content: |+ 
+
+      Brookton Mar. 5 1886
+
+      The Officers & Members of High Bridge Lodge met together, not to pursue the usual order of business, but to celebrate the tenth anniversary of the founding of the Lodge. It having been the custom in the past to have an annual supper, it was decided to hold it this year as usual nowithstanding the low condition of the Order. 
+
+      Accordingly thirteen members presented themselves at the Lodge room each bearing some dainty with which to spread the festal board.
+
+      Through the kindess of Sister Hungerford each person was supplied with a cup of delicious coffee smoking hot.
+
+      After every one had eaten enough to satisfy the cravings of hunger and the table had been cleared, Sister Toby entertained the members with some music after which the company separated feeling that the evening had been most pleasantly spent.
+
+      Wm. Hungerfored W.C.T.
+
+      Emily Mills Sec.
+
+  - date: 1886-04-09
+    content: |+ 
+
+      Brookton Apr 9 1886
+
+      Lodge called to order by Bro. Lounsbery W.C.T. Pro tem Officers appointed to vacancies; W.C. Bro Denman P.W.C.T. Bro. dedrick. Officers absent; W.C. D.M O.G. R&L.H.S. Minutes read & approved. Communication from Sisters Speed & Davis requesting their names to be taken from the roll of membership of this Lodge as they were members of the Lodge at Slaterville recently reorganized. Motion made and carried the request be granted.
+
+      Members all reported true to the pledge.
+
+      Recess. - For Good of the Order interesting remarks were made by Bros. Dedrick and Lounsbery. Recitation by Bro. Woodhull Bro. Denman read an article on the effects of alcho upon the human system. Various remarks by different members.
+
+      Receipts 95cts Lodged closed for one week. 
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+      Omitted in above Bill presented by E. Lounsbery for rent $5.00. Motion made and carried that the same be paid. 
+
+
+  - date: 1886-04-16
+    content: |+ 
+
+      Brootkon Apr 16 /86
+
+      Lodge called to Order by Bro. Denman W.C.T. Pro tem.  Officers appointed to fill vacancies; Sister Davis W.C. Officers absent W.C.T. - P.W. C.T. - W.C. O.G. R&L.S.S. Minutes read & approved All true to the pledge.
+
+      Recess. For Good of the Order remarks were made by Bro. Lounsbery & Bro. Hungerford. Sel. by Sister Lounsbery. Sel. from Sister Ellen Lounsbery by Helen H. Jackson. Bro. Denman read an article on John B. Gough. A few remarks from Sister Davis concering the welfare of Crystal Fountain Lodge at Slaterville. Song by Sister Toby. Selection by Sister Mills. 
+
+      Receipts 60c
+
+      Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+  - date: 1886-04-23
+    content: |+ 
+
+      Brookton Apr. 23 /86
+
+      Lodge opened by Bro. Lounsbery W.C.T protem. Officers absent D.M. - O.G. R&LS. Minutes read & approved. All true to the pledge. Intermission.
+
+      For good of the Order a selection by Sister Lounsbery entitled, Speak well of your Lodge. Bro Lounsbery presented a few encouraging facts in regard to the temperance work. Selection by Sister Davis, and Sister Lounsbery. A short discussion as to the advisability of inviting the County Lodge to hold ~~their~~ its next session with us, was held. Bro. Lounsbery made a motion that we do not invite the Lodge. Motion carried. Receipts 15c.
+
+      Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-04-30
+    content: |+ 
+
+      Brookton Apr 30 /86
+
+      Lodge opened by Bro. Hungerford W.C.T. Officers absent at roll call; W.T. - M. - D.M. - O.G. R.&L.S
+
+      Minutes of the last meeting read and approved. W.C.T. then opened under the head of Nomination of Officers.
+
+      A motion was made by Bro. Lounsbery and carried, that as the names were nominated for each office they should be balloted for. The following result was obtained:
+
+        - For W.C.T. Bro. Hungerford
+        - W.V.T Sister Ellen Lounsbery
+        - W.S. Sister Mills.
+        - W.F.S. ~~Bro. Woodhull~~ Sister Amanda Lounsbery
+        - W.T. Bro. Woodhull.
+        - W.C. Sister Shurter
+        - W.M. Sister Auchmoody
+        - I.G Sister Woodhull
+        - O.G. Bro. E. Lounsbery
+
+      During intermission the members were treated to some pop corn by Sister Hungerford. For Good of the Order, but two responded to Bro. Hungerford’s call: Sisters Lounsbery and Mills. No receipts.
+
+      Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+      
+      Emily Mills Sec.
+
+
+  - date: 1886-05-07
+    content: |+ 
+
+      Brookton May 7 /86
+
+      Lodge called to order by Bro. Hungerford W.C.T. Appt’s. pro-tem, W.V. Sister Auchmoody. Officers absent; - W.V.T. - D.M. - O.G. Minutes of last meeting read & approved. Intermission.
+
+      All reported true to the pledge. The newly elected Officers were then duly installed for the ensuing quarter. Sister Auchmoody, Sister Ellen Lounsbery & Sister Amanda Lounsbery were appointed to act upon the finance committee.
+
+      For Good of the Order Sister Lounsbery read a selection entitled “the deacon’s prayer”. Bro. Lounsbery also furnished an article upon the temperance question. 
+
+      Sister Hungerford stated that the members of the County Lodge were very anxious to hold their next session with High Bridge Lodge and a motion was finally made & carried that this Lodge invite them here.
+
+      Receipts $1.20
+
+      Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-05-21
+    content: |+ 
+
+      Brookton May 21 1886
+
+      Lodge called to order by Bro. Hungerford W.C.T. Appointements pro-tem W.V. Sister Bush W.M. Sister Roe Officers absent W.V., D.M., R.&L.S. Minutes read and approved.
+
+      Under the head of propostions for membership the names of Edwin Shurter, Lela Roe, Wm Wolcott, Lou Gorsline, George Ault and Ed Vorhis were proposed. Motion made and carried that the candidates be initiated to-night. The names were duly balloted upon and declared elected. The candidates were then introducted and initiated in the first degree of our order.
+
+      Intermission for congratulations of new made members.
+
+      After recess the following appointements for delegates to County Lodge were made Regular delegates - Bro. & Sister Hungerford Sister Auchmoody & Sister Shurter. Alternate - Bro & Sister Young. Motion made & carried giving the delegation the power of substitition.
+
+      Motion made & carried that an order be drawn on the Treas for the per capita tax for the previous quarter and the present quarter.
+
+      For Good of the Order excellent selection were read by Sisters Lounsbery & Hungerford.
+
+      Receipts [?]95 Lodge closed for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+  - date: 1886-05-28
+    content: |+ 
+
+      Brookton May 28 1886
+
+      Lodge called to order by Bro. Lounsbery W.C.T. pro. tem. Appointments to fill vacancies, Bro. Denman P.W.C.T Officers absent W.C.T. - P.W.C.T. - R.&L.S. Minutes read & approved.
+
+      The names of Gardner Perry & Chas. Lounsbery were proposed for members. After being balloted for & elected they were initiated in the first degree of the order. Recess.
+
+      Upon calling to order again Bro. Lounsbery made the announcement that the Slaterville Lodge would hold an ice cream festival in Slaterville May 29.
+
+      Bill of $5.00 presented by E. Lounsbery for rent. Motion made & carried the bill be paid. 
+
+      The W.V. - W.M. - D.M. were then installed for the present quarter. Motion made & carried that at the close of the Lodge it should be adjourned for two weeks.
+
+      For good of the order music was rendered by Lela & Gertie Roe. Sel. By Bro Lounsbery. A Valuable cure for fleas was given by Sis. Lounsbery. Song by the Sisters Roe. Appointments for next meeting, for reading & recitation, Ed. Shurter, Sister Gorsline Sister Lounsbery Bro. Denman, Bro. Woodhull & Sister Mills. Music - Sisters Woodhull, Roe & Tobey. 
+
+      Receipts 1.30 Lodge adjourned for two weeks.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-06-11  
+    content: |+ 
+
+      Brookton June 11 1886
+
+      Lodge called to order as usual by Bro. Lounsbery W.C.T. pro-tem Officers absent W.C.T. - P.W.C.T. - R.&L.S. Minutes read and approved.
+
+      A communication from Ithaca Union Lodge was read stating that Edward H. Green, a member of that lodge, had been expelled for violation of Article second of the constitution. 
+
+      All reported true to the pledge.
+
+      For Good of the Order, a poem was read by Sister Toby followed by a recitation from Bro. Ed. Shurter.
+
+      Appointments for next week for reading Sisters Amanda & Ellen Lounsbery Sister Mills Bro. Chas. Lounsbery, Sister Bush.
+
+      For music Sisters Woodhull Roe & Toby For recitations, Sister Gorsline & Bro. Woodhull. No receipts.
+
+      Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+  
+  - date: 1886-06-18 
+    content: |+ 
+
+      Brookton June 18 1886
+
+      Lodge called to order by Bro. Lounsbery pro-tem. Appointments for vacant offices Ed. Shurter W.V.T. P.W.C.T Bro Franklin of Ithaca; Bro. Chas Lounsbery [O?].G. Officers absent, W.C.T. - W.V.T. - P.W.C.T. - T. - [I?]. G. - Minutes read & approved.
+
+      All members true the the pledge.
+
+      The name of Clarence Childs was proposed for membership. Motion made & carried that the committee report to night and the Lodge Deputy be asked to grant a dispensation to waive the usual rule and initiate the candidate to-night.
+
+      The name of Mr. Childs being duly balloted upon, he was declared elected and initiated in the first degree of our Order.
+
+      ~ Recess ~
+
+      Upon calling to order, the County Deputy was called upon to make a few remarks. he responded by giving the lodge a few hints & suggestions in regard to the installation ceremonies.
+
+      A song was rendered by the Sisters Roe. Sister Young read an interesting story. Sister Lela Roe then favored the lodge with a song. Appointments for next week the same as last week with the addition of Bro Young. Receipts 50cts.
+
+      Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-06-25
+    content: |+ 
+      
+      Brookton June 25 /86
+
+      Lodge called to order as usual, by Bro. Lounsbery, W.C.T. pro-tem.  Appointments  pro-tem: W.M. Sister Gorsline W.C Bro. Denman. Officers absent W.C.T. - P.W. - C.T. - M. & D. Minutes read & approved.
+
+      ~ Recess ~ 
+
+      All members true to the pledge. For good of the order Sister Woodhull favored the Lodge with a song. A Selection was read by Sister Mills and also by Sister Lounsbery. Song by Sister Roe. Appointments for next week; for Music Sisters Toby & Roe. for reading: Bro. Denman Sister Shurter and Sister Ellen Lounsbery. Bros. Perry, Ault and Wolcott were also requested to furnish music. 
+
+      Receipts 15 cents 
+
+      Lodge adjourned for one week
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec. 
+
+
+  - date: 1886-07-02
+    content: |+ 
+
+      Brookton July 2 /86
+
+      Lodge called to order by Bro. Lounsbery W.C.T. pro-tem. Sister Roe was appointed to fill the W.C. chair. Officers absent W.C.T. - P.W.C.T. - W.C.T. - D.M. - R.S. Minutes read and approved.
+
+      Recess
+
+      All members true to the pledge.
+
+      For good of the order: - a song by Sister Roe. The spice box was then passed around and short, humorous items were selected from it and read by the members. A selection was given by Bro. Denman. A poem was read by Sister Lounsbery. The spice box was again handed around. Bro. Shurter gave a recitation from Longfellow. Song by Sister Roe.
+
+      Appointments for next week: - Sister Mills, Sister Shurter and Sister Amanda Lounsbery for reading and Sisters Roe and Toby for music.
+
+      No receipts.
+
+      Lodge adjourned for one week
+      
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-07-09
+    content: |+ 
+
+      Brookton July 9 1886
+
+      Lodge opened by Bro. Lounsbery W.C.T pro-tem. Officers absent at roll call W.C.T. - W.V.T. - P.W.C.T. - M & D. ~~O.G.~~ Sister Bush was appointed to fill the W.V.T. chair.
+
+      Minutes read & approved.
+
+      A notice was read of the expulsion of Gilbert Beal from Ithaca Union Lodge.
+
+      ~ Recess ~
+
+      During recess the younger portion of the members disappeared. Those who remained were entertained by Sister Toby with a song and by Sister Lounsbery with a poem. Some fine music was also rendered by a male quartet, in the street.
+
+      Lodge adjourned for one week. No receipts.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-07-16
+    content: |+ 
+
+      Brookton July 16 1886
+
+      Lodge called to order by Bro. Denman W.C.T. prot tem. Bro. Childs was appoitned to fill the W.M. chair. Officers absent W.C.T. - P.W.C.T. - T. - M. & D.
+
+      Minutes ready & approved with one correction. The O.G. was wrongly reported absent.
+
+      ~ Recess ~
+
+      All members true to the pledge.
+
+      For Good of the Order Sister Shurter read a few signs of good and bad luck which afforded considerable amusement to the members. Bro. Lounsbery read a humorous article about base ball playing. A song was rendered by Sister Lounsbery and Sister Toby.
+
+      Appointments for next week as follows. For music, Sisters Toby, Woodhull & Roe. For Selections, Sister Ellen Lounsbery, Bush & Mills. Bros. Childs & Woodhull.
+
+      No receipts.
+
+      Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-07-23
+    content: |+ 
+
+      Brookton July 23 1886
+
+      Lodge called to order by Bro. Hungerford W.C.T. Bro. Denman was appointed to fill W.M. chair. Officers absent, M. & D.M.
+
+      Minutes read & approved with the following correction: the name of Bro. Denman W.C.T. protem should be read instead of Bro. Hungerford, at the conclusion of reading of the minutes,
+
+      ~ Intermission ~ 
+
+      Under the head of Nomination of Officers the following persons were nominated:
+
+        - For W.C.T. - Richard Denman and Bro. Hungerford.
+        - W.V.T. - Sister Ellen Lounsbery and Sister Hungerford.
+        - W.S. - Sister Mills and Sister Toby.
+        - F.S. - Sister Lounsbery and Bro. Wolcott.
+        - T. - Bro Woodhull and Sister Woodhull
+        - W.C. - Sister Shurter.
+        - W.M. - Chas. Woodhull, Will Wolcott, Gertie Roe.
+        - I.G. - Bro. Lounsbery, George Ault, Cora Bush.
+        - O.G. - Flora Auchmoody and Clarence Childs.
+
+      Members all true to the pledge.
+
+      Bro & Sister Hungerford gave a report of the last County Lodge.
+
+      For Good of the Order a song was given by Sister Toby. Sister Ellen Lounsbery read an article on flies and how to banish them which was followed by a discussion ~~on~~ about flies.
+
+      No receipts. Lodge adjourned for one week.
+
+      Wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-07-30
+    content: |+ 
+
+      Brookton July 30 1886
+
+      Lodge called to order by Bro. Hungerford W.C.T. Appointments pro-tem: W.V. Sister Toby: - W.C. Bro. Mandeville. Officers absent at roll call: W.V. - C. - M. & D. R. & L.S. Minutes read & approved. All members true to the pledge.
+
+      ~ Intermission ~
+
+      Under head of “Election of Officers”, the following persons were elected for the ensuing quarter: W.C.T. - Bro Denman. W.V.T. Sister Ellen Lounsbery. W.C. - Sister Shurter. W.S. Sister Mills. F.S. Sister Amanda Lounsbery. T. Sister Woodhull. M. Bro. Woodhull. I.G. Bro. Ault. O.G. Bro. Childs. 
+
+      Bro. E. Lounsbery was recommended for Deputy of this Lodge for the coming year. Bro. Lounsbery was also elected for delegate to Grand Lodge, and Sister Gorsline as representative.
+
+      Bro. Mandeville, Sister Gorsline and Sister Amanda Lounsbery were elected regular delegates to County Lodge. For alternates, Bro. Hungerford Sister Hungerford and Sister Shurter. Delegates were given the power to fill vacancies. 
+
+      For Good of the Order a song was rendered by Sisters Toby & Woodhull.
+
+      Receipts 70 Lodge closed for one week.
+
+      wm. Hungerford W.C.T.
+
+      Emily Mills Sec.
+
+  - date: 1886-08-06
+    content: |+ 
+
+      Brookton Aug 6 1886
+
+      Lodge called to order by W.C.T. Appointments: W.C. Sister Toby, P.W.C.T. Bro. Denman. Officers absent at roll call: - P.W.C.T. - W.C. D.M - R&L.S. Minutes of last meeting read & approved.
+
+      ~ Intermission ~
+
+      After recess the Officers elect were duly installed for the quarter.
+
+      All members true to the pledge.
+
+      The W.C.T. appointed Sister Ellen Lounsbery, Bro. Hungerford and Sister Shurter to act upon the finance committee and Bro. Lounsbery, Sister Amanda Lounsbery and Sister Woodhull upon the sick committee.
+
+      Motion made & carried that no meeting of the Lodge be held next week.
+
+      For Good of the Order a short article was read by Sister Ellen Lounsbery. A prophecy concering the end of the world by Sister A. Lounsbery. Song by Sister Woodhull. Bro. Hungerford gave the lodge a short [poem ?] Song by Sister Toby. A humorous article by Bro Denman. 
+
+      Appointments for next week to furnish enterainments: Sisters Toby * Mills, Bro. Lounsbery, Sister & Bro. Woodhull. 
+
+      No Receipts Lodge adjourned for two weeks.
+
+      Richard Denman W.C.T.
+
+      Emily Mills Sec.
+
+
+  - date: 1886-08-27
+    content: |+ 
+
+      Brookton Aug 27 1886
+
+      Lodge called to order by Bro Denman. Officers absent at roll call; P.W.C.T. - D.M. I.G. - O.G. - R & L.S. 
+
+      Minutes of last meeting read & approved. All members reported true to the pledge.
+
+      ~ Intermission ~
+
+      For Good of the Order Sister Toby & Sister Woodhull entertained the members with music. 
+
+      Appointments for next week: Selections Sis. Toby, Sister Mills, Bro. Lounsbery, Bro & Sister Woodhull, Sister Shurter. For music Sister Toby & Woodhull.
+
+      Recepts 65
+
+      Lodge adjourned for one week.
+
+      Richard Denman W.C.T.
+
+      Emily Mills Sec.
+      
+
+
+
+

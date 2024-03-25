@@ -1,0 +1,3 @@
+---
+citation: "Caroline History Room, Slaterville Spring NY."
+---

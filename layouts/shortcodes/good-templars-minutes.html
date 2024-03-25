@@ -1,0 +1,16 @@
+{{- $date := .Get 0 -}}
+{{- with $date -}}
+    {{- $filtereddata := where $.Site.Data.good_templars_minutes.Meetings "date" $date -}}
+    {{- range $filtereddata -}}
+          <h3> 
+              {{- with .date -}}{{- time.Format "Monday Evening, 02 Jan 2006" . -}}{{- end -}}
+          </h3>
+          <figure class="meeting-minutes">
+          <blockquote>
+              {{- .content | markdownify -}}
+          </blockquote>
+          </figure>
+    {{- end -}}
+{{- end -}}
+
+

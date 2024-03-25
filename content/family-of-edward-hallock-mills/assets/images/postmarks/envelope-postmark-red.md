@@ -1,0 +1,10 @@
+---
+---
+BROOKTON,  NEW YORK
+
+TOMPKINS CO.
+
+E. H. MILLS, P. M.
+
+SEP 1 1886
+

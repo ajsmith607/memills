@@ -1,0 +1,11 @@
+---
+citation: "Mills Genealogy. Prepared by Samuel Wickham Mills. Minisink Valley Historical Society, Port Jervis NY, p6. Used with permission."
+notes: >-
+
+  - “Millsburgh - a ridge of land running from Scotchtown toward Bullville, was a neighborhood settled, among others, by Jacob Mills, whose descendants were numerous and constituted the prominent families of the district.” From [The History of the Town of Wallkill](https://www.townofwallkill.com/departments/historian/74-history.html) by Dorothy Hunt-Ingrassia, Town of Walkill Historian.
+---
+6
+
+having worked all night to make a pair of shoes for one of the men who was barefoot. The fort had been taken however by the British before his company reached it. He furnished, he said, a large number of shoes for the army and became quite rich in Continental money, but at the close of the war his money was worthless and he had to begin life anew. His place however was paid for and he had this advantage. A few years after the war, (the exact year is not known,) he sold his place in New Windsor and bought 2250 acres of land in the Town of Walkill, about five miles north of Middletown and moved his family there, the place having been known for many years of late as Millsburgh. The price paid by him for his large tract of land he has been heard to say was "Thirteen shillings and sixpence happenny" per acre in Continental money. 
+
+Here he started again a tannery consisting at first of but four vats in which he could tan about two hundred hides, but which was subsequently greatly enlarged. He at first lived on what was known at the Smith place, half a mile or more south east of the tannery and east of the direct road leading to Scotchtown. In 1791 be built the stone house near the tannery, employing for this purpose a mason from little Britain, all of the mortar for which building was carried by his son Samuel, then but fifteen years of age. This house he then occupied until 1807, when he built the large frame dwelling a little north of it in which he lived with his son Charles and where he died in 1841 in the 95th year of his age. The stone house, tannery, and farm connected therewith and formerly occupied by him, he gave to his son Samuel.

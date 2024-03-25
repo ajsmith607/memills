@@ -1,0 +1,54 @@
+{{/* DEPRECATED: use autotable */}}
+
+{{ $csvfile := .Get 0  }}
+{{ $theyear := 1868 }}
+{{ $id := "bcc-founders2" }}
+
+<table id="{{ $id }}">
+    {{ range $i, $r := getCSV "," $csvfile }}
+        {{ if eq $i 0 }}
+<thead>
+    <tr>
+    <th data-sort="string" data-sort-default="desc">Identity</th>
+    <th data-sort="int" data-sort-default="desc">Approx Age<br/>at Founding</th>
+    <th data-sort="string" data-sort-default="desc">Occupation in<br/>1870 US Census</th>
+    <th data-sort="string" data-sort-default="desc">Church Position<br/>at Founding</th>
+    </tr>
+</thead>
+<tbody>
+        {{ else }}
+<tr>
+
+{{ with index $r 2 }}
+<td data-sort-value="{{ index $r 3 }}">
+    <strong>{{ with index $r 9 }}<a href="{{ . }}">{{ end }}{{ index $r 2 }}{{ with index $r 9 }}</a>{{ end }}</strong><br/>
+({{ with index $r 4 }}{{ . }}{{ else }}?{{ end }} - {{ with index $r 5 }}{{ . }}{{ else }}?{{ end }})
+</td>
+{{ else }} <td>&nbsp;</td> {{ end }}
+
+{{ with index $r 4 }}
+<td data-sort-value="{{ . }}">
+{{ sub $theyear (int (index $r 4)) }}
+</td>
+{{ else }} <td>&nbsp;</td> {{ end }}
+
+{{ with index $r 8 }}
+<td data-sort-value="{{ . }}"> {{ . }} </td>
+{{ else }} <td>&nbsp;</td> {{ end }}
+
+{{ with index $r 7 }}
+<td data-sort-value="{{ . }}"> {{ . }} </td>
+{{ else }} <td>&nbsp;</td> {{ end }}
+
+</tr>
+        {{ end }}
+    {{ end }}
+</tbody>
+</table>
+
+<script>
+    jQuery(document).ready(function () {
+        $("#{{ $id }}").stupidtable();
+    });
+</script>
+

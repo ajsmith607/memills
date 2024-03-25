@@ -1,0 +1,24 @@
+baseURL = "https://memills.com/"
+title = "M. E. Mills"
+languageCode = "en-us"
+publishDir = "docs" 
+enableGitInfo = false  
+footnoteReturnLinkContents = "↩"
+lastmod = [":fileModTime", ":default"] # auto populates lastmod date
+paginate = "50"
+            
+[params]
+  _merge = "deep"
+  analyticsid = "G-8FWTQLRQHV"
+  additionalmetatags = "<meta name=\"msvalidate.01\" content=\"39A8A303812800B8DB236F6C8F9C78CB\" />" 
+  FullSizeLinks = true 
+
+# theming and reusable code
+[module]
+  _merge = "deep"
+  [[module.imports]]
+    path = "github.com/ajsmith607/undergo"
+ 
+[markup]
+  _merge = "deep"
+

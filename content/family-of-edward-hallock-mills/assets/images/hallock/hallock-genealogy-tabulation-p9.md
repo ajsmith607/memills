@@ -1,0 +1,5 @@
+---
+citation: "1928, <em>A Hallock genealogy: an attempt to tabulate and set in order the numerous descendants of Peter Hallock, who landed at Southold, Long Island, New York about the year 1640 and settled at Aquebogue, near Mattituck</em> by Lucius Henry Hallock, p9, familysearch.org."
+---
+
+PETER HALLOCK, the ancestor of those of the name in this country, was one of thirteen pilgrim fathers, including Rev. John Youngs, who in 1640 fled from civil and religious oppression in England, and landed at New Haven. In 1634, at Yarmouth, England, Rev. John Youngs and his wife Joan, of St. Margarets, Suffolk, were forbidden passage to New England. (History Puritans, Mass. Hist. Coll. Vol. 4, p. 101.) Mr. Youngs soon after settled at Hingham, in Norfolk Co. adjoining Suffolk, 100 miles northeast of London, and six years later on Oct. 21, 1640, he gathered his church anew under the auspices of Rev. John Davenport minister, and Theophilus Eaton governor of the New Haven Colony, which had just been planted April 18, 1638, under a branching oak—a virtual theocracy, the Bible their code of laws, ecclesiastical and civil. 
