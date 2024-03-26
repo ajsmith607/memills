@@ -49,6 +49,8 @@ Emily held a number of offices in the Lodge over the years, and as a result of h
 
 The Good Templars' meetings were both entertaining and educational by design, to offer a compelling alternative to drinking establishments, and Emily often contributed literary items to the “Good of the Order” portions of meetings in which members volunteered in advance to read or recite a short piece, such as a poem or essay. In the preserved meeting minutes of the lodge, the items for the Good of the Order were only identified in a minority of cases, but in the period from Apr 1883 to Aug 1886, Emily provided the following works that I have tried to identify:
 
+<figure>
+
 | Dates | Recorded Citations | Possible Matches | 
 | --- | --- | --- |
 | <span style="white-space:nowrap">01 Jun 1883</span> | Misplaced Door Keys | 05 May 1883, "Door Keys", Harper's Bazar, p274.  |
@@ -57,6 +59,8 @@ The Good Templars' meetings were both entertaining and educational by design, to
 | <span style="white-space:nowrap">22 Feb 1884</span> | This Method | currently unknown |
 | <span style="white-space:nowrap">25 Sep 1885</span> | One Day in a Country Store | may be "A Day in a Country Store" referenced <br> elsewhere, but still unidentified | 
 | <span style="white-space:nowrap">29 Jan 1886</span> | Strive, Wait and Pray | "Strive, Wait, and Pray" <br /> by Adelaide A. Procter |
+
+</figure> 
 
 And on 15 Jan 1886: "Reading of a pleasant poem by Sis Mills". Years later, when Emily joined the Brookton chapter of the Women's Christian Temperance Union, she held offices in the chapter just as she had in the Templar's Lodge, including "Superintendent of Literature and Publications". 
 

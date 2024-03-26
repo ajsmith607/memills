@@ -7,12 +7,13 @@ notes: >-
   - Based on its inferred size and relative proportions, as well as the "friendly greeting", this is likely a postcard that Emily apparently gave away to customers to advertise her store. I did not find a reproduction of the opposite side.
 ---
 
-<pre>
 Compliments of 
+
 Miss M. E. Mills
+
 General Merchandise
+
 Brookton, N. Y.
 
 Friendly Greeting
-</pre>
 

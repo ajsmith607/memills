@@ -24,7 +24,7 @@ The grist mill was known as the "lower mill" and over the years, the lot was sub
 
 {{% fig "lower-grist-mill/lower-grist-mill-scaled" "800" /%}} 
  
-Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on Emily Mills," including that the house was "part of the grist mill lot" and that it was "occupied by E. H. Mills as tenant" prior to him purchasing the home. 
+Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on Emily Mills", including that the house was "part of the grist mill lot" and that it was "occupied by E. H. Mills as tenant" prior to him purchasing the home. 
 
 A summary of the historical deeds referenced below, up to the time it was owned by Jessie Brewer:
 
@@ -123,7 +123,7 @@ It isn't clear exactly when or at which crossing the following photos were taken
 {{% fig "mills-home/Rappahannock-river-pontoon" "800" /%}}
 {{% fig "mills-home/rappahannock-wagon-train" "800" /%}}
 
-{{% fig "mills-home/1924-02-04-The-Ithaca-Journal-Ithaca-NY-p5" "350" /%}}
+{{% fig "mills-home/1924-02-04-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 
 <div class="cols">
 {{% fig "mills-home/1924-02-11-The-Ithaca-Journal-Ithaca-NY-p11" "350" /%}}

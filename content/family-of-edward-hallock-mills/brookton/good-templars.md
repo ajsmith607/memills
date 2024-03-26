@@ -533,7 +533,7 @@ An additional office was the **P.W.C.T., the Past Worthy Chief Templar**:
 <figcaption>
 </figure>
 
-Subordinate lodges also had the title of Lodge Deputy which was an annual position position appointed by the W.C.T. with input from other Lodge members. Although Chase's *Digest* references this position in many of its documented decisions, I cannot seem to find an actual description of the duties of this position in the lodge constitutions. Other guides and commentaries more explicitly describes it. [TODO: add lodge deputy description, responsibilities, contrast with "Deputy Marshall"]
+Subordinate lodges also had the title of Lodge Deputy which was an annual position position appointed by the W.C.T. with input from other Lodge members. Although Chase's *Digest* references this position in many of its documented decisions, I cannot seem to find an actual description of the duties of this position in the lodge constitutions. Other guides and commentaries more explicitly describe it. [TODO: add lodge deputy description, responsibilities, contrast with "Deputy Marshall"]
 
 High Bridge Lodge also had two standing committees: the finance and sick committees. [TODO: add prescribed standing committees, responsibilities of sick committee.]
 
@@ -848,7 +848,7 @@ On the side of God and changeless light.
 {{% fig "temperance/good-templars/minutes/1884-02-15" "800" /%}}
 {{% fig "temperance/good-templars/minutes/1884-02-15b" "800" /%}}
 
-John Greenleaf Whittier was a popular contemporary writer and activist, who wrote eloquently on the subjects of Christianity, temperance, abolition and women's suffrage.
+John Greenleaf Whittier was a popular contemporary poet and activist, who wrote eloquently on the subjects of Christianity, temperance, abolition and women's suffrage.
 
 <figure>
 
@@ -1038,7 +1038,7 @@ Her father Paul died when Elosia was less than two years old, and Elosia's mothe
 
 <figure>
 
-> **HENRY KRUM HOME, left -- 2409 Slaterville Road
+> **HENRY KRUM HOME, left -- 2409 Slaterville Road**
 >
 > This home was the Cass Tavern, conducted by Josiah Cass for three years. Aaron Bull bought it and ran it as Bull Tavern in 1815. It closed about 1848. It was known as the Henry Krum home. Mr. Krum lived from 1839-1905.
 
