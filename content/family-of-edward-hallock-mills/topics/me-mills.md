@@ -71,6 +71,26 @@ By the late 1860’s, Josiah Shurter’s properties were taken over by his son, 
 </aside>
 </figure>
 
+<figure>
+
+> **COOPER-SANDERS HOUSE, left – 65 White Church Road**
+>
+> In 1850, S. Cooper lived here, but by 1866 this was the home of George T. Sanders (1818-1887) and his wife L. Maria Nicholas (1820-1884).
+
+<figcaption>
+<cite>
+
+– *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 3 - P6.
+
+</cite>
+</figcaption>
+<aside>
+
+  - George T. Sanders’ home is represented on the 1866 *Photographic Atlas* by Stone & Stewart, shown above.
+
+</aside>
+</figure>
+
 On 12 Oct 1874, "George E. Sanders and Fannie his wife" ([Fannie (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders) (23 Nov 1847 to 10 Feb 1896)) sell the store property to George's brother-in-law, [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904), and a few months later in the 1875 census, George E. Sanders' occupation is "tanner" presumably working with Edward. It appears George E.'s father George T. Sanders continues to operate the store for several years afterward, as evidenced by the following news item discussing the temperance group {{% pagelink "good-templars" %}}, of which George T. Sanders' family, including [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) and her husband Edward, were members.
 
 <figure>

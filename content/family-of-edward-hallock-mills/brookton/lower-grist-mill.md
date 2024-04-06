@@ -3,6 +3,8 @@ title: The Lower Grist Mill/Dalebrook
 weight: 200
 ---
 
+Present-day Dalebrook Apartments sits on the foundation of the former Vorhis Milling Co., known as the "lower grist mill" or simply the "lower mill". Owners of the grist mill prior to the Vorhis family included Charles W. Personius and Willis Shurter. Known prior names of the lower grist mill include *Personius Flouring Mills*, *F.C. & E.F. Vorhis* or *Vorhis Brothers*, *Bates, Vorhis & Company*, *The Vorhis Milling Co.*
+
 <!--more-->
 
 ## Photographs of Dalebrook

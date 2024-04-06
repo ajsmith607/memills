@@ -550,10 +550,13 @@ I have not yet found obituaries for Reverend Horace or Eunice Humiston.
 
 [Esther Charlotte (Cary) Vorhis](https://www.findagrave.com/memorial/148400355/esther-vorhis) (1836 to 23 Jan 1917) is the second wife of [Andrew Cameron Vorhis](https://www.findagrave.com/memorial/21978492/andrew-cameron-vorhis) (1825 to 05 Aug 1889), who commonly went by Cameron, and the mother of [Frank Cameron Vorhis](https://www.findagrave.com/memorial/100452322/frank-cameron-vorhis) (1861 to 1919). Cameron Vorhis purchased the grist mill from Charles Personius, and Cameron's sons eventually took it over from him when Cameron retired, a few years prior to when the mill is said to have burned.
 
+Note that the Vorhis family did not purchase the {{% pagelink "upper-grist-mill" %}} until 14 Apr 1903, so references to The Vorhis Milling Co. in the 1890's is referring to the lower mill.  
+
 <div class="cols">
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3a" "350" /%}}
 {{% fig "mills-home/1889-08-09-The-Ithaca-Daily-Journal-Ithaca-NY-p3b" "350" /%}}
 </div>
+
 
 {{% fig "mills-home/2022-09-08-Caroline-History-Room-2" "800" /%}}
 
