@@ -17,7 +17,7 @@ After moving to Mott's Corners in Mar 1879, Edward restarted his general store o
 
 A summary of Mills' store deeds that I have been able to discover: 
 
-{{% autotable "/static/data/deeds.csv" "mills-store-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee" "484 Brooktondale Road, Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Store" /%}}
+{{% autotable "/static/data/deeds.csv" "mills-store-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee" "484 Brooktondale Road, Brooktondale NY, Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Store" /%}}
 
 In the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, a map of Mott's Corners shows a structure labeled "J. Shurter Store" in the same approximate location as Mills' Store.
 
@@ -528,7 +528,7 @@ Note in the survey maps below, the existence of a structure labeled "Brewer Barn
 {{% fig "brookton/maps/A-1-Book-p16-rotated" "800" /%}}
 {{% fig "brookton/maps/BF127082-001-book-272-p322" "800" /%}}
 
-The documentary evidence strongly suggests that the Brewer Barn was "Willis Shurter's Wagon Shop in Motts Corners".
+The documentary evidence indicates that the Brewer Barn was "Willis Shurter's Wagon Shop in Motts Corners".
 
 In the description of the oldest deed for Mulks's Home at present day 478 Brooktondale Road that I have yet found, from 04 Jun 1870, Caroline Deeds 3, p181, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to Jacob Vandemark, it states that the property begins "in the center of the 'Creek Road' and 113 links westerly from a line with the west side of Willis Shurter's Wagon Shop in Motts Corners..." This description is repeated in the next transfer on 27 Nov 1889 (Deeds 135/113), and only in the next transfer on 22 Oct 1896 (Deeds 146, p481) does the description change to "...what was **formerly** known as Willis Shurter's Wagon Shop in Motts Corners..." (emphasis added). 
 

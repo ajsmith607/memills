@@ -13,6 +13,19 @@ An overview of the temperance group High Bridge Lodge No. 296 of the Independent
 
 {{% toc "Jump To:" %}}
 
+## The First Lodge
+
+On 23 March 1868, the **Independent Order of Good Templars**, Lodge #562 was organized in Mott's Corners (Brooktondale). Their motto was "Faith Hope, and Charity." The charter members were: Edward Lounsbery, Helen Losey Walker V. Personius, Amanda Lounsbery, George Wolcott, G. E. Sanders, Kate Losey, Emma G. Lounsbery, L. B. Landon, A. M. Wolcott, E. S. T. Lounsbery, Richard Lounsbery, Benjamin Losey, James Roe, Sarah F. Edwards, Ella M. Personius, Abby Landon, Addie L. Genung, Frank Heath, Harley L. Miller, N. I. Roe, D. V. Personius, William Personius, George Aldrich, George L. Pelham, Frank Osburn, F. M. Loncry (or Loncoy), Lyman Sherter, “N'ls Edwards"", and Justus H. Heath. 
+
+
+Barbara Kone compilation "A History of the Town of Caroline, Tompkins County, New York, United States of America" known to us all as "The Bicentennial Book."
+
+
+
+The **Grand Division of the Sons of Temperance of Western New York** was organized in Motts Corners on 21 February 1874. It was Division # 115 (?) and located in Personius Hall. Charter members were: George Wolcott, Julia Wolcott, Edward Mulks, Edward Lounsbery, Amanda Lounsbury, John McWhorter, J. B. Lull, Ruben G. Tucker, W. V. Personius, Nelly Personius, Sarah Edwards, George G. DePuy, Josiah Shurter, Willis Shurter, D. V. Personius, C. W. Burt, Cantine Lounsbery, Richard Lounsbery, Libbie Sanders, Ellen Wolcott, George E. Sanders, Fannie Sanders, James H. Mount, G. E. Ingraham, Hattie Hazen, L. B. Landon, Albert Landon, Fred Lounsbery, John Lounsbery, Ellen Personius, Herbert Shurter, Lyman Shurter. 
+
+
+
 ## The Early Years of High Bridge Lodge No. 296, Mott's Corners
 
 As the 22 Jan 1891 edition of the Ithaca Journal confirms, High Bridge Lodge was named for the wooden trestle at Mott’s Corners, which had just been completed in December 1875, a few months prior to the formation of High Bridge Lodge on 06 March 1876. 
@@ -633,7 +646,7 @@ Similarly at the national level, The Right Worthy Grand Lodge met annually and w
 
 **"Something or Nothing"** furnished by Emily Mills. Part of the difficulty searching for this, is that the phrase "something for nothing" and similar variations were commonly used in advertisements, and more metaphorically in discussions involving political compromise, for example. The phrase "something or nothing" was more often used in moral and philosophical contexts, for example, relating to principles or customs, that they must mean "something or nothing": in other words, if that something did not apply in the given context, it would not apply in any context. 
 
-In addition to searching directly for the title, I looked up specific authors of the time, especially female authors associated with temperance and suffrage, and I reviewed their works specifically. (See the reference section of these material for a list of some of their names.) This approach turned up a possible match (if we assume the Lodge secretary Arthur Green didn't perfectly record the title spoken): the poem "Nothing and Something" by Frances Ellen Watkins Harper, first published in 1872, the subject of which is "the victim of drink". 
+In addition to searching directly for the title, I looked up specific authors of the time, especially female authors associated with temperance and suffrage, and I reviewed their works specifically. (See the reference section below for a list of some of their names.) This approach turned up a possible match (if we assume the Lodge secretary Arthur Green didn't perfectly record the title spoken): the poem "Nothing and Something" by Frances Ellen Watkins Harper, first published in 1872, the subject of which is "the victim of drink". 
 
 <figure>
 
@@ -1779,7 +1792,7 @@ Arthur's brother is fellow Templar **[Richard Lounsbery Denman](https://www.find
 
 <figure>
 
-> "SLATERVILLE SPRINGS" HISTORICAL MARKER, right AND THE GALLAGHER HOUSE, right--2693 Slaterville Road
+> **"SLATERVILLE SPRINGS" HISTORICAL MARKER, right AND THE GALLAGHER HOUSE, right--2693 Slaterville Road**
 >
 > Slaterville was called "Dutch Settlement" and it was changed to "Slaterville" in 1823 in honor of Levi Slater (1773-1851), the first school teacher. "Springs" was added to the name of the Post Office in August 1890. Dr. William Crawford Gallagher (1840-1921) sunk the first artesian well in 1871 and discovered the Magnetic Mineral Water. In the late 1950's and early 1960's this house held a restaurant, and later was turned into apartments.
 
@@ -1921,9 +1934,9 @@ A partial bibliography of the Professor's publications:
 
   - 1917, *How to Debate* by Edwin DuBois Shurter, Harper & Brother, New York NY.
 
-Cornell University library owns a copy of 1903's *Public Speaking* signed by the author: 
+Cornell University library owns a copy of 1903's *Public Speaking* signed by the author. The book was a gift to his mother-in-law, and presumably returned to Brookton after her death, eventually finding its way to local collector Bob Albertson, who then gifted it to Cornell. 
 
-{{% fig "temperance/good-templars/members/ed-shurter-bob-albertson" "500" /%}}
+{{% fig "temperance/good-templars/members/ed-shurter-bob-albertson" "800" /%}}
 
 E. D. Shurter also wrote "In Tribute to Emily Mills" in the Ithaca Journal after she died. 
 
@@ -2075,12 +2088,12 @@ By Jun 1891, High Bridge Lodge No. 720 "suspended", although Perseverance Temple
 
 ## References and Research Notes
 
-Substantial documentation on the rules, practices and early history of the Good Templars survives. This section primarily relies on the following sources, which will be referenced below according to the indicated abbreviation:
+Substantial documentation on the rules, practices and early history of the Good Templars survives. 
 
   - 1855, *Degree Book of the Independent Order of Good Templars*, W.J. Moses, Auburn NY.
   - 1869, *The History of the Independent Order of Good Templars* by I. Newton Peirce, Daughaday & Becker, Philadelphia PA.
   - 1875, *A Digest of the Laws, Decisions, Rules and Usages of the Independent Order of Good Templars with a Brief Treatise on Parliamentary Practice* by Simeon B. Chase, Garrigues Brothers, Philadelphia PA.
-  - 1888, *The Good of the Order* by Simeon B. Chase and *History of the Independent Order of Good Templars* by S.D. Hastings, Press of the National Temperance Society and Publication House, NY.
+  - 1888, *The Good of the Order* by Simeon B. Chase and *History of the Independent Order of Good Templars* by S.D. Hastings, Press of the National Temperance Society and Publication House, NY. Both titles published as one volume.
   - 1888, *The Templar at Work* by Frank J. Sibley, e2, Press of the National Temperance Society and Publication House, NY.
   - 1894, *Ritual for Subordinate Lodges of the Independent Order of Good Templars* Published by Authority of the International Supreme Lodge.
   - 1895, *Secret Societies Illustrated*, Ezra A. Cook Publisher, Chicago IL.

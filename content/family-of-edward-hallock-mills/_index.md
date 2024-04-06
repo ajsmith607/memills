@@ -59,7 +59,7 @@ Historians and archivists: Barbara Kone, Caroline Town Historian. Diane Moore, F
 
 Churches and cemeteries: Elaine Sapp, Mike Scaglione, Pastor Kayti Dean, and the council of Caroline Valley Community Church. Emily Adams and Bill Besemer of Brookton (formerly Quick) Cemetery. Kathleen Langdon, Reformed Dutch Church at Port Richmond. Friends of Abandoned Cemeteries of Staten Island. Rob Bernhardt, Pleasant Grove Cemetery, Cayuga Heights. Margaret Wegener, Calvary Presbyterian Church, West New Brighton. Ken Rumble, Corfu United Presbyterian Church. Linda Tucker and Betsy Abramson, Evergreen Hill Cemetery, Corfu. Richard Simpson, New Dorp Moravian Church. 
 
-Caroline community members and collectors: Frank Proto, Lois Lounsbery, Bea Raponi, Ted Sobel, Ralph Conant, Debra Rogers, Edward Dibble, Ruth Ellis, Annie Doubleday, Edie Spaulding.
+Caroline community members and collectors: Frank Proto, Lois Lounsbery, J. Burbank, Bea Raponi, Ted Sobel, Ralph Conant, Debra Rogers, Edward Dibble, Ruth Ellis, Annie Doubleday, Edie Spaulding.
 
 Technical consultants: Lee Dresser L.S., T.G. Miller, P.C. Ian M. Sheive L.S., Sheive Land Surveying. Kelly Beaver, Goulds Pumps. Mike Bishop, Ground Penetrating Radar Systems, Terry Jones, Rivendell Masonry and Construction. 
 

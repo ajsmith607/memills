@@ -225,7 +225,7 @@ And there are other stones that almost look like they could have lettering.
 {{% fig "adams-photos/foundation/2024-02-07 08.24.52" "800" /%}}
 {{% fig "adams-photos/foundation/2024-02-07 08.21.55" "800" /%}}
 
-It should be kept in mind that as I am writing this, the pushed out section of the dining room that includes the side entrance by the driveway, as well as the entire rear addition, hides from view large areas of the exterior stone foundation that I have never seen.So, there may be other interesting clues on the stones that are hidden from view, waiting to be rediscovered.
+It should be kept in mind that as I am writing this, the pushed out section of the dining room that includes the side entrance by the driveway, as well as the entire rear addition, hides from view large areas of the exterior stone foundation that I have never seen. So, there may be other interesting clues on the stones that are hidden from view, waiting to be rediscovered.
 
 Returning to the subject of the master stone mason who built the foundation, if we assume that it is not Edward Marsh, then who else could it be?
 

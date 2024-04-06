@@ -3,7 +3,7 @@ title: "The Mill Race Bridge and The Barn"
 weight: 300 
 ---
 
-In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Road was called Creek Road, the lower grist mill that was known for a time as Personius Flouring Mills sat where Dalebrook Apartments sit presently, almost directly across the street from Mills' Store, a building better known to many today as "The Old Post Office". What would later become known as “The Mills' Place” was sub-divided from the grist mill property, and it was originally referred to as "The Wolcott Lot" for William Benton Wolcott, the first owner of record. The Mill Race Bridge is one of the primary landmarks used to establish the Place of Beginning for the Mills' Home parcel from the time of its original sub-division from the grist mill to the end of Emily Mills' life. Using the documentary record as well as This section attempts to accurately locate the Mill Race Bridge and describe its shape and size.
+In the 1860's, when Brooktondale was called Mott's Corners, and Brooktondale Road was called Creek Road, the lower grist mill that was known for a time as Personius Flouring Mills sat where Dalebrook Apartments sit presently, almost directly across the street from Mills' Store, a building better known to many today as "The Old Post Office". What would later become known as “The Mills' Place” was sub-divided from the grist mill property, and it was originally referred to as "The Wolcott Lot" for William Benton Wolcott, the first owner of record. The Mill Race Bridge is one of the primary landmarks used to establish the Place of Beginning for the Mills' Home parcel from the time of its original sub-division from the grist mill to the end of Emily Mills' life. This section attempts to accurately locate the Mill Race Bridge and describe its shape and size.
 
 <!--more-->
 
@@ -19,7 +19,7 @@ For a long time, I have wanted to know more about the location and size of the M
 
 I will examine the available documentary evidence that directly references the mill raceway and bridge, and I will also add historical context that may aid interpretation of that evidence, beginning with *some* of the historical deeds for the grist mill/Dalebrook property during the relevant time period that will be discussed.
 
-{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "487 Brooktondale Road, Tompkins County Clerk, Ithaca NY." "property" "=" "Dalebrook" /%}}
+{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "487 Brooktondale Road, Brooktondale NY, Tompkins County Clerk, Ithaca NY." "property" "=" "Dalebrook" /%}}
 
 (The historical deeds for Dalebrook and Brookton's Market, the former lower grist mill and woolen mill respectively, are very complex, in terms of ownership, property lines and water rights to the raceway, and as a result, the deeds above are simply those I have found so far that I have been able to confirm and which are relevant to the Mills' property. As time allows, I will try to obtain a more complete and accurate account. [TODO: investigate deeds: Car 1/516, Car 1/518, Car 2/425, 134/69.])
 

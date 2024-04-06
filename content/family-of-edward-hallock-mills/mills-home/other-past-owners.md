@@ -28,7 +28,7 @@ Several phrases from the Mills' home deeds are quoted in Molly Adams' "A Note on
 
 A summary of the historical deeds referenced below, up to the time it was owned by Jessie Brewer:
 
-{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "475 Brooktondale Road, Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Home" /%}}
+{{% autotable "/static/data/deeds.csv" "mills-home-deeds" "book,book-num-i,page-num-i,document-date-d-nw,recorded-date-d-nw,grantor,grantee,amount" "475 Brooktondale Road, Brooktondale NY, Tompkins County Clerk, Ithaca NY." "property" "=" "Mills Home" /%}}
 
 The following is the first deed for the property after it was sub-divided from the grist mill lot. Thanks to Alanna Congdon at the Tompkins County Clerks Office, who provided an alternative scan of the original to the one already available online. I present both as each is clearer in areas where the other is not:
 
@@ -625,12 +625,7 @@ This deed contains the first mention of the Mills family, living in the home "as
 
 Edward entered the 179th New York Infantry Regiment, Company B as a private on 31 Aug 1864 and was promoted to First Lieutenant on 11 Dec 1864. Edward's Company, "Co B was at surender [sic] of Lee". Company B also included Fred Elmer Bates, Nelson J. Edwards, John James Roe, John Ault, and Dan C. Hanford, among others from Caroline. (All information from 1865, Complete Record, as Required by Chapter 690, of the Laws of 1865, Relating to Officers, Soldiers and Seamen, Composing the Quotas of the Troops Furnished to the United States, Town of Caroline, County of Tompkins, State of New York, Prepared By Charles L. Davis, ancestry.com.)
 
-
-(Town Clerks’ Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York, ancestry.com
-
-
-
-{{% fig "mills-home/edward-lounsbery-portrait" "350" /%}}
+{{% fig "mills-home/edward-lounsbery-portrait" "500" /%}}
 
 Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife Amanda, are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personeus was chosen chairman and Walker V. Personius secretary." Edward died within the Congregational Church while addressing the Christian Endeavor Society. For more context on the founding of the Congregational Church of Mott's Corners, see [this section]({{% relref "founding-documents" %}}).
 

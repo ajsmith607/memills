@@ -675,7 +675,7 @@ The portrait of the late Ex-President Chester A. Arthur was draped with smilax. 
 </figcaption>
 </figure>
 
-James D. Warren died 17 Dec 1886, a full month after Chester Arthur's death 18 Nov 1886. That such a secret could be kept for so long from the active newspaperman is suggestive of severe impairment over those final weeks.
+James D. Warren died 17 Dec 1886, a full month after Chester Arthur's death 18 Nov 1886. While, as noted further below, in the last several years of James D. Warren's life, his son Orasmus became the primary manager of the newspaper, (see 06 May 1892, The Buffalo News, Buffalo NY, p1, newspapers.com), that such a secret could be kept for so long from the active newspaperman is suggestive of severe impairment over those final weeks.
 
 [James Newsom Matthews](https://www.findagrave.com/memorial/111297368/james-newson-matthews) (21 Nov 1828 to 20 Dec 1888) wrote this testament to his longtime friend and business partner, and for a time, his rival:
 
