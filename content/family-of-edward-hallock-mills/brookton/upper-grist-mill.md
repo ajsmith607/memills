@@ -3,7 +3,7 @@ title: The Upper Grist Mill
 weight: 250
 ---
 
-The deed history for the "Upper Grist Mill" can be followed back from the current address of 7 Mill Street, Tax Map ID: 10.-6-8. The land that the mill sat on was appropriated from that parcel by the State of New York 1963, with the "practice burn" of the mill taking place in 1964. The historical deeds refer to the Upper Grist Mill as the "Motts Mill Property".
+The deed history for the "Upper Grist Mill" can be followed back from the current address of 7 Mill Street, Tax Map ID: 10.-6-8. The land that the mill sat on was appropriated from that parcel by the State of New York in 1963, with the "practice burn" of the mill taking place in 1964. The historical deeds refer to the Upper Grist Mill as the "Motts Mill Property".
 
 <!--more-->
 
@@ -41,11 +41,11 @@ On 13 Dec 1870 the property was purchased by [Franklin Cuthbert Cornell Sr.](htt
 
 The deeds seem to indicate that what is presently Valley Road near the old mill site and the upper bridge, was called "Mechanic's Road". Similarly, what is presently Lounsbery Road (and possibly including what is presently White Church Road) was called "Hoffman Road".
 
-[Benjamin F. Hoffman](https://www.findagrave.com/memorial/162158885/benjamin-f-hoffman) (? to 28 Feb 1866) was married to [Susan Maria (Snow) Cantine Hoffman](https://www.findagrave.com/memorial/170183129/susan_m_hoffman) (09 Oct 1819 to 18 Sep 1898) whose first husband was [Charles Cantine Jr.](https://www.findagrave.com/memorial/65298768/charles_cantine) (08 May 1814 to 23 Aug 1845) the son of [Charles Cantine](https://www.findagrave.com/memorial/65298470/charles_cantine) (23 Sep 1771 to 20 Dec 1831). 
+[Benjamin F. Hoffman](https://www.findagrave.com/memorial/162158885/benjamin-f-hoffman) (? to 28 Feb 1866) married [Susan Maria (Snow) Cantine Hoffman](https://www.findagrave.com/memorial/170183129/susan_m_hoffman) (09 Oct 1819 to 18 Sep 1898) whose first husband was [Charles Cantine Jr.](https://www.findagrave.com/memorial/65298768/charles_cantine) (08 May 1814 to 23 Aug 1845) the son of [Charles Cantine](https://www.findagrave.com/memorial/65298470/charles_cantine) (23 Sep 1771 to 20 Dec 1831). 
 
 <figure>
 
-> The HOFFMAN TAVERN is mentioned in a n article about early Brooktondale by Cantine Lounsbery. He said that Benjamin Hoffman had a log tavern, near where now stands the Honor Roll on White Church Road, before Peter Lounsbery built his house in 1820.
+> The HOFFMAN TAVERN is mentioned in an article about early Brooktondale by Cantine Lounsbery. He said that Benjamin Hoffman had a log tavern, near where now stands the Honor Roll on White Church Road, before Peter Lounsbery built his house in 1820.
 
 <figcaption>
 <cite>
@@ -58,14 +58,14 @@ The deeds seem to indicate that what is presently Valley Road near the old mill 
 
   - Benjamin Hoffman was also an early "Poor Master" in Caroline. (Ibid., p121.)
 
-  - [Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery) (11 Dec 1831 to 16 Feb 1910) was a son of Peter Lounsbery.
+  - [Cantine Lounsbery](https://www.findagrave.com/memorial/89338791/cantine-lounsbery) (11 Dec 1831 to 16 Feb 1910) was a son of Peter and Harriet Lounsbery.
 
 </aside>
 </figure>
 
-Charles Cantine Jr.'s sister [Harriet (Cantine) Lounsbery](https://www.findagrave.com/memorial/20788872/harriet_lounsbery) (06 Nov 1801 to 17 Jul 1880) was married to [Peter Lounsbery](https://www.findagrave.com/memorial/89249317/peter_lounsbery) (12 May 1797 to 04 Apr 1867) on 21 Jun 1824 in Marbletown NY. The earliest deeds state that the Motts Mill Property was "part of the farm whereof Charles Cantine senior died", and is "land conveyed by will from Charles Cantine to his daughter Harriet". Peter Lounsbery's name appears on the deeds in his role as Justice of the Peace. 
+Charles Cantine Jr.'s sister [Harriet (Cantine) Lounsbery](https://www.findagrave.com/memorial/20788872/harriet_lounsbery) (06 Nov 1801 to 17 Jul 1880) married [Peter Lounsbery](https://www.findagrave.com/memorial/89249317/peter_lounsbery) (12 May 1797 to 04 Apr 1867) on 21 Jun 1824 in Marbletown NY. The earliest deeds state that the Motts Mill Property was "part of the farm whereof Charles Cantine senior died", and is "land conveyed by will from Charles Cantine to his daughter Harriet". Peter Lounsbery's name appears on these deeds in his role as Justice of the Peace. 
 
-Peter and Harriet's large family included Edward Lounsbery, mentioned above, a tanner, currier and "hide dealer", and a Civil War veteran, who helped found the {{% pagelink "founding-documents" "Congregational Church of Mott's Corners" %}}, the {{% pagelink "good-templars" "High Bridge Lodge of the International Order of Good Templars" %}}, and the {{% pagelink "other-past-owners" "David Ireland Post of the GAR" %}}. Edward Lounsbery owned both {{% pagelink "me-mills" "Mills' store" %}} and {{% pagelink "other-past-owners" "Mills' home" %}}, among many properties.
+Peter and Harriet's large family included Edward Lounsbery, mentioned above, a tanner, currier and "hide dealer", and a Civil War veteran, who helped found the {{% pagelink "founding-documents" "Congregational Church of Mott's Corners" %}}, the {{% pagelink "good-templars" "High Bridge Lodge of the Independent Order of Good Templars" %}}, and the {{% pagelink "other-past-owners" "David Ireland Post of the GAR" %}}. Edward Lounsbery owned both {{% pagelink "me-mills" "Mills' store" %}} and {{% pagelink "other-past-owners" "Mills' home" %}}, among other properties.
 
 A partial summary of the Upper Mill deeds:
 
