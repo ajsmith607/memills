@@ -33,8 +33,6 @@ Each photo has accompanying identifying information.
 {{% fig "bcc/cleaning-day-photo/conant-all" "350" /%}}
 </div>
 
-Each set of identities corroborates and expands upon the other, while there are also interesting conflicts. Most obvious is the fact that "Mrs. Dr. Lockwood" *is* Mittie Lockwood. And of course, even the corroborated identities are not guaranteed to be correct. So, though the probability of Emily Mills being in this photo is very small, it is still non-zero.  
-
 The Lounsbery photograph that was scanned for the Church Handbook had the identifications written on the reverse side. 
 
 {{% fig "bcc/cleaning-day-photo/lounsbery-back3" "800" /%}}
@@ -44,11 +42,18 @@ The Lounsbery photograph that was scanned for the Church Handbook had the identi
 {{% fig "bcc/cleaning-day-photo/lounsbery-back1" "350" "img,link" /%}}
 </div>
 
+Each set of identities corroborates and expands upon the other, while there are also interesting conflicts. Most obvious is the fact that "Mrs. Dr. Lockwood" *is* Mittie Lockwood. And of course, even the corroborated identities are not guaranteed to be correct. So, though the probability of Emily Mills being in this photo is very small, it still may be non-zero. There is, however compelling evidence to suggest that Emily is not in the photograph, as Molly Adams' research notes in a Mills family folder in her collection preserved in the Caroline History Room show that Charles Lounsbery, the Lounsbery ancestor who is purported to have given the identities on the back of the Lounsbery version of the cleaning day photograph, apparently remembered Emily and her store well, and presumably would have been able to identify her if she were present:
+
+{{% fig "me-mills/chas-lounsbery-cropped" "500" /%}}
+
 What immediately follows shows my initial attempts to confirm the identities of the people in the photograph.
 
 {{% fig "bcc/cleaning-day-photo/combined-numbered-photo" "800" "img,link" /%}}
 
 {{% autotable "/static/data/cleaning-day-photo.csv" "cleaning-day-photo" "number-i,conant-id,lounsbery-id,status" /%}}
+
+I have inferred the date of the photograph based on my own verified identification of Reverend Edward Robinson, who is my great granduncle, along with the records of the Congregational Church. Reverend Edward Robinson was the son of my great-great grandfather, Reverend James Richards Robinson, who had been pastor of Brookton Congregational Church just a few years prior. Edward's photograph is reproduced in at least one newspaper article, and several photographs of Reverend James Richards Robinson's family in the archives of Jeffrey Smith Jr. of Woodhull NY (my father) clearly include and identify the "Preacher" in the cleaning day photograph.
+
 
 <!--
 ### 1 and 3: Paul Landon/Elihu Personeus

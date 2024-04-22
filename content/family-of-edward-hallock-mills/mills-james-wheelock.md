@@ -199,7 +199,7 @@ Assuming the name "Wheelock" is correct as written, as the evidence indicates, w
 
 Nor do I recall encountering Wheelock in the genealogical data I have reviewed for related families such as Hawkins and Brown, nor among the names of known business associates, fellow church members, etc., nor in the available census records I have reviewed, although admittedly, I only discovered James once I was a few years into this research, so I may have encountered the name at a time when it would not have caught my attention.
 
-I asked Martha Deed, great-granddaughter of Juliett (Loper) Shepard, if she knew of "Wheelock":
+I asked Martha Deed, great-granddaughter of Juliett (Loper) Shepard, if she knew anything of the name "Wheelock":
 
 <figure>
 
@@ -316,7 +316,7 @@ And for the sake of completeness, I will add these final Wheelocks. I briefly ex
 
 <figure>
 
-> **"Chief Wheelock" Historical Marker, left
+> **"Chief Wheelock" Historical Marker, left**
 >
 > This area was the camping ground of Chief Wheelock, an Oneida Indian, who was killed in action in the War of 1812. After that, the indians no longer camped here.
 

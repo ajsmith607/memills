@@ -333,7 +333,7 @@ Barbara Kone and others have searched the Caroline History Room for the “leath
 
 And Molly retained a printed reproduction of the following item; the location of the original is currently unknown to me:  
 
-{{% fig "me-mills/me-mills-3-improved" "500" /%}}
+{{% fig "me-mills/card-photo-improved-3" "500" /%}}
 
 Finally, a few details that Molly preserved in the Mills family folder, including a description of Emily and the cases inside her stores:
 

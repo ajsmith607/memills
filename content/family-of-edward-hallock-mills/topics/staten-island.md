@@ -883,11 +883,11 @@ Based on similar characteristics of Theodore's two photographs, the second was t
 </figure>
 </div>
 
-Milton mentions Theodore's hospital stay, and as already discussed above, it was not long after Milton wrote that "Theodore is rising in the world" due to his promotion to 2nd Lieutenant, that Theodore fell from his horse, injuring his spine, which also affected his eyesight. He would never fully recover from these injuries, which as stated in his obituary, "finally resulted in the total loss of his sight and in the brain trouble which for several years past left him perfectly helpless, and to which he at last succumbed." Comparing his Army portrait with the studio portrait taken perhaps just a few years later, his gaze does seem to have a different quality.
+Milton mentions Theodore's hospital stay, and as already discussed above, it was not long after Milton wrote that "Theodore is rising in the world" due to his promotion to 2nd Lieutenant, that Theodore fell from his horse, injuring his spine, which also affected his eyesight. He never fully recovered from these injuries, which as stated in his obituary, "finally resulted in the total loss of his sight and in the brain trouble which for several years past left him perfectly helpless, and to which he at last succumbed." Comparing his Army portrait with the studio portrait taken perhaps just a few years later, his gaze does seem to have a different quality.
 
 {{% fig "staten-island/martha-deed/theodore-portrait-comparison" "800" /%}}
 
-Milton Loper's letters to Juliett as well as other family letters referencing Staten Island make it clear what the census records suggest: that in addition to boarders that commonly included employees of Pine, Hillyer & Co., the residence of Charles M. and Elmira Pine in West New Brighton was visited often by close and extended family members, and Juliett and Milton write about meeting at Staten Island with a mixture of warmth and excitement that is palpable. And the nieces and nephews seemed to regard Elmira with unique affection, as they always refer to her as "Auntie Pine", as compared to "Aunt Mary (Smith)" for example.
+Milton Loper's letters to Juliett as well as other family letters referencing Staten Island make it clear what the census records suggest: that in addition to boarders that commonly included employees of Pine, Hillyer & Co., the residence of Charles M. and Elmira Pine in West New Brighton was visited often by close and extended family members, and Juliett and Milton write about meeting at Staten Island with a mixture of warmth and excitement that is palpable. And the nieces and nephews seemed to regard Elmira with especial affection, as they always refer to her as "Auntie Pine", as compared to "Aunt Mary (Smith)" for example.
 
 Contrasted with Rogers' eventual position as hospital steward, Milton describes long days battling on the front lines, at times ending in retreat. Fortunately, Milton survived the battlefield, and as his regiment was mustering out at the end of the war, he wrote his last two letters to Juliett "from the South" in which he expresses his longing to see her in Staten Island.
 
@@ -1267,7 +1267,7 @@ As recently as Oct 2021, the building was occupied, as Google Maps images of the
 
 {{% fig "staten-island/pine-store-today/2021-10-pine-store-front-office" "800" /%}}
 
-For nearly half a century up to that point, the building was occupied by Furniture Restoration Workshop. 
+For several decades up to that point, the building was occupied by Furniture Restoration Workshop. 
 
 <figure>
 

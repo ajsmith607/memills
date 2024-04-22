@@ -445,7 +445,7 @@ Barbara Kone and others have searched the Caroline History Room for the “leath
 
 And Molly retained a printed reproduction of the following item; the location of the original is currently unknown to me:  
 
-{{% fig "me-mills/me-mills-3-improved" "500" /%}}
+{{% fig "me-mills/card-photo-improved-3" "500" /%}}
 
 Emily is also mentioned twice by Molly Adams (1936 to 23 Jun 2014) in her chapter "Town of Caroline" in *The Towns of Tompkins County: From Podunk to the Magnetic Springs* edited by Jane Marsh Dieckmann:
 

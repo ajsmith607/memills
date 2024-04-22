@@ -61,11 +61,6 @@ Satellite images from Google Maps still show evidence of the trestle's path in t
 {{% fig "brookton/maps/google-maps-trestle" "800" /%}}
 {{% fig "brookton/maps/google-maps-trestle-lines" "800" /%}}
 
-<div class="cols">
-{{% fig "brookton/maps/trestle-besemer-end-close" "350" /%}}
-{{% fig "brookton/maps/trestle-besemer-end-close-lines" "350" /%}}
-</div>
-
 As I write this, the entire railbed path from where the trestle ended on the northern side of Brooktondale Road to the former site of Besemer Station near present-day Route 79/Slaterville Road, is still quite clearly distinct in the landscape and is a pleasant walkway for the curious. There are a few streams that no longer have bridges crossing them, although evidence of the bridge abutments is still visible in the landscape. Otherwise, the path is still quite clear for long stretches.
 
 The most specific representations of the trestle I have seen can be found in the 1912 highway surveys. 

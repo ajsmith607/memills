@@ -915,7 +915,7 @@ The poem recorded as "**The Call of St. Gregory**", furnished by Emily Mills, is
 </figcaption>
 </figure>
 
-In the poem, a poor monk named Gregory is visited in his "narrow cell" by an unknown beggar, and the monk gives him his sole possession, a silver cup left him by his mother. Years later, Gregory became Pope, and he prepared a beggar's feast attended by an uninvited and unknown guest. Despite this, Pope Gregory welcomed this guest "for the sake of Him who is they Lord and mine". The guest then revealed himself as Christ "The Wonderful" and returned to Gregory "thy gift of old", the silver cup.
+In the poem, a poor monk named Gregory is visited in his "narrow cell" by an unknown beggar, and the monk gives him his sole possession, a silver cup left him by his mother. Years later, Gregory became Pope, and he prepared a beggar's feast attended by an uninvited and unknown guest. Despite this, Pope Gregory welcomed this guest "for the sake of Him who is they Lord and mine". The guest then revealed himself as Christ "The Wonderful" and returned to Gregory "thy gift of old", his mother's silver cup.
 
 {{% fig "temperance/good-templars/selections/12-1883-Harpers-New-Monthly-Magazine-v68-p17" "500" /%}}
 

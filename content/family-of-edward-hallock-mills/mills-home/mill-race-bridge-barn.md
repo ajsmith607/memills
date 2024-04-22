@@ -253,15 +253,13 @@ And to get a better sense of how Emily would have experienced the Mill Race Brid
 {{% fig "adams-photos/mill-race/2023-07-06_16.01.14" "800" /%}}
 {{% fig "adams-photos/mill-race/2023-07-06_16.01.14-lines" "800" /%}}
 
-An KMZ export (Keyhole Markup Language Zipped) of the GPS encoded data captured by the ground penetrating radar scans can be [downloaded here](/data/mrb-kml-export.kmz). This KMZ projected onto Google Maps:
-
+A KMZ export (Keyhole Markup Language Zipped) of the GPS encoded data captured by the ground penetrating radar scans can be [downloaded here](/data/mrb-kml-export.kmz). This KMZ projected onto Google Maps:
 
 {{% fig "brookton/maps/475-brookton/mrb-google-maps" "800" /%}}
 
 {{% fig "brookton/maps/475-brookton/mrb-google-maps-terrain" "800" /%}}
 
 {{% fig "brookton/maps/475-brookton/mrb-google-maps-terrain-closer" "800" /%}}
-
 
 
 <!--

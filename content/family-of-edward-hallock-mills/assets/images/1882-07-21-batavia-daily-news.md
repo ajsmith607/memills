@@ -8,6 +8,7 @@ publocation: "Batavia NY"
 pages: "1"
 source: "nyshistoricnewspapers.org"
 notes: >-
-    The entry above appeared in the "Corfu Mentions." column for "Corfu, June 20" the date is presumably a mis-print.
+
+  - The entry above appeared in the "Corfu Mentions." column for "Corfu, June 20" the date is presumably a mis-print.
 ---
 Miss Emily Mills, is visiting friends in town.
