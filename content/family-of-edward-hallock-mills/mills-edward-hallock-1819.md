@@ -157,7 +157,7 @@ Edward's son Jonas died after a brief illness in Oct 1885.
 
 {{% fig "1885-10-16-batavia-daily-news-p1" "500" /%}} 
 
-Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. (As this is written, Cleveland is the only president to have two non-consecutive terms.) A partial list of Brooktondale postmasters from usps.com, beginning with the very first, up to the 1970's:
+Edward's obituary mentions that he was "postmaster during the Cleveland administration" which I can confirm refers to the first Cleveland administration from 1885 to 1889. (As I write this, Cleveland is the only president to have two non-consecutive terms.) A partial list of Brooktondale postmasters from usps.com, beginning with the very first, up to the 1970's:
 
 {{% autotable "/static/data/postmasters.csv" "postmasters" "name,title,date-appointed-d" "usps.com." "" "" "" "" "14" /%}}
 
@@ -312,7 +312,7 @@ Emily officially joined the church rolls in the months immediately following Edw
 
 ## Notes for Future Researchers
 
-The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.". I haven't yet find another reference to this firm, and in the 1880 census, I have not found anyone else with the last name Mills, yet aside from the apparent coincidence, I cannot link this to Edward H. Mills, nor have I found a mention of the firm's existence before the Mills family move to Mott's Corners, which would presumably rule out a connection.
+The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.". I haven't yet found another reference to this firm, and presumably if a reference could be found prior to the Mills' move to Mott's Corners, that fact would presumably rule out a connection to the Mills family. But I will also note that in the 1880 Caroline  census, I do not see anyone else with the last name Mills. So, although I cannot directly link this firm to Edward H. Mills, I am inclined to believe, based on the circumstantial evidence, that this firm is likely Edward Mills', and if true, this could provide an important clue to not only their first months Mott's Corners, but it could also possibly point to the reason why they chose to move to Mott's Corners specifically.
 
 {{% fig "brookton/1879-12-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
 

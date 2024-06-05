@@ -386,7 +386,7 @@ We know a great deal about Emily through the activities of M. E. Mills, which Em
 </figcaption>
 </figure>
 
-[Miss Margaret "Maggie" LaBar (1880 to 1979)](https://www.findagrave.com/memorial/88609026/margaret-labar) is the daughter of farmer [William Edgar LaBar](https://www.findagrave.com/memorial/54156769/william_e_labar) (04 Dec 1839 to 1937) and [Sarah W. (Dan) Labar](https://www.findagrave.com/memorial/54156944/sarah_w_labar) (1842 to 1912). In the 1880 United States Federal Census for Caroline NY, "Magie B." appears to be a few weeks old, as her age given as "15/30". (Ibid. p15.) In the 1900 census, the family was living next to Jerome Miller, the Brookton Depot station agent. So, Margaret LaBar was likely well known to Emily for years prior to her "millinery displays". 
+[Miss Margaret "Maggie" LaBar (1880 to 1979)](https://www.findagrave.com/memorial/88609026/margaret-labar) is the daughter of farmer [William Edgar LaBar](https://www.findagrave.com/memorial/54156769/william_e_labar) (04 Dec 1839 to 1937) and [Sarah W. (Dan) Labar](https://www.findagrave.com/memorial/54156944/sarah_w_labar) (1842 to 1912). In the 1880 United States Federal Census for Caroline NY, "Magie B." appears to be a few weeks old, as her age given as "15/30". (Ibid. p15.) In the 1900 census, the family was living next to Jerome Miller, the Brookton Depot station agent. So, Margaret LaBar was presumably well known to Emily for years prior to her "millinery displays". 
 
 In the 1905 New York State Census, the family moved to Danby and the 1930 Federal Census indicates they were living in Danby on Bald Hill Road. The 1905 census lists the first occupation for Margaret: "fancy work" or decorative needlework. In later censuses, her occupation is "seamstress".
 

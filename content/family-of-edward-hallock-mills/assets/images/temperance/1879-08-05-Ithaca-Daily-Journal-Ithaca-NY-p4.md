@@ -102,7 +102,7 @@ MOTTS’ CORNERS
 
 –F. G. Ault has his cellar complemented and expects to soon be the owner and occupant of a new house, it is pleasantly situated and will be an ornament to our village.
 
-–Jusus Heath has his new blacksmith shop enclosed, and the sound of the hammer and anvil will soon be heard within its walls.
+–Justus Heath has his new blacksmith shop enclosed, and the sound of the hammer and anvil will soon be heard within its walls.
 
 –Geo. G. DePuy has the lumber and material on the spot preparatory to repairing and beautifying his house, and so the work goes on.
 

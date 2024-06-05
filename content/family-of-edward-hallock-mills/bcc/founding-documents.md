@@ -782,7 +782,7 @@ In the 1866 Stone & Stewart Atlas shown above, S. B. Landon is listed as a "butc
 
 {{% fig "bcc/general/1909-04-12-Ithaca-Daily-Journal-Ithaca-NY-p9" "500" /%}}
 
-#### Funerary Poems 
+### Funerary Poems 
 
 Finally, the following two poems were also clipped out of newspapers and stored along with similarly clipped obituaries of church members, some of which are shown above. Apparently, they had special significance.
 

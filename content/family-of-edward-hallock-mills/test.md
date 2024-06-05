@@ -3,6 +3,12 @@ title: "TEST PAGE"
 draft: true
 ---
 
+
+likely https://www.findagrave.com/memorial/92289496/william_s_evans
+
+
+      The attendence was not large, but harmonious and deeply enthusiastic. The members have strong faith and like Gideon's few, are determined to win.
+
 {{% fig "temperance/good-templars/Lounsbery-Edward-certificate2" "500" /%}}
 {{% fig "temperance/good-templars/Lounsbery-Edward-certificate3" "500" /%}}
 {{% fig "temperance/good-templars/Lounsbery-Edward-certificate4" "500" /%}}

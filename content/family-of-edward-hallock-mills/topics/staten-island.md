@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 400
 ---
   
-Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who subsequently co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles M. Pine was a longtime member of the church consistory. This section also explores related Pine family members in Staten Island as well as associates in the Loper, Hillyer, Brown, Egbert and Mersereau families. Finally, the Civil War service of Charles' son Theodore, and Theodore's cousins are also explored through surviving letters between his cousins Milton Loper and Juliett (Loper) Shepard. 
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who subsequently co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles M. Pine was a longtime member of the Church consistory. This section also explores related Pine family members in Staten Island as well as associates in the Loper, Hillyer, Brown, Egbert and Mersereau families. Finally, the Civil War service of Charles' son Theodore, and Theodore's cousins are also explored through surviving letters between his cousins Milton Loper and Juliett (Loper) Shepard. 
 
 <!--more-->
 
@@ -1262,6 +1262,8 @@ Some of these closer images show clear details of the decorative window lintels 
 </cite>
 </figcaption>
 </figure>
+
+Note that these lintels are not present in the visible alley-way windows of Pine's store shown in the Charles M. Steinrock photograph "Pine Residence" from Historic Richmond Town shown above. That photograph also shows the corner of a cornice on the top of the building that is not present in the 2000's photographs of the building.
 
 As recently as Oct 2021, the building was occupied, as Google Maps images of the second floor show an office with pictures hanging on the wall, and a computer monitor with brand name Dell against the window.
 

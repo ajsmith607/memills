@@ -1067,15 +1067,11 @@ Her father Paul died when Elosia was less than two years old, and Elosia's mothe
 
 Henry Krum was Caroline Town Supervisor in 1851. "H.S. Krum slipped on an icy pavement in Ithaca last Thursday and broke the small bone in his ankle. Dr. Gallagher reduced the fracture and he is as comfortable as can be under the circumstances." (02 Feb 1889, "Slaterville", Ithaca Daily Journal, Ithaca NY, p3, q23.) Dr. Gallagher was also a Good Templar and is described further below among the list of members.
 
-
-
-
-
 </article>
 
 <article> 
-{{% good-templars-minutes "1884-03-04" %}}
-{{% fig "temperance/good-templars/minutes/1884-03-04b" "800" /%}}
+{{% good-templars-minutes "1884-03-07" %}}
+{{% fig "temperance/good-templars/minutes/1884-03-07b" "800" /%}}
 </article>
 
 <article> 
@@ -1177,8 +1173,8 @@ Henry Krum was Caroline Town Supervisor in 1851. "H.S. Krum slipped on an icy pa
 </article>
 
 <article> 
-{{% good-templars-minutes "1884-09-07" %}}
-{{% fig "temperance/good-templars/minutes/1884-09-07" "800" /%}}
+{{% good-templars-minutes "1884-09-05" %}}
+{{% fig "temperance/good-templars/minutes/1884-09-05" "800" /%}}
 </article>
 
 <article> 
@@ -1231,9 +1227,9 @@ Henry Krum was Caroline Town Supervisor in 1851. "H.S. Krum slipped on an icy pa
 </article>
 
 <article> 
-{{% good-templars-minutes "1884-11-09" %}}
-{{% fig "temperance/good-templars/minutes/1884-11-09b" "800" /%}}
-{{% fig "temperance/good-templars/minutes/1884-11-09" "800" /%}}
+{{% good-templars-minutes "1884-11-07" %}}
+{{% fig "temperance/good-templars/minutes/1884-11-07b" "800" /%}}
+{{% fig "temperance/good-templars/minutes/1884-11-07" "800" /%}}
 </article>
 
 <article> 
@@ -1311,17 +1307,14 @@ Henry Krum was Caroline Town Supervisor in 1851. "H.S. Krum slipped on an icy pa
 <article> 
 {{% good-templars-minutes "1885-03-06" %}}
 {{% fig "temperance/good-templars/minutes/1885-03-06" "800" /%}}
-</article>
-
-<article> 
-{{% good-templars-minutes "1885-03-08" %}}
-{{% fig "temperance/good-templars/minutes/1885-03-08" "800" /%}}
+{{% fig "temperance/good-templars/minutes/1885-03-13" "800" /%}}
+{{% fig "temperance/good-templars/minutes/1885-03-06b" "800" /%}}
 </article>
 
 <article> 
 {{% good-templars-minutes "1885-03-13" %}}
-{{% fig "temperance/good-templars/minutes/1885-03-13b" "800" /%}}
 {{% fig "temperance/good-templars/minutes/1885-03-13" "800" /%}}
+{{% fig "temperance/good-templars/minutes/1885-03-13b" "800" /%}}
 </article>
 
 <article> 
@@ -1391,12 +1384,6 @@ Henry Krum was Caroline Town Supervisor in 1851. "H.S. Krum slipped on an icy pa
 </article>
 
 <article> 
-{{% good-templars-minutes "1885-07-03" %}}
-{{% fig "temperance/good-templars/minutes/1885-07-03a" "800" /%}}
-{{% fig "temperance/good-templars/minutes/1885-07-03b" "800" /%}}
-</article>
-
-<article> 
 {{% good-templars-minutes "1885-07-10" %}}
 {{% fig "temperance/good-templars/minutes/1885-07-10" "800" /%}}
 </article>
@@ -1407,9 +1394,14 @@ Henry Krum was Caroline Town Supervisor in 1851. "H.S. Krum slipped on an icy pa
 </article>
 
 <article> 
+{{% good-templars-minutes "1885-07-31" %}}
+{{% fig "temperance/good-templars/minutes/1885-07-31a" "800" /%}}
+{{% fig "temperance/good-templars/minutes/1885-07-31b" "800" /%}}
+</article>
+
+<article> 
 {{% good-templars-minutes "1885-09-18" %}}
 {{% fig "temperance/good-templars/minutes/1885-09-18" "800" /%}}
-{{% fig "temperance/good-templars/minutes/1885-09-18b" "800" /%}}
 {{% fig "temperance/good-templars/minutes/1885-09-18c" "800" /%}}
 </article>
 
@@ -1538,7 +1530,6 @@ Yet strive, and wait, and pray.
 {{% fig "temperance/good-templars/minutes/1886-02-19a" "800" /%}}
 {{% fig "temperance/good-templars/minutes/1886-02-19b" "800" /%}}
 {{% fig "temperance/good-templars/minutes/1886-02-19c" "800" /%}}
-{{% fig "temperance/good-templars/minutes/1886-02-19d" "800" /%}}
 </article>
 
 <article> 
@@ -1906,7 +1897,7 @@ More information on the Sanders family can be found at [Mills' Store in Brookton
 
 Also see **Edward and Amanda (Sanders) Lounsbery**. 
 
-### Seager, Bro
+### Seager, Geo
 
 ### Shaw, Dea
 

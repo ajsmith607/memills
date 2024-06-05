@@ -291,7 +291,7 @@ And Nicholas and Rhoda's children are:
 {{% fig "hempstead/NY-gbr-p248" "350" /%}}
 </div>
 
-  - **[Abigail Seaman (Pine) Higbie](https://www.findagrave.com/memorial/108830062/abby-s-higby)** (15 Feb 1805 to 05 May 1877), spelled "Abby" in the Church records and on her tombstone, but "Abbey" is also used. Both Emily and Edward Mills appear to be mentioned in the Last Will and Testament of Abby's husband Henry Higbie (? to 30 Oct 1881), dated 21 Oct 1881. In the 1850 United States Federal Census in Hempstead, Henry is listed as a farmer. Abby and Henry were married in 1852 in South Hempstead.
+  - **[Abigail "Abby" Seaman (Pine) Higbie](https://www.findagrave.com/memorial/108830062/abby-s-higby)** (15 Feb 1805 to 05 May 1877), spelled "Abby" in the Church records and on her tombstone, but "Abbey" is also used. Both Emily and Edward Mills appear to be mentioned in the Last Will and Testament of Abby's husband Henry Higbie (? to 30 Oct 1881), dated 21 Oct 1881. In the 1850 United States Federal Census in Hempstead, Henry is listed as a farmer. Abby and Henry were married in 1852 in South Hempstead.
 
 {{% fig "hempstead/NY-gbr-p388" "500" /%}}
 
@@ -299,7 +299,7 @@ And Nicholas and Rhoda's children are:
 
   - **[Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine)** (1812 to 08 Oct 1897), approximately 16 years old when his father died. Professionally, Charles went by "Charles M. Pine" or "C. M. Pine". At least two independent sources confirm that Charles' middle name is "Mills". Read more about Charles' life and family in the [Staten Island]({{% relref "staten-island" %}}) section. 
 
-  - **[Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine)** (26 Nov 1814 to 14 Mar 1880), 13 years old when his father died. "His middle name "Mills" is in honor of his paternal grandmother, Jerusha Mills (married to Rheuben Pine)." (11 Nov 2023, Jacqueline Igliozzi, personal correspondence.) Samuel was a carriage maker.
+  - **[Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine)** (26 Nov 1814 to 14 Mar 1880), 13 years old when his father died. "His middle name 'Mills' is in honor of his paternal grandmother, Jerusha Mills (married to Rheuben Pine)." (11 Nov 2023, Jacqueline Igliozzi, personal correspondence.) Samuel was a carriage maker.
 
 {{% fig "hempstead/NY-gbr-p251" "500" /%}}
 
