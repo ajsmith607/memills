@@ -48,12 +48,11 @@ Genealogical data accumulated through this research can be <a href="data/genealo
 
 ## Acknowledgements
 
-This research was made possible by the generosity of many people who have patiently offered their time, their knowledge, and access to their materials.
+This research was made possible by the generosity of many people who have patiently offered their time, their knowledge, and access to their materials. I have attempted to exhaustively account for all who have contributed materially to this work, and to identify them to the extent that they have given me permission.
 
-Descendants of historical subjects: Carol Coggshall, great-great granddaughter of Ellen Jane (Andrews) Predmore Gould. Jacqueline Igliozzi, great-great-great granddaughter of Samuel Mills Pine. Martha Deed, great-granddaughter of Juliett (Loper) Shepard. Charles D. Warren, great-great grandson of James Dunlap Warren. John B. Mills, great-great-great grandson of William Mills, the brother of Reverend Samuel Wickham Mills. Joan Taber, Fred Estabrook, and Ed Croop, great-great grandchildren of David Thatcher. Jodi Leaf, great-great-great granddaughter of Charles C. Eastman. Emily Brust Crane, great-granddaughter of Reverend Richard James Robinson. Matt Long, former owner of Charles Pine's general store on Richmond Terrace in Staten Island. 
+Descendants of historical subjects: Carol Coggshall, great-great granddaughter of Ellen Jane (Andrews) Predmore Gould. Jacqueline Igliozzi, great-great-great granddaughter of Samuel Mills Pine, the brother of Mary Ann (Pine) Mills. Martha Deed, great-granddaughter of Juliett (Loper) Shepard. Charles D. Warren, great-great grandson of James Dunlap Warren. John B. Mills, great-great-great grandson of William Mills, the brother of Reverend Samuel Wickham Mills. Joan Taber, Fred Estabrook, and Ed Croop, great-great grandchildren of David Thatcher, the brother of Hannah (Thatcher Eastman) Mills. Jodi Leaf, great-great-great granddaughter of Charles C. Eastman, the first husband of Hannah (Thatcher Eastman) Mills. Matt Long, former owner of Charles Pine's general store on Richmond Terrace in Staten Island. Emily Brust Crane, great-granddaughter of Reverend James Richards Robinson, the great-great grandfather of Adam Smith. 
 
-
-Former owners of 475 Brooktondale Road: Clara and Luke Jones, Larry and Janet Lattin, and Andrea Talmadge and John Callaghan.
+Former owners of 475 Brooktondale Road: Clara and Luke Jones, Larry and Janet Lattin, Andrea Talmadge and John Callaghan.
 
 Historians and archivists: Barbara Kone, Caroline Town Historian. Diane Moore, Family History Center, Church of Jesus Christ of Latter Day Saints.  Allan Starkweather, Corfu Village Historian. Al Chafee, Newfield Historical Society. Alanna Congdon, Tompkins County Clerk's Office. Diana Reding, Corfu Free Library. Bea Szekely, Cayuga Heights Village Historian. Southworth Library. Carli DeFillo, Historic Richmond Town. Andrea Squeri, Long Island Museum of American Art, History, & Carriages. Nancy Conod, Minisink Valley Historical Society. Cynthia Van Ness and Adam Rubin, Buffalo History Museum. Erik Huber and Grace de Sagun, Queens Public Library. Marcia Kirk, NYC Department of Records and Information Services. Jen Shulman, Historical Programs and Collections at American Red Cross. Richard Wines, Hallockville Farm Museum. Kelly Filippone, Caren Zatyk and Marissa Cuebas, Long Island Room, Smithtown Library. Bernard Vascotto, General Motors Heritage Center. David Kerns, Pottstown Historical Society, PA. Robert Hancock, The American Civil War Museum. Kerri A. Pfister, The Frick Collection. Mary Hodges, Spencer Historical Society. Leslie Smith, Woodhull NY Community Historian. Jay Franklin, Tompkins County Director of Assessment.
 
@@ -63,7 +62,7 @@ Caroline community members and collectors: Frank Proto, Lois Lounsbery, J. Burba
 
 Technical consultants: Lee Dresser L.S., T.G. Miller, P.C. Ian M. Sheive L.S., Sheive Land Surveying. Kelly Beaver, Goulds Pumps. Mike Bishop, Ground Penetrating Radar Systems, Terry Jones, Rivendell Masonry and Construction. 
 
-Those throughout the years who specifically preserved precious memories of Emily: Gertrude Conant, E. D. Shurter, Jessie Brewer, and Molly Adams.
+And finally, I am grateful to those throughout the years who specifically preserved precious memories of Emily, particularly, Gertrude Conant, E. D. Shurter, Jessie Brewer, and Molly Adams.
 
 
 

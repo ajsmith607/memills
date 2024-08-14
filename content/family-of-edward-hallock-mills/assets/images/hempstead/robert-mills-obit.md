@@ -4,7 +4,7 @@ notes: >-
 
     - [Robert Sydney Mills](https://www.findagrave.com/memorial/29864008/robert-sydney-mills) (11 Nov 1835 to 15 Jan 1912).
 
-    - According to [Wikipedia](https://en.wikipedia.org/wiki/Bright%27s_disease): “Bright's disease is a historical classification of kidney diseases that are described in modern medicine as acute or chronic nephritis. It was characterized by swelling and the presence of albumin in the urine, and was frequently accompanied by high blood pressure and heart disease. …It is now known that Bright's disease is caused by a wide and diverse range of kidney diseases; thus, the term Bright's disease is retained strictly for historical application. The disease was diagnosed frequently in diabetic patients; at least some of these cases would probably correspond to a modern diagnosis of diabetic nephropathy.”
+    - “Bright's disease is a historical classification of kidney diseases that are described in modern medicine as acute or chronic nephritis. It was characterized by swelling and the presence of albumin in the urine, and was frequently accompanied by high blood pressure and heart disease. …It is now known that Bright's disease is caused by a wide and diverse range of kidney diseases; thus, the term Bright's disease is retained strictly for historical application. The disease was diagnosed frequently in diabetic patients; at least some of these cases would probably correspond to a modern diagnosis of diabetic nephropathy.” ([Bright's Disease](https://en.wikipedia.org/wiki/Bright%27s_disease), Wikipedia.org.) 
 
     - [Esther Hinman (Losea) Mills](https://www.findagrave.com/memorial/29864055/esther-himan-mills) (22 Aug 1832 to 27 Jan 1911).
     

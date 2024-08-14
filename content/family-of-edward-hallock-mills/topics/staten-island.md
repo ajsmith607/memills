@@ -3,7 +3,7 @@ title: "The Mills Family in Staten Island NY"
 weight: 400
 ---
   
-Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who subsequently co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles M. Pine was a longtime member of the Church consistory. This section also explores related Pine family members in Staten Island as well as associates in the Loper, Hillyer, Brown, Egbert and Mersereau families. Finally, the Civil War service of Charles' son Theodore, and Theodore's cousins are also explored through surviving letters between his cousins Milton Loper and Juliett (Loper) Shepard. 
+Edward and Mary Ann began their marriage in Staten Island NY where they lived throughout the 1850's and where each Mills child was born. Here, Edward presumably learned the grocery business from Mary Ann's brother, [Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine) (1812 to 08 Oct 1897), who subsequently co-owned E. H. Mills & Co. in Corfu. Edward presumably worked in Pine's general store, which  was located in West New Brighton, also known as Factoryville, a neighborhood in the Staten Island town of Castleton, and was known as Pine, Hillyer & Co. and then C. M. Pine & Son. The Mills are members of the Reformed Dutch Church of Port Richmond, where Charles M. Pine was a longtime member of the Church consistory. This section also explores other Pine and Loper family members in Staten Island at the time as well as associates in the Hillyer, Brown, Egbert and Mersereau families. Finally, the Civil War service of Charles' son Theodore, and Theodore's cousins are also explored through surviving letters between Milton Loper and Juliett (Loper) Shepard. 
 
 <!--more-->
 
@@ -264,7 +264,7 @@ Charles M. Pine was a prominent and prolific business man who was a central figu
 {{% fig "pine/cm-pine-signature-on-luther-loper-will" "350" /%}}
 </div>
 
-Charles M. Pine continued his grocery career in Staten Island starting in 1848, and the Beers map (explored further below) confirms what other histories describe, that there are two stores associated with Charles Pine: C. M. Pine & Co., as well as the location next to his residence that was known earlier as Pine, Hillyer & Co. and later as C. M. Pine & Son. Presumably, Edward Mills worked for Charles at least some of the time that he lived in Staten Island, and it seems likely Edward moved to Castleton because of Charles. Edward may have worked at either or both locations.
+Charles M. Pine continued his grocery career in Staten Island starting in 1848, and the Beers map (explored further below) confirms what other histories describe, that there are two stores associated with Charles Pine: C. M. Pine & Co. on Barker Street, east of Factory Lake, as well as his primary place of business, the location next to his residence that was known earlier as Pine, Hillyer & Co. and later as C. M. Pine & Son. Presumably, Edward Mills worked for Charles at least some of the time that he lived in Staten Island, and it seems likely Edward moved to Castleton because of Charles. Edward may have worked at either or both locations.
 
  <figure>
 <blockquote>
@@ -276,7 +276,7 @@ Charles M. Pine continued his grocery career in Staten Island starting in 1848, 
 </figcaption>
 </figure>
 
-Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably also working in Charles' store. This might suggest that James is not actually the "Hillyer" being indicated in the store's name, but one of his relatives who were also known to be in the same line of work. And it is perhaps relevant that roughly coinciding with the establishment of Charles M. Pine's store James Hillyer's grandfather John Hillyer as well as Nathaniel Seaman, both died in 1848. However, other clues seem consistent with James being the indicated co-owner, as he seems to be referred to as such when he is said to be "of the firm Pine Hillyer & Co." and the rough timeline I am aware of seems consistent with the store's name changing after he left to form Hillyer & Egbert. 
+Charles' occupation is "merchant" in Castleton in the 1850 Federal census, and James Hillyer lives with the Pine family, as a clerk, presumably also working in Charles' store. (h) This might suggest that James is not actually the "Hillyer" being indicated in the store's name, but one of his relatives who were also known to be in the same line of work. And it is perhaps relevant that roughly coinciding with the establishment of Charles M. Pine's store James Hillyer's grandfather John Hillyer as well as Nathaniel Seaman, both died in 1848. However, other clues seem consistent with James being the indicated co-owner, as he seems to be referred to as such when he is said to be "of the firm Pine Hillyer & Co." (1877, Annals of Staten Island From its Discovery to the Present Time by J.J. Clute, p389-390, quoted elsewhere) and the rough timeline I am aware of seems consistent with the store's name changing after he left to form Hillyer & Egbert. 
 
 {{% fig "staten-island/1850-us-census-castleton" "800" /%}}
 
@@ -352,7 +352,7 @@ The following are Google Maps street view images from Richmond Terrace captured 
 {{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store2" "800" /%}}
 {{% fig "staten-island/pine-store-today/2022-oct-google-maps-pines-store3" "800" /%}}
 
-It is also interesting to note that the Factory Lake (sometimes referred to as Factory Pond) raceway flows behind Pine's store, where stables are indicated. Factory Lake became quite polluted and was filled in by the early 1900's, and is the location today of Corporal Thompson park, named after the first African-American from Staten Island to be killed in action in the Vietnam War, in 1967.
+It is also interesting to note that the Factory Lake (sometimes referred to as Factory Pond) raceway flows behind Pine's store, where stables are indicated. Factory Lake became quite polluted and was filled in by the early 1900's, and is the present location of Corporal Thompson park, named after the first African-American from Staten Island to be killed in action in the Vietnam War, in 1967.
 
 <figure class="quote-only">
 <blockquote>
@@ -425,7 +425,7 @@ John and Mary his wife had
 Lawrence and Ann Larzalere married Dec. 4, 1808.
 </blockquote>
 <figcaption>
-<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p389-390.
+<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p389-390. Emphasis added.
 </cite>
 </figcaption>
 <aside>
@@ -518,7 +518,7 @@ A summary of the census data for William Snedeker during the relevant time perio
 
 (At different times, Livingston was a reporter for the *Richmond County Advance* as well as a "slate dealer" among other careers.)  
 
-Before he moved to Staten Island, the firm of Wm. Snedeker & Co. "dry goods jobbers" was located in the Manhattan financial district just a few blocks northeast of the future site of 1 World Trade Center and 2 World Trade Center, the "Twin Towers" that collapsed in the September 11 attacks of 2001. (Upon their completion, the Twin Towers were the tallest buildings in the world.)
+Before he moved to Staten Island, the firm of Wm. Snedeker & Co. "dry goods jobbers" was located in the Manhattan financial district just a few blocks northeast of the future site of 1 World Trade Center and 2 World Trade Center, the "Twin Towers" that collapsed in the September 11 attacks of 2001. (Upon their completion on 04 April 1973, the Twin Towers were the tallest buildings in the world, at 1,368 feet and 1,362 feet respectively.) Dry goods jobbers were wholesalers, essentially middle-men between the factories from whom they purchased goods and the retail stores, such as Pine, Hillyer & Co., to whom they subsequently sold those same goods.
 
 {{% fig "staten-island/1859-New-York-City-Business-Directory-p87" "800" /%}}
 
@@ -578,9 +578,9 @@ Charles M. Pine was also one of the incorporators of The  Staten Island Savings 
 {{% fig "staten-island/1890-03-15-Richmond-County-Advance-WNB-NY-p1" "350" /%}}
 </div> 
 
-{{% fig "staten-island/1890-05-10-Richmond-County-Advance-WNB-NY-p8" "500" /%}}
+Despite many decades of success in varied endeavors that were important in the growth of Staten Island, both Charles M. Pine and his son Theodore were financially ruined by the actions of Charles’ other son Alverade. Alverade's indiscretions became public approximately six months after the death of his young wife, although I do not presently know if the two events are related in any way. Also, note the role that Mark Hartley played in the aftermath.
 
-Despite many decades of success in varied endeavors that were important in the growth of Staten Island, both Charles M. Pine and his son Theodore were financially ruined by the actions of Charles’ other son Alverade. Note the role that Mark Hartley played in the aftermath.
+{{% fig "staten-island/1890-05-10-Richmond-County-Advance-WNB-NY-p8" "500" /%}}
 
 {{% fig "staten-island/1891-01-12-New-York-Tribune-New-York-NY-p3" "500" /%}}
 
@@ -599,7 +599,7 @@ Despite many decades of success in varied endeavors that were important in the g
 </div>
 
 
-Left penniless, Charles M. Pine was forced to return to work, and to do so for the first time in many years as an employee in someone else' business. Elmira died just over a year later. Theodore, who had been blind for two years prior to the business failure, continued to decline, becoming "perfectly helpless" in his final years. Theodore died more than 2 years before Charles, and approximately six months prior to Charles' sister Mary Ann (Pine) Mills's death in Brookton.
+Left penniless, Charles M. Pine was forced to return to work, and to do so for the first time in many years as an employee in someone else's business. Elmira died just over a year later. Theodore, who had been blind for two years prior to the business failure, continued to decline, becoming "perfectly helpless" in his final years. Theodore died more than 2 years before Charles, and approximately six months prior to Charles' sister Mary Ann (Pine) Mills's death in Brookton.
 
 <figure>
 
@@ -668,7 +668,7 @@ Regarding your search, we do not have any identified images of the Pine store, t
 <figcaption>
 </figure>
 
-Charles Pine has direct descendants still living as I write this.
+Charles M. Pine has direct descendants still living as I write this.
 
 {{% fig "staten-island/1997-10-27-Asbury-Park-Press-Asbury-Park-NJ-p4" "500" /%}}
 
@@ -1109,6 +1109,24 @@ so don’t be alarmed.”<br />
 </figcaption>
 </figure>
 
+After I read another of Martha's works, a family history called [**The Kingston Mystery**](https://www.amazon.com/Kingston-Mystery-Martha-Deed/dp/B09D6DGKB5), and I followed up on a reference to Leyden Holland (p5), where the {{% pagelink "robinson-family" "Reverend John Robinson" %}}, Pastor of the Pilgrim Fathers, was exiled, Martha and I discovered that we are distant cousins, sharing the common ancestor Ruth Alden (28 Nov 1634 to 12 Oct 1674). Ruth's father, John Alden (06 Jul 1598 to 12 Sep 1687), had sailed on the *Mayflower* as a crew member.
+
+<figure>
+
+> Cooper: John Alden. Alden was a 21-year-old from Harwich in Essex and a distant relative of Captain Jones. He hired on apparently while *Mayflower* was anchored at Southampton Waters. He was responsible for maintaining the ship's barrels, known as hogsheads, which were critical to the passengers' survival and held the only source of food and drink while at sea; tending them was a job which required a crew member's attention. Bradford noted that Alden was "left to his own liking to go or stay" in Plymouth rather than return with the ship to England. He decided to remain.
+
+<figcaption>
+<cite> 
+
+— [List of *Mayflower* passengers](https://en.wikipedia.org/wiki/List_of_Mayflower_passengers), Wikipedia.org.
+
+</cite>
+</figcaption>
+</figure>
+
+John Alden’s descendants eventually married descendants of Reverend John Robinson.
+
+
 ## Early 2000's Images of Pine, Hillyer & Co. Building
 
 What is to my knowledge the only surviving photograph of the residence of Charles M. and Elmira Jane Pine in Staten Island shows the side of C. M. Pine & Co., the grocery and dry goods store that Charles M. Pine ran with his son Theodore. Before Theodore joined the business, it was known as Pine, Hillyer & Co. at the same location, in partnership with James A. Hillyer.
@@ -1377,7 +1395,7 @@ The most complete genealogical record of the ancestry of [Bartlett Brown](https:
 
 </figure>
 
-I have often wondered if Bartlett Brown and Edward H. Mills were related, if even distantly. There are several instances of the descendants of Zackary Hawkins, and the descendants of Timothy Mills of Mills Pond intermarrying and both the Hawkins and Mills genealogies include multiple instances each of Hallock and Longbotham. I have only begun to explore all of the lines that could potentially intersect, and I don't know when or even if I will ever complete that work, as answering this question isn't my highest priority currently, and I suspect that gaps in genealogical records may make it impossible to draw a definite conclusion. I suspect that it is unlikely the two men were related, even distantly, but again, this is just my impression after gaining some initial familiarity with the Mills, Hallock and Hawkins genealogies.
+I have often wondered if Bartlett Brown and Edward H. Mills were related, if even distantly. There are several instances of the descendants of Zackary Hawkins, and the descendants of Timothy Mills of Mills Pond intermarrying and both the Hawkins and Mills genealogies include multiple instances each of Hallock and Longbotham. I have only begun to explore all of the lines that could potentially intersect, and I don't know when or even if I will ever complete that work, as answering this question isn't my highest priority currently, and gaps in genealogical records may make it impossible to draw a definite conclusion. I suspect that it is unlikely the two men were related, even distantly, but again, this is just my impression after gaining some initial familiarity with the Mills, Hallock and Hawkins genealogies.
 
 Bartlett Brown married [Sarah Adelaide (Ward) Brown](https://www.findagrave.com/memorial/199802098/sarah-a-brown) (1833 to 04 Sep 1916) on 13 Sep 1860. Bartlett and Sarah's marriage as well as their children's baptisms are all recorded by the Reformed Dutch Church of Port Richmond. Their children are:
 

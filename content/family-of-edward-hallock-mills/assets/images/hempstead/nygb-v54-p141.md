@@ -12,7 +12,7 @@ notes: >-
     
     - [Reverend Nathaniel Clark Locke](https://www.findagrave.com/memorial/210515180/nathaniel-c-locke) (1815 to 21 Jul 1862).
 
-    - According to [Wikipedia](https://en.wikipedia.org/wiki/Relict): "'Relict' was an ancient term still used in colonial (British) America, and in England of that era, now archaic, for a widow; it has come to be a generic or collective term for widows and widowers."
+    - "'Relict' was an ancient term still used in colonial (British) America, and in England of that era, now archaic, for a widow; it has come to be a generic or collective term for widows and widowers." ([Relict](https://en.wikipedia.org/wiki/Relict), Wikipedia.org.) 
 
 ---
 

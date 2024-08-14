@@ -2,7 +2,7 @@
 citation: "Mills Genealogy. Prepared by Samuel Wickham Mills. Minisink Valley Historical Society, Port Jervis NY, p11. Used with permission." 
 notes: >-
 
-  - "Michigan near Scotchtown" likely references Michigan Corners: “a hamlet near Scotchtown east of Middletown, Orange County, New York, United States, located at the corner of New York State Route 211 and Goshen Turnpike. There is no sign marking Michigan Corners, although it does appear on local maps”. (From [Wikipedia]().) 
+  - "Michigan near Scotchtown" likely references Michigan Corners: “a hamlet near Scotchtown east of Middletown, Orange County, New York, United States, located at the corner of New York State Route 211 and Goshen Turnpike. There is no sign marking Michigan Corners, although it does appear on local maps”. ([Scotchtown, New York](https://en.wikipedia.org/wiki/Scotchtown%2C_New_York#Michigan_Corners), Wikipedia.org.) 
 
 ---
 11.

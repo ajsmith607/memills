@@ -106,7 +106,15 @@ On 12 Oct 1874, "George E. Sanders and Fannie his wife" ([Fannie (Webster) Sande
 </figcaption>
 </figure>
 
-A few years later in March 1879, Edward Mills arrives in Mott's Corners and takes over operation of the store shortly thereafter, calling it **E. H. Mills**, as evidenced by the 1880 United States Federal Census for Caroline showing Edward is a "merchant" and his son Jonas is a "clerk in store".
+A few years later in March 1879, Edward Mills arrives in Mott's Corners and takes over operation of the store shortly thereafter. The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.", and I believe this is likely an early reference to Edward's business, and if true, it would seem to indicate that Edward still had co-owners, possibly still including Charles M. Pine and James A. Hillyer, who were his partners in the {{% pagelink "corfu" "Corfu store" %}} 
+
+{{% fig "brookton/1879-12-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
+
+I haven't yet found another reference to this firm, and presumably if a reference could be found prior to the Mills' move to Mott's Corners, that fact would presumably rule out a connection to the Mills family. But I will also note that in the 1880 Caroline  census, I do not see anyone else with the last name Mills. So, although I cannot directly link this firm to Edward H. Mills, I am inclined to believe, based on the circumstantial evidence, that this firm is likely Edward Mills', and if true, this could provide an important clue to not only their first months Mott's Corners, but it could also possibly point to the reason why they chose to move to Mott's Corners specifically.
+
+(I have also considered the possibility that this is a misspelling of a similar name, such as "Mulks", "Miles" or perhaps even "Miller".  There is also a farmer in Caroline with the name Gills. I will also note that in January 1875, there is a "new Ithaca poultry journal, to be called 'The Poultry Organ'" (02 Jan 1875, Ithaca Daily Journal, Ithaca NY, p4). I have not found this publication yet, but it may provide more context.)
+
+The 1880 United States Federal Census for Caroline shows Edward is a "merchant" and his son Jonas is a "clerk in store".
 
 {{% fig "mills-home/masons/1880-06-15-US-Census-caroline-p21" "800" /%}}
 

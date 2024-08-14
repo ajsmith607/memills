@@ -11,7 +11,7 @@ media:  ""
 quaddress:  ""
 notes: >- 
 
-  - From [Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill): "The Battle of Bunker Hill was fought on Saturday June 17, 1775 during the Siege of Boston in the first stage of the American Revolutionary War."
+  - "The Battle of Bunker Hill was fought on Saturday June 17, 1775 during the Siege of Boston in the first stage of the American Revolutionary War." ([Battle of Bunker Hill](https://en.wikipedia.org/wiki/Battle_of_Bunker_Hill), Wikipedia.org.) 
 ---
 Postponed by Particular Request.— The *Express* of this morning states that Judge Mills sentenced Ira Stout, the Rochester murderer, to be hung on the 18th of June—*the anniversary of the battle of Bunker Hill.* As that very unimportant dispute occurred on the *seven teenth* of June, its anniversary has been undoubted been postponed to enable Mr. Stout to make his exit from a world that he has outraged, on a day of glory. 
 

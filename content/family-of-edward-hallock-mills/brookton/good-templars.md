@@ -15,15 +15,37 @@ An overview of the temperance group High Bridge Lodge No. 296 of the Independent
 
 ## The First Lodge
 
-On 23 March 1868, the **Independent Order of Good Templars**, Lodge #562 was organized in Mott's Corners (Brooktondale). Their motto was "Faith Hope, and Charity." The charter members were: Edward Lounsbery, Helen Losey Walker V. Personius, Amanda Lounsbery, George Wolcott, G. E. Sanders, Kate Losey, Emma G. Lounsbery, L. B. Landon, A. M. Wolcott, E. S. T. Lounsbery, Richard Lounsbery, Benjamin Losey, James Roe, Sarah F. Edwards, Ella M. Personius, Abby Landon, Addie L. Genung, Frank Heath, Harley L. Miller, N. I. Roe, D. V. Personius, William Personius, George Aldrich, George L. Pelham, Frank Osburn, F. M. Loncry (or Loncoy), Lyman Sherter, “N'ls Edwards"", and Justus H. Heath. 
+<figure>
 
+> On 23 March 1868, the **Independent Order of Good Templars**, Lodge #562 was organized in Mott's Corners (Brooktondale). Their motto was "Faith Hope, and Charity." The charter members were: Edward Lounsbery, Helen Losey Walker V. Personius, Amanda Lounsbery, George Wolcott, G. E. Sanders, Kate Losey, Emma G. Lounsbery, L. B. Landon, A. M. Wolcott, E. S. T. Lounsbery, Richard Lounsbery, Benjamin Losey, James Roe, Sarah F. Edwards, Ella M. Personius, Abby Landon, Addie L. Genung, Frank Heath, Harley L. Miller, N. I. Roe, D. V. Personius, William Personius, George Aldrich, George L. Pelham, Frank Osburn, F. M. Loncry (or Loncoy), Lyman Sherter, “N'ls Edwards"", and Justus H. Heath. 
 
-Barbara Kone compilation "A History of the Town of Caroline, Tompkins County, New York, United States of America" known to us all as "The Bicentennial Book."
+<figcaption>
+<cite>
+ 
+— 1994, "A History of the Town of Caroline, Tompkins County, New York, United States of America", compiled by Barbara Kone. 2015 reprint by The White Church Cabin Country Store, Brooktondale NY. Also known as "The Bicentennial Book”.
 
+</cite>
+</figcaption>
+</figure>
 
+I have come to learn that there are multiple versions of the Bicentennial Book, and although I initially thought that they were merely formatted differently, I have also found significant differences in content among them. For reasons unknown to me, the reference above to the Good Templars only exists in the version published by the White Church Cabin Country Store.
 
-The **Grand Division of the Sons of Temperance of Western New York** was organized in Motts Corners on 21 February 1874. It was Division # 115 (?) and located in Personius Hall. Charter members were: George Wolcott, Julia Wolcott, Edward Mulks, Edward Lounsbery, Amanda Lounsbury, John McWhorter, J. B. Lull, Ruben G. Tucker, W. V. Personius, Nelly Personius, Sarah Edwards, George G. DePuy, Josiah Shurter, Willis Shurter, D. V. Personius, C. W. Burt, Cantine Lounsbery, Richard Lounsbery, Libbie Sanders, Ellen Wolcott, George E. Sanders, Fannie Sanders, James H. Mount, G. E. Ingraham, Hattie Hazen, L. B. Landon, Albert Landon, Fred Lounsbery, John Lounsbery, Ellen Personius, Herbert Shurter, Lyman Shurter. 
+The misspellings of the names suggests they were transcribed from a handwritten document. For example, “L. B. Landon” is obviously S. B. Landon; an L and S in cursive are easily confused. However, after searching through the Caroline History Room and consulting with Barbara Kone, I have yet to locate the original document. 
 
+It is interesting to note the timing and overlapping membership between the Good Templars and another prominent temperance group in Mott’s Corners, the Sons of Temperance.
+
+<figure>
+
+> The **Grand Division of the Sons of Temperance of Western New York** was organized in Motts Corners on 21 February 1874. It was Division # 115 (?) and located in Personius Hall. Charter members were: George Wolcott, Julia Wolcott, Edward Mulks, Edward Lounsbery, Amanda Lounsbury, John McWhorter, J. B. Lull, Ruben G. Tucker, W. V. Personius, Nelly Personius, Sarah Edwards, George G. DePuy, Josiah Shurter, Willis Shurter, D. V. Personius, C. W. Burt, Cantine Lounsbery, Richard Lounsbery, Libbie Sanders, Ellen Wolcott, George E. Sanders, Fannie Sanders, James H. Mount, G. E. Ingraham, Hattie Hazen, L. B. Landon, Albert Landon, Fred Lounsbery, John Lounsbery, Ellen Personius, Herbert Shurter, Lyman Shurter. 
+
+<figcaption>
+<cite>
+ 
+— 1994, "A History of the Town of Caroline, Tompkins County, New York, United States of America", compiled by Barbara Kone. 2015 reprint by The White Church Cabin Country Store, Brooktondale NY.
+
+</cite>
+</figcaption>
+</figure>
 
 
 ## The Early Years of High Bridge Lodge No. 296, Mott's Corners
@@ -318,6 +340,14 @@ Census records confirm that Charles Arthur Denman commonly went by "Arthur", des
 **Wm. Hungerford** "and family"
 
 **Mrs. William Hungerford**
+
+
+[William Hungerford](https://www.findagrave.com/memorial/114681932/william-hungerford) (20 Dec 1822 to 10 Feb 1893) married [Nancy Lucinda (Nye) Hungerford](https://www.findagrave.com/memorial/114682367/nancy_lucinda_hungerford) (28 Jul 1838 to 13 Oct 1923).
+
+Nancy participated in the annual Tompkins County Fair: 
+"The old log cabin is again in charge of Mrs. William Hungerford of Dryden. It will be filled as usual with interesting articles, which have come down from our ancestors." (11 Sep 1900, Ithaca Daily Journal, Ithaca NY, p6.)
+
+
 
 ### Losey
 
@@ -1473,6 +1503,8 @@ Henry Krum was Caroline Town Supervisor in 1851. "H.S. Krum slipped on an icy pa
 <article> 
 {{% good-templars-minutes "1886-01-29" %}}
 {{% fig "temperance/good-templars/minutes/1886-01-29" "800" /%}}
+
+"The *Husbandman* is a weekly Agricultural paper of great practical utility, is ably edited and beautifully printed." (09 Jan 1886, The Otsego Farmer, Cooperstown NY, p5, q13.) It appears the full title of the paper may have been the "Elmira Husbandman and Farmer". (see 23 Jan 1886, The Otsego Farmer, Cooperstown NY, p5, q13.) 
 
 **Strive, Wait, and Pray** by Adelaide A. Procter, furnished by Emily Mills.
 

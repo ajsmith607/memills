@@ -64,8 +64,6 @@ The Good Templars' meetings were both entertaining and educational by design, to
 
 And on 15 Jan 1886: "Reading of a pleasant poem by Sis Mills". Years later, when Emily joined the Brookton chapter of the Women's Christian Temperance Union, she held offices in the chapter just as she had in the Templar's Lodge, including "Superintendent of Literature and Publications". 
 
-Several large group photographs survive of members of various temperance groups in Caroline, and Emily may be among those pictured.
-
 Emily was also involved in the Caroline Amateur Dramatic Club, along with George Richardson and other Good Templars members. The Club, along with Dr. Besemer's orchestra, gave several acclaimed performances of the play *The Colleen Bawn*, for the benefit of the Templars. Emily played supporting character "Sheelah". 
 
 {{% fig "temperance/The-Colleen-Bawn" "800" /%}}
@@ -83,7 +81,7 @@ Emily was also involved in the Caroline Amateur Dramatic Club, along with George
 </figcaption>
 <aside>
 
-   - From [Wikipedia.org](https://en.wikipedia.org/wiki/Laura_Keene): "Laura Keene (20 July 1826 – 4 November 1873) was a British stage actress and theatre manager. In her twenty-year career, she became known as the first powerful female manager in New York. She is most famous for being the lead actress in the play *Our American Cousin*, which was attended by President Abraham Lincoln at Ford's Theater in Washington on the evening of his assassination. ...In 1858, *Our American Cousin* debuted in Laura Keene's Theater. On the night of 14 April 1865, Keene's company, which primarily included John Dyott and Harry Hawk, were performing Our American Cousin at Ford's Theatre in Washington, D.C. In attendance that night were President Abraham Lincoln and his wife First Lady Mary Todd Lincoln. Actor John Wilkes Booth fatally shot President Lincoln while Lincoln watched the play from the presidential box; Booth then fled the theatre. Amid the confusion, Keene made her way to the presidential box where Lincoln lay dying and cradled the mortally wounded President's head in her lap. President Lincoln's fatal head wound bled on her dress, staining her cuff. The cuff was later donated to the National Museum of American History."
+   - "Laura Keene (20 July 1826 – 4 November 1873) was a British stage actress and theatre manager. In her twenty-year career, she became known as the first powerful female manager in New York. She is most famous for being the lead actress in the play *Our American Cousin*, which was attended by President Abraham Lincoln at Ford's Theater in Washington on the evening of his assassination. ...In 1858, *Our American Cousin* debuted in Laura Keene's Theater. On the night of 14 April 1865, Keene's company, which primarily included John Dyott and Harry Hawk, were performing Our American Cousin at Ford's Theatre in Washington, D.C. In attendance that night were President Abraham Lincoln and his wife First Lady Mary Todd Lincoln. Actor John Wilkes Booth fatally shot President Lincoln while Lincoln watched the play from the presidential box; Booth then fled the theatre. Amid the confusion, Keene made her way to the presidential box where Lincoln lay dying and cradled the mortally wounded President's head in her lap. President Lincoln's fatal head wound bled on her dress, staining her cuff. The cuff was later donated to the National Museum of American History." ([Laura Keene](https://en.wikipedia.org/wiki/Laura_Keene), Wikipedia.org.)
 
 </aside>
 </figure>
@@ -109,7 +107,7 @@ Emily was also involved in the Caroline Amateur Dramatic Club, along with George
 </div>
 
 
-Although not a large role, Sheelah is in key scenes and gave Emily an opportunity to deliver substantial dialogue, perform powerful emotions and even be involved in physical action. Here are some of the words spoken by Emily on those evenings in Jan and Feb 1880, in Lounsbery Hall at Mott's Corners, above her father Edward's store where she clerked:
+Although not a large role, Sheelah is in key scenes and her character gave Emily an opportunity to deliver substantial dialogue, perform powerful emotions and even be involved in physical action. Here are some of the words spoken by Emily on those evenings in Jan and Feb 1880, in Lounsbery Hall at Mott's Corners, above her father Edward's store where she clerked:
 
 <figure>
 
@@ -154,7 +152,7 @@ Although not a large role, Sheelah is in key scenes and gave Emily an opportunit
 
 The Good Templars may have also provided opportunities for Emily to travel, as the Good Templars commonly attended events at other Lodges in Tompkins County, cooperated with other temperance groups, and they sent representatives to the state "Grand Lodge" as well. Because of this, Emily may be present in some of the well known photographs of *other* temperance groups in Caroline. 
 
-When Lodge No. 296 disbanded after Aug 1886, just over seven years after Emily joined, she must have keenly felt its absence in her life. From the information I have seen so far, I cannot say if she joined High Bridge Lodge again when it re-formed a few years later with the number 720. Emily eventually joined the WCTU, but I don't know when.
+When Lodge No. 296 disbanded after Aug 1886, just over seven years after Emily joined, she must have keenly felt its absence in her life. From the information I have seen so far, I cannot say if she joined High Bridge Lodge again when it re-formed a few years later with the number 720. Emily eventually joined the WCTU, but I don't know when. It is interesting to note however, that the Brookton chapter of the WCTU organized in 1907, the same year the Emily was baptized by the Reverend Annis Ford Eastman.
 
 More information on Emily's activities in High Bridge Lodge–including more discussion of the items she furnished for the “Good of the Order”–and the WCTU, can be found in the following pages: 
 

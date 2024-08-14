@@ -11,7 +11,7 @@ media:  ""
 quaddress:  ""
 notes: >-
 
-  - From [Wikipedia](https://en.wikipedia.org/wiki/Mantle_(clothing)): "A mantle (from old French mantel, from mantellum, the Latin term for a cloak) is a type of loose garment usually worn over indoor clothing to serve the same purpose as an overcoat. Technically, the term describes a long, loose cape-like cloak worn from the 12th to the 16th century by both sexes, although by the 19th century, it was used to describe any loose-fitting, shaped outer garment similar to a cape. For example, the dolman, a 19th-century cape-like woman's garment with partial sleeves is often described as a mantle."
+  - "A mantle (from old French mantel, from mantellum, the Latin term for a cloak) is a type of loose garment usually worn over indoor clothing to serve the same purpose as an overcoat. Technically, the term describes a long, loose cape-like cloak worn from the 12th to the 16th century by both sexes, although by the 19th century, it was used to describe any loose-fitting, shaped outer garment similar to a cape. For example, the dolman, a 19th-century cape-like woman's garment with partial sleeves is often described as a mantle." ([Mantle (clothing)](https://en.wikipedia.org/wiki/Mantle_(clothing)), Wikipedia.org.)
 ---
 
 ANNOUNCEMENT.—Hamlin & Mendsen are under the necessity, on account of the immediate pressure of business in their Mantle Department, of defering their opening until Saturday, the 14th of November. Ladies are assured that on that day there will be such novelties and bargains on view, as will pay them for waiting to make their purchases.
