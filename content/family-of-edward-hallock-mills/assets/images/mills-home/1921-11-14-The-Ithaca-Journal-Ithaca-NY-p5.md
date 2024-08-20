@@ -11,7 +11,7 @@ notes: >-
 
     - [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) married [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904).
 
-    - [Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) married [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916).
+    - [Elizabeth "Libbie" H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) married [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916).
 ---
 Mrs. Amanda L. Lounsbery. 
 

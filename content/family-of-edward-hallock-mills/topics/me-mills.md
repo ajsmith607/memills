@@ -25,9 +25,13 @@ In the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, a map of M
 
 [Josiah Shurter](https://www.findagrave.com/memorial/100594864/josiah-shurter) (26 Apr 1815 to 05 Aug 1877) married [Jane (Shutt) Shurter](https://www.findagrave.com/memorial/100594934/jane-shurter) (21 Nov 1825 to 23 Jun 1897). The land that starts just west of the lower bridge in Brooktondale and encompasses the area between the southern side of Brooktondale Road and Six Mile Creek, extending many acres westward, is referenced in the deed records of the Tompkins County Clerk as the Josiah Shurter Homestead. 
 
-Although Josiah is not listed in the directory below the Stone & Stewart map, the first entry, "E. C. Marsh...Grocery and Provision Store" is almost certainly a reference to the J. Shurter Store. [Edward C. Marsh](https://www.findagrave.com/memorial/28741041/edward-c-marsh) (23 Nov 1836 to 25 Jun 1907) is Josiah Shurter's son-in-law, and presumably Josiah's employee. As indicated in the 1865 New York State Census for Caroline, Edward and his wife Harriet (Shurter) Marsh were living in the home of Josiah Shurter. Both Josiah and Edward Marsh are identified as millers, as the Shurter family also owned the lower grist mill at that time. 
+(Josiah and Jane Shurter were active in the local temperance movement. For more information on this, see {{% pagelink "good-templars" %}}.)
+
+Although Josiah is not listed in the directory below the Stone & Stewart map, the first entry, "E. C. Marsh...Grocery and Provision Store" is almost certainly a reference to the J. Shurter Store. [Edward C. Marsh](https://www.findagrave.com/memorial/28741041/edward-c-marsh) (23 Nov 1836 to 25 Jun 1907) is Josiah Shurter's son-in-law, and presumably Josiah's employee. As indicated in the 1865 New York State Census for Caroline, Edward and his wife Harriet (Shurter) Marsh were living in the home of Josiah Shurter. Both Josiah and Edward Marsh are identified as millers, as the Shurter family also owned the lower grist mill at that time. (See Caroline Deeds Book 1, p516, Willis Shurter and Jane his wife to Jacob Vandemark for $5000. The deed is dated 16 Dec 1867, but is recorded 22 Dec 1868.) 
 
 {{% fig "me-mills/1865-06-26-NYS-census-caroline-p34" "800" /%}}
+
+(It is Edward C. Marsh who appears to have carved his name into the {{% pagelink "property-features#the-stone-foundation" "foundation" %}} of Mills' Home at 475 Brooktondale Road.)
 
 By the late 1860’s, Josiah Shurter’s properties were taken over by his son, [Willis Shurter](https://www.findagrave.com/memorial/162159964/willis_shurter) (1840 to 17 Jan 1914). On 16 May 1868, "Willis Shurter and Jane Shurter his wife" sell the store property to [George E. Sanders](https://www.findagrave.com/memorial/89338797/george-e-sanders) (16 Aug 1847 to 01 Nov 1889), and two years later in the 1870 United States Federal Census for Caroline, George E. Sanders is listed in the census as "clerk in store" while George's father, [George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders) (14 Nov 1818 to 04 May 1887) is listed as a "dealer in dry goods & groceries (ret)", in his son's building. 
 
@@ -59,7 +63,7 @@ By the late 1860’s, Josiah Shurter’s properties were taken over by his son, 
 <figcaption>
 <cite>
 
-— 1894,Landmarks of Tompkins County, New York Including a History of Cornell University by Prof. W.T. Hewitt, edited by John H. Selkreg, D. Mason & Company, Syracuse NY, p291.
+— 1894, Landmarks of Tompkins County, New York Including a History of Cornell University by Prof. W.T. Hewitt, edited by John H. Selkreg, D. Mason & Company, Syracuse NY, p291.
 
 </cite>
 <figcaption>
@@ -70,6 +74,13 @@ By the late 1860’s, Josiah Shurter’s properties were taken over by his son, 
 
 </aside>
 </figure>
+
+George T. Sanders married [Lurana Maria “Maria” (Nicholas) Sanders](https://www.findagrave.com/memorial/89338796/lurana_maria_sanders) (30 Oct 1820 to 13 Jan 1884), and they, along with daughter and son-in-law, Amanda (Sanders) and Edward Lounsbery, were founding members of the [Congregational Church of Mott's Corners]({{% relref "founding-documents" %}}) in 1868. Interestingly, George T. Sanders was Brookton postmaster from 20 Jul 1861 to 15 Dec 1864, succeeded by Walker V. Personius. The postoffice was always closely associated with one of the general stores, which was a common custom in America at the time, especially in smaller communities. George T.'s tenure as postmaster could suggest that he worked in and possibly managed the store before his son purchased the building, just as he did for several years after his son sold it, but it could also suggest the possibility that George T. Sanders previously worked at Walker V. Personius' store, also known as "Mott's original store" at present day 559 Brooktondale Road. 
+
+<div class="cols">
+{{% fig "sanders/george-t-sanders" "350" /%}}
+{{% fig "sanders/lurana-maria-nicholas-sanders-cropped" "350" /%}}
+</div>
 
 <figure>
 
@@ -91,7 +102,19 @@ By the late 1860’s, Josiah Shurter’s properties were taken over by his son, 
 </aside>
 </figure>
 
-On 12 Oct 1874, "George E. Sanders and Fannie his wife" ([Fannie (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders) (23 Nov 1847 to 10 Feb 1896)) sell the store property to George's brother-in-law, [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904), and a few months later in the 1875 census, George E. Sanders' occupation is "tanner" presumably working with Edward. It appears George E.'s father George T. Sanders continues to operate the store for several years afterward, as evidenced by the following news item discussing the temperance group {{% pagelink "good-templars" %}}, of which George T. Sanders' family, including [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) and her husband Edward, were members.
+On 12 Oct 1874, "George E. Sanders and Fannie his wife" ([Frances "Fannie" (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders) (23 Nov 1847 to 10 Feb 1896)) sell the store property to George's brother-in-law, [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904), and a few months later in the 1875 census, George E. Sanders' occupation is "tanner" presumably working with Edward: when [Franklin Cuthbert Cornell Sr.](https://www.findagrave.com/memorial/172201621/franklin-cuthbert-cornell) (28 Aug 1837 to 22 Jan 1908), the eldest son of [Ezra Cornell](https://www.findagrave.com/memorial/233/ezra_cornell) (11 Jan 1807 to 09 Dec 1874), the founder of Cornell University, sold the upper grist mill property to George Campbell, Caroline Deeds book 3, page 550, 21 May 1881, a "piece of land" was reserved for Edward and his brother-in-law, [George E. Sanders](https://www.findagrave.com/memorial/89338797/george_e_sanders) (16 Aug 1847 to 01 Nov 1889), which seems to corroborate a Carl English painting displayed in the Caroline History Room that refers to a tannery near the upper mill, although the deeds only refer to it as a "factory". George E.'s obituary states that he was also a produce dealer at one time.
+
+<div class="cols">
+{{% fig "sanders/george-e-sanders-younger" "350" /%}}
+{{% fig "sanders/george-e-sanders" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "sanders/edward-lounsbery" "350" /%}}
+{{% fig "sanders/amanda-sanders-lounsbery" "350" /%}}
+</div>
+
+It appears George E.'s father George T. Sanders continues to operate the store for several years the transfer from his son to his son-in-law, as evidenced by the following news item discussing the temperance group {{% pagelink "good-templars" %}}, of which George T. Sanders' family, including daughter [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) and her husband Edward, were members.
 
 <figure>
 
@@ -106,7 +129,7 @@ On 12 Oct 1874, "George E. Sanders and Fannie his wife" ([Fannie (Webster) Sande
 </figcaption>
 </figure>
 
-A few years later in March 1879, Edward Mills arrives in Mott's Corners and takes over operation of the store shortly thereafter. The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.", and I believe this is likely an early reference to Edward's business, and if true, it would seem to indicate that Edward still had co-owners, possibly still including Charles M. Pine and James A. Hillyer, who were his partners in the {{% pagelink "corfu" "Corfu store" %}} 
+A few years later in March 1879, Edward Mills arrives in Mott's Corners and takes over operation of the store shortly thereafter. The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.", and I believe this is likely an early reference to Edward's business, and if true, it would seem to indicate that Edward still had co-owners, possibly still including Charles M. Pine and James A. Hillyer, who were his partners in the {{% pagelink "corfu" "Corfu store" %}}. By the 1890's the store was referenced simply as "E. H. Mills".
 
 {{% fig "brookton/1879-12-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
 
@@ -118,17 +141,15 @@ The 1880 United States Federal Census for Caroline shows Edward is a "merchant" 
 
 {{% fig "mills-home/masons/1880-06-15-US-Census-caroline-p21" "800" /%}}
 
-Correspondingly in 1880, George T. Sanders and wife Maria are living n Cortland with their daughter [Sarah F. (Sanders) Edwards](https://www.findagrave.com/memorial/89338800/sarah-f-edwards) (09 Oct 1840 to 10 May 1896), who married [Nelson G. Edwards](https://www.findagrave.com/memorial/89338799/nelson_g_edwards) (01 Aug 1835 to 21 Nov 1920).  George T. listed his occupation as “retired merchant”, and he lived the rest of his life in Cortland. 
+Correspondingly in 1880, George T. Sanders and wife Maria are living in Cortland with their daughter [Sarah F. (Sanders) Edwards](https://www.findagrave.com/memorial/89338800/sarah-f-edwards) (09 Oct 1840 to 10 May 1896), who married [Nelson G. Edwards](https://www.findagrave.com/memorial/89338799/nelson_g_edwards) (01 Aug 1835 to 21 Nov 1920).  George T. listed his occupation as “retired merchant”, and he lived the rest of his life in Cortland. 
 
 {{% fig "me-mills/1880-06-12-US-Census-Cortland-NY-p23" "800" /%}}
 
 Edward Mills' surviving children Jonas and Emily clerk in their father's store, and they also both become members of High Bridge Lodge shortly after arriving in Mott's Corners. Mills' store is indirectly mentioned in the High Bridge Lodge meeting minutes notebook On 20 Feb 1885: "Worthy Chief and two girls retired to the store for refreshments." (Tompkins County History Center, Ithaca NY.)
 
-George E. Sanders went on to be a produce dealer.
+One of George E. Sanders later activities: 
 
 {{% fig "me-mills/1887-02-10-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
-
-George T. Sanders married [Lurana Maria “Maria” (Nicholas) Sanders](https://www.findagrave.com/memorial/89338796/lurana_maria_sanders) (30 Oct 1820 to 13 Jan 1884), and they, along with daughter and son-in-law, Amanda (Sanders) and Edward Lounsbery, were founding members of the [Congregational Church of Mott's Corners]({{% relref "founding-documents" %}}) in 1868. Interestingly, George T. Sanders was Brookton postmaster from 20 Jul 1861 to 15 Dec 1864, succeeded by Walker V. Personius. The postoffice was always closely associated with one of the general stores, which was a common custom in America at the time, especially in smaller communities. George T.'s tenure as postmaster could suggest that he worked in and possibly managed the store before his son purchased the building, just as he did for several years after his son sold it, but it could also suggest the possibility that George T. Sanders previously worked at Walker V. Personius' store, also known as "Mott's original store" at present day 559 Brooktondale Road. 
 
 <div class="cols">
 {{% fig "bcc/obituaries/1884-02-05-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
@@ -136,13 +157,19 @@ George T. Sanders married [Lurana Maria “Maria” (Nicholas) Sanders](https://
 </div>
 
 <div class="cols">
-<div>
 {{% fig "bcc/obituaries/1887-05-10-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
-</div>
 {{% fig "bcc/obituaries/1887-05-13-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
 </div>
 
 {{% fig "me-mills/1889-11-02-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+More information on the activities of the Sanders and Lounsbery families can be found at:
+
+  - {{% pagelink "founding-documents" %}}
+  - {{% pagelink "good-templars" %}}
+  - {{% pagelink "other-past-owners" %}}
+
+<br />
 
 Mills' store, Summer 2021:
  
@@ -416,8 +443,7 @@ In the 1880 Federal Census and the 1905 State Census, her name is spelled "Magie
 
 {{% fig "me-mills/1920-Clock-System-Map-and-Farmer-Directory" "800" /%}}
 
-
-[Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) took over ownership of the Mills' store building upon the death of her sister [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). 
+[Elizabeth "Libbie" H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929) took over ownership of the Mills' store building upon the death of her sister [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). 
 
 {{% fig "me-mills/BF142829-001" "800" /%}}
 
@@ -433,6 +459,11 @@ In 1925, Libbie Peck sells the Mills' store property to [Dr. Benjamin Franklin L
 <div class="cols">
 {{% fig "me-mills/BF050069-001" "350" /%}}
 {{% fig "me-mills/BF052409-001" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "sanders/libbie-sanders-peck" "350" /%}}
+{{% fig "bcc/obituaries/1929-11-05-Ithaca-Journal-Ithaca-NY-p5" "350" /%}}
 </div>
 
 Although I have only had limited access to the Mills' store journals--and therefore cannot claim to have reviewed them carefully or completely--I do not recall ever seeing expenses for leasing the Mills store space. While most of the business expenses in the journals are understandably for inventory, many other types of business expenses are also recorded there. Perhaps payment was on a longer schedule and I simply didn't see the entries.
@@ -560,7 +591,7 @@ The documentary evidence indicates that the Brewer Barn was "Willis Shurter's Wa
 
 In the description of the oldest deed for Mulks's Home at present day 478 Brooktondale Road that I have yet found, from 04 Jun 1870, Caroline Deeds 3, p181, Jacob Vandemark, Charles W. Personeus & Marcie E. his wife to Jacob Vandemark, it states that the property begins "in the center of the 'Creek Road' and 113 links westerly from a line with the west side of Willis Shurter's Wagon Shop in Motts Corners..." This description is repeated in the next transfer on 27 Nov 1889 (Deeds 135/113), and only in the next transfer on 22 Oct 1896 (Deeds 146, p481) does the description change to "...what was **formerly** known as Willis Shurter's Wagon Shop in Motts Corners..." (emphasis added). 
 
-The matching distance of 113 links indicated on Map A1, p16 shown above confirms that this describes the western edge of the "lane" between the Lockwood Residence at present-day 480 Brooktondale Road and the Mills' Store structure. This "lane" and the "Brewer Barn" were always conveyed with the store lot until 11 Jun 1963, when Jessie Brewer transfers **both the "lane" and the barn** to Arthur and Dorothy Wells, at which point, they became part of the Lockwood Residence lot, and they remain so as I write this. This also  explains why the stairway to the second floor (Lounsbery Hall) of Mills’ Store, on the western side of the building, has since that time encroached onto the Lockwood lot. 
+The matching distance of 113 links indicated on Map A1, p16 shown above confirms that this describes the western edge of the "lane" between the Lockwood Residence at present-day 480 Brooktondale Road and the Mills' Store structure. This "lane" and the "Brewer Barn" were always conveyed with the store lot until 11 Jun 1963, when Jessie Brewer transfers **both the "lane" and the barn** to Arthur and Dorothy Wells, at which point, they became part of the Lockwood Residence lot, and they remain so as I write this. This also explains why the stairway to the second floor (Lounsbery Hall) of Mills’ Store, on the western side of the building, has since that time encroached onto the Lockwood lot. 
 
 Willis Shurter inherited his father Josiah's properties, including the Shurter House and the lower grist mill. Josiah Shurter is listed in the census as a "wagon maker" (1870) and in 1875 both he and son-in-law William Benton Wolcott share the occupation "carriage maker". 
 

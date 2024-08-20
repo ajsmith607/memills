@@ -389,7 +389,8 @@ The portrait mentioned above:
 
 The image from The Frick Collection is a photographic reproduction of the painting taken around 1950, in other words, it represents the version of the portrait retouched by William Mount, and therefore, the version shown in *Genealogies of Long Island Families* must be the original portrait by Louis Child. According to The Frick Collection records, the painting was on loan from Suffolk Museum, Stony Brook, where it was part of their permanent collection. The Suffolk Museum was a previous name for The Long Island Museum in Stony Brook. 
 
-There is also the following purported image of Micah Hawkins, found in *A Hawkins Genealogy 1635-1939* by Ralph Clymer Hawkins, Published by The Hawkins Association, which appears quite different still.
+There is also the following purported image of Micah Hawkins, found in *A Hawkins Genealogy 1635-1939* by Ralph Clymer Hawkins, Published by The Hawkins Association, which appears quite different still. Although there are some points of resemblance to the paintings, such as the prominent nose and similarly parted hair (and although it is hard to tell from this reproduction, this image may also display large ears), this image is missing his characteristic cravat, and 
+overall, his clothing appears to be more modern than one would expect, although I am certainly no expert:
 
 {{% fig "portraits/micah-hawkins-hawkins-genealogy" "500" /%}}
 

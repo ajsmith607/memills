@@ -15,6 +15,8 @@ An overview of the temperance group High Bridge Lodge No. 296 of the Independent
 
 ## The First Lodge
 
+The first recorded activity of the Independent Order of Good Templars that I have found is in 1868:
+
 <figure>
 
 > On 23 March 1868, the **Independent Order of Good Templars**, Lodge #562 was organized in Mott's Corners (Brooktondale). Their motto was "Faith Hope, and Charity." The charter members were: Edward Lounsbery, Helen Losey Walker V. Personius, Amanda Lounsbery, George Wolcott, G. E. Sanders, Kate Losey, Emma G. Lounsbery, L. B. Landon, A. M. Wolcott, E. S. T. Lounsbery, Richard Lounsbery, Benjamin Losey, James Roe, Sarah F. Edwards, Ella M. Personius, Abby Landon, Addie L. Genung, Frank Heath, Harley L. Miller, N. I. Roe, D. V. Personius, William Personius, George Aldrich, George L. Pelham, Frank Osburn, F. M. Loncry (or Loncoy), Lyman Sherter, “N'ls Edwards"", and Justus H. Heath. 
@@ -30,9 +32,9 @@ An overview of the temperance group High Bridge Lodge No. 296 of the Independent
 
 I have come to learn that there are multiple versions of the Bicentennial Book, and although I initially thought that they were merely formatted differently, I have also found significant differences in content among them. For reasons unknown to me, the reference above to the Good Templars only exists in the version published by the White Church Cabin Country Store.
 
-The misspellings of the names suggests they were transcribed from a handwritten document. For example, “L. B. Landon” is obviously S. B. Landon; an L and S in cursive are easily confused. However, after searching through the Caroline History Room and consulting with Barbara Kone, I have yet to locate the original document. 
+The misspellings of the names suggests they were transcribed from a handwritten document. For example, “L. B. Landon” is obviously S. B. Landon; an L and S in cursive are easily confused. A transcription error may also explain why this earlier lodge apparently had a higher lodge number than the later Templar lodges. (Lodges were numbered sequentially within each state, and when a lodge in a given area "went down" and was re-instituted, it was assigned a new number.) However, after searching through the Caroline History Room and consulting with Barbara Kone, I have yet to locate the original document. 
 
-It is interesting to note the timing and overlapping membership between the Good Templars and another prominent temperance group in Mott’s Corners, the Sons of Temperance.
+It is interesting to note the timing and overlapping membership between the Good Templars and another prominent temperance group in Mott’s Corners, the Sons of Temperance, which may provide clues to how long the Good Templars Lodge #562 existed. As with the previous quote, the following quote is only found in the White Church Cabin Country Store edition of the Bicentennial Book:
 
 <figure>
 
@@ -46,7 +48,6 @@ It is interesting to note the timing and overlapping membership between the Good
 </cite>
 </figcaption>
 </figure>
-
 
 ## The Early Years of High Bridge Lodge No. 296, Mott's Corners
 
@@ -355,13 +356,27 @@ Nancy participated in the annual Tompkins County Fair:
 
 ### Lounsbery
 
-**[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery)** (11 Oct 1833 to 27 Nov 1904) was a veteran of the Civil War, and a tanner and currier whose "tan yard lot" (Deeds) was next to Personius Hall–present day 559 Brooktondale Road–where fellow veteran Walker V. Personius continued "Mott's original store" (Driveby). Edward was a founding member of the David Ireland Post #158 of the GAR in Brookton, which traditionally met outside Personius Hall on Decoration Day to march to Quick Cemetery to decorate the veteran graves. 
+Edward and Amanda Lounsbery were charter members of the Mott's Corners Lodge #562 of the Independent Order of Good Templars, 23 Mar 1868, and remained involved in the later instances of the Good Templars in Mott's Corners/Brookton. They were also charter members of the Sons of Temperance Division #115 in Mott's Corners, 21 February 1874. Edward was also politically active in the Prohibition Party. 
 
-{{% fig "mills-home/edward-lounsbery-portrait" "350" /%}}
+**[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery)** (11 Oct 1833 to 27 Nov 1904) was a veteran of the Civil War, and a tanner and currier whose "tan yard lot" (Deeds) was next to present day 559 Brooktondale Road, where fellow veteran Walker V. Personius continued "Mott's original store" (*Drive by*). Edward was a founding member of the David Ireland Post #158 of the GAR in Brookton, which traditionally met outside Personius' store, on Decoration Day to march to Quick Cemetery to decorate the veteran graves. 
 
-Edward and wife **[Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery)** (12 Oct 1842 to 13 Nov 1921) were founding members of the Congregational Church of Mott’s Corners, and more examples of Amanda’s handwriting can be found in the Church’s records from her lifetime. The meeting minutes above make it clear that they were among the primary leaders of High Bridge Lodge during that time, and the group typically met in “Lounsbery Hall” above Mills’ Store. During that time and for many years after, the Mills’ Store building was one of a number of properties owned by Edward and Amanda, that would eventually include Mill’s Home, a few years after these meetings. The Lounsbery’s charged $5.00 per quarter rent to the Good Templars for the meeting space. Amanda’s father, **George Townley Sanders** ran the general store below Lounsbery Hall prior to the Mills move to Mott’s Corners, and his son **George E. Sanders** owned the building before selling it to Amanda's husband Edward.
+Edward fought in the 179th Infantry: "Enrolled, August 31, 1864, at Caroline, to serve one year; mustered in as private, Co. B, October 1, 1864; as first lieutenant, October 28, 1864; mustered out with company, June 8, 1865, near Alexandria, Va. Commissioned first lieutenant, November 19, 1864, with rank from October 9, 1864, vice G. Cook promoted." ([179th Infantry Regiment Unit Roster](https://museum.dmna.ny.gov/unit-history/infantry-2/179th-infantry-regiment), New York State Military Museum and Veterans Research Center.)
 
-For more information on Edward and Amanda Lounsbery, see their treatment in the sections on [Temperance]({{% relref "temperance" %}}),  [Deeds and Other Past Owners]({{% relref "other-past-owners" %}}) and [Founding the Congregational Church]({{% relref "founding-documents" %}}).   
+The following photographs appear to be taken at the same studio on the same day; when seated, Edward's cap and right glove are removed and rest on his lap:
+
+<div class="cols">
+{{% fig "sanders/edward-lounsbery" "350" /%}}
+{{% fig "mills-home/edward-lounsbery-portrait" "350" "img,cite" /%}}
+</div>
+
+Edward and wife **[Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery)** (12 Oct 1842 to 13 Nov 1921)  were founding members of the Congregational Church of Mott’s Corners, and more examples of Amanda’s handwriting can be found in the Church’s records from her lifetime. The meeting minutes above make it clear that they were among the primary leaders of High Bridge Lodge during that time, and the group typically met in “Lounsbery Hall” above Mills’ Store. During that time and for many years after, the Mills’ Store building was one of a number of properties owned by Edward and Amanda, that would eventually include Mill’s Home, a few years after these meetings. The Lounsbery’s charged $5.00 per quarter rent to the Good Templars for the meeting space. Amanda’s father, **George Townley Sanders** ran the general store below Lounsbery Hall prior to the Mills move to Mott’s Corners, and his son **George E. Sanders** owned the building before selling it to his sister Amanda and husband Edward.
+
+{{% fig "sanders/amanda-sanders-lounsbery" "500" /%}}
+
+For more information on Edward and Amanda Lounsbery, see their treatment in the following sections:
+  - {{% pagelink "founding-documents" %}} 
+  - {{% pagelink "me-mills" %}}
+  - {{% pagelink "other-past-owners" %}} 
 
 **[Ellen S. (Tobey) Lounsbery](https://www.findagrave.com/memorial/100059393/ellen-s-lounsbery)** (08 Aug 1841 to 22 Nov 1921) was, at the time of these meetings, the widow of [Richard Lounsbery](https://www.findagrave.com/memorial/100059249/richard-lounsbery) (27 Mar 1836 to 27 Jul 1881), one of Edward Lounsbery's brothers. Ellen is also the sister of May Tobey, who is discussed further below among the later members of the Lodge.
 
@@ -419,12 +434,51 @@ For more information on George Richardson, see [George's section]({{% relref "ri
 
 **D. F. Roe**
 
-
 ### Sanders
 
-"George Sanders", in the context of the earlier years appears to reference **[George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders)** (14 Nov 1818 to 04 May 1887) who married **[Lurana Maria "Maria" (Nicholas) Sanders](https://www.findagrave.com/memorial/89338796/lurana_maria_sanders)** (30 Oct 1820 to 13 Jan 1884). Their daughter **Libbie Sanders** is also explicitly referenced, and their son, George **E.**, may have also been a member in these early years of the Lodge. It is the father George T. who ran the store, despite the fact that it was owned by the son, George E. before he sold it to his brother-in-law and fellow "brother" **Edward Lounsbery** discussed above.
+**[George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders)** (14 Nov 1818 to 04 May 1887) and wife **[Lurana Maria "Maria" (Nicholas) Sanders](https://www.findagrave.com/memorial/89338796/lurana_maria_sanders)** (30 Oct 1820 to 13 Jan 1884) were also founding members of the {{% pagelink "founding-documents" "Congregational Church of Mott's Corners" %}}. Their daughter **Libbie Sanders** is also explicitly referenced, as is their son **[George *E.* Sanders](https://www.findagrave.com/memorial/89338797/george-e-sanders)** (16 Aug 1847 to 01 Nov 1889) and his wife **[Fannie (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders)** (23 Nov 1847 to 10 Feb 1896). **Amanda (Sanders) Lousnbery** is another daughter of George and Maria, and she and her husband **Edward Lounsbery** are also members of the Order, discussed above.
 
-More information on the Sanders family can be found at [Mills' Store in Brookton NY]({{% relref "me-mills" %}}).
+It is the father George T. who ran the general store immediately prior to Edward H. Mills, but it was his son, George E. who owned the property prior to selling it to his brother-in-law and fellow "brother" Edward Lounsbery. 
+
+<div class="cols">
+{{% fig "sanders/george-t-sanders" "350" /%}}
+{{% fig "sanders/lurana-maria-nicholas-sanders-cropped" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/obituaries/1884-02-05-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "bcc/obituaries/1887-05-18-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/obituaries/1887-05-10-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "bcc/obituaries/1887-05-13-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "sanders/george-e-sanders-younger" "350" /%}}
+{{% fig "sanders/george-e-sanders" "350" /%}}
+</div>
+
+{{% fig "me-mills/1889-11-02-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+George E. Sanders is discussed in more detail in another listing of members given further listing below.
+
+[Elizabeth "Libbie" H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie_h_peck) (05 Nov 1857 to 04 Nov 1929) married [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916) on 28 Feb 1877 in Brookton NY.
+
+<div class="cols">
+{{% fig "sanders/george-r-peck" "350" "img,cite,link" /%}}
+{{% fig "sanders/libbie-sanders-peck" "350" "img,cite,link" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/obituaries/1916-11-29-Ithaca-Journal-Ithaca-NY-p2" "350" /%}}
+{{% fig "bcc/obituaries/1929-11-05-Ithaca-Journal-Ithaca-NY-p5" "350" /%}}
+</div>
+
+For more information on the Sanders family, see their treatment in the following sections:
+  - {{% pagelink "me-mills" %}}
+  - {{% pagelink "founding-documents" %}} 
 
 The name Sanders is misspelled as "Saunders" in several sources.
 
@@ -1878,7 +1932,7 @@ His son was [Dr. Charles Henry Gallagher](https://www.findagrave.com/memorial/10
 
 **Edward and Amanda Lounsbery** as well as **[Ellen S. (Tobey) Lounsbery](https://www.findagrave.com/memorial/100059393/ellen-s-lounsbery)** are discussed among the earlier members listed above. 
 
-Amanda’s brother, **George E. Sanders** and his wife, **Fannie (Webster) Sanders**  were also Good Templars and are listed below. George and Amanda's father, **[George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders)** (14 Nov 1818 to 04 May 1887) had been an earlier member of the Order. The Sanders family are discussed further in the section on [Mills' Store in Brookton NY]({{% relref "me-mills" %}}).
+Amanda’s brother, **[George E. Sanders](https://www.findagrave.com/memorial/89338797/george-e-sanders)** (16 Aug 1847 to 01 Nov 1889) and his wife **[Fannie (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders)** (23 Nov 1847 to 10 Feb 1896) were also Good Templars and are listed below, as are George and Amanda's parents, **[George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders)** (14 Nov 1818 to 04 May 1887) and **[Lurana Maria "Maria" (Nicholas) Sanders](https://www.findagrave.com/memorial/89338796/lurana_maria_sanders)** (30 Oct 1820 to 13 Jan 1884) who had been earlier members of the Order. 
 
 ### Mandeville, Theodore
 
@@ -1922,10 +1976,24 @@ The Good Templars meetings described in the minutes notebook occurred during the
 
 ### Sanders 
 
-Although **George Townley Sanders** and his family were members in the earlier years of the Lodge, the 1880 United States Federal Census for Cortland NY shows that George T. and wife Maria were living in 
-Cortland with daughter Sarah and her husband Nelson Edwards, and they remained in Cortland the rest of their lives. Edward Mills had taken over operation of the store. Therefore, references to "George Sanders" and wife in the later years must be George Townley's son, **[George *E.* Sanders](https://www.findagrave.com/memorial/89338797/george-e-sanders)** (16 Aug 1847 to 01 Nov 1889) and his wife **[Fannie (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders)** (23 Nov 1847 to 10 Feb 1896). 
+Although **George Townley Sanders** and his family were members in the earlier years of the Lodge, the 1880 United States Federal Census for Cortland NY shows that George T. and wife **Maria** were living in Cortland with daughter Sarah and her husband Nelson Edwards, and they remained in Cortland the rest of their lives. Edward Mills had taken over operation of the store. Therefore, all references to "George Sanders" and wife in the later years must be George Townley's son, **[George *E.* Sanders](https://www.findagrave.com/memorial/89338797/george-e-sanders)** (16 Aug 1847 to 01 Nov 1889) and his wife **[Fannie (Webster) Sanders](https://www.findagrave.com/memorial/89338798/fannie-sanders)** (23 Nov 1847 to 10 Feb 1896). 
 
-More information on the Sanders family can be found at [Mills' Store in Brookton NY]({{% relref "me-mills" %}}).
+Along with Edward and Amanda Lounsbery, George E. was a charter member of the Mott's Corners Lodge # 562 of the Independent Order of Good Templars, 23 Mar 1868, and he likewise appears to have also been involved in the later instances of the Good Templars in Mott's Corners/Brookton. These three are joined by Fannie and Libbie Sanders as charter members of the Sons of Temperance Division #115 in Mott's Corners, 21 February 1874. George E. was also a charter member of Caroline Lodge No. 681 F. & A. M., June 15, 1885. (Tompkins County Clerk, Ithaca NY.)
+
+<div class="cols">
+{{% fig "sanders/george-e-sanders-younger" "350" /%}}
+{{% fig "sanders/george-e-sanders" "350" /%}}
+</div>
+
+George E.'s was a clerk in his father's store, and his obituary also notes that he was a produce dealer for a time. He also worked as a tanner with his brother-in-law, Edward Lounsbery: when [Franklin Cuthbert Cornell Sr.](https://www.findagrave.com/memorial/172201621/franklin-cuthbert-cornell) (28 Aug 1837 to 22 Jan 1908), the eldest son of [Ezra Cornell](https://www.findagrave.com/memorial/233/ezra_cornell) (11 Jan 1807 to 09 Dec 1874), the founder of Cornell University, sold the upper grist mill property to George Campbell, Caroline Deeds book 3, page 550, 21 May 1881, a "piece of land" was reserved for [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward_lounsbery) (11 Oct 1833 to 27 Nov 1904) and [George E. Sanders](https://www.findagrave.com/memorial/89338797/george_e_sanders) (16 Aug 1847 to 01 Nov 1889), which seems to corroborate a Carl English painting displayed in the Caroline History Room that refers to a tannery near the upper mill, although the deeds only refer to it as a "factory". George E. Sanders is listed as "tanner" in the 1875 NY State Census after selling the building that housed his father's {{% pagelink "me-mills" "general store" %}} to Edward Lounsbery the same year.
+
+{{% fig "me-mills/1889-11-02-Ithaca-Daily-Journal-Ithaca-NY-p3" "500" /%}}
+
+For more information on the Sanders family, see their treatment in the following sections:
+  - {{% pagelink "me-mills" %}}
+  - {{% pagelink "founding-documents" %}} 
+
+The name Sanders is misspelled as "Saunders" in several sources.
 
 Also see **Edward and Amanda (Sanders) Lounsbery**. 
 

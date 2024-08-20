@@ -16,25 +16,41 @@ The founding of the Congregational Church of Mott's Corners is recorded in the v
 
 <figure>
 
->The first church in Caroline was the Dutch Reformed, which organized in 1812 and put up a large building west of Boiceville in 1820. The minister for twenty-five years was Rev. Garrett Mandeville. Persuaded by his wife's cousin, Simeon DeWitt, to visit Ithaca, he came from Ulster County and served in Ithaca and Trumansburg until 1812, when he bought a farm in Caroline. A post office for Boiceville, opened in 1823, was named Slaterville after Levi Slater, the first town clerk. The village developed to the east with a Methodist church, stores, mills, and taverns to serve the farmers and turnpike traffic.
+> The first church in Caroline was the Dutch Reformed, which organized in 1812 and put up a large building west of Boiceville in 1820. The minister for twenty-five years was Rev. Garrett Mandeville. Persuaded by his wife's cousin, Simeon DeWitt, to visit Ithaca, he came from Ulster County and served in Ithaca and Trumansburg until 1812, when he bought a farm in Caroline. A post office for Boiceville, opened in 1823, was named Slaterville after Levi Slater, the first town clerk. The village developed to the east with a Methodist church, stores, mills, and taverns to serve the farmers and turnpike traffic.
 
-<figcaption><cite>
+<figcaption>
+<cite>
 
-— Molly Adams, "Town of Caroline" in <em>The Towns of Tompkins County: From Podunk to the Magnetic Springs</em> edited by Jane Marsh Dieckmann, p52-53.
+— Molly Adams, "Town of Caroline" in *The Towns of Tompkins County: From Podunk to the Magnetic Springs* edited by Jane Marsh Dieckmann, p52-53.
 
 </cite>
 </figcaption>
 </figure>
 
 <figure>
-<blockquote>
-In 1868 the CONGREGATIONAL CHURCH was formed at Brooktondale by members of the BROOKTON METHODIST and the REFORMED CHURCH OF AMERICA. A foundation had been created for a Methodist Church, but when the new organization was formed, the Varna Presbyterian Church building was purchased and moved to the Methodist Foundation. The building is in active use by the CAROLINE VALLEY FEDERATED CHURCH. The steeple was blown down during a wind storm in 1925. A fiberglass steeple was lifted to its platform by a crane from H. D. Besemer Co. on 22 June 1977. The bell was bought from the Dutch Reformed Church by the Congregationalists, and is probably the oldest bell in this area.
-</blockquote>
+
+> In 1868 the CONGREGATIONAL CHURCH was formed at Brooktondale by members of the BROOKTON METHODIST and the REFORMED CHURCH OF AMERICA. A foundation had been created for a Methodist Church, but when the new organization was formed, the Varna Presbyterian Church building was purchased and moved to the Methodist Foundation. The building is in active use by the CAROLINE VALLEY FEDERATED CHURCH. The steeple was blown down during a wind storm in 1925. A fiberglass steeple was lifted to its platform by a crane from H. D. Besemer Co. on 22 June 1977. The bell was bought from the Dutch Reformed Church by the Congregationalists, and is probably the oldest bell in this area.
+
 <figcaption>
-<cite>— 1994, <em>A History of the Town of Caroline Tompkins County, New York United States of America</em>, revised and compiled by Barbara B. M. Kone, Town of Caroline Historian.</cite>
+<cite>
+
+— 1994, *A History of the Town of Caroline Tompkins County, New York United States of America*, revised and compiled by Barbara B. M. Kone, Town of Caroline Historian.</cite>
+
 </figcaption>
 </figure>
 
+<figure>
+
+> The bell formerly in the Dutch Reformed church at Boiceville was purchased by W. V. and Charles Personius for the Congregational church here and is now being put in place. There will now be no excuse for people coming late to church.
+
+<figcaption>
+<cite>
+
+– 26 Apr 1889, Ithaca Daily Journal, Ithaca NY, p3, nyshistoricnewspapers.org.
+
+</cite>
+</figcaption>
+</figure>
 
 A history of the first 65 years of the Church, beginning weeks before their official organization, are found in one volume:
 
@@ -647,7 +663,7 @@ A number of the founders can be found on the 1866 Stone & Stewart Atlas that inc
 
 {{% fig "brookton/maps/1866-atlas-motts-corners" "800" /%}}
 
-And several of the founding members were Civil War veterans. John Mandeville, William B. Wolcott and Charles Personius were photographed with other GAR members in 1906, in front of Personius Hall.
+And several of the founding members were Civil War veterans. John Mandeville, William B. Wolcott and Charles Personius were photographed with other GAR members in 1906, in front of Walker V. Personius' store.
 
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "800" /%}}
 
@@ -658,17 +674,55 @@ And several of the founding members were Civil War veterans. John Mandeville, Wi
 
 #### Edward and Amanda Lounsbery
 
-[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Edward was also a member of the Independent Order of Good Templars in Brookton. He died within the Congregational Church while addressing the Christian Endeavor Society.
-
-{{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "500x300" "" "top" /%}}
+[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran and a founding member of the David Ireland Post #158 in Brookton. Edward and wife Amanda were also leaders of the Independent Order of Good Templars Lodges and the Sons of Temperance Division #.
 
 Edward fought in the 179th Infantry: "Enrolled, August 31, 1864, at Caroline, to serve one year; mustered in as private, Co. B, October 1, 1864; as first lieutenant, October 28, 1864; mustered out with company, June 8, 1865, near Alexandria, Va. Commissioned first lieutenant, November 19, 1864, with rank from October 9, 1864, vice G. Cook promoted." ([179th Infrantry Regiment Unit Roster](https://museum.dmna.ny.gov/unit-history/infantry-2/179th-infantry-regiment), New York State Military Museum and Veterans Research Center.)
 
+<div class="cols">
+{{% fig "sanders/edward-lounsbery" "350" /%}}
 {{% fig "mills-home/edward-lounsbery-portrait" "350" /%}}
+</div>
+
+Edward died within the Congregational Church while addressing the Christian Endeavor Society.
+
+{{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
+{{% fig "bcc/obituaries/1904-12-02-Ithaca-Daily-News-Ithaca-NY-p5-q14" "800x600" "" "top" /%}}
 
 Edward married [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921). Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand. (She signed many meeting minutes, for example, and the handwriting matches many other handwritten records in the church.) Edward and Amanda also owned the Mills' Store building for many years, and after Amanda's death, Mills' store passed to Amanda's sister Libbie Peck.
 
+{{% fig "sanders/amanda-sanders-lounsbery" "500" /%}}
+
 {{% fig "mills-home/1921-11-14-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+
+More information on Edward and Amanda Lounsbery can be found in the following sections:
+  - {{% pagelink "other-past-owners" %}}.
+  - {{% pagelink "me-mills"  %}}.
+  - {{% pagelink "good-templars" %}}.
+
+#### George Townley and Lurana Maria “Maria” (Nicholas) Sanders
+
+**[George Townley Sanders](https://www.findagrave.com/memorial/89338795/george-townley-sanders)** (14 Nov 1818 to 04 May 1887) married **[Lurana Maria "Maria" (Nicholas) Sanders](https://www.findagrave.com/memorial/89338796/lurana_maria_sanders)** (30 Oct 1820 to 13 Jan 1884). George T. was postmaster from 20 Jul 1861 ti 15 Dec 1864, and afterward, ran the store opposite the lower grist mill for a number of years immediately prior to E. H. Mills, during which time the building was legally owned by his son George E. who eventually sold it to his brother-in-law **Edward Lounsbery** discussed above. The Sanders family was also very active in the local temperance movement.
+
+<div class="cols">
+{{% fig "sanders/george-t-sanders" "350" /%}}
+{{% fig "sanders/lurana-maria-nicholas-sanders-cropped" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/obituaries/1884-02-05-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "bcc/obituaries/1887-05-18-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/obituaries/1887-05-10-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+{{% fig "bcc/obituaries/1887-05-13-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
+</div>
+
+More information on the Sanders family can be found in the sections:
+  - {{% pagelink "me-mills"  %}}.
+  - {{% pagelink "good-templars" %}}.
+
+The name Sanders is misspelled as "Saunders" in several sources.
 
 #### Walker Voorhis and Ella M. Personius
 

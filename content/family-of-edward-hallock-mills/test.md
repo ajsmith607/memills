@@ -3,6 +3,60 @@ title: "TEST PAGE"
 draft: true
 ---
 
+
+l/d in good templars trans, amanda louns, early trans
+
+link from templars to brewer barn
+
+Important updates:
+  - Josiah shurter, wagon hub
+  - signor information 
+  - Frank's poem
+  - peephole photo
+
+Did I email tc clerk about humiston case record? (no)
+consistent on inclusion of titles in "personal correspondence"?
+explicitly cite wolcott lot
+"store property" quote and citation
+ 
+Temperance, personius hall
+Ellen Wolcott
+
+practice burn photos?
+temperance, personius hall
+charles pine, bdale legacy
+country store, new query, doc search
+
+clean up survey page
+modern surveys
+
+store photo and research
+
+
+
+----
+
+<figure>
+
+| Founding Date | Group |
+| --- | --- |
+| 23 Mar 1868 | Templars, Lodge #562 |
+| 21 Feb 1874 | Sons, Division #115 |
+| 06 Mar 1876 | Templars, Lodge #296
+| 15 Jun 1885 | Masons, Lodge #681 |
+
+<figcaption>
+
+Key:
+  - Templars: Independent Order of Good Templars 
+  - Sons: Sons of Temperance
+  - Masons: Free and Accepted Masons
+
+<figcaption>
+</figure>
+
+
+
 Nancy hungerford mentioned feb 9, 1899, p5, besemer
 
 
@@ -19,7 +73,7 @@ likely https://www.findagrave.com/memorial/92289496/william_s_evans
 {{% fig "brookton/mandeville-poem/poem" "500" /%}}
 
 
-Another daughter of George T. Sanders, [Libbie H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929), married [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916) in 1877. Edward Lounsbery and George Peck were both "dealers in hides" and operated a tannery, Lounsbery & Peck, next to Walker V. Personius' store at present-day 559 Brooktondale Road. 
+Another daughter of George T. Sanders, [Elizabeth "Libbie" H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie-h-peck) (05 Nov 1857 to 04 Nov 1929), married [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916) in 1877. Edward Lounsbery and George Peck were both "dealers in hides" and operated a tannery, Lounsbery & Peck, next to Walker V. Personius' store at present-day 559 Brooktondale Road. 
 
 Like Mills' and Mulks' Stores, Personius' had to contend with theft. 
 
@@ -98,7 +152,6 @@ https://www.fhwa.dot.gov/highwayhistory/stone_ny01.cfm
 
 
 
-Caroline Deeds Book 1, p516, Willis Shurter and Jane his wife to Jacob Vandemark for $5000. The deed is dated 16 Dec 1867, but is recorded 22 Dec 1868. This section of the paper says that it is "real estate transfers for the week endning Thursday, Dec. 24" and this the day of the week that Christmas Eve fell in 1868. 
 
 "Beginning at the point where what is know as the "School House Road" in Motts Corners intersects the "Creek Road" and running thus[?] westerly along the brow of the hiill, above the mill factory, around to a point in the center of the aforementioned...
 

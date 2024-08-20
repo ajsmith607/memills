@@ -61,7 +61,9 @@ I have speculated elsewhere that William Benton Wolcott, a carpenter by trade, w
 
 Mills’ Home sits on a stone foundation, that, as I will demonstrate, is the original stone foundation of the home that William Benton Wolcott built. At the home, on 10 Jan 2024, I consulted with Terry Jones, a local stone mason, to explore the foundation and answer several specific questions I had about its construction and features, that I hoped might help me identify the stone mason who worked for William Wolcott.
 
-Terry was impressed by the excellent condition of the foundation given its age, stating that it has held up as well as any stone foundation he has seen. In particular, he pointed to how square the corners were on both the inside and outside, and that the walls were plumb and true, vertically straight, as shown in the following photographs of the southwest corner of the foundation.
+Terry was impressed by the excellent condition of the foundation given its age, stating that it has held up as well as any stone foundation he has seen. In particular, he pointed to how square the corners were on both the inside and outside, and that the walls were plumb and true, vertically straight, as shown in the following photographs of the southwest corner of the foundation. 
+
+(Also note in the photos of the external corners immediately following, chisel marks on a middle stone that will be explored later.)
 
 {{% fig "adams-photos/foundation/2024-02-05 14.41.29" "800" /%}}
 
@@ -123,7 +125,7 @@ There is one stone in particular that has always caught my attention: when I fir
 
 The face of the stone in question is approximately 19 inches wide by 5 inches high. I have attempted to create rubbings of this stone with various types of paper, which proved challenging because the surface of the stone is not itself flat. The following is the best I have yet been able to do, using Pellon fusible midweight interfacing (931TD) and a black beeswax square crayon block, which unfortunately, does not seem to do much to clarify the writing. 
 
-{{% fig "adams-photos/foundation/2023-02-26-marsh-rubbing-scaled" "800" /%}}
+{{% fig "adams-photos/foundation/2024-02-26-marsh-rubbing-scaled" "800" /%}}
 
 I showed this stone to Terry Jones and he agreed with me that the markings were intentionally made, and that it indeed appeared to be letters.
 
@@ -140,13 +142,35 @@ The markings appear to spell out "Marsh".
 
 {{% fig "adams-photos/foundation/foundation-marsh-outline" "800" /%}}
 
+I find only one man named Marsh nearby at that time, and he is the co-brother-in-law of William Benton Wolcott, the first owner of record of the property.
+
 [Edward C. Marsh](https://www.findagrave.com/memorial/28741041/edward-c-marsh) (23 Nov 1836 to 25 Jun 1907) was born in Danby and was still living there at the start of the Civil War. (Town Clerks' Registers of Men Who Served in the Civil War, ca 1865–1867. Microfilm publication, 37 rolls. New York State Archives. Albany, New York.) Edward was First Lieutenant in Company E of the 64th Infantry Regiment, mustering in 10 Sep 1861 and mustering out 16 Dec 1862. 
 
 By 1866, Edward Marsh is listed in the "Mott's Corners Business Directory" of the 1866 Photographic Atlas of Tompkins County by Stone & Stewart:
 
 {{% fig "brookton/maps/1866-atlas-motts-corners" "800" "img,cite,link" /%}}
 
-The first entry, "E. C. Marsh...Grocery and Provision Store" is almost certainly a reference to the J. Shurter Store. Josiah Shurter is Edward Marsh's father-in-law, and presumably his employer. As indicated in the 1865 New York State Census for Caroline, Edward and his wife Harriet "Hattie" (Shurter) Marsh (1848? to 10 Apr 1917) were living in the home of Josiah Shurter. 
+The first entry, "E. C. Marsh...Grocery and Provision Store" is almost certainly a reference to the J. Shurter Store. Josiah Shurter is Edward Marsh's father-in-law, and presumably his employer. As indicated in the 1865 New York State Census for Caroline, Edward and his wife Harriet "Hattie" (Shurter) Marsh (1848? to 10 Apr 1917) were living in the "Shurter House", the home of Josiah Shurter, which at that time was located between the store building and Six Mile Creek.
+
+<figure>
+
+> Shurter House, right-- 447 Brooktondale Road
+>
+> The Shurter House was built by William Mott about 1840. It is said to be the first house to have a coat of paint. Willis Shurter ran it as a hotel and his widow, Betsy Shurter, ran it as a rooming house. This house sat between the Post Office and the creek and was moved when the highway changed in the 1960's.
+
+<figcaption>
+<cite>
+
+— *A Drive-by Tour of the Town of Caroline* sponsored by the Town of Caroline Bicentennial Committee 1994-1995, Tour 4 - P8. 
+</cite>
+</figcaption>
+
+<aside>
+
+  - When the *Drive-by* book was written, the "Post Office" was in the Mills' store building at 484 Brooktondale Road. Present residents call the store building "The Old Post Office".
+
+</aside>
+</figure>
 
 {{% fig "me-mills/1865-06-26-NYS-census-caroline-p34" "800" /%}}
 
@@ -227,7 +251,9 @@ And there are other stones that almost look like they could have lettering.
 
 It should be kept in mind that as I am writing this, the pushed out section of the dining room that includes the side entrance by the driveway, as well as the entire rear addition, hides from view large areas of the exterior stone foundation that I have never seen. So, there may be other interesting clues on the stones that are hidden from view, waiting to be rediscovered.
 
-Returning to the subject of the master stone mason who built the foundation, if we assume that it is not Edward Marsh, then who else could it be?
+Perhaps Edward Marsh, a documented carpenter, was more likely involved in the construction of the frame structure, and not the foundation, where he may have only contributed his name. Remember that the home was part of the lower grist mill property, owned by Josiah and Willis Shurter, so Was Edward the first occupant of the home, even if he wasn't
+
+Supposing the mason is not Edward Marsh, who else could it be?
 
 Assuming the stone mason was more likely to have lived near the Wolcott Lot, I started with the 1865 New York State Census, looking for variations of “mason” and “stone mason”. Again, I can’t say for certain that every stone mason in the area is accounted for in the census, but several are identified:
 
@@ -264,7 +290,7 @@ In 1870, Alonzo was still living in Mott's Corners, working as a stone mason acc
 
 Clarissa was first cousins with [William Krum Personius](https://www.findagrave.com/memorial/162786830/william-krum-personius) (10 Feb 1811 to 25 Apr 1887), as they share the common grandfather [James Jacobus Personius](https://www.findagrave.com/memorial/36649297/james-jacobus-personius) (11 Jun 1747 to 14 May 1836). William Krum Personius was the father of [Walker Voorhis Personius](https://www.findagrave.com/memorial/98386104/walker-voorhis-personius) (1836 to 1914), dry goods merchant, postmaster and justice of the peace, and [Charles William Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924), who owned the lower grist mill at the time that it was divided to create the Wolcott Lot, the future Mills' Home. Both Walker and Charles were Civil War veterans and [founding members]({{% relref "founding-documents" %}}) of the Congregational Church of Mott's Corners.
 
-Therefore, in the absence of specific evidence to the mason’s identity, it seems most probable that he was Alonzo B. Northrop. (Although obviously, multiple stone masons may have worked together on jobs.)
+Therefore, if Edward Marsh is excluded, and in the absence of any other specific evidence to the mason’s identity, it seems most probable that he was Alonzo B. Northrop. (Although obviously, multiple stone masons may have worked together on jobs.)
 
 <div class="cols">
 {{% fig "mills-home/masons/1906-06-21-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
@@ -437,7 +463,7 @@ The oak is noted on survey maps for the property going back to 1972, when it was
 </figcaption>
 </figure>
 
-In November 2022, I attempted to measure the oak tree, to verify the estimated diameter indicated on the surveys, and to have some basis for estimating its age. I used a polyester rope which resists stretching, and wrapped it around the tree to measure its circumference. Although I have seen recommendations to measure the trunk approximately 4.5 feet above the ground, this was challenging for two reasons: the severe slope of the hill on which it is growing, and the fact that it splits partway up. So, I chose a spot just under where the split expands the trunk, and later measured my marked rope to be 178 inches, which, when divided by pi (3.14), results in 56.69 inches in diameter, or **4.72 feet in diameter**, an unsurprising approximation given the estimates on past surveys. 
+In November 2022, I attempted to measure the oak tree, to verify the estimated diameter indicated on the surveys, and to have some basis for estimating its age, described further below. I used a polyester rope which resists stretching, and wrapped it around the tree to measure its circumference. Although I have seen recommendations to measure the trunk approximately 4.5 feet above the ground, this was challenging for two reasons: the severe slope of the hill on which it is growing, and the fact that the oak splits partway up. So, I chose a height just under where the split expands the trunk, and later measured my marked rope to be 178 inches, which, when divided by pi (3.14), results in 56.69 inches in diameter, or **4.72 feet in diameter**, an unsurprising approximation given the estimates on past surveys. 
 
 {{% fig "adams-photos/oak-tree/2023-05-15_10.24.53" "500" /%}}
 
@@ -453,11 +479,11 @@ In November 2022, I attempted to measure the oak tree, to verify the estimated d
 
 From my research, it seems that even the most accurate method of determining a tree's age–counting growth rings–is difficult to do accurately, and of course, accessing growth rings cannot be done non-destructively. Instead, I applied Mitchell's Rule, named for botanist [Alan F. Mitchell](https://en.wikipedia.org/wiki/Alan_Mitchell_(botanist)), with an annual growth rate of 5 inches, a figure corroborated by multiple sources. Multiplying the diameter in inches that was derived above by the growth rate yields an approximate age of 283.45 years. This is the approximate average age of white oaks according to the source quoted above. 
 
-If this estimate truly approximates the oak's age, then it obviously predates the Mills family's arrival in Mott's Corners, and was already a substantial tree by that time.
+If this estimate truly approximates the oak's age, then it obviously predates the Mills family's arrival in Mott's Corners, and it was already a substantial tree by that time.
 
 {{% fig "adams-photos/oak-tree/2022-11-26_09.08.08" "500" /%}}
 
-Obviously, there are many variables affecting the growth of the oak over time, and both my approach to measuring the tree and the application of Mitchell's Rule are not precise either. I will point out however, that the hill slope that the tree stands on is southern facing, and anyone familiar with the home and land around it will know that the tree had ample access to water. In the Spring, a shallow stream on the surface of the ground would form to the east of the oak. In other words, it seems that the growing conditions are favorable in this area. 
+Obviously, there are many variables affecting the growth of the oak over time, and both my approach to measuring the tree and the application of Mitchell's Rule are not precise either. I will point out however, that the hill slope that the tree stands on is southern facing, and anyone familiar with the home and land around it will know that the tree had ample access to water. In the Spring, a shallow stream on the surface of the ground would form to the east of the oak. In other words, the growing conditions in this area seem favorable. 
 
 Even if we assume that the diameter of the tree is closer to 4 feet, mitigating the measurement complications I mentioned, and use a much more conservative growth factor, say 3, this puts the approximate age at 144 years, which from the year I write this, 2023, would put the tree's germination at 1879, the very year the Mills moved to Mott's Corners.
 

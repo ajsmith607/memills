@@ -39,7 +39,7 @@ The following is the first deed for the property after it was sub-divided from t
 
 ## Jacob Vandemark and Charles W. Personius
 
-It appears that the grist mill was co-owned by [Jacob Vandemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873) and [Charles William Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924). In 1868, Mills' store deeds describe the lot as "nearly on opposite side of the highway from Jacob Vandemark's Grist Mill" (Caroline Deeds 1, p556), and in 1874 the phrase is changed to "nearly on opposite side of the highway from Charles Personius' Mills" (Caroline Deeds 3, p234). In 1934: "nearly opposite the mill formerly owned by Charles Personius, now occupied by the Lockwood apartment building" (Deeds 235, p84). Of course, the Lockwood apartment building is Dalebrook. Jacob's exact role is unclear, but Charles was described elsewhere as a miller, and he is often referred to as the owner of the grist mill in later years, and when it is sold to A. Cameron Vorhis, the mill was called Personius Flouring Mills.
+It appears that the grist mill was co-owned by [Jacob Vandemark](https://www.findagrave.com/memorial/89241014/jacob-vandemark) (1802 to 15 Dec 1873) and [Charles William Personius](https://www.findagrave.com/memorial/89338759/charles-w-personius) (1840 to 02 Feb 1924) at the time it was divided to create The Wolcott Lot. In 1868, Mills' store deeds describe the lot as "nearly on opposite side of the highway from Jacob Vandemark's Grist Mill" (Caroline Deeds 1, p556), and in 1874 the phrase is changed to "nearly on opposite side of the highway from Charles Personius' Mills" (Caroline Deeds 3, p234). In 1934: "nearly opposite the mill formerly owned by Charles Personius, now occupied by the Lockwood apartment building" (Deeds 235, p84). Of course, the Lockwood apartment building is Dalebrook. Jacob's exact role is unclear, but Charles was described elsewhere as a miller, and he is often referred to as the owner of the grist mill in later years, and when it is sold to A. Cameron Vorhis, the mill was called Personius Flouring Mills.
 
 (Personius is sometimes spelled Person**e**us, but it seems that most often Person**i**us is used for Charles and Walker, so I have chosen to stick with that spelling unless quoting someone else.)
 
@@ -240,6 +240,7 @@ The following photo of some of the surviving members of the David Ireland Post o
 {{% fig "mills-home/1959-12-19-The-Ithaca-Journal-Ithaca-NY-p12b" "350" "img" /%}}
 {{% fig "mills-home/2022-559-brooktondale-road" "350" /%}}
 </div>
+
 {{% fig "mills-home/1880-05-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "800x350" "" "top" /%}}
 
 {{% fig "mills-home/autophone" "500" /%}}
@@ -379,6 +380,9 @@ Willis Wolcott's wife [Allela (Roe) Wolcott](https://www.findagrave.com/memorial
 
 {{% fig "mills-home/1918-01-03-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 {{% fig "mills-home/1918-03-13-The-Ithaca-Journal-Ithaca-NY-p6" "800x500" "" "top" /%}}
+
+{{% fig "mills-home/1918-06-25-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
+
 {{% fig "mills-home/1918-06-24-The-Ithaca-Journal-Ithaca-NY-p3" "800x500" "" "top" /%}}
 
 <div class="cols">
@@ -420,9 +424,6 @@ She died in April 1982 in Thibodaux, LaFouche, Louisiana.
 <cite>—04 Jul 2022, Jean Shulman, Historical Programs and Collections at American Red Cross, personal correspondence.</cite>
 </figcaption>
 </figure>
-
-{{% fig "mills-home/1918-06-25-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
-
 
 <div class="cols">
 {{% fig "mills-home/1918-07-05-The-Ithaca-Journal-Ithaca-NY-p5" "350" /%}}
@@ -486,7 +487,7 @@ Horace Jr. was portrayed in the Ithaca Daily Journal as a local celebrity, a man
 </figcaption>
 </figure>
 
-Based on the reporting of that "young boys are very properly kept from the court house during the testimony" further described as "prurient", one can surmise this was a brothel.
+Based on the reporting of that "young boys are very properly kept from the court house during the testimony" further described as "prurient", one can surmise this was a brothel. The more recent origins of the Humiston Case may be found roughly a year earlier, in Apr 1885, The People vs. John Lusk, who was also accused of keeping a disorderly house. The recorded testimony still on file at the Tompkins County clerk makes it clear that Lusk ran a brothel, and Horace Humiston testified in the case. Under oath, he states that he has practiced law "for the past 30 years", which is difficult to reconcile with what little I know of his earlier life. Humiston worked on behalf of an organization called "The Society for the Prevention of Crime". 
 
 {{% fig "mills-home/humiston/1886-06-11-Ithaca-Daily-Journal-Ithaca-NY-p2" "800x300" "" "top" /%}}
 
@@ -622,19 +623,39 @@ Frank's son [Charles Vorhis](https://www.findagrave.com/memorial/162243893/charl
  
 {{% fig "mills-home/138-329" "800" /%}}
 
-This deed contains the first mention of the Mills family, living in the home "as tenants" prior to owning it, at least by June 1891, and possibly earlier. It seems most likely that Edward and Amanda never occupied the home themselves.
+This deed contains the first mention of the Mills family, living in the home "as tenants" prior to owning it, at least by June 1891, and possibly earlier. Therefore, it seems logical to presume that Edward and Amanda never occupied the home themselves.
 
-[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran, and a founding member of the David Ireland Post #158 in Brookton. Both Edward and his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) were leaders of the High Bridge Lodge of the temperance organization the {{% pagelink "good-templars" "Independent Order of Good Templars" %}}.
+[Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) was a tanner and currier, a Civil War veteran, and a founding member of the David Ireland Post #158 in Brookton. Both Edward and his wife [Amanda (Sanders) Lounsbery](https://www.findagrave.com/memorial/89338794/amanda-lounsbery) (12 Oct 1842 to 13 Nov 1921) were founding members of the {{% pagelink "founding-documents" "Congregational Church of Mott's Corners" %}} was well as founders and leaders of the {{% pagelink "good-templars" "Independent Order of Good Templars Lodges" %}} and the Sons of Temperance organizations in Mott's Corners. Edward was also politically active in the Prohibition Party.
 
 Edward entered the 179th New York Infantry Regiment, Company B as a private on 31 Aug 1864 and was promoted to First Lieutenant on 11 Dec 1864. Edward's Company, "Co B was at surender [sic] of Lee". Company B also included Fred Elmer Bates, Nelson J. Edwards, John James Roe, John Ault, and Dan C. Hanford, among others from Caroline. (All information from 1865, Complete Record, as Required by Chapter 690, of the Laws of 1865, Relating to Officers, Soldiers and Seamen, Composing the Quotas of the Troops Furnished to the United States, Town of Caroline, County of Tompkins, State of New York, Prepared By Charles L. Davis, ancestry.com.)
 
-{{% fig "mills-home/edward-lounsbery-portrait" "500" /%}}
+The following photographs appear to be taken at the same studio on the same day; when seated, Edward's cap and right glove are removed and rest on his lap:
+
+<div class="cols">
+{{% fig "sanders/edward-lounsbery" "350" /%}}
+{{% fig "mills-home/edward-lounsbery-portrait" "350" "img,cite,link" /%}}
+</div>
 
 Records of what is known today as Caroline Valley Community Church show that Edward was one of the original organizers and members of the Church, present at the "informal meeting" on 05 Mar 1868 at the home of Walker V. Personius that resulted in the organization of the Congregational Church of Mott's Corners on 12 Mar 1868, when Edward, along with his wife Amanda, are listed as charter members. It is noted in the Church's meeting minutes that at the 05 Mar meeting "on motion of Edward Lounsbery Mr. William Personeus was chosen chairman and Walker V. Personius secretary." Edward died within the Congregational Church while addressing the Christian Endeavor Society. For more context on the founding of the Congregational Church of Mott's Corners, see [this section]({{% relref "founding-documents" %}}).
 
-{{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
+As one of Edward's obituary's states, Edward's tannery was known at one time as "Lounsbery & Peck", the Peck presumably being his co-brother-in-law, [George Riley Peck](https://www.findagrave.com/memorial/20462930/george-riley-peck) (14 May 1851 to 28 Nov 1916) who married Edward's wife Amanda's sister [Elizabeth "Libbie" H. (Sanders) Peck](https://www.findagrave.com/memorial/138388479/libbie_h_peck) (05 Nov 1857 to 04 Nov 1929) on 28 Feb 1877 in Brookton NY. And, when [Franklin Cuthbert Cornell Sr.](https://www.findagrave.com/memorial/172201621/franklin-cuthbert-cornell) (28 Aug 1837 to 22 Jan 1908), the eldest son of [Ezra Cornell](https://www.findagrave.com/memorial/233/ezra_cornell) (11 Jan 1807 to 09 Dec 1874), the founder of Cornell University, sold the upper grist mill property to George Campbell, Caroline Deeds book 3, page 550, 21 May 1881, a "piece of land" was reserved for Edward and his brother-in-law, [George E. Sanders](https://www.findagrave.com/memorial/89338797/george_e_sanders) (16 Aug 1847 to 01 Nov 1889), which seems to corroborate a Carl English painting displayed in the Caroline History Room that refers to a tannery near the upper mill, although the deeds only refer to it as a "factory". George E. Sanders is listed as "tanner" in the 1875 NY State Census after selling the building that housed his father's {{% pagelink "me-mills" "general store" %}} to Edward Lounsbery the same year.
 
-Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand. (She signed many meeting minutes, for example, and the handwriting matches many other handwritten records in the church.) Edward and Amanda also owned the Mills' Store building for many years, and after Amanda's death, Mills' store passed to Amanda's sister Libbie Peck.
+{{% fig "mills-home/1904-11-28-The-Ithaca-Daily-Journal-Ithaca-NY-p6" "800x600" "" "top" /%}}
+{{% fig "bcc/obituaries/1904-12-02-Ithaca-Daily-News-Ithaca-NY-p5-q14" "800x600" "" "top" /%}}
+
+<div class="cols">
+{{% fig "sanders/george-r-peck" "350" "img,cite,link" /%}}
+{{% fig "sanders/libbie-sanders-peck" "350" "img,cite,link" /%}}
+</div>
+
+<div class="cols">
+{{% fig "bcc/obituaries/1916-11-29-Ithaca-Journal-Ithaca-NY-p2" "350" /%}}
+{{% fig "bcc/obituaries/1929-11-05-Ithaca-Journal-Ithaca-NY-p5" "350" /%}}
+</div>
+
+Amanda was clerk in the church for many years, including after Edward's death and many entries in the church records are written by her hand. (She signed many meeting minutes, for example, and the handwriting matches many other handwritten records in the church.) Edward and Amanda also owned the Mills' Store building for many years, and after Amanda's death, Mills' store passed to Amanda's sister Libbie Peck. 
+
+{{% fig "sanders/amanda-sanders-lounsbery" "500" /%}}
 
 {{% fig "mills-home/1921-11-14-The-Ithaca-Journal-Ithaca-NY-p5" "500" /%}}
 

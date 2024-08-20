@@ -156,7 +156,7 @@ Those fleeing the Seawanhaka were forced to choose between a blazing, sinking sh
 
 On the entire front page of the 29 Jun 1880 edition of The New York Times, only news of the Seawanhaka disaster was reported. The event and its aftermath were reported statewide for many months, including in newspapers in Tompkins, Erie, and Orange counties.
 
-Initially nobody knew that Horatio Mills was a passenger on the boat, and his remains may not have been identified except for papers he was carrying when he died. (And even then, those papers would likely have been lost had Horatio's body been discovered fist by the “river thieves”, "human ghouls" who "hunt[ed] the wreck of the Seawanhaka to rob the bodies of the victims".) Although Horatio was known to be a "very fine swimmer", a large bruise on his back suggested he was severely injured from striking the boat’s paddle wheel.
+Initially nobody knew that Horatio Mills was a passenger on the boat, and his remains may not have been identified except for papers he was carrying when he died. (And even then, those papers would likely have been lost had Horatio's body been discovered first by the “river thieves”, "human ghouls" who "hunt[ed] the wreck of the Seawanhaka to rob the bodies of the victims".) Although Horatio was known to be a "very fine swimmer", a large bruise on his back suggested he was severely injured from striking the boat’s paddle wheel during his attempted escape.
 
 Horatio was a Columbia educated lawyer "endowed with talents of the highest order".
 
