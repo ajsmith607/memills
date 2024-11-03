@@ -16,7 +16,12 @@ The recent death of Miss Emily Mills, a long-time resident of Brooktondale, dese
 
 Reserved, unostentatious, and kindly, she aided materially the Caroline welfare director by extending credit for groceries to many needy individuals. Paraphrasing the remarks of Robert G. Ingersoll at his brother's funeral: If everyone to whom Miss Mills extended a helpful hand were to place a floral emblem upon her grave, she would sleep today amidst a wilderness of flowers.
 
-A devoted member of the Congregational Church at this place, teacher in the Sunday School, she went about her daily round of duties with a Christian fortitude and faithfulnes that were greatly appreciated and will be long remembered by her host of friends who join in this tribute to the memory of one who, even as her great Exemplar, went about doing good. 
+A devoted member of the Congregational Church at this place, teacher in the Sunday School, she went about her daily round of duties with a Christian fortitude and faithfulness that were greatly appreciated and will be long remembered by her host of friends who join in this tribute to the memory of one who, even as her great Exemplar, went about doing good. 
 
 E. D. Shurter,
 Brooktondale
+
+
+
+
+

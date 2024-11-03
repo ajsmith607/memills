@@ -173,7 +173,7 @@ William Mott II…deposed the postmaster [Willet Terry] at Terryville (on Coddin
 <aside>
 <ul>
 <li>
-559 Brooktondale Road would remain a grocery store under the ownership of Walker V. Personius and then George Richardson, a former employee of E. H. Mills.
+559 Brooktondale Road remained a grocery store under the ownership of Walker V. Personius and then George Richardson, a former employee of E. H. Mills.
 </li>
 </ul>
 </aside>

@@ -4,7 +4,7 @@ date: "2021-05-25"
 weight: 60
 ---
 
-Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% relref "me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% relref "temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher and piano player in Brooktondale Congregational Church, now Caroline Valley Community Church.
+Mary Emily Mills, born Dec 1858 Staten Island NY, died 03 Nov 1937 Brooktondale NY, who commonly went by Emily, and in more formal contexts, M. Emily Mills or M. E. Mills. Youngest child of Edward Hallock and Mary Ann Mills. Proprietor, [M. E. Mills]({{% relref "me-mills" %}}) general store in Brookton/Brooktondale NY. Active in the [temperance movement]({{% relref "temperance" %}}) in the Independent Order of Good Templars and the Women's Christian Temperance Union, as well as Sunday School teacher in Brooktondale Congregational Church, now Caroline Valley Community Church.
 
 <!--more-->
 
@@ -58,11 +58,11 @@ The Good Templars' meetings were both entertaining and educational by design, to
 | <span style="white-space:nowrap">15 Feb 1884</span> | The Call of St. Gregory <br /> by John Greenleaf Whittier | "The Supper of St. Gregory" <br /> by John Greenleaf Whittier |
 | <span style="white-space:nowrap">22 Feb 1884</span> | This Method | currently unknown |
 | <span style="white-space:nowrap">25 Sep 1885</span> | One Day in a Country Store | may be "A Day in a Country Store" referenced <br> elsewhere, but still unidentified | 
+| <span style="white-space:nowrap">01 Jan 1886</span> | L[?] customs in China | currently unknown |
 | <span style="white-space:nowrap">29 Jan 1886</span> | Strive, Wait and Pray | "Strive, Wait, and Pray" <br /> by Adelaide A. Procter |
-
 </figure> 
 
-And on 15 Jan 1886: "Reading of a pleasant poem by Sis Mills". Years later, when Emily joined the Brookton chapter of the Women's Christian Temperance Union, she held offices in the chapter just as she had in the Templar's Lodge, including "Superintendent of Literature and Publications". 
+And on 15 Jan 1886: "Reading of a pleasant poem by Sis Mills". There were many other times when Emily's selections were not recorded, but simply noted as "selection by Sis. Mills" or similar. Years later, when Emily joined the Brookton chapter of the Women's Christian Temperance Union, she held offices in the chapter just as she had in the Templar's Lodge, including "Superintendent of Literature and Publications". 
 
 Emily was also involved in the Caroline Amateur Dramatic Club, along with George Richardson and other Good Templars members. The Club, along with Dr. Besemer's orchestra, gave several acclaimed performances of the play *The Colleen Bawn*, for the benefit of the Templars. Emily played supporting character "Sheelah". 
 
@@ -379,9 +379,70 @@ This moving tribute was authored by E. D. Shurter, a Brookton native who was at 
 
 {{% fig "1937-11-11-ithaca-journal" "500" /%}}
 
-The professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, one can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charitable acts.
+The Professor clearly took great care in crafting this tribute, and with the pacing of the final sentence, one can sense the weight of responsibility he felt representing the sense of loss of an entire community who held Emily in equally high esteem. He is Emily's first and most eloquent biographer, without whom we wouldn't fully appreciate some of the most important aspects of Emily's life, most notably, her charitable acts.
 
-The news clippings above give examples, such as her contributions to the Red Cross, and of course, the W.C.T.U. did considerable charitable work. In the M. E. Mills store sales journals, there are entries indicating direct donations from the store that Emily counted against her own account as "Goods for Charity":
+Although Robert Ingersoll was agnostic, his social views were likely quite similar to Emily's, and so, the Professor's inspiration was especially appropriate. Note the many parallels with Robert Ingersoll's  heartfelt eulogy for his brother, delivered a few months after the Mills family moved to Mott's Corners: 
+
+<figure>
+<blockquote>
+
+**A TRIBUTE TO EBON C. INGERSOLL.** *
+
+**Washington, D. C., May 31, 1879.**
+     
+DEAR FRIENDS: I am going to do that which the dead oft promised he would do for me.
+
+The loved and loving brother, husband, father, friend, died where manhood's morning almost touches noon, and while the shadows still were falling toward the west.
+
+He had not passed on life's highway the stone that marks the highest point; but being weary for a moment, he lay down by the wayside, and using his burden for a pillow, fell into that dreamless sleep that kisses down his eyelids still. While yet in love with life and raptured with the world, he passed to silence and pathetic dust.
+
+Yet, after all, it may be best, just in the happiest, sunniest hour of all the voyage, while eager winds are kissing every sail, to dash against the unseen rock, and in an instant hear the billows roar above a sunken ship. For whether in mid-sea or 'mong the breakers of the farther shore, a wreck at last must mark the end of each and all. And every life, no matter if its every hour is rich with love and every moment jeweled with a joy, will, at its close, become a tragedy as sad and deep and dark as can be woven of the warp and woof of mystery and death.
+
+This brave and tender man in every storm of life was oak and rock; but in the sunshine he was vine and flower. He was the friend of all heroic souls. He climbed the heights, and left all superstitions far below, while on his forehead fell the golden dawning of the grander day.
+
+He loved the beautiful, and was with color, form, and music touched to tears. He sided with the weak, the poor, and wronged, and lovingly gave alms. With loyal heart and with the purest hands he faithfully discharged all public trusts.
+
+He was a worshiper of liberty, a friend of the oppressed. A thousand times I have heard him quote these words: *"For Justice all place a temple, and all season, summer."* He believed that happiness is the only good, reason the only torch, justice the only worship, humanity the only religion, and love the only priest. **He added to the sum of human joy; and were every one to whom he did some loving service to bring a blossom to his grave, he would sleep tonight beneath a wilderness of flowers.**
+
+Life is a narrow vale between the cold and barren peaks of two eternities. We strive in vain to look beyond the heights. We cry aloud, and the only answer is the echo of our wailing cry. From the voiceless lips of the unreplying dead there comes no word; but in the night of death hope sees a star and listening love can hear the rustle of a wing.
+
+He who sleeps here, when dying, mistaking the approach of death for the return of health, whispered with his latest breath, "I am better now." Let us believe, in spite of doubts and dogmas, of fears and tears, that these dear words are true of all the countless dead.
+
+The record of a generous life runs like a vine around the memory of our dead, and every sweet, unselfish act is now a perfumed flower.
+
+And now, to you, who have been chosen, from among the many men he loved, to do the last sad office for the dead, we give his sacred dust.
+
+Speech cannot contain our love. There was, there is, no gentler, stronger, manlier man.
+
+<br />
+<hr />
+
+\* The funeral of the Hon. E. C. Ingersoll took place yesterday afternoon at four o'clock, from his late residence, 1403 K Street. The spacious parlors were filled to overflowing, and hundreds were unable to obtain admittance. Among those who were present to pay their homage to the distinguished and beloved dead were Secretary of the Treasury Sherman, Assistant-Secretary of the Treasurer Hawley, Senators Blaine, Voorhees, Paddock, David Davis, John A. Logan, the Hon. William M. Morrison, Hon. William M. Springer, Hon. Thomas A. Boyd, Governor Pound, Hon. J. R. Thomas, Hon. Thomas J. Henderson, Hon. Jeremiah Wilson, Hon. Adlai E. Stevenson, Col. War H. Lamon, Col. James Fishback, General Farnsworth, General Robert C. Schenck, General Jeffries, General Williams and the Hon. H. C. Burchard. Judge Shellabarger, General Birney, Governor Lowe, Acting Commissioner of Internal Revenue H. C. Rogers, General Williamson of the Land Office and a great many other prominent members of the bar and also a large number of Illinoisans were present. It was the largest gathering of the distinguished persons assembled at a funeral since that of Chief-Justice Chase.
+
+The only ceremony at the house, other than the viewing of the remains, was a most affecting pathetic, and touching address by Col. Robert G. Ingersoll, brother of the deceased. Not only the speaker, but every one of his hearers were deeply affected. When he began to read his eloquent characterization of the dead man his eyes at once filled with tears. He tried to hide them, but he could not do it, and finally he bowed his head upon the dead man's coffin in uncontrollable grief. It was only after some delay, and the greatest efforts a self-mastery, that Colonel Ingersoll was able to finish reading his address. When he had ceased speaking, the members of the bereaved family approached the casket and looked upon the form which it contained, for the last time. The scene was heartrending. The devotion of all connected with the household excited the sympathy of all and there was not a dry eye to be seen. The pall-bearers—Senator William B. Allison, Senator James G. Blaine, Senator David Davis, Senator Daniel W. Voorhees. Representative James A. Garfield, Senator A. S. Paddock, Representative Thomas Q. Boyd of Illinois, the Hon. Ward H. Lamon, ex-Congressman Jere Wilson, and Representative Adlai E. Stevenson of Illinois—then bore the remains to the hearse, and the lengthy cortege proceeded to the Oak Hill Cemetery, where the remains were interred, in the presence of the family and friends, without further ceremony.- National Republican, Washington, D. C., June 3, 1879. 
+
+</blockquote>
+<figcaption>
+<cite>
+
+—  1901, **The Works of Robert G. Ingersoll**, The Dresden Publishing Co., New York, v12, p389-391. Emphasis added.
+
+</cite>
+</figcaption>
+<aside>
+
+  - U.S. Congressman [Ebon Clark Ingersoll](https://www.findagrave.com/memorial/12478887/ebon-clark-ingersoll) (12 Dec 1831 to 31 May 1879). Inscribed on Ebon's grave: "To my brother, with whose name I wish my own associated until both are forgotten. - Robert G. Ingersoll". An additional inscription echoes Roger's eulogy: "In the night of death, hope sees a star..."
+
+  - [Robert Green Ingersoll](https://www.findagrave.com/memorial/2668/robert_green_ingersoll) (11 Aug 1833 to 21 Jul 1899). "Philosopher, Civil War Union Army Officer. Born in Dresden, New York, he was the son of a Congregational minister, who discarded the teachings of the Bible when he was still a boy. After growing up in Illinois, and despite a lack of formal education, he was admitted to the Illinois bar and began a lucrative law practice in Peoria. His masterful oratory in the courtroom contributed to his reputation as an outstanding trial lawyer. He was also known for his cutting barbs. During the Civil War he was commissioned as Colonel and commander of the 11th Illinois Volunteer Cavalry, and as captured near Corinth, Mississippi. Although soon released, he still made time to treat his Confederate captors to a rousing antislavery speech. After the war he turned to politics, becoming a staunch Republican. He served as Illinois Attorney General from 1867 to 1869, and stumped for the party's presidential candidates, making notable contributions to the Republican cause. He hoped for but was never awarded a Cabinet post. Quite simply, the Republican's administrations, while quick to accept his oratorical contributions to their campaigns, were afraid of his unorthodox religious views. They viewed him as a political liability. He never hesitated to acknowledge his agnosticism or to cast doubt on the Bible. He was decried as a "moral leper" by clergymen at the same time as he was lauded by such literary giants as Mark Twain and Walt Whitman who hailed his fresh attitude toward humanity. **The cornerstone of his beliefs was the family; he revered his own wife and daughters. He strongly advocated equal rights for blacks and women. He defended Susan B. Anthony from hecklers when she spoke in Peoria; when every hotel in the city refused to house Frederick Douglass, he welcomed him into his home.** Despite his highly unorthodox views on religion and social order, he enjoyed great popularity as a public speaker. After his death in Dobbs Ferry, New York, his writings, published posthumously, filled 12 volumes." [TODO: full citation/permission, emphasis added.]
+
+  - In a roughly contemporary edition of Webster's Dictionary, warp is defined as: "The threads that run lengthwise in the loom." (1867, **A Dictionary of the English Language**, Academic Edition, William G. Webster and William A. Wheeler, G. & C. Merriam, Springfield MA, p482.) Woof is defined as: "[From A.-S. *wefan*, to weave.] The threads that cross the warp in weaving." (Ibid. p472.) 
+
+  - The phrase "for justice all place a temple, and all season, summer" is spoken by the title character in Act IV, Scene I of the play **Richelieu**. "Richelieu; Or the Conspiracy (generally shortened to Richelieu) is an 1839 historical play by the British writer Edward Bulwer-Lytton. It portrays the life of the Seventeenth Century French statesman Cardinal Richelieu. ...The play has become best known for its line "The pen is mightier than the sword", spoken by the Cardinal in Act II, Scene II." ([Richelieu](https://en.wikipedia.org/wiki/Richelieu_(play)), Wikipedia.org.)
+
+</aside>
+</figure>
+
+The news clippings above give examples of Emily's charitable acts, such as her contributions to the Red Cross, and of course, the W.C.T.U. did considerable charitable work. In the M. E. Mills store sales journals, there are entries indicating direct donations from the store that Emily counted against her own account as "Goods for Charity":
 
 {{% fig "me-mills/1909-03-26-emily-mills-entry-p554" "800" /%}}
 

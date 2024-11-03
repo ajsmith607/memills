@@ -393,7 +393,7 @@ The Preceding Addendum Compiled on the occasion of THE 125TH ANNIVERSARY CELEBRA
 When on motion made and carried S. B. Landon, Thomas H. Griffith and N. G. Edwards were chosen church committee for the ensuing year. Also H. C. Ostrander, Cantine Lounsbery and George Wolcott.
 -->  
 
-  - The first Lord’s Supper is recorded in church records as occurring at Sunday services 03 May 1868, and not on Saturday 02 May 1868.
+  - The first Lord’s Supper is documented in church records occurring at Sunday services 03 May 1868, and not on Saturday 02 May 1868.
 
 ## Source
 

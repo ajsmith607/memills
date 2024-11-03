@@ -261,7 +261,7 @@ Hannah (Thatcher) Mills:
 
 <figure class="quote-only">
 
-> "Hannah Thatcher Mills" is buried in Pleasant Grove Cemetery with her parents, Thomas and Elizabeth (Crosby)Thatcher.   Her stone identifies her as the daughter of Thomas and Elizabeth Thatcher.   Their names are on the same marker and it is in the front of the cemetery in what I identified as section one and her marker is the fourth one in from the north and in the third row in from the east.  The dates on Hannah's marker for her are 1825 - 1917.   Thomas Thatcher's dates are July 3, 1785 - June 17, 1863 and his wife, Elizabeth Crosby Thatcher are Feb. 12, 1790 - Mar. 29, 1873.  The names and dates for William P. and Elizabeth Vanderveere are also on the same Thatcher marker.  Their dates are William P. Vanderveere, Sept. 4, 1831 - May 27, 1882 and his wife Elizabeth Vanderveere, 1829 - 1888.   The marker states that she is William P.'s wife.    
+> "Hannah Thatcher Mills" is buried in Pleasant Grove Cemetery with her parents, Thomas and Elizabeth (Crosby) Thatcher.  Her stone identifies her as the daughter of Thomas and Elizabeth Thatcher. Their names are on the same marker and it is in the front of the cemetery in what I identified as section one and her marker is the fourth one in from the north and in the third row in from the east. The dates on Hannah's marker for her are 1825 - 1917. Thomas Thatcher's dates are July 3, 1785 - June 17, 1863 and his wife, Elizabeth Crosby Thatcher are Feb. 12, 1790 - Mar. 29, 1873. The names and dates for William P. and Elizabeth Vanderveere are also on the same Thatcher marker. Their dates are William P. Vanderveere, Sept. 4, 1831 - May 27, 1882 and his wife Elizabeth Vanderveere, 1829 - 1888. The marker states that she is William P.'s wife.    
 >
 >I have made a spreadsheet containing all of the names that I have found in over 100 local cemeteries and I have only found the names for 5 other Mills and they are in the Curtis Cemetery in Danby and the Ithaca City Cemetery.  
 
@@ -320,7 +320,7 @@ Hannah's immigration information is based on naturalization documents of her bro
 
 Elizabeth Vanderveere appears to be Hannah's sister, based on the following data points:
 
-  - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth. The age and birthplace are consistent with this being the Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
+  - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth. The age and birthplace are consistent with this being Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
   - The 01 Jun 1865 New York State Census shows Hannah and Charles Eastman living with 36 year old Elizabeth Thatcher, identified as "sister in law" and 75 year old Elizabeth Thatcher identified as "mother in law".
   - The 04 Aug 1870 United States Federal census shows William and Elizabeth Vanderveere living with the widowed Elizabeth (Crosby) Thatcher. Both Elizabeth Thatcher and Elizabeth Vanderveere list England as their birthplace.
   - And obviously, the Vanderveere's are buried in the Thatcher family plot. 

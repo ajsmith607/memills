@@ -190,7 +190,7 @@ It appears [George H. Richardson](https://www.findagrave.com/memorial/189275611/
 {{% fig "george-richardson/1905-04-26-The-Ithaca-Daily-Journal-Ithaca-NY-p5" "350" /%}}
 </div>
 
-A section of this site is devoted to [George Richardson]({{% relref "richardson-george" %}}). [Edward's page]({{% relref "mills-edward-hallock-1819" %}}) has more information on his time as postmaster, including examples of his postmark on envelopes from the time.  
+A section of this site is devoted to [George Richardson's]({{% relref "richardson-george" %}}) time in Brookton. [Edward's page]({{% relref "mills-edward-hallock-1819" %}}) has more information on his time as postmaster, including examples of his postmark on envelopes from the time.  
 
 The following are some of the earliest references to Mills' store, detailing misadventures that took place while Emily was known to be a "clerk" at the store:
 
