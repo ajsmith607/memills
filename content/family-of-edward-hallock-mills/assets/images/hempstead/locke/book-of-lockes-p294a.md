@@ -1,0 +1,7 @@
+---
+citation: "1853, John Goodwin Locke, Book of the Lockes: A Genealogical and Historical Record of the Descendants of William Locke, of Woburn., James Munroe and Company, Boston MA, p294."
+---
+294 VIII. GENERATION. 
+
+1004 Rev. NATHANIEL CLARK LOCKE, [3890] b. at Salem, N. Y. June 1, 1815, m. Feb. 2, 1853, HARRIET CUYPERS SPENCER, of Brooklyn, N. Y. dau. of Henry Spencer, Esq. of Guilford Ct. who m. Fanny Sharpe, dau. of Hon. Peter Sharpe, of New York city, where Mr. Spencer resided. Mrs. Spencer, for a second husband, m. Rev. Jacob Broadhead, D.D. and d. Jany. 1852. Mr. Locke grad. at Middlebury College, Vt. 1838, received the degree of A. M. 1841, when he delivered the Master’s oration. Immediately after he grad. became Principal of "Lowndesboro’ Academy,” in Lowndes Co. Ala. and in 1841 was appointed Classical Teacher in the "Woodland Institution,” at New York. June, 1844, he grad. at the “Union Theological Seminary” in New York, and was licensed as a preacher. In 1845, he went to Eastville, Northampton Co. Pa. and was soon after ordained over the “Holmes Church,” where he remained till he removed to Brooklyn, N. Y. where he was installed Pastor of the “Central Presbyterian Church,” Dec. 1847 ; where he continued until 1850, when he was dismissed at his own request, and was installed over “Christ’s First Church,” at Hemstead [sic], Long Island, Dec. 4, 1850, where he now resides.
+

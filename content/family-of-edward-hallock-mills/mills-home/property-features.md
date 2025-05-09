@@ -21,6 +21,27 @@ The Lattins shared photographs of the "Civil War Belt", found in the walls of Mi
 {{% fig "mills-home/civil-war-belt/2023-08-11-3" "800" /%}}
 {{% fig "mills-home/civil-war-belt/2023-08-11-1" "800" /%}}
 
+The belt appears to consistently match photographs of “enlisted men’s accoutrement belts” and the plate appears to match those described as “lead filled stamped sheet brass with the brass hooks on the back embedded in the lead. It has two prong hooks for attaching to the belt.” (ccsutlery.com) A metal die with the buckle’s design stamps a sheet of brass to create the embossed letters on the face with a concave back that is then filled with molten lead, the hooks are set in the lead and the lead is allowed to cool and solidify. This was an efficient and cost effective way to mass produce belts quickly in wartime.
+
+<figure>
+
+> The US Oval is the most common Civil War belt buckle on the market, and indeed was the most common buckle on the battlefield during the Civil War. In the North, the Union had the industrial resources and was able to die-stamp as many as a million of these buckles. Consequently, the US Oval is not terribly valuable… 
+
+<figcaption>
+<cite>
+
+— 28 Apr 2008, Ben Phelan, “Fascinating Fasteners: Civil War Belt Buckles”, [pbs.org](https://www.pbs.org/wgbh/roadshow/articles/fascinating-fasteners-civil-war-belt-buckles/).
+
+</cite> 
+</figcaption>   
+</figure>
+
+It is natural to assume that this belt belonged to [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911), who is the {{% pagelink "other-past-owners" "first owner" %}} of record of the subdivided piece of land at the western edge of the lower grist mill ("Personius Flouring Mills"), that was known first as "The Wolcott Lot" and later "The Mills' Place". William was a carpenter and wagon maker, and likely worked for his wife's family ([Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928)) in Shurter's Wagon Shop, later called {{% pagelink "me-mills#the-brewer-barn" "The Brewer Barn" %}}. The home appears to have been built shortly after William returned from the War, mustering out 09 Jun 1865, and initially living with his wife and in-laws in the Shurter House, between Mills' Store and the lower bridge. 
+
+However, there are others closely associated with the home in its early history who were also Union veterans, including [Edward Lounsbery](https://www.findagrave.com/memorial/89338793/edward-lounsbery) (11 Oct 1833 to 27 Nov 1904) and [Edward C. Marsh](https://www.findagrave.com/memorial/28741041/edward-c-marsh) (23 Nov 1836 to 25 Jun 1907), William's Wolcott's co-brother-in-law and house mate in the Shurter House when the home is built. (I presume it is Edward Marsh whose name is carved into the {{% pagelink "property-features#the-stone-foundation" "foundation" %}}.) And when considering each of these men, the few known facts remain unexplained: what is the significance of the markings on the back of the buckle? Why was the belt left behind? Perhaps the belt belonged to a dead friend of William Wolcott's–perhaps someone else from Caroline–and William preserved it to honor his memory? 
+
+The markings on the back were the most concrete and suggestive evidence, but in my initial research, I could not find other examples of markings of this type, or any description of a common practice that might explain the markings. Initially, I assumed that this was the soldier’s attempt to personalize the belt, and perhaps also to help pass any quiet time. But the “H” appears to be *raised*. Could this be a company designation? I presented these images and theories to experts, beginning with an authority on these types of artifacts:
+
 <figure>
 
 > The "H" scratched onto the back of the plate could be a company designation. It could also be the initial of the owner's first or last name. Whoever scratched the letters on the back obviously never finished what they started. 
@@ -36,8 +57,119 @@ The Lattins shared photographs of the "Civil War Belt", found in the walls of Mi
 </figcaption>
 </figure>
 
+Next, I decided to seek out an experienced metal worker, and specifically looked for practicing blacksmiths who would be familiar with traditional techniques, and who could provide insight into the nature of the markings. I was surprised to find exactly what I was looking for nearby, an "artist blacksmith" of international renown, Durand Van Doren: 
+
+<figure>
+
+> Durand Van Doren II made a name for himself in the Ithaca area by putting his own twist on the old craft of blacksmithing. With a big open house and sale on the first weekend in July to mark the occasion, Doren, 65, recently announced he is retiring from his profession and from ownership of Durand’s Forge, which he’s passing on to a successor. 
+>
+> A resident at Carmen Road Artist Quarters in Mecklenburg for the last 15 years, Van Doren moved to the Ithaca area 40 years ago when sheepdog trails brought him and his wife to the Cornell Campus (his neighbor was in the market for a sheepdog, so they tagged along). They wanted a rural home where they could keep their goats, so they moved from Cooperstown. 
+>
+> After a 10-week course at a blacksmithing school in 1972, Van Doren decided he would try to make a living as an artist blacksmith, and after several decades of hard work he is able to look back at a long list of accomplishments. 
+
+<figcaption>
+<cite> 
+
+— 18 Jul 2020, Jaime Cone, "Forging On", [ithaca.com](https://www.ithaca.com/news/ithaca/forging-on/article_a993e46e-c626-11ea-8908-2b54866adfc9.html).
+
+</cite>
+</figcaption>
+</figure>
+
+<div class="cols">
+<figure style="width:350px;">
+
+> Van Doren’s work can be found all over the area, and beyond. He is in the finishing stages of several benches for Cornell University that were specially designed to highlight several of the agriculture departments, he is in the process of creating a commissioned weather vane, while the hinges he created for a private tea house door might soon be sent off to its owner. Van Doren’s work runs the gamut from functional to artistic, to functionally artistic. But all are created with a particular brand of a former hippie commune blacksmith and artist from New Jersey.
+
+<figcaption>
+<cite> 
+
+— 28 May 2018, Jamie Swinnerton, "The man behind the metal", [tompkinsweekly.com](https://tompkinsweekly.com/articles/the-man-behind-the-metal/).
+
+</cite>
+</figcaption>
+</figure>
+
+<figure style="width:350px;">
+
+> His beautiful works grace the gates of London’s Globe Theater, the Cornell campus’ Minns Garden, Glenhaven Farms Winery, the Trumansburg Farmers Market bandstand, the Ulysses Philomathic Library, and dozens of homes and businesses in our area. Most recently, he crafted the Inn at Taughannock’s imposing wrought iron arch, the flower-bedecked railing leading from Gimme! Coffee to a landing at Trumansburg Creek’s edge, and a sculpture for the Binghamton University campus.
+
+<figcaption>
+<cite> 
+
+– 16 Aug 2019, Peggy Haine, "Prominent blacksmith, artist, community member suffers stroke”, [ithacajournal.com](https://www.ithacajournal.com/story/news/local/2019/08/17/beloved-trumansburg-artist-community-member-van-doren-suffers-stroke/2012783001/).
+
+</cite>
+</figcaption>
+</figure>
+</div>
+
+I felt that Durand might sympathize with my cause, so I reached out offering to pay for his time, which he would not accept. I asked him to look at the Lattin’s photographs on this website and offer his professional opinion on how the markings were made, which I would then publish alongside the photographs. While he confirmed that the lighter scratches in the middle were of modern origin as expected, his explanation of the “V” on the upper part of the belt buckle image was a revelation to me: 
+
+<div class="cols">
+{{% fig "mills-home/civil-war-belt/2023-08-11-1-numbered" "350" /%}}
+
+<figure style="width:350px;">
+
+> The top irregular mark [1] is caused by a piece of dirt or straw getting caught in the molten lead.
+>
+> The middle mark [2] was made by someone scratching the back to gauge its composition.
+
+<figcaption>
+<cite> 
+
+— 30 Mar 2025, Durand Van Doren, personal correspondence.
+
+</cite>
+</figcaption>
+</figure>
+</div>
+
+What I had assumed was the start of a carved letter was not made intentionally. So, while these markings are interesting facets of the buckle in their own right, they seem to provide no additional data to help identify the owner. This leaves what is unquestionably an intentionally made “H” and Durand clarified how it was made: 
+
+{{% fig "mills-home/civil-war-belt/durand-van-doren-letter-third-mark" "800" /%}}
 
 
+There are many examples of Durand’s work throughout the area that will endure for years, and hopefully, even as older buildings are replaced by newer buildings, his works will be preserved. The Cornell Chronicle documented a specific example on campus, lanterns that Durand created and installed May 2010 in front of the entrance of Willard Straight Hall on Ho Plaza:
+
+<figure>
+
+> Van Doren was commissioned to fashion the lamps to complement the iron gate at the Straight entrance. The 1925 gate was made by Samuel Yellin, considered one of the best 20th-century ironworkers in America, according to Hubbell. Van Doren consulted with the university architects and preservation faculty to incorporate many elements of the gate -- its leaves, large rivets, sun designs and special collars -- in the design of the eight-sided lamps. The lamps took Van Doren more than five months to complete in his Mecklenburg studio.
+>
+> "These lanterns will create a pool of light at the entry to the Straight, where students can gather on warm spring evenings," says Hubbell. "At night, the lamps will enliven Ho Plaza."
+>
+> A blacksmith for more than 30 years, Van Doren has fabricated the chandeliers that grace the Straight's second-floor multipurpose room, various pieces in the Law School and the gates to Minns Garden. He has been spotlighted in The New York Times and New York Magazine and has worked with the National Park Service and Corning Glass executives. His work can also be seen at London's Shakespeare's Globe theater, Women's Rights park in Seneca Falls, N.Y., and the historic Great Camp Sagamore in the Adirondacks.
+
+
+<figcaption>
+<cite> 
+
+— 27 May 2010, Nancy Doolittle, "Local blacksmith forges wrought-iron lanterns for Straight", Cornell Chronicle, [news.cornell.edu](https://news.cornell.edu/stories/2010/05/local-blacksmith-forges-lanterns-straight).
+
+</cite>
+</figcaption>
+</figure>
+
+<figure>
+
+> [Durand Van Doren] and his wife, Sandy List, have been an integral part of the T-burg community for many years, generously sharing their talents and time through their service to the arts, youth programs and the local Rotary Club. Known for his flashy outfits and rhinestone-encrusted pick-up trucks, Durand has been a Learning Web mentor, showing teenagers what one can accomplish with a bit of iron and a lot of heat, muscle and self discipline. And for the Ithaca league of Women Rollers, he has been the beloved roller derby referee known as D-Hammer.
+
+<figcaption>
+<cite> 
+
+– 16 Aug 2019, Peggy Haine, “Prominent blacksmith, artist, community member suffers stroke”, [ithacajournal.com](https://www.ithacajournal.com/story/news/local/2019/08/17/beloved-trumansburg-artist-community-member-van-doren-suffers-stroke/2012783001/).
+
+</cite>
+</figcaption>
+</figure>
+
+
+### Further Research: 
+
+  - Confirm composition: Brass front, lead back?
+  - “This M1839 Oval Lead Filled Belt Plate was used by infantry soldiers through about **1861**.” [ccsutlery.com](https://www.ccsutlery.com/store/belt-plate-us-oval-m1839.html)
+  - Clarify how the mould was used in relation to previously described process above. (Sand casting?) 
+  - Explore theories of what H could mean, try to progress toward confirming identity of owner. 
 
 <!--
 {{% fig "mills-home/civil-war-belt/middaugh-ira-muster-roll-abstracts" "500" /%}}
@@ -114,7 +246,7 @@ The examples above are from the souther/front face of the foundation, to the wes
 
 Markings like these can be found on many stones, and the same pock mark pattern can be seen in the photographs further above of the southwest corner of the foundation. 
 
-There is one stone in particular that has always caught my attention: when I first saw it, I thought that it *almost* looked like letters, and as time passed, I became more convinced that they were in fact letters. The stone is on the southern/front face of the foundation on the east side of the main entrance. 
+There is one stone in particular that has always caught my attention from my earliest days in Brooktondale: when I first saw it, I thought that it *almost* looked like letters were carved into it, and as time passed, I became more convinced that they were in fact letters. The stone is on the southern/front face of the foundation on the east side of the main entrance. 
 
 {{% fig "adams-photos/foundation/2023-05-09_12.39.22-imp" "800" /%}}
 
@@ -174,7 +306,7 @@ The first entry, "E. C. Marsh...Grocery and Provision Store" is almost certainly
 
 {{% fig "me-mills/1865-06-26-NYS-census-caroline-p34" "800" /%}}
 
-As the census indicates, [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911) who married Josiah Shurter's daughter [Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928) was also living in the Shurter House alongside his co-brother-in-law Edward Marsh and his wife. William Wolcott was a carpenter and carriage maker who likely worked for Josiah and/or Josiah's son [Willis Shurter](https://www.findagrave.com/memorial/162159964/willis-shurter) (1840 to 17 Jan 1914) at what was at one time known as [Willis Shurter's Wagon Shop in Mott's Corners]({{% relref "#the-brewer-barn" %}}), later known as "The Brewer Barn", behind Mills' store. William Wolcott was also the first owner of record of [Mills' Home]({{% relref "other-past-owners" %}}). Edward Marsh, William Wolcott and Willis Shurter all fought in the Civil War in the years immediately prior. 
+As the census indicates, [William Benton Wolcott](https://www.findagrave.com/memorial/100303590/william-benton-wolcott) (06 Oct 1832 to 25 Feb 1911) who married Josiah Shurter's daughter [Ellen A. (Shurter) Wolcott Aldrich](https://www.findagrave.com/memorial/187990128/ellen-a-aldrich_wolcott) (07 Sep 1843 to 21 Apr 1928) was also living in the Shurter House alongside his co-brother-in-law Edward Marsh and his wife. William Wolcott was a carpenter and carriage maker who likely worked for Josiah and/or Josiah's son [Willis Shurter](https://www.findagrave.com/memorial/162159964/willis-shurter) (1840 to 17 Jan 1914) at what was at one time known as [Willis Shurter's Wagon Shop in Mott's Corners]({{% relref "#the-brewer-barn" %}}), in the building later known as "The Brewer Barn", behind Mills' store. William Wolcott was also the first owner of record of [Mills' Home]({{% relref "other-past-owners" %}}). Edward Marsh, William Wolcott and Willis Shurter all fought in the Civil War in the years immediately prior. 
 
 Both Josiah and Edward Marsh are identified as millers, and the Shurter family also owned the lower grist mill at that time. Edward is also listed with the occupation "miller" in Registers of Officers and Enlisted Men Mustered into Federal Military or Naval Service during the Civil War. Series A0389 (6 volumes). New York (State). Bureau of Military Statistics. New York State Archives, Albany, New York, ancestry.com.
 
@@ -204,7 +336,7 @@ The first deed for the home is dated 22 May 1869, and yet, the real estate listi
 
 <figure>
 
-> The date of the property, I got that date from Tompkins County Assessment data. I find most of there data is correct.
+> The date of the property, I got that date from Tompkins County Assessment data. I find most of their data is correct.
 
 <figcaption>
 <cite>
@@ -261,13 +393,13 @@ Assuming the stone mason was more likely to have lived near the Wolcott Lot, I s
 
 The census splits the Town of Caroline into two “districts” at this time: the “First Election District” focuses on Speedsville and Caroline Center and includes some easily recognizable names, including William B. Hallock, a distant relative of Edward H. Mills, as well as Nathaniel Tobey and Peter Webb. “Election District No. 2” focuses on Slaterville and Mott’s Corners, and starting with approximately page 21 of the second district (each district was numbered separately, so this is page 38 sequentially), many recognizable names begin to appear, such as those shown on the Mott’s Corners map published in the 1866 Photographic Atlas of Tompkins County by Stone & Stewart, as well as the founders of the Congregational Church just a few years later. 
 
-It is among the recognizable names of residents of Mott's Corners that [Alonzo B. Northrop](https://www.findagrave.com/memorial/194156063/alonzo-b-northrop) (28 Dec 1821 to 20 Jun 1906) appears, and among the stone masons recorded in the 1865 Census, he is uniquely listed on the 1886 Stone & Stewart Atlas. The Atlas shows "A. B. Northrop”, between the upper bridge over Six Mile Creek and the hill where Brookton (formerly Quick) Cemetery sits, at what is presently 231 Lounsbery Road, near the intersection with the section of Brooktondale Road formerly known as Back Road, or "Easy Street".
+Among these names, [Alonzo B. Northrop](https://www.findagrave.com/memorial/194156063/alonzo-b-northrop) (28 Dec 1821 to 20 Jun 1906) appears, and among the stone masons recorded in the 1865 Census, he is uniquely listed on the 1886 Stone & Stewart Atlas. The Atlas shows "A. B. Northrop”, between the upper bridge over Six Mile Creek and the hill where Brookton (formerly Quick) Cemetery sits, at what is presently 231 Lounsbery Road, near the intersection with the section of Brooktondale Road formerly known as Back Road, or "Easy Street".
 
 {{% fig "mills-home/masons/1865-06-27-NY-State-Census-p38" "800" /%}}
 
 {{% fig "brookton/maps/1866-atlas-motts-corners" "800" "img,cite,link" /%}}
 
-Also notice that the census seems to consistently distinguish the occupations of "mason", "stone mason", and "brick layer" and that Alonzo Northrop is by far the nearest "stone mason", and he is listed in the Census directly following Jacob Vandemark, who owned the woolen (carding) mill as well as the lower grist mill next to it, known today as Dalebrook Apartments. Wikipedia provides a possibly relevant explanation:
+Alonzo is listed in the Census directly following Jacob Vandemark, who owned the woolen (carding) mill as well as the lower grist mill next to it, known today as Dalebrook Apartments. Also notice that the census seems to consistently distinguish the occupations of "mason", "stone mason", and "brick layer" and that Alonzo Northrop is by far the nearest "stone mason". Wikipedia provides a possibly relevant explanation of the distinctions:
 
 <figure>
 
@@ -485,7 +617,7 @@ If this estimate truly approximates the oak's age, then it obviously predates th
 
 Obviously, there are many variables affecting the growth of the oak over time, and both my approach to measuring the tree and the application of Mitchell's Rule are not precise either. I will point out however, that the hill slope that the tree stands on is southern facing, and anyone familiar with the home and land around it will know that the tree had ample access to water. In the Spring, a shallow stream on the surface of the ground would form to the east of the oak. In other words, the growing conditions in this area seem favorable. 
 
-Even if we assume that the diameter of the tree is closer to 4 feet, mitigating the measurement complications I mentioned, and use a much more conservative growth factor, say 3, this puts the approximate age at 144 years, which from the year I write this, 2023, would put the tree's germination at 1879, the very year the Mills moved to Mott's Corners.
+Even if we assume that the diameter of the tree is closer to 4 feet, mitigating the measurement complications I mentioned, and use a much more conservative growth factor, say 3, this puts the approximate age at 144 years, which from the year I write this, 2023, would put the tree's origin at 1879, the very year the Mills moved to Mott's Corners.
 
 <div class="cols">
 {{% fig "adams-photos/oak-tree/2023-05-15_10.23.10" "350" /%}}

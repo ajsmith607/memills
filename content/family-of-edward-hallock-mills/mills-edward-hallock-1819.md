@@ -223,7 +223,7 @@ The following are examples of Edward's postmark during his time as postmaster:
 {{% fig "edward-other/1889-02-09-Ithaca-Daily-Journal-Ithaca-NY-p3" "350" /%}}
 </div>
 
-Mary Ann died on the eve of their 45th wedding anniversary. One year and two days later, Edward married [Hannah (Thatcher) Eastman (1824-1917)]({{% relref "mills-hannah-1824" %}}). Edward and Hannah joined Brookton Congregational Church on just the third to last Sunday before their marriage ceremony, which took place "at the bride's residence in Brookton".
+Mary Ann died on the eve of their 45th wedding anniversary. One year and two days later, Edward married [Hannah (Thatcher) Eastman (21 May 1824 to 25 Feb 1917)]({{% relref "mills-hannah-1824" %}}). Edward and Hannah joined Brookton Congregational Church on just the third to last Sunday before their marriage ceremony, which took place "at the bride's residence in Brookton".
 
 {{% fig "1895-12-31-daily-news-p1" "800" /%}}
 

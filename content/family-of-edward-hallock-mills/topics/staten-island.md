@@ -25,14 +25,14 @@ Multiple census records confirm that all the Mills' children were born in Staten
 {{% fig "staten-island/rdc/rdc-scan_077" "350" /%}}
 </div>
 
-Every child's baptism was performed on a Friday except for Emily's. This may be a subtle clue to narrow Emily's exact birthdate to early in December, possibly as early as the first, the following day. 
+Every child's baptism was performed on a Friday except for Emily's. This may be a subtle clue to narrow Emily's exact birthdate to early in December, possibly as early as the first, the following day. (Note that 1852 and 1856 are leap years.) 
 
-| Child Baptized | Date Recorded | Day of Week |
-| --- | --- | ---|
-| Jonas  | 30 Jul 1852 | Friday |
-| Horace | 04 May 1855 | Friday |
-| James  | 31 Jul 1857 | Friday |
-| Emily  | 30 Nov 1859 | **Wednesday** | 
+| Child Baptized | Date Recorded | Day of Week | Age |
+| --- | --- | ---| --- | 
+| Jonas  | 30 Jul 1852 | Friday | 163 days (approx 5 1/2 months) |
+| Horace | 04 May 1855 | Friday | 273 days (approx 9 months) |
+| James  | 31 Jul 1857 | Friday | unknown |
+| Emily  | 30 Nov 1859 | **Wednesday** | just under one year |  
 
 
 <div class="cols">
@@ -91,7 +91,7 @@ The 1860 census indicates the town is Castleton. Castleton is the name of one of
 FACTORYVILLE. West New Brighton. Map of the Village of Factoryville, owned and laid out by N. Barrett. Town of Castleton, S. I. Filed Aug. 20th, 1836. Factoryville or Castleton is given by Dripps, 1850. The steamboat landing at Factoryville was called Castleton Landing. Walling, 1859. Higginson, 1860. Bayles, p. 264.
 </blockquote>
 <figcaption>
-<cite>— <a href="https://sites.google.com/a/nypl.org/staten-island-papers/old-place-names">Staten Island’s Old Place Names</a> by William T. Davis.</cite>
+<cite>— William T. Davis, <a href="https://sites.google.com/a/nypl.org/staten-island-papers/old-place-names">Staten Island’s Old Place Names</a>.</cite>
 </figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ FACTORYVILLE. West New Brighton. Map of the Village of Factoryville, owned and l
 
 {{% fig "staten-island/1862-1863-irs-tax-assessment" /%}}
 
-Bartlett Brown was born in Oak Farm on Long Island NY and according to the 1850 census, when Bartlett was 17 years old and still in school, he and his family were living in Huntington on Long Island NY. He then moved, first to Brooklyn, then onto Castleton in Staten Island NY by 1857 to work at Pine's general store. It seems likely that Bartlett made considerable money in business in Brooklyn, and his time in Pine's store would seem to be a sort of apprenticeship, as after only a few years, he moved on to purchase prime Staten Island real estate and begin his own store, which he successfully ran for several decades.
+Bartlett Brown was born in Oak Farm on Long Island and according to the 1850 census, when Bartlett was 17 years old and still in school, he and his family were living in Huntington, Long Island. He then moved, first to Brooklyn, then onto Castleton in Staten Island NY by 1857 to work at Pine's general store. My impression is that Bartlett made considerable money in business in Brooklyn, and his time in Pine's store seems to be a sort of apprenticeship, as after only a few years, he moved on to purchase prime Staten Island real estate and begin his own store, which he successfully ran for several decades.
 
 {{% fig "long-island/1850-United-States-Federal-Census-Huntington-NY" "800" /%}}
 
@@ -425,7 +425,7 @@ John and Mary his wife had
 Lawrence and Ann Larzalere married Dec. 4, 1808.
 </blockquote>
 <figcaption>
-<cite>— 1877, <em>Annals of Staten Island From its Discovery to the Present Time</em> by J. J. Clute, p389-390. Emphasis added.
+<cite>— 1877, J.J. Clut, <em>Annals of Staten Island From its Discovery to the Present Time</em>, p389-390. Emphasis added.
 </cite>
 </figcaption>
 <aside>
@@ -597,7 +597,6 @@ Despite many decades of success in varied endeavors that were important in the g
 {{% fig "staten-island/1891-02-07-Richmond-County-Advance-WNB-NY-p4" "350" /%}}
 {{% fig "staten-island/1891-02-28-Richmond-County-Advance-WNB-NY-p7" "350" /%}}
 </div>
-
 
 Left penniless, Charles M. Pine was forced to return to work, and to do so for the first time in many years as an employee in someone else's business. Elmira died just over a year later. Theodore, who had been blind for two years prior to the business failure, continued to decline, becoming "perfectly helpless" in his final years. Theodore died more than 2 years before Charles, and approximately six months prior to Charles' sister Mary Ann (Pine) Mills's death in Brookton.
 
@@ -863,7 +862,7 @@ Based on similar characteristics of Theodore's two photographs, the second was t
 <figcaption>
 <cite>
 
-— 2013, *19th Century Card Photos KwikGuide* by Gary W. Clark, p22, phototree.com.
+— 2013, Gary W. Clark,*19th Century Card Photos KwikGuide*, p22, phototree.com.
 
 </cite>
 </figcaption>
@@ -876,7 +875,7 @@ Based on similar characteristics of Theodore's two photographs, the second was t
 <figcaption>
 <cite>
 
-— 2013, *19th Century Card Photos KwikGuide* by Gary W. Clark, p18, phototree.com.
+— 2013, Gary W. Clark, *19th Century Card Photos KwikGuide*, p18, phototree.com.
 
 </cite>
 </figcaption>
@@ -1087,7 +1086,7 @@ so don’t be alarmed.”<br />
 <figcaption>
 <cite>
 
-— 2021, "Mustering Out 5 June 1865" from *Under the Rock* by Martha Deed, [Foothills Publishing](https://www.foothillspublishing.com/2021/deed.html).
+— 2021, Martha Deed, "Mustering Out 5 June 1865" from *Under the Rock*, [Foothills Publishing](https://www.foothillspublishing.com/2021/deed.html).
 
 </cite>
 <figcaption>
@@ -1302,7 +1301,7 @@ For several decades up to that point, the building was occupied by Furniture Res
 <figcaption>
 <cite>
 
-— 01 Apr 2022, [Staten Island furniture restoration business is liquidating after 48 years](https://www.silive.com/news/2022/04/furniture-restoration-workshop-is-closing-after-a-48-year-run-on-staten-island.html) by Jan Somma-Hammel, silive.com. 
+— 01 Apr 2022, Jan Somma-Hannel, [Staten Island furniture restoration business is liquidating after 48 years](https://www.silive.com/news/2022/04/furniture-restoration-workshop-is-closing-after-a-48-year-run-on-staten-island.html), silive.com. 
 
 </cite>
 <figcaption>

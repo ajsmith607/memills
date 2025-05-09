@@ -710,42 +710,6 @@ New York, Selected Bibliography of Secondary Sources Material on Orange County b
 New York, Orange County Settlemelnts by Margery Shipp, 1979, 36 pages, card, only one copy $12.00
 
 
-
------
-
-
-PO Box 41
-475 Brooktondale Road
-Brooktondale NY 14817
-
-asmith607@gmail.com
-(607) 279-2718
-
-
-Christ's First Presbyterian Church
-353 Fulton Avenue
-Hempstead, NY 11550
-
-Blessings,
-
-I am doing personal historical research that includes Christ's First Presbyterian Church, and in particular, your pastor from 1850 to 1860, Reverend Dr. Nathaniel Clark Locke (1815 to 21 Jul 1862), most often written as N. C. Locke. 
-
-Could someone knowledgeable of the Church's history contact me, for what is likely to be a brief exchange, to help me identify a photograph that I believe shows the Reverend?  
-
-The photograph I have appears to match Reverend Locke's image as shown between pages 6 and 7 of the booklet "Souvenir of the 250th Anniversary of Christ's First Presbyterian Church" available on the Church's website. A cropped version of that image is attached.
-
-I would like to know if the original artifact used for the Souvenir booklet still exists? Also, are there any other known photographs or likenesses of Reverend Locke? And in general, I would be interested in any other biographical information about the Reverend that you may be willing to share.
-
-I am publishing my research on my personal, non-commercial website at memills.com. The Hempstead page contains some information on Reverend Locke.
-
-Please accept the small token that accompanies this message in appreciation of your Christian service.
-
-May His grace and peace be with you,
-
-
-
-Adam Smith
-
 -----
 
 Quaddressing is a simple, minimal addressing system in two dimensional space. To specify an area within an artifact with ever increasing precision, starting with "0" which is generally implied, as it essentially refers to the entire artifact (technically it refers to the minimum bounding box of the artifact), the artifact is recursively divided into quarters, so that with each iteration, each previously divided quarter is divided into quarters, and each quarter is numbered left-to-right, top-to-bottom, and the quarter number of the target area is recorded for each iteration of divisions. So, for example "4" refers to the lower right hand quarter, "44" is closer to that corner, but "411" is closer to the center. There is no theoretical upper limit to the number of iterations allowed. The final value is called a "quaddress".
@@ -759,6 +723,15 @@ Quaddresses solved a problem I encountered in research sessions, when I would do
 
 
 
+I have a calendar year 2025 goal to digitize (including initial OCR) 372 newspapers from the town of Woodhull, Steuben County NY in the 1930's. Each edition (primarily the Woodhull Sentinel) is 8 pages, for 2976 pages total. Backstage Library Works is the vendor engaged, and they understand that the deliverables have to meet the "required files specifications" listed at https://nyshistoricnewspapers.org/?a=p&p=contribute , which is one of our primary distribution targets identified. 
+
+We are reaching out to those who might be interested in these files, to provide them free of charge for non-exclusive use meaning recipients may use, distribute, or even charge for access to them within their own systems, but no recipient is granted exclusive rights or privileges over the use of these files.  
+
+Would you be interested in these files when they are ready?
+
+If you would like, I could share the current draft of our project proposal.
+
+Thank you for considering this. 
 
 
 

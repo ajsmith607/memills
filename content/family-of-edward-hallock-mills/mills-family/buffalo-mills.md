@@ -23,7 +23,7 @@ These portraits are typical examples of *Cartes de Visite* or visiting cards, al
 
 CDVs replaced earlier tintypes and daguerreotypes, formats which resulted in unique photographs that could only be copied by photographing the original photograph. CDVs were produced by exposing photographic paper to a glass negative and then mounting the thin paper on a stiff card, and as a result, it was possible to create multiple copies of a single photograph for the first time. The paper medium of CDV's was also much less expensive than the previous media, was easier for the customer to handle, and CDVs created higher quality images and looked more elegant as well, and due to technological advances of the time, exposures could be completed in as little as one second or less in bright light. All of these factors, along with the American Civil War, which caused widespread separation of families, created a sudden increase in demand for photography. CDVs were introduced to America in 1860 and were at peak popularity from 1863 to 1878, gradually displaced by the larger cabinet card format to the point that CDVs had virtually disappeared by 1890.
 
-During this period, a combination of changing photographic standards, styles of mounting cards, as well as changing styles of hair and clothing provide a powerful basis for dating CDVs. What follows are my attempts to identify and date the photographs, primarily relying on the volume *19th Century Card Photos KwikGuide*, Gary W. Clark, 2013, phototree.com (hereafter: KG). I will provide evidence that most, and perhaps all of the photos are from the early to mid 1860’s.  
+During this period, a combination of changing photographic standards, styles of mounting cards, as well as changing styles of hair and clothing provide a powerful basis for dating CDVs. What follows are my attempts to identify and date the photographs, primarily relying on the volume *19th Century Card Photos KwikGuide* by Gary W. Clark, 2013, phototree.com (hereafter: KG). I will provide evidence that most, and perhaps all of the photos are from the early to mid 1860’s.  
 
 As each CDV is examined, keep the following features and their implications in mind:
 
@@ -245,7 +245,7 @@ The man is presumed to be [Daniel J. Baker](https://www.findagrave.com/memorial/
 <p><em>Mines.</em> Placer: Baker Divide; Baltimore; Big Spring $150,000; Dardanelles $2 million+; Excelsior; Florida; Georgia Hill, Yankee Jim and Smiths Point, together $5 million; Grey Eagle; Homestake; Independent, New Jersey and Jenny Lind, together $2,653,000; Mayflower $1 million; Maus; Paragon $2.65 million+; Peckham Hill and Todd Valley, together $5 million; Pond; San Francisco- Small Hope; Yankee Jims. Lode: Dry Hill, Eureka, Cons. International, Mitchell, Three Queens $100,000+. </p>
 </blockquote>
 <figcaption>
-<cite>— Gold Districts of California, by: W.B. Clark, California Department of Conservation, Division of Mines and Geology, Bulletin 193, 1970.</cite>
+<cite>— 1970, W.B. Clark, Gold Districts of California, California Department of Conservation, Division of Mines and Geology, Bulletin 193.</cite>
 </figcaption>
 </figure>
 

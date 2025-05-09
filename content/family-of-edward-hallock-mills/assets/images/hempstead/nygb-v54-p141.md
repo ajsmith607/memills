@@ -15,10 +15,15 @@ notes: >-
     - "'Relict' was an ancient term still used in colonial (British) America, and in England of that era, now archaic, for a widow; it has come to be a generic or collective term for widows and widowers." ([Relict](https://en.wikipedia.org/wiki/Relict), Wikipedia.org.) 
 
 ---
+[1856]
 
 ...April 5. Luther Loper, member, 76 yrs.
 
 ...Aug. 14. Mrs. Hannah Gordon Locke, wife of Dr. John Locke, and Mother of Rev. N. C. Locke, member, 70 yrs.
+
+...1858\.
+
+...June 21. Rev. Zachariah Greene (98 yrs, 5 mos. and 9 days), 98, member.
 
 ...1859\.
 

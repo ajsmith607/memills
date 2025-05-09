@@ -313,15 +313,15 @@ Currently unknown:
 
 Both the Thatchers and the Tompkins families are associated with the towns of Newfield and Catharine, with Edward living in Cayutaville, and a few descendants living in Ithaca.
 
-Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age, country of origin, and the voyage happened within the expected timeframe. As a result, I am also using this document as the source for David's exact birthdate, as prior to seeing this, I only knew the year.
+Hannah's immigration information is based on naturalization documents of her brother David Thatcher from 1839, that are on still on file with the Tompkins County Clerk's Office. I conclude this document identifies Hannah Mills' brother based on the document matching several known data points: first and last name, town of residence, age (based on the year given on his grave stone), country of origin, and the voyage happened within the expected timeframe. Therefore, I am also using this document as the source for David's exact birthdate in this work, for which I don't otherwise have documentation beyond the year on his grave stone.
 
 {{% fig "thatcher/1839-david-thatcher-naturalization-002" /%}}
 {{% fig "thatcher/1839-david-thatcher-naturalization-003" /%}}
 
 Elizabeth Vanderveere appears to be Hannah's sister, based on the following data points:
 
-  - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth. The age and birthplace are consistent with this being Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
-  - The 01 Jun 1865 New York State Census shows Hannah and Charles Eastman living with 36 year old Elizabeth Thatcher, identified as "sister in law" and 75 year old Elizabeth Thatcher identified as "mother in law".
+  - The 16 Oct 1850 United States Federal census shows the Thatcher family in Newfield with a 21 year old woman named Elizabeth Thatcher. The age and birthplace are consistent with this being Thomas and Elizabeth's daughter, and matches the age of Elizabeth Vanderveere.
+  - The 01 Jun 1865 New York State Census shows Hannah and Charles Eastman living with 36 year old Elizabeth Thatcher, identified as "sister in law" and 75 year old Elizabeth Thatcher identified as "mother in law". 
   - The 04 Aug 1870 United States Federal census shows William and Elizabeth Vanderveere living with the widowed Elizabeth (Crosby) Thatcher. Both Elizabeth Thatcher and Elizabeth Vanderveere list England as their birthplace.
   - And obviously, the Vanderveere's are buried in the Thatcher family plot. 
 

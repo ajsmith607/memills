@@ -3,7 +3,7 @@ title: "Jonas Edward Mills"
 weight: 30
 ---
 
-Jonas Edward Mills, born 18 Feb 1852, Staten Island NY, died 13/14 October 1885, Brookton NY. Oldest child of Edward Hallock and Mary Ann Mills. Jonas worked as clerk in E. H. Mills' dry goods store in Mott's Corners/Brookton and he was a member of the High Bridge Lodge # 296 of the Independent Order of Good Templars, a temperance group in Brookton.
+Jonas Edward Mills, born 18 Feb 1852, Staten Island NY, died 13/14 October 1885, Brookton NY. Oldest child of Edward Hallock and Mary Ann Mills. Jonas worked as clerk in E. H. Mills' dry goods store in Mott's Corners/Brookton and he was a member of the High Bridge Lodge #296 of the Independent Order of Good Templars, a temperance group in Brookton.
 
 <!--more-->
 

@@ -4,7 +4,7 @@ weight: 300
 include_toc: true
 ---
 
-[William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868) was also descended from [Timothy Mills of Mills Pond]({{% relref "smithtown" %}}). The Long Island Museum of American Art, History, & Carriages owns many of William Mount's works and the text of this section is taken from the Museum's past exhibitions, reproduced here with permission. 
+[William Sidney Mount](https://www.findagrave.com/memorial/8123/william-sidney-mount) (26 Nov 1807 to 19 Nov 1868), "the originator of American genre painting" was a descendent of [Timothy Mills of Mills Pond]({{% relref "smithtown" %}}). The Long Island Museum of American Art, History, & Carriages owns many of William Mount's works and the text of this section is taken from the Museum's past exhibitions, reproduced here with permission. 
 
 <!--more-->
 

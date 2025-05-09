@@ -3,7 +3,7 @@ title: "Mills' Store in Brookton NY"
 weight: 100
 ---
 
-After moving to Mott's Corners in Mar 1879, Edward restarted his general store on his own, now simply called E. H. Mills, where his surviving children Jonas and Emily clerked. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jessie Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "The Old Post Office".
+After moving to Mott's Corners in Mar 1879, Edward restarted his general store next to the Shurter House, where his surviving children Jonas and Emily clerked. Emily took over the store after Edward's death and operated it under the name M. E. Mills from 1909 until her death in 1937. Soon thereafter, Jessie Brewer took over the store and ran it under her name for a dozen years, primarily as a notions store with a lending library in the back. In 1961, Charles Vorhis purchased the building and moved the post office there from what is presently known as Brookton's Market. The Mills' store structure survives today and is located at 484 Brooktondale Road, better known to current residents as "The Old Post Office".
 
 <!--more-->
 
@@ -129,7 +129,7 @@ It appears George E.'s father George T. Sanders continues to operate the store f
 </figcaption>
 </figure>
 
-A few years later in March 1879, Edward Mills arrives in Mott's Corners and takes over operation of the store shortly thereafter. The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.", and I believe this is likely an early reference to Edward's business, and if true, it would seem to indicate that Edward still had co-owners, possibly still including Charles M. Pine and James A. Hillyer, who were his partners in the {{% pagelink "corfu" "Corfu store" %}}. By the 1890's the store was referenced simply as "E. H. Mills".
+A few years later in March 1879, Edward Mills arrives in Mott's Corners and takes over operation of the store shortly thereafter. The following news item from Mott's Corners, approximately nine months after the Mills family arrived, describes a "firm of Mills & Co.", and I believe this is likely an early reference to Edward's business, and if true, it would seem to indicate that Edward still had co-owners, possibly still including Charles M. Pine and James A. Hillyer, who were his partners in the {{% pagelink "corfu" "Corfu store" %}}. By the 1890's the store was referenced simply as "E. H. Mills", and informally called "Mills' Store". (Charles Pine was financially ruined by his son Alverade in early 1891 and he died in 1897.) 
 
 {{% fig "brookton/1879-12-03-Ithaca-Daily-Journal-Ithaca-NY-p4" "500" /%}}
 

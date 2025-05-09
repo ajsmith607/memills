@@ -11,7 +11,7 @@ media:  ""
 quaddress:  ""
 notes: >-
 
-  - [Lizzie Forbes (Robinson) Smith](https://www.findagrave.com/memorial/102446247/lizzie-forbes-smith) (1873 to 1914), a daughter of Reverend James Richards Robinson.
+  - [Lizzie Forbes (Robinson) Smith](https://www.findagrave.com/memorial/102446247/lizzie-forbes-smith) (25 Oct 1873 to 07 Sep 1914), a daughter of Reverend James Richards Robinson.
 ---
 Mrs. Walter A. Smith
 

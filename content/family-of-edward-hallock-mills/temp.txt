@@ -209,6 +209,33 @@ Finally, while all these events were taking place, Edward Mills, in his capacity
 </figure>
 
 
+----
 
+I have been thinking more about the uphill water pipe, and I am thinking that some reasonable assumptions can be made...
 
+I have done some research into gravity based piping appropriate to the early 1900s, and it does seem that as long as the source is higher than the destination, and the output at the source is sufficient, gravity alone can create enough positive pressure for the flow, and my sense is that it doesn't even necessarily have to be that much higher at the origin for it to work.  
+
+It is further my understanding that a larger pipe with fewer bends results in less friction, and that there is also the positive siphoning effect as water flows. "Continuous flow designs" from that period seem specifically designed to leverage the siphoning effect. There are no mechanical parts, pressure is maintained, with the added benefit that the pressure limits the settling of sediment without the need for filters to prevent blockages.
+
+As part of this research, I started looking at crazy equations, that you are probably quite familiar with, Bernoulli's, Darcy-Weisbach, Hazen-Williams, etc. It looks like the Manning equation would be applicable to the flow rate of the grist mill tailrace. And if I am ever able to verify the exact location of the spring, I might be able to estimate the elevation, and then, estimate the hydrostatic pressure of the spring.
+
+It also seems like upstate NY is known for having robust natural springs, so the output at the source may be signficant. There is presumably a holding tank at the home to create a buffered supply of water, and overflow from the holding tank would require a relatively short length of pipe to exit into Six Mile Creek.
+
+It seems to me to make the most sense for the pipe from the spring to go more or less directly to the road, because:
+  
+  - this minimally impedes the effect of gravity, which means the water will maintain maximum velocity? 
+
+  - a shorter length of pipe results in less friction? 
+
+And further, I assume that it most likely crosses the road immediately, also more or less directly straight across, based on the following reasoning:
+
+  - We know that the pipe crosses the street twice. If it doesn't cross the street on the first run of pipe, an extra bend is required, increasing resistance to the flow of water.
+
+  - I am assuming that generally speaking, you would want the pipe to cross the street perpendicular to the street, even in situations where there might otherwise be advantages to a diagonally running pipe, it seems its unlikely to overcome the tradeoff of disrupting a larger stretch of road for installation and maintenance?
+
+(Unless of course there are other reasons, such as existing infrastructure, obstacles, etc. that force non-optimal solutions.)
+
+How does this all sound to you? Anything I've missed, gotten wrong, etc?
+
+----
 

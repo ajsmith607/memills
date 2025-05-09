@@ -2,7 +2,7 @@
 title: "Mills Pond NY and Mills Genealogy"
 weight: 500 
 ---
-Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town of Smithtown on Long Island, and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them.
+Edward H. Mills' ancestors were early settlers of Edward's birthplace, the Town of Smithtown on Long Island, and to this day the [Mills Pond District](https://en.wikipedia.org/wiki/Mills_Pond_District_(St._James,_New_York)) is named for them. This section explores Mills Pond and the Mills genealogy, including an accounting of the family names mentioned in the deeds for Mills' Home in Brooktondale. 
 
 <!--more-->
 
@@ -129,8 +129,8 @@ Add to these genealogies, Edward's branch to its ultimate conclusion:
 Edward married (1) **Mary Ann (Pine) Mills** (born 08 Feb 1819, Hempstead NY, died 28 Dec 1895, Brookton NY) on 29 Dec 1850. 
 
 Children:
-  - **Jonas Edward Mills** (born 18 Feb 1852, Staten Island NY, 1852, died 14 Oct 1885, Brookton NY).
-  - **Horace Franklin Mills** (born 04 Aug 1854, Staten Island NY, 1854, died 21 Oct 1876, Corfu NY).
+  - **Jonas Edward Mills** (born 18 Feb 1852, Staten Island NY, died 14 Oct 1885, Brookton NY).
+  - **Horace Franklin Mills** (born 04 Aug 1854, Staten Island NY, died 21 Oct 1876, Corfu NY).
   - **James Wheelock Mills** (born 1856?, Staten Island NY, died between 31 July 1857 and 19 Jun 1860, Staten Island NY).
   - **Mary Emily Mills** who went by "Emily" and often signed her name as "M. Emily Mills" (born Dec 1858, Staten Island NY, died 03 Nov 1937, Brooktondale NY).
   
@@ -148,7 +148,7 @@ Notes:
   - Emily's and Hannah's birth dates was well as the birth places for Emily, Jonas and Horace are based on census entries.
   - It appears Edward named his second son after his father, and Emily may get her middle name from Edward's sister who passed over a decade before Emily was born. 
   - More than one source corroborates that Emily Tabitha Mills married John Smith Huntting on 14 Dec 1843.
-  - Further below, I will demonstrate that Edward's brother, listed in each genealogy as "Thomas James Mills" was in fact James Thomas Mills, born 13 Feb 1827. 
+  - Further below, I will demonstrate that Edward's brother, listed in each genealogy as "Thomas James Mills" was in fact James Thomas Mills, born 13 Feb 1827. This is presumably who Edward's son is named after.
 
 Several of the marriages above and below are referenced in the volume *Early marriage records of the Mills family in the United States : official and authoritative records of Mills marriages in the original states and colonies from 1628 to 1865* published in 1916 by William Montgomery Clemens, accessed via ancestry.com:
 
@@ -169,7 +169,7 @@ It is perhaps interesting to note that in *Genealogies of Long Island Families*,
 {{% fig "long-island/A-Documentary-History-Mills-p62" "350" /%}}
 </div>
 
-In other words, William Henry's time in Staten Island, approximately 1855 to 1859, is a period during which Edward Mills' family was known to be living in Staten Island, Edward himself engaged in what might be described as "the mercantile business". In fact, Edward's career was described in a strikingly similar way on 31 Dec 1895, The Daily News, Batavia NY, p1, in Mary Ann Mills' obituary, which describes Edward's move from Corfu to Mott's Corners as him "re-engaging in mercantile pursuits".
+In other words, William Henry's time in Staten Island, approximately 1855 to 1859, is a period during which Edward Mills' family was known to be living in Staten Island, Edward himself engaged in what might be described as "the mercantile business", in the general store of his brother-in-law, Charles M. Pine. In fact, Edward's career was described in a strikingly similar way on 31 Dec 1895, The Daily News, Batavia NY, p1, in Mary Ann Mills' obituary, which describes Edward's move from Corfu to Mott's Corners as him "re-engaging in mercantile pursuits".
 
 
 {{% fig "long-island/1882-02-06-The-New-York-Times-p8" "500" /%}}
@@ -181,7 +181,7 @@ Jonas' obituary, noted that he lived in Hempstead "with the exception of a few y
 
 {{% fig "genealogy/smithtown-presbyterian/158" "800" /%}}
 
-It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it seems that he commonly wrote his name as "J. Thomas Mills", and based on the obituary for his son Watts, this was apparently often shortened to just "Thomas". Also, in some census records, it does appear that his name is written as Thomas J. Otherwise, the only places that give "Thomas" as his first name are the two main Mills genealogies cited as 2 and 3 in the list above, and source 3 likely transcribed this from source 2, as a close examination of the each will show that source 3 itself relies heavily on source 2. That 1827 is James' birth year is corroborated by multiple sources, and suggests his birth may have had something to do with his mother's death a few weeks later. And so, the cited genealogical entries can be updated accordingly:
+It should be noted that **Edward's brother born on 13 Feb 1827 is James Thomas Mills (also written as J. Thomas Mills) NOT Thomas James Mills**. The confusion with the name may arise because it seems that he commonly wrote his name as "J. Thomas Mills", and based on the obituary for his son Watts, this was apparently often shortened to just "Thomas". Also, in some census records, it does appear that his name is recorded as "Thomas J.". Otherwise, the only places that give "Thomas" as his first name are the two main Mills genealogies cited as 2 and 3 in the list above, and source 3 likely transcribed this from source 2, as a close examination of the each will show that source 3 itself relies heavily on source 2. That 1827 is James' birth year is corroborated by multiple sources, and suggests his birth may have had something to do with his mother's death a few weeks later. And so, the cited genealogical entries can be updated accordingly:
 
 - M iii [James Thomas Mills](https://www.findagrave.com/memorial/74905990/james-thomas-mills) was born on 13 Feb 1827 in New York City. He died 22 Apr 1915 in Huntington NY. 
 

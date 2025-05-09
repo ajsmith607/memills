@@ -425,7 +425,11 @@ A final note: in Luther Loper's will of 1856, there is mention of Samuel M. Lope
 
 Mary Ann (Pine) Mills, through her mother Rhoda (Seaman) Pine, is descended from Captain John Seaman, the American progenitor of the Long Island Seaman families and one of the original settlers of Hempstead. 
 
+<figure>
+
 > "Once he signed an agreement or pledged his faith he never disclaimed his share of it."
+
+</figure>
 
 The Seaman family history is summarized in 1928, *The Seaman family in America as descended from Captain John Seaman of Hempstead, Long Island* by Mary Thomas Seaman, archive.org. Selections from this work will be cited simply as "Seaman" below. 
 
@@ -500,6 +504,7 @@ The Town Records of Hempstead, Long Island, state:
 From that time on we find his name in many pages of history, recording a life of ceaseless activity in the establishment of this section of America.
 
 "Once he signed an agreement or pledged his faith he never disclaimed his share of it."
+
 </blockquote>
 <figcaption>
 <cite>— Seaman, p13-15.</cite>

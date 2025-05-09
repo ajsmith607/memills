@@ -2,7 +2,7 @@
 citation: "1895, Souvenir of the 250th Anniversary of Christ's First Presbyterian Church: Hempstead, Long Island, N.Y., October 14, 15, 16, 1894, archive.org."
 notes: >-
 
-    - [Reverend Nathaniel Clark Locke](https://www.findagrave.com/memorial/210515180/nathaniel-c-locke) (1815 to 21 Jul 1862).
+    - [Reverend Nathaniel Clark Locke](https://www.findagrave.com/memorial/210515180/nathaniel-c-locke) (01 Jun 1815 to 21 Jul 1862).
     
     - "...Rev. N. C. Locke, who was pastor from 1850 to '60..." (Ibid. p26) 
 

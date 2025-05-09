@@ -72,7 +72,7 @@ The history and genealogy of the Hallock family in America has been painstakingl
 
 {{% fig "hallock/hallock-genealogy-tabulation-p15b" "800" /%}}
 
-The Hallock name was brought to America by Peter Hallock "The Original", who was a pilgrim fleeing religious persecution. The Hallock name began branching in the third generation, with the four sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
+The Hallock name was brought to America by Peter Hallock "The Original", who was a pilgrim fleeing religious persecution. The Hallock name began branching in the third generation, with the Four Sons of William, the only son of Peter The Original. Like the Mills, the Hallocks reused the same names over and over, especially those of the Four Sons of William. The name "Edward" also appears often in the Hallock genealogy. 
 
 {{% fig "hallock/hallock-genealogy-tabulation-p9" "800" /%}}
 
