@@ -3,7 +3,7 @@ title: "Who was your father?"
 weight: 460
 ---
 
-Edward Hallock Mills and Mary Ann Pine were married on 29 Dec 1850 in Hempstead NY by Reverend Nathaniel Clark Locke of the First Presbyterian Church of Hempstead. Reverend Locke deserves closer examination owing to several intriguing coincidences between his life and the Mills' that may provide context for the Mills' move to Corfu NY.
+Edward Hallock Mills and Mary Ann Pine were married on 29 Dec 1850 in Hempstead NY by Reverend Nathaniel Clark Locke of Christ's First Presbyterian Church of Hempstead. Reverend Locke deserves closer examination owing to several intriguing coincidences between his life and the Mills' that may provide context for the Mills' move to Corfu NY.
 
 <!--more-->
 
