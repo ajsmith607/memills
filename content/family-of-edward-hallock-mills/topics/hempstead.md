@@ -13,6 +13,10 @@ In 1837, when Edward was approximately 18 years old, the Mills family moved to H
 
 {{% fig "1882-02-10-The-Long-Islander-Huntington-NY-p3" "800" /%}}
 
+"J. Mills" is shown on the following map of Hempstead from 1859, and cross-referencing the 1860 census with the names around him confirms that this label indeed identifies Edward Mills' father:
+
+{{% fig "hempstead/locke/maps/route-to-hempstead3" "800" /%}}
+
 <div class="cols">
 {{% fig "long-island/1882-02-06-The-New-York-Times-p8" "350" /%}}
 {{% fig "1897-01-14-The-Sentinel-Hempstead-NY-p2" "350" /%}}
@@ -97,11 +101,11 @@ Interestingly, Reverend Locke is buried in Batavia NY, exactly 13 miles (accordi
 {{% fig "hempstead/1862-08-02-Brooklyn-Times-Brooklyn-ny-p2" "350" /%}}
 </div>
 
+For a broader exploration of Reverend Locke, see the section: {{% pagelink "nclocke" %}}. 
+
 {{% fig "hempstead/nygb-v54-p141" "500" /%}}
 
 Both the Mills and Pines attended Christ's First Presbyterian Church in Hempstead. Many other family names can be found in the Church's records that are either relatives of Mills and Pines or otherwise connected with them, including Seaman, Gildersleeve, Higbie, Weekes (also Weeks), Hawkins, Bedell and Mersereau. It is perhaps relevant that the surname "Watts" is also present and may provide context for understanding Edward's nephew's middle name (which he commonly went by).
-
-{{% fig "hempstead/christs-first-presbyterian" "800" /%}}
 
 <figure>
 <blockquote>
@@ -114,6 +118,23 @@ The history of Christ's First Presbyterian Church is closely identified with the
 </figcaption>
 </figure>
 
+The Church has had several structures over the years, but the longest serving structure was built in 1846 and used until 1969.
+
+{{% fig "hempstead/christs-first-presbyterian" "800" /%}}
+
+Note that in the following photograph, the trees in front of the Church appear to be the same trees at roughly the same growth, as those shown in the Souvenir book photograph, offering clues to when it was taken:
+
+{{% fig "hempstead/nypl.digitalcollections.f6d32270-6173-013c-80c6-0242ac110002.001.w" "800" /%}}
+
+{{% fig "hempstead/nypl.digitalcollections.f6da1410-6173-013c-c2da-0242ac110002.001.w" "800" /%}}
+
+{{% fig "hempstead/presbyterian-church" "800" /%}}
+
+In the following two photos, notice that the both the main entrance and the window configurations on the tower have been structurally changed, which may help date the photographs, as the building was significantly remodeled in 1906:
+
+{{% fig "hempstead/nypl.digitalcollections.647de250-7928-013d-70ba-0242ac110003.001.w" "800" /%}}
+
+{{% fig "hempstead/nypl.digitalcollections.193de3c0-12d6-013c-d782-0242ac110004.001.w" "800" /%}}
 Edward and his half-brother Robert are the only relevant Mills I have found in the Church records, and coverage of the Pine family in the records is also uneven. And unfortunately, Church records only exist from approximately 1805 onward.
 
 <figure>
@@ -133,8 +154,8 @@ The 1895 Souvenir book shows Robert Mills still listed as an active member (p71)
 {{% fig "hempstead/robert-mills-obit" "350" /%}}
 <div>
 <div class="cols">
-{{% fig "hempstead/1912-01-18-The-Brooklyn-Daily-Eagle-ny-p12" "350" "img,link,cite" /%}}
-{{% fig "hempstead/1912-01-26-South-Side-Signal-Babylon-NY-p8" "350" "img,link,cite" /%}}
+{{% fig "hempstead/1912-01-18-The-Brooklyn-Daily-Eagle-ny-p12" "350" "img,blockquote,link,cite" /%}}
+{{% fig "hempstead/1912-01-26-South-Side-Signal-Babylon-NY-p8" "350" "img,blockquote,link,cite" /%}}
 </div>
 
 Note that Robert's birth year is generally given as 1835, although one obituary reports 1834. Robert's middle name is generally spelled with a "y", however it should be noted that the records of Christ's First Presbyterian Church at Hempstead consistently spell it with an "i" which may in fact be correct, as that is the spelling used by relative William Sidney Mount.
@@ -190,8 +211,7 @@ Sarah's age is independently specified in her obituaries as "83 yrs 2 months" an
 
 Elmira also had a niece, [Juliett (Loper) Shepard](https://www.findagrave.com/memorial/36665791/juliet-shepard) (06 Jan 1845 to 02 Apr 1911), who is the daughter of Elmira's brother [Erastus Harvey Loper](https://www.findagrave.com/memorial/33057122/erastus-harvey-loper) (1813 to 1860). Juliett was 20 when the census was taken in 1865, matching the age of "Julia". Her obituaries state that "she was married to Mr. Shepard November 28, 1872", and so would still have the name Loper in 1865.
 
-(As  will be seen, there are variations of the spelling of her name including "Juliet" and "Juliette", but 
-"Juliett" appears to be correct based on surviving letters.)
+(As  will be seen, there are variations of the spelling of her name including "Juliet" and "Juliette", but "Juliett" appears to be correct based on surviving letters.)
 
 However, this may be somewhat obscured by two of Juliett's obituaries, that agree that "her early life was spent in New York City, and following the death of her father in 1860, the family moved to this place [Huntington]." Although, I would point out the vagueness of the relative time reference as well as the phrase "the family". Also note that in the census "Julia" gives her birthplace as Suffolk County, and Farmingdale overlaps the Suffolk County border.
 
@@ -220,7 +240,6 @@ Subsequent to my initial investigation, I have been in contact with Martha Deed,
 </figure>
 
 The transcriptions provided by Martha Deed appear to corroborate that Sarah Bishop Loper lived at the Pine residence in Staten Island during the 1860's (presumably following husband Luther's death in 1856), and that Juliett appears to have also made had a number of visits to the Pine residence in the 1860's and into the early 1870's. 
-
 
 <figure>
 
@@ -263,8 +282,9 @@ The transcriptions provided by Martha Deed appear to corroborate that Sarah Bish
 <figcaption>
 </figure>
 
+More transcriptions of Juliett Loper's letters are available in the Staten Island section: [Milton Loper's Civil War Letters]({{% relref "staten-island/#milton-lopers-civil-war-letters" %}}), and in the section: {{% pagelink "nclocke" %}}, more of Juliett's early life and her presumed visits to her grandparents, Luther and Sarah Loper, in Hempstead, are explored.  
 
-More transcriptions of Juliett Loper's letters are available in the Staten Island section: [Milton Loper's Civil War Letters]({{% relref "staten-island/#milton-lopers-civil-war-letters" %}}). Continued correspondence with Jacqueline Igliozzi, Samuel M. Pine's great-great-great granddaughter, has also corroborated details in the following genealogy.
+Continued correspondence with Jacqueline Igliozzi, Samuel M. Pine's great-great-great granddaughter, has also corroborated details in the following genealogy.
 
 I now present the true genealogical data for this section of the Pine family tree, which I will show documentary evidence for further below, starting with Charles' and Mary Ann's grandparents:
 
@@ -284,22 +304,22 @@ Read more about the Seaman family in the section on [Captain John Seaman]({{% re
 
 And Nicholas and Rhoda's children are:
 
-  - **Lois Almy (Pine) Snedeker** (1805? to 07 Nov 1890) married William Snedeker (sometimes spelled "Snediker") in 1831 in South Hempstead. Their children include [Livingston Snedeker](https://www.findagrave.com/memorial/180916294/livingston-snedeker) (May 1836 to 10 Aug 1906). William was also involved in the dry goods business in Manhattan, and later, in Staten Island, where he moved the family. More can be learned about them in [that section]({{% relref "staten-island" %}}).
+  - **Lois Almy (Pine) Snedeker** (1805? to 07 Nov 1890) married William Snedeker (sometimes spelled "Snediker") in 1831 in (South) Hempstead. Their children include [Livingston Snedeker](https://www.findagrave.com/memorial/180916294/livingston-snedeker) (May 1836 to 10 Aug 1906). William was also involved in the dry goods business in Manhattan, and later, in Staten Island, where he moved the family. More can be learned about them in [that section]({{% relref "staten-island" %}}).
 
 <div class="cols">
 {{% fig "hempstead/NY-gbr-p392" "350" /%}}
 {{% fig "hempstead/NY-gbr-p248" "350" /%}}
 </div>
 
-  - **[Abigail "Abby" Seaman (Pine) Higbie](https://www.findagrave.com/memorial/108830062/abby-s-higby)** (15 Feb 1805 to 05 May 1877), spelled "Abby" in the Church records and on her tombstone, but "Abbey" is also used. Both Emily and Edward Mills appear to be mentioned in the Last Will and Testament of Abby's husband Henry Higbie (? to 30 Oct 1881), dated 21 Oct 1881. In the 1850 United States Federal Census in Hempstead, Henry is listed as a farmer. Abby and Henry were married in 1852 in South Hempstead.
+  - **[Abigail "Abby" Seaman (Pine) Higbie](https://www.findagrave.com/memorial/108830062/abby-s-higby)** (15 Feb 1805 to 05 May 1877), spelled "Abby" in the Church records and on her tombstone, but "Abbey" is also used. Both Emily and Edward Mills appear to be mentioned in the Last Will and Testament of Abby's husband Henry Higbie (? to 30 Oct 1881), dated 21 Oct 1881. In the 1850 United States Federal Census in Hempstead, Henry is listed as a farmer, and the records of Christ's First Presbyterian Church in Hempstead list him as an Elder. Abby and Henry were married in 1852 in (South) Hempstead by Reverend Nathaniel C. Locke.
 
 {{% fig "hempstead/NY-gbr-p388" "500" /%}}
 
   - **[Jerusha Pine](https://www.findagrave.com/memorial/108830285/jerusha-pine)** (? to 31 Aug 1860) presumably named for her grandmother Jerusha (Mills) Pine listed above.
 
-  - **[Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine)** (1812 to 08 Oct 1897), approximately 16 years old when his father died. Professionally, Charles went by "Charles M. Pine" or "C. M. Pine". At least two independent sources confirm that Charles' middle name is "Mills". Read more about Charles' life and family in the [Staten Island]({{% relref "staten-island" %}}) section. 
+  - **[Charles Mills Pine](https://www.findagrave.com/memorial/199952123/charles-m-pine)** (1812 to 08 Oct 1897), approximately 16 years old when his father died. Professionally, Charles went by "Charles M. Pine" or "C. M. Pine". At least two independent sources confirm that Charles' middle name is "Mills". Read more about Charles' life and family in the [Staten Island]({{% relref "staten-island" %}}) section. At least as late as 1849, as Charles was establishing his Staten Island store, he was an Elder in Christ's First Presbyterian Church in Hempstead. (1895, Souvenir of the 250th Anniversary of Christ’s First Presbyterian Church: Hempstead, Long Island, N.Y., October 14, 15, 16, 1894, p34, archive.org.)
 
-  - **[Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine)** (26 Nov 1814 to 14 Mar 1880), 13 years old when his father died. "His middle name 'Mills' is in honor of his paternal grandmother, Jerusha Mills (married to Rheuben Pine)." (11 Nov 2023, Jacqueline Igliozzi, personal correspondence.) Samuel was a carriage maker.
+  - **[Samuel Mills Pine](https://www.findagrave.com/memorial/180274612/samuel-mills-pine)** (26 Nov 1814 to 14 Mar 1880), 13 years old when his father died. "His middle name 'Mills' is in honor of his paternal grandmother, Jerusha Mills (married to Rheuben Pine)." (11 Nov 2023, Jacqueline Igliozzi, personal correspondence.) Samuel was a carriage maker, and for a time, he was the Superintendent of the Sunday School at Christ's First Presbyterian Church in Hempstead. (1895, Souvenir of the 250th Anniversary of Christ’s First Presbyterian Church: Hempstead, Long Island, N.Y., October 14, 15, 16, 1894, p59, archive.org.)
 
 {{% fig "hempstead/NY-gbr-p251" "500" /%}}
 
@@ -337,8 +357,6 @@ According to [Samuel Mills Pine's](https://www.findagrave.com/memorial/180274612
 Son of Nicholas Ludlow Pine and Rhoda Seaman, husband of Frances Gildersleeve and father of Frances Gertrude, Albert "Burt", Mary Elizabeth, Lois Alma, and Nicholas Ludlow Pine.
 </blockquote>
 </figure>
-
-
 
 When Edward Mills married Hannah, an announcement in the Hempstead Sentinel states that Edward is "brother-in-law of the late Samuel M. Pine".
 

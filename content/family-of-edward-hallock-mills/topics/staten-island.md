@@ -264,6 +264,7 @@ Charles M. Pine was a prominent and prolific business man who was a central figu
 {{% fig "pine/cm-pine-signature-on-luther-loper-will" "350" /%}}
 </div>
 
+
 Charles M. Pine continued his grocery career in Staten Island starting in 1848, and the Beers map (explored further below) confirms what other histories describe, that there are two stores associated with Charles Pine: C. M. Pine & Co. on Barker Street, east of Factory Lake, as well as his primary place of business, the location next to his residence that was known earlier as Pine, Hillyer & Co. and later as C. M. Pine & Son. Presumably, Edward Mills worked for Charles at least some of the time that he lived in Staten Island, and it seems likely Edward moved to Castleton because of Charles. Edward may have worked at either or both locations.
 
  <figure>
@@ -310,6 +311,8 @@ Today, the Episcopal Church of St. Andrew is an active faith community. The curr
 </cite>
 </figcaption>
 </figure>
+
+Note that there are also Mersereaus living in {{% pagelink "hempstead" "Hempstead" %}} at the same time as the Pines and Mills. 
 
 <figure>
 <blockquote>
@@ -886,7 +889,7 @@ Milton mentions Theodore's hospital stay, and as already discussed above, it was
 
 {{% fig "staten-island/martha-deed/theodore-portrait-comparison" "800" /%}}
 
-Milton Loper's letters to Juliett as well as other family letters referencing Staten Island make it clear what the census records suggest: that in addition to boarders that commonly included employees of Pine, Hillyer & Co., the residence of Charles M. and Elmira Pine in West New Brighton was visited often by close and extended family members, and Juliett and Milton write about meeting at Staten Island with a mixture of warmth and excitement that is palpable. And the nieces and nephews seemed to regard Elmira with especial affection, as they always refer to her as "Auntie Pine", as compared to "Aunt Mary (Smith)" for example.
+Milton Loper's letters to Juliett as well as other family letters referencing Staten Island make it clear what the census records suggest: that in addition to boarders that commonly included employees of Pine, Hillyer & Co., the residence of Charles M. and Elmira Pine in West New Brighton was visited often by close and extended family members, and Juliett and Milton write about meeting at Staten Island with warmth and excitement. And the nieces and nephews seemed to regard Elmira with especial affection, as they always refer to her as "Auntie Pine", as compared to "Aunt Mary (Smith)" for example.
 
 Contrasted with Rogers' eventual position as hospital steward, Milton describes long days battling on the front lines, at times ending in retreat. Fortunately, Milton survived the battlefield, and as his regiment was mustering out at the end of the war, he wrote his last two letters to Juliett "from the South" in which he expresses his longing to see her in Staten Island.
 

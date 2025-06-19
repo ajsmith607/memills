@@ -127,7 +127,6 @@ Finally, Samuel J. Wood Library at Weill Cornell Medicine has records starting f
 
 (The Staten Island “country branch” of the hospital didn’t open until 1869.)
 
-For now, little James is lost, but at least he is no longer forgotten.
 
 ## Exploring "Wheelock"
 
@@ -191,7 +190,9 @@ Similarly, many variations of the family name "Hallock" are known and were even 
 
 For a fuller treatment of these Hallock spelling variations, read [this section]({{% relref "hallock#alternate-spellings-of-hallock" %}}) and consider the possibility that Wheelock is a perhaps previously unknown "diatonic" of Hallock.
 
-The name "James" itself lends weight to the theory that "Hallock" was mis-recorded as "Wheelock", as James is a common name in the Hallock genealogy, found there to a much greater degree than in the other immediately related genealogies, such as Mills or Pine. Edward's son James may have been named after Edward's brother James, or, either or both may have been named for Edward's great-grandfather, [James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 to 27 Sep 1775). Further testament to the popularity of the name James in the Hallock family is [James Hallock](https://www.findagrave.com/memorial/97675935/james-henry-hallock), a distant relative of Edward Mills, who lived in Slaterville for many years while Edward was living in Brookton. James is the son of William B. Hallock, who is explored further in the [Hallocks in Caroline]({{% relref "hallock"   %}}) section.
+The name "James" itself may lend weight to the theory that "Hallock" was mis-recorded as "Wheelock", as James is a common name in the Hallock genealogy.  Edward's son James may have been named after Edward's brother James, or, either or both may have been named for Edward's great-grandfather, [James Hallock](https://www.findagrave.com/memorial/240647109/james-hallock) (1731 to 27 Sep 1775). Further testament to the popularity of the name James in the Hallock family is [James Hallock](https://www.findagrave.com/memorial/97675935/james-henry-hallock), a distant relative of Edward Mills, who lived in Slaterville for many years while Edward was living in Brookton. James is the son of William B. Hallock, who is explored further in the section: {{% pagelink "hallock" %}}. 
+
+The name James is also found in the Pine genealogy, including an early settler of Hempstead, as well as [James Pine](https://www.findagrave.com/memorial/141050704/james-pine) (Nov 1767 to 20 Dec 1847) who was an elder in Christ's First Presbyterian Church. (This appears to be the "Elder Pine" referenced in the 250th Anniversary Souvenir book.)
 
 Assuming the name "Wheelock" is correct as written, as the evidence indicates, why was Wheelock chosen? My initial expectation was that the distinctiveness of the Wheelock name would make it easier to find the answer. Presumably he is named for someone, a tradition that was followed to an extreme by the Mills, who tended to re-use a small pool of names repeatedly, and usually the names of those very close to them, yet I cannot find the name in the available genealogical data for the Mills, Pine, Hallock, Seaman and Hawkins families. The inverse is also true: a search of *The Wheelock family in America, 1637-1969* compiled by Walter T. Wheelock (familysearch.org), reveals one reference to an unrelated Mills family in Hartford CT, and no references whatsoever to the names Pine, Hallock or Seaman. 
 
